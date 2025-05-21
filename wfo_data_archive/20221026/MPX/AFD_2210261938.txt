@@ -1,0 +1,89 @@
+182 
+FXUS63 KMPX 261938
+AFDMPX
+
+Area Forecast Discussion
+National Weather Service Twin Cities/Chanhassen MN
+238 PM CDT Wed Oct 26 2022
+
+.DISCUSSION...(This evening through Wednesday)
+Issued at 229 PM CDT Wed Oct 26 2022
+
+Key Messages:
+
+- Chance for showers in western Minnesota tomorrow morning, weakening
+  by the middle of the day. Cloudy for much of the area tomorrow.
+
+- Quiet and dry weather return after Thursday and continue through
+  the weekend, with above normal temperatures through at least the
+  middle of next week.
+
+Tonight and Thursday...
+Now that a few of the CAMs have begun to resolve the precipitation
+potential for western Minnesota tomorrow, the signal for rainfall is
+a bit stronger than 24 hours ago. The HRRR has a decent amount of
+scattered showers making it as far east as the western Twin Cities
+Metro around sunrise tomorrow, with stronger showers mainly confined
+to southwestern Minnesota. These showers will form along the nose of
+a weak low level jet, with low to mid level moisture and WAA
+resulting in the showers. As we head into daylight, this jet will
+weaken and cut off both the lift and moisture, thus the showers
+should dissipate fairly quickly once we reach the middle of the day
+and afternoon. For those that do not see rain, we will end up being
+cloudier than it has been over the past few days and cloudier than it
+will be as we head into the weekend, with clearing gradually through
+late Thursday into Friday.
+
+Friday through Wednesday...
+Upper level flow returns to primarily zonal over our coverage area,
+with a cut off system remaining far to our south and primarily
+affecting the southernmost states. This likely will keep any further
+precipitation chances through the period to a minimum, with weak
+surface high pressure lingering in the northern plains as we remain
+moisture starved. Temperatures under this scheme will remain above
+normal in the mid 50s to low 60s for highs compared to normals around
+50 this late in October. It is looking to be a great day for
+Halloween on Monday, with high temperatures in the upper 50s to mid
+60s under mostly sunny skies which will linger into the evening. Our
+nights will continue remain above freezing, dropping into the upper
+30s to low 40s. Precipitation chances will remain absent with a lack
+of both forcing and moisture, however this could change as we head
+towards the end of next week. A few long-range models and ensembles
+are beginning to show potential for a pattern shift, with a more
+active upper level pattern aiding in guiding a more dynamic surface
+regime to the area. This is still in the 200-240 hour time frame and
+thus heavily subject to change.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1213 PM CDT Wed Oct 26 2022
+
+Another mostly quiet TAF period coming up as low clouds over western
+WI will continue to scatter out as we head into the afternoon. Winds
+fairly light at 300-330 right now will slowly shift towards 240-270
+by this evening, with speeds weakening at or below 3kts. A final
+shift to 140-170 will arrive early in the morning on Thursday, with
+speeds remaining light. CIGS return by the last 8 hours of the
+period, remaining VFR and generally above 060.
+
+KMSP...No additional concerns. The gradual wind shift tonight is the
+only minor concern.
+
+/OUTLOOK FOR KMSP/
+THU...VFR. Wind SE 5-10kts.
+FRI...VFR. Wind SW 10kts.
+SAT...VFR. Wind S 5-10kts.
+
+&&
+
+.MPX WATCHES/WARNINGS/ADVISORIES...
+MN...None.
+WI...None.
+&&
+
+$$
+
+DISCUSSION...TDH
+AVIATION...TDH
+

@@ -1,0 +1,150 @@
+589 
+FXUS62 KMHX 261848
+AFDMHX
+
+Area Forecast Discussion
+National Weather Service Newport/Morehead City NC
+248 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A weak cold front with limited moisture will cross the area 
+late tonight. High pressure builds in from the west again late 
+week into the weekend. The next storm system will arrive early 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As of 230 PM Wed...Brief WAA will continue through this evening
+ahead of a cold front. Clearing skies have allowed for a quick
+warm up, with several spots reaching the mid to upper 70s, 
+while upper 60s and low 70s remain across NE NC where cloud 
+cover has been slower to dissipate.
+
+Unfortunately increasing cloud cover is expected later this
+afternoon and evening as the cold front pushes into the coastal
+plain. Though there is limited moisture with this front, some
+scattered showers can be expected as the front crosses the
+region moving from west to east this evening/early tonight.
+Behind the front, CAA will bring much cooler and drier air into
+the area, with temps dropping into the mid to upper 50s 
+overnight inland. Along the coast, low clouds will likely 
+remain into tomorrow morning, keeping temps in the low to mid 
+60s.
+
+&&
+
+.SHORT TERM /THURSDAY/...
+As of 230 PM Wed...The cold front will stall off the NC coast
+tomorrow, while high pressure builds in from the the northwest.
+Cooler conditions are expected as low level heights fall, with
+highs expected mostly in the upper 60s to low 70s. Expect cloudy
+skies to persist through most of the day along the coast, with
+the front just offshore, while partly to mostly sunny skies 
+develop inland and over the coastal plain.
+
+An increasing pressure gradient between the high building in 
+and the front offshore will also lead to strengthening winds 
+across the area, which will be strongest along the coast where 
+winds could gust to 20-30 mph.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH WEDNESDAY/...
+As of 230 PM Wednesday...Strong ridge of high pressure to our 
+north will interact with a broad offshore low that will remain 
+relatively stationary through the weekend. This will tighten the
+pressure gradient even more and increase windy N-NE'rly 
+conditions along the OBX and coastal areas Friday into Saturday.
+Guidance also showing persistent onshore NErly flow will result
+in increasing cloud coverage Friday with a chc for some light 
+drizzle or showers along the coast through Saturday. Continued 
+tweaks will be possible in the coming days depending on forecast
+trends. Cooler temps are forecast on Friday and Saturday as 
+well with aftn high temps in the upper 60s both days. Could 
+start seeing high pressure shift north and east on Sunday as 
+another low pressure system across the south central US inches 
+towards the southern MS River Valley. Still expecting a mostly 
+dry day Sunday at the moment, but precip chances will begin to 
+inc Sunday night and into Monday once high pressure retreats 
+northward with one low pressure system moving north across 
+Appalachia and the second low meandering off the Southeast 
+coastline. Precip chances linger into Tuesday before both 
+systems eventually push out of the region sometime late Tue into
+Tue night.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+SHORT TERM /through Thursday Afternoon/...
+As of 230 PM Wed...VFR conditions have returned to the area as 
+skies continue to clear early this afternoon. However this is 
+not expected to last long as a cold front moves into the area 
+this evening and passes through overnight. MVFR level ceilings 
+are expected to develop along and ahead of the front this 
+evening from west to east, and persist into the overnight hours.
+By early tomorrow morning VFR conditions should return over the
+coastal plain as dry air moves in, however MVFR conditions may 
+linger along the coast for much of tomorrow morning, including 
+KEWN.
+
+LONG TERM /Thursday Night through Monday/...
+As of 230 PM Wednesday...High pressure builds in behind the 
+front Thu N through Sat with VFR conditions prevailing. Gusty 
+NNE winds 20-30 kts will impact the OBX airspace beginning Thu 
+and into Sat night before beginning to diminish Sun.
+
+&&
+
+.MARINE...
+SHORT TERM /through Tomorrow/...
+As of 230 PM Wed...Small craft advisories are in place to go
+into effect tomorrow morning behind a cold front for all zones
+except the Pamlico and Pungo Rivers.
+
+Ahead of this front winds have become SSW 5-15 kts, while seas 
+remain 2-4 ft. Early tomorrow morning as the front crosses the
+coastal waters, winds will turn to the N and increase to 15-25
+kts, while seas increase to 5-7 ft. Winds will continue to
+increase the rest of tomorrow as the pressure gradient 
+strengthens between the front stalling offshore and high 
+pressure building in from the northwest. Expect winds to be NNE 
+25-30 kts with gusts 30-35 kts by late tomorrow, with seas 
+increasing to 6-8 ft.
+
+LONG TERM /Thursday Night through Monday/...
+As of 230 PM Wednesday...SCA continue for coastal waters and 
+major rivers & sounds through most of the weekend. Winds could 
+relax slightly Thu night before ramping up again on Friday as an
+offshore low keeps a tight pressure gradient against high 
+pressure across the area, maintaining SCA criteria Friday and 
+into Saturday. Seas will steadily build to 5-7 ft Friday and 5-9
+ft by Saturday. Winds begin to ramp down late Sat night into 
+Sunday, diminishing to 15-20 kts by Sunday night, though seas 
+will be slower to respond, remaining at 4-8 ft late Sunday.
+
+&&
+
+.MHX WATCHES/WARNINGS/ADVISORIES...
+NC...None.
+MARINE...Small Craft Advisory from 7 AM Thursday to 3 AM EDT Sunday for 
+     AMZ131-230-231.
+     Small Craft Advisory from 7 AM Thursday to 8 AM EDT Sunday for 
+     AMZ135.
+     Small Craft Advisory from 5 PM Thursday to 2 AM EDT Saturday 
+     for AMZ137.
+     Small Craft Advisory from 5 AM Thursday to 2 PM EDT Sunday for 
+     AMZ150.
+     Small Craft Advisory from 7 AM Thursday to 2 PM EDT Sunday for 
+     AMZ152-154-156-158.
+
+&&
+
+$$
+SYNOPSIS...MHX
+NEAR TERM...SGK
+SHORT TERM...SGK
+LONG TERM...ML
+AVIATION...SGK/ML
+MARINE...SGK/ML
+

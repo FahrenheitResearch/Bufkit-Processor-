@@ -1,0 +1,163 @@
+972 
+FXUS64 KAMA 260848
+AFDAMA
+
+Area Forecast Discussion
+National Weather Service Amarillo TX
+348 AM CDT Wed Oct 26 2022
+
+...New SHORT TERM, LONG TERM...
+
+.SHORT TERM...
+(Today through Friday night) 
+Issued at 202 AM CDT Wed Oct 26 2022
+
+Synopsis: Today will see mostly clear skies with highs around 65
+to 70 degrees across the area. Southerly winds will become breezy
+for a few hours this afternoon with gusts around 30 to 40 mph. The
+next period of unsettled weather starts tomorrow as rain chances
+increase through the day, peaking tomorrow night, then gradually
+decreasing Friday. The southeast Texas Panhandle has the best
+chances overall with decent probabilities for over half an inch by
+Friday. This system also brings with it a possibility for severe
+thunderstorms mainly Thursday evening between 7 PM and 12 AM.
+Large hail seems like the most likely hazard, but damaging winds
+can't be ruled out early in the evening. 
+
+Details: The latest water vapor imagery depicts a sharp trough 
+digging southeast across the Pacific Northwest coast. A lead wave
+is moving through southern NV up into UT. At the surface, 
+southerly winds have been on the light side as a weak surface 
+trough/low is maintained over southeast CO. Temperatures as of 
+0700z were in the upper 30s to upper 40s. As the 500mb zonal 
+winds ramp up this afternoon in response to approaching lead wave,
+lee troughing will deepen at the surface setting up a tight 
+pressure gradient across the area. This will promote some breezy 
+conditions for a few hours this afternoon with southerly winds. 
+The fact that there is not much of a downslope component to the 
+winds should keep temperatures topping out around 70. 
+
+Tomorrow the main system from Pacific Northwest will dive south, 
+ending up just north of the Four Corners by 12z Thursday (good 
+agreement here in models/ensembles). A surface low will begin to 
+form near the western combined Panhandles with southerly winds 
+across the eastern half, a cold front in CO/KS, and westerly or 
+southwesterly winds across the southwest Panhandles. Some mid
+level PVA will be moving into the northwest zones which could 
+spark some showers near the surface low early Thursday. However, 
+low level moisture will be lacking until late Thursday when a 
+narrow tongue of "just in time" gulf moisture is progged to 
+arrive in the southeast and perhaps southern Texas Panhandle 
+(along the east side of the surface low). The latest 26/00z HREF 
+DESI shows almost a 60 percent chance for the dew point to reach 
+45 degrees in the southeast by 00z Friday, and a 15% chance as 
+far northwest as AMA. This quadrant of the low will also feature 
+modest southeast surface winds and some semblance of a low level 
+jet to aid in lift and theta-E advection going into the evening. 
+Meanwhile, the 500mb low is progged to strengthen as it dives 
+south. The latest models and ensemble guidance are in good 
+agreement showing a ~560 dam closed low over southeast NM by 06z 
+Friday. This will bring cold 500mb temperatures of around -18 to 
+-20 C across the Panhandles between 00z and 06z, and where this 
+overlaps the tongue of moisture east of the surface low is where a
+potential severe weather threat could materialize. 
+
+While there are model differences with the low level moisture 
+field in terms of magnitude, the placement of the surface 
+features are very similar. Since the NAM has been handling the 
+most recent systems well (as far as moisture profiles go), it and 
+the NAMNest are being leaned on here a bit more than the other 
+models (due to known biases). The NAMNest shows a healthy area of 
+storm activity developing in the southern half of the Texas 
+Panhandle Thursday evening, and moving into an environment with 
+mostly elevated CAPE (around 1200 to 1500 J/kg MUCAPE) and modest 
+shear of 40 to 50 knots. This could certainly support some 
+supercell activity before growing upscale into a broken line. 
+Again, this is a "just in time" moisture type of situation, so 
+there is potential for the moisture to not make it far enough 
+north to support the higher CAPE values. Will need to watch the 
+12z HREF DESI probs coming in later to see how things trend 
+(especially considering the main system will be sampled better 
+later this morning). The good news is that the NBM POE values show
+70% plus for 0.25" QPF across the southeast Texas Panhandle with 
+at least a 40% chance for areas as far west as Amarillo to Guymon.
+The west is where probabilities really drop off due to lower 
+moisture values. Showers should end from north to south Friday, 
+with some lingering wrap around in the southeast into friday 
+afternoon (hence the higher POE values). A cold front will move 
+through behind the surface low Thursday night. It does not appear 
+cold enough for winter precipitation on back side of system, but 
+there are still a few ECS ensemble members producing snow so we 
+can't write it off completely early Friday morning. Expect 
+temperatures to be much cooler Thursday and Friday, with possible 
+freeze conditions Friday night for portions of the area. 
+
+Ward
+
+&&
+
+.LONG TERM...
+(Saturday through Tuesday) 
+Issued at 202 AM CDT Wed Oct 26 2022
+
+The long term is looking quiet as weak zonal flow takes over in
+wake of Thurs/Fri system. This is due to the flow becoming split
+with progressive flow across Canada and the northern plains and 
+a weak trough crossing the Baja area into Mexico early next week.
+The weak zonal flow over the area will promote warming 
+temperatures (staying around normal) and mostly dry conditions. 
+The next system of interest starts showing up in the ensemble 
+means in the first few days of Nov. Things could get interesting 
+then if models continue the trend of large deep strong trough 
+across the intermountain west. Will be something to watch.
+
+Ward
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1247 AM CDT Wed Oct 26 2022
+
+VFR conditions are expected to persist through the period. A few
+high clouds may sneak into the northern Panhandles (near KGUY and
+KDHT) this evening. Southerly winds will become gusty this
+afternoon, with a few gusts around 30 knots possible before
+sunset (especially at KGUY). After sunset the gusts should drop
+off, but a low level jet will strengthen and could bring some
+low level shear concern towards the very end of this cycle (again
+favoring KGUY). 
+
+Ward
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Amarillo TX                67  43  65  41 /   0   0  20  50 
+Beaver OK                  69  43  65  40 /   0   0  40  50 
+Boise City OK              65  35  57  33 /   0   0  50  30 
+Borger TX                  70  47  68  44 /   0   0  30  50 
+Boys Ranch TX              70  42  65  40 /   0   0  30  40 
+Canyon TX                  69  41  67  40 /   0   0  20  40 
+Clarendon TX               67  44  68  45 /   0   0  20  60 
+Dalhart TX                 66  37  59  35 /   0   0  40  30 
+Guymon OK                  69  41  63  39 /   0   0  40  40 
+Hereford TX                70  41  67  40 /   0   0  20  40 
+Lipscomb TX                68  44  67  42 /   0   0  30  60 
+Pampa TX                   67  44  65  43 /   0   0  20  50 
+Shamrock TX                67  44  69  45 /   0   0  20  60 
+Wellington TX              69  44  71  46 /   0   0  20  60 
+
+&&
+
+.AMA WATCHES/WARNINGS/ADVISORIES...
+TX...None.
+OK...None.
+&&
+
+$$
+
+SHORT TERM...07
+LONG TERM....07
+AVIATION...07
+

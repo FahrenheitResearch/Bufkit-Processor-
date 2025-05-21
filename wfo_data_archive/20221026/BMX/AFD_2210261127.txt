@@ -1,0 +1,138 @@
+399 
+FXUS64 KBMX 261127
+AFDBMX
+
+Area Forecast Discussion
+National Weather Service Birmingham AL
+627 AM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(Today through Thursday)
+Issued at 244 AM CDT WED OCT 26 2022
+
+The cold front has just cleared the very last bit of our far 
+southeastern county. Behind it clear skies are the rule south of the 
+I-20 corridor. Further north an upper low is beginning to slide into 
+the area. Look for an increase in low level clouds through mid-
+morning across the north, with generally sunny skies in the south. 
+Highs will be in the middle 60s to low 70s. There could some 
+scattered clouds again late tonight into Thursday morning across the 
+north once again, but this would be due to a wedge of moisture 
+moving in from the east as high pressure builds in to our our north 
+and increases the easterly flow. On Thursday we will see generally 
+sunny skies. Some cirrus may work in across the north late 
+afternoon, but should have limited impacts to the temperatures. 
+Highs will be in the upper 60s to middle 70s.
+
+16
+
+&&
+
+.LONG TERM...
+(Thursday night through Tuesday)
+Issued at 331 AM CDT WED OCT 26 2022
+
+The next southern stream trough in this progressive split flow
+pattern will reach the Southern High Plains Thursday night, with a
+slow-moving closed upper low forming over Texas by Friday. High
+clouds will begin to stream northeastwards across Central Alabama
+starting on Friday. At the surface a 1035mb high will move into
+New England with a CAD wedge building down the lee of the
+Appalachians, resulting in breezy easterly winds across Central
+Alabama. High temperatures Friday will be dependent on the
+strength of the wedge as well as cloudcover. The center of the
+upper low reaches the ArkLaTex by Saturday while a weak surface
+low begins to develop over Louisiana and various waves in 
+southwest flow aloft move towards Central Alabama. Strengthening
+and moistening southwest flow aloft and a veering wind profile
+will result in moist isentropic lift, starting off aloft 
+initially and then lowering. 
+
+There are still some model/ensemble differences regarding how 
+quickly precipitation starts. These differences now appear to be 
+less regarding the placement of the upper low, but possibly 
+related to the impacts of a potential eastward moving MCS near the
+Louisiana Gulf Coast and what impacts that has the on the 
+moisture and wind fields inland. But in general expect rain 
+chances to increase from the southwest Saturday morning into 
+Saturday evening. Rainfall will be light initially, becoming more 
+moderate in intensity Saturday night as PWATs increase to around 
+1.5 inches. There is some model variability on rainfall amounts, 
+potentially due to the impacts of coastal convection, resulting in
+potential QPF solutions ranging from less than an a half inch to 
+1-2 inches of beneficial rainfall. There will be some weak 
+elevated MUCAPE Saturday night across some the western and 
+southern counties resulting in a few rumbles of thunder. Breezy 
+easterly winds continue due to the gradient between low pressure 
+lifting northward over the ArkLaMiss and the wedge high to the 
+east, but winds/wind gusts should remain below advisory criteria.
+
+Rain continues into Sunday, decreasing from to southwest to
+northeast as a mid-level dry slot moves in. A warm front will also
+be lifting northeastward through the area Sunday morning, but
+easterly flow should have a tendency to pinch off the warm sector
+making the front more occluded. Some low to mid 60s dew points 
+could lift northward into our southeast counties allowing some 
+surface-based instability to develop. However, 0-6km bulk shear 
+values are only around 30 kts, higher low-level shear remains on 
+the cool side of the front, and upper support will be lifting 
+north of the area. So severe storms are not expected at this time.
+Despite the mid-level dry slot, wraparound low-level moisture 
+lingers Sunday night which may result in some continued areas of 
+light rain or drizzle. Weak troughing remains over the area Monday
+and Tuesday. Some guidance indicates enough moisture for some 
+light rain at times, but confidence is too low to mention PoPs 
+except in the far northeast on Monday. 
+
+32/Davis
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 625 AM CDT WED OCT 26 2022
+
+Wrap around low clouds will remain possible in the north through the
+morning, but should be just north of the TAF sites after 18z. 
+Winds will be out of the northwest around 10 kts this afternoon.
+Calming to less than 5 kts after 2 to 4z.
+
+16
+
+&&
+
+.FIRE WEATHER...
+
+Drier conditions return for the rest of the week, but with 
+minimum RH values above critical thresholds. RH values could drop
+to near 40 percent in spots on Thursday. 20ft winds swing around 
+from the northwest today to the northeast Thursday and the east 
+on Friday, remaining less than 10 mph. Rain returns 
+Saturday/Saturday night with an increase in winds.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Gadsden     65  42  72  46 /   0   0   0   0 
+Anniston    65  43  74  49 /   0   0   0   0 
+Birmingham  65  45  72  51 /   0   0   0   0 
+Tuscaloosa  67  45  72  50 /   0   0   0   0 
+Calera      66  46  72  49 /   0   0   0   0 
+Auburn      68  46  72  52 /   0   0   0   0 
+Montgomery  70  44  75  50 /   0   0   0   0 
+Troy        70  44  75  50 /   0   0   0   0 
+
+&&
+
+.BMX WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...16
+LONG TERM....32
+AVIATION...16
+

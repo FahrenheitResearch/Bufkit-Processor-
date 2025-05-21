@@ -1,0 +1,97 @@
+189 
+FXUS63 KILX 261042
+AFDILX
+
+Area Forecast Discussion
+National Weather Service Lincoln IL
+542 AM CDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Issued at 323 AM CDT Wed Oct 26 2022
+
+Lingering showers east of I-55 will taper off early this morning,
+and will be replaced by clearing skies as high pressure moves 
+into the area from the west. Winds from the northwest will gust up
+to 30 mph this morning, and slowly taper off this afternoon. Dry 
+weather, seasonably cool temperatures, and less wind will continue
+through at least Saturday.
+
+&&
+
+.SHORT TERM...(Today and tonight)
+ISSUED AT 323 AM CDT Wed Oct 26 2022
+
+Outgoing low pressure and associated forcing due to frontogenesis 
+behind the system will give way to high pressure moving in from the 
+west today. As a result, bands of showers east of I-55 will 
+gradually dissipate from west to east early this morning, with 
+clear skies arriving. Additional precipitation amounts should be 
+fairly inconsequential, with only a tenth or two possible, mainly
+east of I-55. A stiff pressure gradient across the area between 
+the two pressure features, along with strong northwest winds 
+aloft, should result in some brisk winds this morning, although 
+momentum transfer to the surface could be limited by shallow 
+mixing heights struggling to reach the 925 mb layer. Model 
+consensus suggests sustained winds as highs as 15-20 mph range and
+gusts around 30 mph to start the day, tapering off to light and 
+variable by sunset. Highs should reach mid to upper 50s today, 
+followed by mid to upper 30s for lows tonight, with enough mid and
+upper level cloud cover to prevent temperatures from falling 
+further.
+
+.LONG TERM...(Thursday through Tuesday)
+ISSUED AT 323 AM CDT Wed Oct 26 2022
+
+High pressure will shift northeastward out of central IL late in
+the work week, strengthen, and keep a light east to northeasterly
+flow across central IL. Subsidence associated with the high should
+keep conditions dry in central IL, and temperatures should be
+gradually warming, but overall near normal, ranging from upper 50s
+Thursday to mid 60s Saturday.
+
+A shortwave currently in the Pacific Northwest will be the next
+potential for precipitation in central IL, digging through the
+Rockies and closing off late this week. As the low closes off, it
+should also become cut off from mid-latitude flow, which will
+likely play a role in predictability of the track and timing of
+this system. Nevertheless, model consensus tracks the upper low
+into the Ohio Valley by Sunday, opens the wave, and absorbs the
+wave into a subtropical jet stream flowing into the northeast US.
+Given the forecast track, PoPs peak Sunday ranging from 30 percent
+in the Illinois River Valley to 60 percent south of I-70, and
+lower PoPs start as early as Saturday night, continuing into
+Monday. Precipitation amounts should be much lighter for central
+IL, and somewhat lighter in southeast IL than yesterday's system,
+with median ensemble precipitation ranging only as high as a
+quarter inch in southeast IL. Even 90th percentile ensemble
+precipitation is under 3/4 inch in southeast IL, with more
+significant 1-2 inch amounts confined to the southeastern states,
+thus it would take a significant deviation to current model
+forecasts to bring significant precipitation into Illinois.
+Temperatures continue to run near normal Sunday through midweek as
+this system moves past the area.
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Thursday morning)
+Issued at 541 AM CDT Wed Oct 26 2022
+
+IFR-MVFR cigs will depart the eastern terminals KDEC and KCMI by
+13Z-14Z, followed by VFR conditions for the upcoming 24 hours.
+Winds NW, gusting 20-25 kts this morning, then decreasing this
+afternoon and becoming light and variable after 00Z-02Z.
+
+&&
+
+.ILX WATCHES/WARNINGS/ADVISORIES...
+NONE.
+
+&&
+
+$$
+
+SYNOPSIS...37
+SHORT TERM...37
+LONG TERM...37
+AVIATION...37
+

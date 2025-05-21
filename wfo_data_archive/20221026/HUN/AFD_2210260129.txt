@@ -1,0 +1,92 @@
+486 
+FXUS64 KHUN 260129
+AFDHUN
+
+Area Forecast Discussion
+National Weather Service Huntsville AL
+829 PM CDT Tue Oct 25 2022
+
+...New NEAR TERM...
+
+.NEAR TERM...
+(Tonight)
+Issued at 829 PM CDT Tue Oct 25 2022
+
+An active afternoon has given way to a relatively tranquil 
+evening across the Tennessee Valley, as all precipitation has now 
+pushed east of the area. In wake of the line of storms that moved 
+through late this afternoon, winds have mostly subsided and are 
+presently under 10 kts across most of the area and have veered to
+the WNW/NW. This will help to advect in a cooler air mass over 
+the course of the overnight hours, with temperatures falling into 
+the mid 40s in most locations by early Wednesday morning. With 
+most locations receiving somewhere between 0.5" to 1.0" of 
+rainfall, there will be plenty of boundary layer moisture 
+overnight. However, winds should just stay high enough to support 
+some mixing of the low-levels and keep fog at bay. However, low 
+stratus will continue to develop and build in overnight, with 
+broken to overcast decks around 2-3 kft lingering through the 
+remainder of the overnight period. Only tweaks were to cloud cover
+to account for the latest satellite trends as the forecast 
+remains on track. 
+
+&&
+
+.SHORT TERM...
+(Wednesday through Friday night)
+Issued at 208 PM CDT Tue Oct 25 2022
+
+After this shortwave ejects to the northeast, a period of dry and
+seasonal weather is anticipated through Friday night. Highs will
+warm back into the 70s Thursday and Friday, with lows back in the
+upper 40s to lower 50s by the end of the week. A cutoff upper low
+will shift east from the southern U.S. on Friday into Friday night,
+with east-southeast flow in low levels developing over the TN 
+valley, but no precipitation through this point.
+
+&&
+
+.LONG TERM...
+(Saturday through Tuesday)
+Issued at 208 CDT Tue Oct 25 2022
+
+The nearly stacked low will sluggishly move east into the lower 
+MS Saturday, before model differences emerge on when this is 
+enveloped by larger scale troughing in the central CONUS. Warm 
+conveyor belt precipitation will occur on Saturday into early 
+Sunday before a dry slot pushes into the region. Lighter rain 
+showers will be possible into Monday and early Tuesday the central
+U.S. trough translates east through the region. The airmass 
+behind front will once again be a modified mT airmass, with little
+change in temperatures, with highs still in the upper 60s to 
+lower 70s and lows in the upper 40s to lower 50s by Tuesday 
+morning. 
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 629 PM CDT Tue Oct 25 2022
+
+The line of TSRA has pushed east of the terminals this evening,
+with BKN to OVC decks of 2.5 to 3.5 kft low clouds moving in
+behind it. Low-end VFR conditions will continue this evening,
+before ceilings lower to MVFR levels after Midnight. Low clouds
+will linger into the mid/late morning, before beginning to
+scattered out during the day. Winds will veer to WNW and
+eventually NW/NNW during the period. 
+
+&&
+
+.HUN WATCHES/WARNINGS/ADVISORIES...
+AL...None.
+TN...None.
+&&
+
+$$
+
+NEAR TERM...AMP.24
+SHORT TERM....17
+LONG TERM....17
+AVIATION...AMP
+

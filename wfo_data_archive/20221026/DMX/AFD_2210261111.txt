@@ -1,0 +1,67 @@
+729 
+FXUS63 KDMX 261111
+AFDDMX
+
+Area Forecast Discussion
+National Weather Service Des Moines IA
+611 AM CDT Wed Oct 26 2022
+
+...Updated for the 12z Aviation Discussion...
+
+.DISCUSSION.../Today through Tuesday/
+Issued at 312 AM CDT Wed Oct 26 2022
+
+Key Messages:
+
+-Minor chances for sprinkles west Thursday
+-Largely quiet forecast with some upcoming mild days
+
+High pressure continued to move in from the west overnight, setting 
+up for an uneventful Wednesday for our area. Winds today will 
+largely be variable, skies will be clear, and temperatures will 
+remain cool under the CAA scheme. Midlevel moisture will pull in 
+from the southwest overnight tonight ahead of a descending low, 
+bringing in a blanket of midlevel clouds. The main axis of low-
+level theta-e advection will be barred from extending too far into 
+Iowa due to dry air undercutting on the backside of the departing 
+high. A short window for a few sprinkles will be possible for far 
+western counties early Thursday, but would be reduced to minimum 
+accumulations due to this dry air. 
+
+The low will sink into the Deep South on Friday and take the 
+cloud cover with it. Some ridging will amplify immediately behind
+the cutoff low and allow for high temperatures to climb back into 
+the 60s Friday and Saturday. The cutoff low in the south will 
+effectively block moisture transport northward and 
+eventually get absorbed by the overarching midlevel pattern. A cold 
+front will move in late Sunday but will likely be a dry 
+passage.
+
+For next week, the general flow will be out of the southwest, 
+allowing for high temperatures to climb into the mid and upper 60s 
+by Tuesday. A trough will form in the western CONUS during the week, 
+but continues to show signs of a delayed eastward progression, 
+stalling an eventual cooldown.
+
+&&
+
+.AVIATION.../For the 12Z TAFS through 12Z Thursday morning/
+Issued at 604 AM CDT Wed Oct 26 2022
+
+VFR conditions expected to prevail through the period with
+high based clouds moving in near and after 06z. High pressure
+will move in from the west throughout the day, bringing periods of
+light and variable winds later today before becoming southeasterly
+towards the latter half of the period.
+
+&&
+
+.DMX WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+DISCUSSION...Ansorge/Jimenez
+AVIATION...Ansorge/Jimenez
+

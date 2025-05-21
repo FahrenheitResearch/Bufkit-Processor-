@@ -1,0 +1,125 @@
+895 
+FXUS63 KDDC 261707
+AFDDDC
+
+Area Forecast Discussion
+National Weather Service Dodge City KS
+1207 PM CDT Wed Oct 26 2022
+
+...UPDATE TO SHORT TERM...
+
+.SHORT TERM...(This evening through Thursday)
+Issued at 1202 PM CDT Wed Oct 26 2022
+
+Short range models show an upper level trough of low pressure 
+dropping south-southeast through the Great Basin tonight and into 
+the Four Corners Region early tomorrow, setting up an increasingly 
+difluent southwest flow aloft across the Western High Plains. Lee 
+side cyclogenesis is still projected late tonight/early morning 
+Thursday across southeast Colorado and northeast New Mexico in 
+response to the approaching system. The strengthening low is then 
+expected to shift southeast into west Texas by Thursday afternoon 
+with an attendant frontal boundary extending northeast into western 
+Kansas. Although the bulk of the upper level system will track just 
+to our south, a few showers will still be possible during the day as 
+H5 vort maxima eject out of the advancing trough axis, lifting 
+northeast and interacting with the frontal boundary in western/central
+Kansas. A lack of deep moisture and weak QPF fields suggest minimal
+potential rain amounts for those that see any rain at all.
+
+Temperatures will not be quite a cool tonight as prevailing southerlies
+draw slightly warmer air into western Kansas. Lows are expected to
+range from the mid/upper 30s(F) in west central Kansas to the lower/mid
+40s(F) farther south and east. Increased cloud cover and possible areas
+of light rain ahead of an approaching cold front will result in cooler
+temperatures tomorrow. Highs are only expected to reach the 50s(F)
+in west central Kansas to possibly the lower/mid 60s(F) closer to the
+Oklahoma border.
+
+.LONG TERM...(Thursday through Tuesday)
+Issued at 153 AM CDT Wed Oct 26 2022
+
+The main challenge in the later periods will be precipitation 
+chances Thursday and Thursday night. Also early next week it 
+appears that fire weather will once again be a concern. 
+ 
+GEFS and ECMWF ensembles were similar to previous runs with the 
+track of an upper low crossing northeast New Mexico and then 
+moving out into the Southern Plains Thursday night and Friday. The
+focus for the best opportunity for widespread precipitation still
+appears to stay south of the Oklahoma border given the track of 
+the upper low, moisture return, and 850 to 700mb forcing ahead of 
+this upper level system. Still given this outlook there will be a 
+chance for some light/very light precipitation late Thursday 
+through early Friday as some moisture accompanies a mid level 
+baroclinic zone as it crosses western Kansas and weak diffluence 
+aloft develops north of the upper low track. A period of steady 
+rainfall also can not be completely ruled out north and east of 
+the Dodge City area on Thursday given that the latest 
+deterministic models all are in decent agreement with a weak upper
+wave rotating around the upper low and crossing Central Kansas. 
+Rainfall totals Thursday through Thursday night from the 
+precipitation that does develop from this upcoming event will 
+generally average less than 0.05” with the possible exception of 
+this on Thursday will be in the Hays and Larned area as the upper 
+wave crosses Kansas. The second area of possible higher rainfall 
+and the more likely area will be Thursday night near the Oklahoma 
+border southeast of Dodge City. A few locations in this area may 
+receive accumulations of 0.25”. The latest probability of this 
+higher rainfall accumulation Thursday night is 30-40%. 
+
+Cloud cover Thursday through Friday will definitely impact 
+temperatures. In areas where afternoon skies are mostly cloudy 
+Thursday and/or Friday the probability will range from 30 to 50 
+percent for temperatures to stay mainly in the upper 50s. On 
+Thursday the area where these cooler temperatures are more likely 
+to occur will be across north central and west central Kansas. The
+coolest temperatures on Friday currently appear to be located 
+across extreme southwest Kansas based on the cloud cover, forecast
+low level temperature trends, and ECMWF EFI forecast. If however,
+more afternoon sun develops then highs in near 65 will be 
+possible.
+
+Following these cool temperatures late week...a warming trend 
+will return to southwest Kansas over the weekend and into early 
+next week. Highs currently are expected to warm through the 60s 
+over the weekend with highs in the 70s likely early next week. 
+ 
+Along with the warmer temperatures dry and windy conditions will 
+also be possible early next week given falling surface pressures 
+along the lee of the Rockies as westerly downslope flow improves.
+These developing gusty winds combined with the dry conditions 
+will result in increased fire risk across southwest Kansas. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1115 AM CDT Wed Oct 26 2022
+
+VFR conditions will prevail in vicinity of all TAF sites through 
+early Thursday. South-southeasterly winds 15 to 30kt through late 
+afternoon are expected to gradually subside somewhat late this 
+evening through the overnight with loss of daytime heating.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DDC  68  43  61  40 /   0  10  20  30 
+GCK  66  41  60  36 /   0  10  20  30 
+EHA  66  41  60  36 /   0  10  20  50 
+LBL  68  43  62  38 /   0  10  20  50 
+HYS  66  43  58  38 /   0  30  40  30 
+P28  68  45  63  44 /   0  10  20  30 
+
+&&
+
+.DDC WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+SHORT TERM...JJohnson
+LONG TERM...Burgert
+AVIATION...JJohnson
+

@@ -1,0 +1,83 @@
+844 
+FXUS65 KBOU 262043
+AFDBOU
+
+Area Forecast Discussion
+National Weather Service Denver/Boulder CO
+243 PM MDT Wed Oct 26 2022
+
+.SHORT TERM...(This evening through Thursday)
+Issued at 242 PM MDT Wed Oct 26 2022
+
+Quite a bit of sun getting through, especially over the plains, 
+at this time. The eastern plains have a mainly southerly wind 
+field in place, with weak and variable winds over the rest of the
+plains. There is still some snow falling in the mountains, mostly
+over the divide. There is an upper closed low circulation now
+located over over Idaho. It is progged to push southeastward 
+overnight and Thursday. It is progged over the Four Corners on 
+Thursday morning at 15Z, then over central New Mexico by 00Z 
+Thursday late day. 
+
+The QG Omega fields show decent upward vertical velocity for the CWA 
+tonight through about 15Z Thursday morning, then strong downward 
+velocity is progged for the rest of Thursday.  There is a decent 
+cold front expected to push southward across the plains after 06Z 
+overnight. Upslope northerly winds are progged behind it.  Moisture 
+is pretty deep over the mountains overnight into Thursday morning. 
+Cross sections are showing minimal help from orographics in the 
+mountains.  Snowfall amounts still look to get to advisory criteria  
+amounts, so left that highlight going for Zones 31, 33, 34. Snow 
+accumulation is not expected over most of the plains, with a 
+little possible near the foothills and mainly just on grassy 
+areas. For temperatures, Thursday highs are 4-6 C cooler than 
+today's. 
+
+.LONG TERM...(Thursday night through Wednesday) Issued at 100 PM 
+MDT Wed Oct 26 2022
+
+Thursday night and Friday a closed upper low will track from Eastern 
+New Mexico across Northern Texas with an upper level ridge of high 
+pressure moving across Colorado. As a result, dry weather and 
+seasonable temperatures are expected. Over the weekend, a weak upper 
+level shortwave will move across the state. This shortwave should 
+have little to no impact on the weather across our CWA due to the 
+lack of moisture. 
+
+Above normal temperatures are expected to return on Monday as weak 
+upper level ridging sets up over the area. On Tuesday, mild and 
+dry weather is expected to continue as the flow aloft becomes 
+southwesterly in response to an upper level trough deepening over 
+the Western U.S. Mild, dry and somewhat breezy conditions may lead
+to elevated fire weather conditions across portions of the plains
+both Monday and Tuesday. Cooler unsettled weather will be 
+possible by mid-week as the upper trough approaches Colorado from 
+the west. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1120 AM MDT Wed Oct 26 2022
+
+Models show pretty weak winds for DIA this afternoon. Most keep
+some sort of easterly component to the direction. Models do not 
+show normal drainage patterns to kick in this evening, but keep 
+some weak upslope going. The surge of northerly winds still move 
+in around 09Z Thursday morning. Will make only minor changes to 
+the ceilings overnight and Thursday morning. 
+
+
+&&
+
+.BOU WATCHES/WARNINGS/ADVISORIES...
+Winter Weather Advisory from 6 PM this evening to noon MDT 
+Thursday for COZ031-033-034.
+
+&&
+
+$$
+
+SHORT TERM...RJK
+LONG TERM....jk
+AVIATION.....RJK
+

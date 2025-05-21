@@ -1,0 +1,135 @@
+003 
+FXUS61 KRNK 261748
+AFDRNK
+
+Area Forecast Discussion
+National Weather Service Blacksburg VA
+148 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Following a cold front that will continue pushing east to the
+coast tonight, high pressure builds into the region for 
+Thursday through Saturday with dry weather and near normal
+temperatures. A low pressure system moving across the southeast
+United States will bring a prolonged period of rain to the Mid
+Atlantic states and Carolinas Sunday through Monday night. 
+ 
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+As of 130 PM EDT Wednesday...
+  
+   Forecast for tonight still dry with gusty wind.
+
+Heights at 500 MB rise tonight and Thursday as southwest flow 
+develop downstream of a deepening long wave trough over the 
+central United States. Surface and 850Mb front cross through the
+area this afternoon. Winds strengthen from the northwest 
+briefly behind the front with the low-level jet reaching 30 to 
+35 knots around 00Z/8PM. But as the wind direction continues 
+veering to the north then northeast overnight and Thursday, the 
+jet is weaker. 
+
+Moisture above 700 MB had already lifted to the northeast in advance 
+of the short wave in the Ohio Valley. Low level moisture will begin 
+to clear out quickly in the foothills and piedmont after 21Z/5PM, 
+aided by downsloping wind. Similar to the current forecast, will
+hold the upslope clouds over the mountains through Thursday 
+morning. 
+
+No significant changes to temperature forecast. NBM is reasonable 
+with temperatures near normal.   
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH SATURDAY NIGHT/...
+As of 445 AM EDT Wednesday...
+
+   Cool and dry most of the weekend.
+
+After an upper trough tracks northeast and past our CWA by Thursday, 
+an area of surface high pressure moves east across the Mid-west and 
+towards the Great Lakes/southern Canada. By Saturday this high will 
+be in a position to wedge us in and cool things down, especially 
+east of the Blue Ridge. With 500mb heights rising in response to a 
+cutoff  low over the southern plains, and a dry airmass in place, 
+not expecting any precipitation through Saturday. Clouds will fill 
+in over the east with the wedge. Highs Friday and Saturday will be 
+held to the 50s and low 60s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH TUESDAY/...
+As of 445 AM EDT Wednesday...
+
+   Rain returns by early next week.
+
+Deep troughing over the southern and central plains will track 
+northeast and into the Midwest/Great Lakes region over the weekend. 
+This will bring rain to the CWA as early as Sunday morning, but each 
+model cycle continues to trend a few hours slower, so timing is not 
+set in stone for this system yet. As this system interacts with the 
+increased moisture brought in from return flow as a result of the 
+wedge setup, rain showers will impact the entire area and exit with 
+the trough near the middle of the week. The wedge will be eroded by 
+this low pressure system, and high pressure placed more overhead of 
+the Mid-Atlantic will come behind this system. Mostly dry weather to 
+end next week. Temperatures will start cool and moderate towards 
+normal by the end of the forecast period.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+As of 145 PM EDT Wednesday...
+ 
+Heights at 500 MB rise tonight and Thursday as southwest flow 
+develop downstream of a deepening long wave trough over the 
+central United States. Surface and 850Mb front cross through the
+area this afternoon. Have the front east of KDAN and KLYH before
+00Z/8PM. 
+
+Winds strengthen from the northwest briefly behind the front 
+with the low-level jet reaching 30 to 35 knots around 00Z/8PM. 
+But as the wind direction continues veering to the north then 
+northeast overnight and Thursday, the jet is weaker. 
+
+Moisture above 700 MB had already lifted to the northeast in advance 
+of the short wave in the Ohio Valley. Low level moisture will begin 
+to clear out quickly in the foothills and piedmont after 21Z/5PM, 
+aided by downsloping wind. MVFR still covered much of the
+central Appalachians later this afternoon. Expecting little
+change in ceilings tonight but quick improvement after 12Z/8AM
+on Thursday. TAFs have KBLF and KLWB improving back to VFR by
+14Z/10AM, but this may be too fast. 
+
+Average confidence for ceiling, visibility and wind. 
+
+
+Extended Aviation Discussion... 
+
+VFR conditions are expected Thursday through Saturday as high 
+pressure covers the region both at the surface and aloft. 
+ 
+A strong wedge will set up Thursday night and Friday and remain
+over the area through the weekend. This will result in 
+increasing clouds and lowering ceilings Friday and Saturday.
+ 
+IFR to MVFR conditions will be widespread Sunday and Monday due
+to rain, fog and stratus. 
+
+&&
+
+.RNK WATCHES/WARNINGS/ADVISORIES...
+VA...None.
+NC...None.
+WV...None.
+
+&&
+
+$$
+SYNOPSIS...AMS
+NEAR TERM...AMS
+SHORT TERM...VFJ
+LONG TERM...VFJ
+AVIATION...AMS/RAB
+

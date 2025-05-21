@@ -1,0 +1,115 @@
+625 
+FXUS63 KDVN 261950
+AFDDVN
+
+Area Forecast Discussion
+National Weather Service Quad Cities IA IL
+250 PM CDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Issued at 151 PM CDT Wed Oct 26 2022
+
+High pressure stretches from along the eastern Nebraska and 
+western Iowa boarder southward into eastern Texas and western 
+Louisiana. Clouds associated with a developing storm system across
+the western High Plains continue to spread eastward into the 
+Central Plains. Temperatures at 2 PM were in the mid 40s with 
+dewpoints in the mid to upper 30s. 
+
+&&
+
+.SHORT TERM...(This evening through Thursday)
+Issued at 151 PM CDT Wed Oct 26 2022
+
+Quiet weather is on tap across the area over the next 24 hours as
+high pressure moves eastward across the area. However the Nam and
+NamNest show some precipitation moving across the area tonight 
+but soundings and time/height profiles show dry lower levels. For
+this reason think that the forecast will remain dry. 
+
+500 MB heights are increasing across the area over the next 24
+hours in response to a shortwave trough digging into Colorado. 
+High clouds are forecast to overspread the area this evening and 
+continue into Thursday as a disturbance associated trough moves
+into Minnesota. These high clouds will thicken and lower to mid 
+level cloudiness after midnight and lingering through the day on
+Thursday. As a result, increased low temperatures tonight by a 
+couple of degrees resulting in lows in the mid to upper 30s by 
+Thursday morning. With the clouds lingering into Thursday have 
+kept high temperatures similar across the area in the mid to 
+upper 50s.
+
+Also on Thursday, departing high pressure to our east and a
+developing storm  system in the Plains will result in an 
+tightening pressure gradient across the Iowa. Expect a 
+southeasterly breeze to develop with sustained winds near 10 MPH 
+and a few gusts up to 15 MPH. 
+
+.LONG TERM...(Thursday night through Wednesday)
+Issued at 151 PM CDT Wed Oct 26 2022
+
+Key Messages:
+
+1. There will be a gradual warming trend through the period. 
+
+2. Chances of rain showers Sunday into Sunday night and another
+potential round by the end of the period.
+
+A closed 500 MB low is forecast to sink into the southern High
+Plains to start the long term period Thursday night into Friday.
+This results in height rises and ridging develop into the mid 
+Mississippi River Valley. Currently, shortwave energy ejecting out
+of this trough is resulting in increasing cloud cover with 
+precipitation staying west of the area into weekend. This also 
+results in gradually warming temperatures. High temperatures on 
+Friday are forecast to be near 60 degrees. 
+
+Saturday night into Sunday models are in good agreement that the
+closed low will transition to an open wave through the day and 
+lift from northeast Texas and into central Illinois by 12 UTC 
+Sunday. Lift and increasing moisture will bring the chance of 
+showers to the area south of Interstate 80 through the day on 
+Sunday and into Sunday night. 
+
+In the wake of Sundays storm system, a another longwave trough is
+carved out across the western US with a rebounding 500 mb heights
+Monday into Tuesday. The main result of this is warmer 
+temperatures with high pressure across the area. Models begin to 
+disagree late on Tuesday into Wednesday on the timing of the 
+trough with the ECWMF being more progressive with a lead shortwave
+moving across the Upper Midwest with showers on Wednesday and the
+GFS develops a closed low in the Great Basin with strong high 
+pressure across the Plains. The net result from NBM are chances of
+showers on Wednesday. The current NBM has high temperatures on 
+Wednesday in the mid to upper 60s. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1228 PM CDT Wed Oct 26 2022
+
+High pressure currently sits to our west and is forecast to  
+slowly shift eastward through the TAF period. This will turn our 
+winds from the northwest today to the southeast after 12 UTC on 
+Thursday. A shortwave passing to our northwest through the period 
+will spread clouds across the area after 00 UTC Thursday with 
+ceilings expected to lower to between 10 and 15kft after 6 UTC. 
+So the forecast for this issuance has VFR conditions through the
+period.
+
+
+&&
+
+.DVN WATCHES/WARNINGS/ADVISORIES...
+IA...NONE.
+IL...NONE.
+MO...NONE.
+&&
+
+$$
+
+SYNOPSIS...Cousins
+SHORT TERM...Cousins
+LONG TERM...Cousins
+AVIATION...Cousins
+

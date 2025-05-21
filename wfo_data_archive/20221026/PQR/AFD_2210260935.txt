@@ -1,0 +1,140 @@
+938 
+FXUS66 KPQR 260935
+AFDPQR
+
+Area Forecast Discussion
+National Weather Service Portland OR 
+234 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS...Active weather continues today as a weak front pushes
+through the region resulting in another round of rain for the
+lowlands and snow above 4000 feet. A brief pause in precipitation is
+expected tonight through late Thursday morning, but the next system
+is expected Thursday evening with a series of systems following,
+which will result in a wet weekend and early next week.
+
+&&
+
+.SHORT TERM...Today through Friday night...The active weather pattern
+continues through today, but a slight break in precipitation is
+expected tonight through late Thursday morning. Widespread cloud
+cover and lingering moisture will help keep the region cool, with
+daytime highs in the mid 30s to mid 40s for the Cascades and mid 40s
+to mid 50s elsewhere. Showery precipitation will continue to slowly
+dissipate through daybreak as a ridge of high pressure develops. As
+this ridge develops, expect a slow warming and drying trend which
+will cause daytime high temperatures on Thursday to warm into the
+mid 40s to mid 50s for the Cascades and into the low 50s and 60s for
+elsewhere. This warm and dry period will be rather short lived as the
+next series of systems are expected to slide into the region starting
+Thursday afternoon and continuing into the weekend. The system coming
+down the western coast of Canada towards the end of the week looks to
+also coincide with a weak atmospheric river with IVT values greater
+than 250 kg/(mg). This atmospheric river will help bring an influx of
+warm, moist, tropical air into the region which will cause snow
+levels to rise towards 6000-7000 feet by late Friday/early Saturday
+and could result in additional precipitation values from 0.25 inches
+to 1.50 inches by Saturday night. /42
+
+.LONG TERM...Saturday through Wednesday...WPC Cluster analysis
+show a larger upper trough started to drop down the Canadian coast
+during the weekend while still having a good connection to an
+atmospheric river of moisture.	This looks to end up potentially
+bringing a more significant and wetter system for Sunday along with
+some stronger winds. The wet pattern looks to continue into early
+next week for a normal active fall pattern to last. /Kriederman
+
+&&
+
+.AVIATION...An upper level trough sliding southeastward across 
+the Pacific Northwest will result in primarily VFR conditions with
+generally only brief and isolated dips into MVFR thresholds near
+or under showers through 00z Thursday. In addition, brief dips
+into LIFR and IFR thresholds appear likely to occur through 
+16-18z Wednesday across the western Willamette Valley,
+particularly at KHIO, as light winds and plenty of low level 
+moisture allow fog to try and form between clouds/showers through
+daybreak. Otherwise, expect shower coverage to decrease from 
+south to north today. A weak warm front will slide into far 
+northwest Oregon and western Washington tonight. HREF guidance 
+suggests a 40-70% chance for MVFR ceilings to form along the 
+coast and across interior southwest Washington towards 06-12z 
+Thursday. Meanwhile, the probabilities for IFR ceilings forming 
+in these same areas climbs into the 20-40% range towards 12z 
+Thursday per the HREF.
+
+KPDX AND APPROACHES...An upper level trough sliding southeastward
+across the Pacific Northwest will result in primarily VFR 
+conditions with generally only brief and isolated dips into MVFR 
+thresholds near or under showers through 00z Thursday. A warm 
+front pushing into western Washington will bring a 20% chance for 
+MVFR ceilings forming at the terminal towards 06-12z Thursday. 
+/Neuman 
+
+
+&&
+
+
+.MARINE...The cold front that brought strong winds to the waters
+yesterday is now well inland and pushing into the Rocky Mountain
+states. High pressure will gradually build into the waters today 
+into tonight. This will lead to decreasing winds and continue to 
+allow seas to subside. Expect seas to fall below 10 ft this 
+afternoon or evening. 
+
+However, the next cold front will slowly sag southeastward across
+the waters Thursday into Friday. Expect gusty southerly winds to
+return to the waters ahead of the front. The strongest winds will
+be across the northern waters. There is a 50% chance for low end 
+Gale Force wind gusts of 35 kt to materialize across the northern 
+waters Thursday afternoon or evening. Given the time between now 
+and then, and the uncertainty, will hold off on a Gale Watch for 
+now. Even if these winds do not materialize, current wave model 
+guidance suggests a period of hazardous seas will occur across the
+northern waters late Thursday as well. Given the slow moving 
+nature of the front, the resulting swell spreading into the waters
+will also be slow to subside. At this point, it appears seas 
+should drop below 10 ft Saturday night or Sunday. However, the 
+next cold front appears likely to drop southeastward towards the 
+region Sunday night or Monday. This has a higher potential of 
+producing stronger winds and higher seas across the waters. GEFS 
+wave model guidance suggests there's a 20-30% chance for seas to 
+eclipse 20 ft Monday/Tuesday. 
+
+Expect stronger tidal currents than normal during the evening ebb
+cycle through Saturday. Those moving in and out of harbors and 
+crossing coastal bars should use caution and be aware of any bar 
+restrictions in place. /Neuman
+
+
+&&
+
+
+.PQR WATCHES/WARNINGS/ADVISORIES...
+
+OR...Winter Weather Advisory until 6 AM PDT early this morning for 
+     Cascades in Lane County-Northern Oregon Cascades.
+
+WA...Winter Weather Advisory until 5 AM PDT early this morning for 
+     South Washington Cascades.
+
+PZ...Small Craft Advisory until 9 PM PDT this evening for Coastal 
+     waters from Cape Foulweather to Florence OR out 10 NM-
+     Columbia River Bar-Waters from Cape Foulweather to Florence 
+     OR from 10 to 60 NM.
+
+     Small Craft Advisory until 5 PM PDT Thursday for coastal waters 
+     from Cape Shoalwater WA to Cape Foulweather OR out 10 
+     nm.coastal waters from Cape Shoalwater WA to Cape 
+     Foulweather OR from 10 to 60 nm.
+
+&&
+
+$$
+
+www.weather.gov/portland
+
+Interact with us via social media:
+www.facebook.com/NWSPortland
+www.twitter.com/NWSPortland
+

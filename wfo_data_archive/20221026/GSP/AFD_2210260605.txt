@@ -1,0 +1,129 @@
+120 
+FXUS62 KGSP 260605
+AFDGSP
+
+Area Forecast Discussion
+National Weather Service Greenville-Spartanburg SC
+205 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A weak frontal system brings a chance of rain tonight into early 
+Wednesday. Dry conditions return behind the front through the end of 
+the work week, with more seasonal temperatures. Expect rain chances 
+to increase again this weekend and into early next week as a low 
+pressure system approaches from the Gulf states. High temperatures 
+will be a few degrees cooler this weekend.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+As of 200 am EDT Wednesday: Main band of pre-frontal showers is 
+moving across the western part of the CWA...and is increasingly 
+becoming less disorganized as expected. This trend is expected to 
+continue through the early morning, warranting continued 
+advertisement of a tight PoPs gradient...from likely/categorical in 
+western areas, to only slight chances along/east of I-77. Low temps 
+overnight should be 10+ degrees warmer than last night owing to 
+cloudier conditions across the CWA.
+
+Otherwise...conditions are depicted as improving rapidly from
+mid-morning and beyond on Wednesday.  Normally, this would seem a
+tad too aggressive, yet model consensus on an influx of deep dry air
+paired with observational evidence of this dry air already wrapping
+into the surface low hints that we may see faster-than-typical
+improvement in conditions tomorrow.  Certainly, by noon and
+thereafter, skies should be clearing.  Max temps tomorrow will
+thus be warm, but up to a category lower than today's given cloud
+cover will limit morning heating.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH FRIDAY/...
+As of 200 AM EDT Wednesday: Expect the sensible weather to remain
+quiet through the forecast period. Model guidance continue to push a
+closed upper from the Four Corners region into the Southern Plains
+through the end of the work week. In response to the closed low
+moving into the Southern Plains, moist south to southwesterly flow
+aloft will gradually pull into the southeastern CONUS Friday. At
+the same time, surface high pressure will slide from the Great
+Lakes region Thursday and set up over the northeastern CONUS by
+Friday as it noses down the Appalachians. Expect mostly clear
+skies until sometime Friday as mid-level clouds push in from the
+southwest. With the position of the surface high, CAD will be in
+the works, but good insolation will help temperatures Thursday
+remain at or slightly above normal. Recent trends have come in
+a little slower with the overall cloud cover on Friday, which
+could give way to decent insolation during the daytime period,
+which would ultimately keep temperatures near normal. Overnight
+lows Thursday and Friday will be at or a few ticks above normal.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+As of 200 pm EDT Tuesday: An upstream closed low pressure system 
+will spin over the Arklatex region on Saturday before lifting 
+and phasing back into the northern stream Sunday into Monday. 
+Recent trends among the models are toward slightly faster 
+moisture return through the weekend as southerly moisture flux 
+from the Gulf of Mexico sets up, along with low-level 
+southeasterly flow moisture arriving from the Atlantic. The 
+returning Atlantic and Gulf moisture will increasingly ride up 
+over strong surface high pressure in place over our area to 
+create classical cold air damming by late weekend. This will 
+warrant a steady uptick in PoPs from late Saturday through 
+Sunday night as the features come together. Will adjust the 
+diurnal temperatures range for Sunday and Monday (smaller than 
+guidance) in line with the CAD expectations, although will be 
+conservative at this point with the damming so far out in time 
+and with precipitation amounts into the wedge layer somewhat 
+uncertain. Precipitation will diminish from the southwest on 
+Monday, but with cooler than guidance maxes continuing. 
+
+The remnant trough axis arriving from the west should cross the area 
+on Tuesday. Erosion of the surface damming layer will continue with 
+a corresponding upward bump in maximum temperatures back to near 
+normal.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+At KCLT and elsewhere: A band of pre-frontal showers is moving 
+across the Terminal Forecast Area at this time. The band is steadily 
+becoming increasingly disorganized, and this trend is expected to 
+continue through the early morning. Tempos for SHRA and reduced 
+visby are carried at all sites except at KHKY and KCLT through 
+around 09Z. With the expectation that showers will become 
+increasingly less concentrated as the band moves farther east, only 
+VCSH is carried AT KHKY/KCLT. Otherwise, cigs within the frontal 
+band are expected to lower to MVFR at all sites through daybreak. 
+Some potential exists for IFR cigs, but this is far from a 
+certainty, so we've hedged with ample use of SCT IFR layers. 
+
+Skies should steadily clear from around sunrise through the morning. 
+Winds will generally be light early this morning, primarily favoring 
+a southerly component. Winds during the daylight hours are generally 
+expected to favor SW at 5-10 kts, although a steady shift toward 
+W/NW is expected during the afternoon. An exception will be at KAVL, 
+where NW winds of 10-15 kts with higher gusts are expected to 
+develop early in the day.  
+
+Outlook: Dry, VFR conditions return for Thursday and Friday. Precip
+and restrictions could return at some point over the weekend,
+but low confidence remains on timing and impacts.
+
+&&
+
+.GSP WATCHES/WARNINGS/ADVISORIES...
+GA...None.
+NC...None.
+SC...None.
+
+&&
+
+$$
+SYNOPSIS...DEO
+NEAR TERM...JDL/MPR/PM
+SHORT TERM...CAC
+LONG TERM...HG
+AVIATION...JDL
+

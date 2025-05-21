@@ -1,0 +1,80 @@
+946 
+FXUS63 KICT 260353
+AFDICT
+
+Area Forecast Discussion
+National Weather Service Wichita KS
+1053 PM CDT Tue Oct 25 2022
+
+.SHORT TERM...(This evening through Friday night)
+Issued at 204 PM CDT Tue Oct 25 2022
+
+The upper level trough that brought rain and cooler weather has 
+moved east of our area and will leave near normal highs behind it. 
+Wednesday should be quiet with some clouds building in over central 
+Kansas spreading eastward. 
+
+Thursday looks to be our best chance for rain as an upper level low 
+will dive into the eastern U.S Southwest. A subtle piece of energy 
+will round the base of the upper low and will move northward into 
+south-central and central Kansas. This should allow for scattered 
+showers to develop Thursday afternoon through early Friday morning. 
+Any meaningful rainfall would likely be isolated with that round of 
+storms. 
+
+Models continue to shift south with the upper low on Friday, as of 
+now this would completely keep rain south of our area Friday morning 
+and throughout the day. Overall, rainfall totals look much lighter 
+with this system compared to the previous.
+
+.LONG TERM...(Saturday through Tuesday)
+Issued at 204 PM CDT Tue Oct 25 2022
+
+We should see a slow warming trend this weekend with flow at the 
+surface becoming westerly to southwesterly. Saturday and Sunday 
+still look to be near to below normal for highs. By Monday into 
+Tuesday we should see heights rise as global probabilistic and 
+deterministic models hint towards a trough developing off the West 
+Coast. This would lead to above average highs returning to our 
+region. 
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1051 PM CDT Tue Oct 25 2022
+
+VFR conditions will prevail through the period. Southeast winds 
+will become the predominate direction by mid to late morning with 
+speeds 10-15 kts. In addition, wind gusts near 20 kts are expected
+for RSL and GBD. Marginal LLWS conditions are possible near the
+end of the period at GBD and RSL. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Wichita-KICT    39  67  47  63 /   0   0   0  30 
+Hutchinson      37  66  45  61 /   0   0  10  40 
+Newton          39  65  46  61 /   0   0   0  40 
+ElDorado        38  65  45  61 /   0   0   0  30 
+Winfield-KWLD   39  66  45  65 /   0   0   0  20 
+Russell         36  66  44  60 /   0   0  20  50 
+Great Bend      37  65  45  59 /   0   0  20  50 
+Salina          37  66  46  62 /   0   0  10  50 
+McPherson       37  65  45  60 /   0   0  10  50 
+Coffeyville     38  66  43  66 /   0   0   0  10 
+Chanute         39  65  44  64 /   0   0   0  10 
+Iola            38  64  43  63 /   0   0   0  10 
+Parsons-KPPF    39  66  44  65 /   0   0   0  10 
+
+&&
+
+.ICT WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...CRW
+LONG TERM...CRW
+AVIATION...BMB
+

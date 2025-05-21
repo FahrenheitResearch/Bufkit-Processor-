@@ -1,0 +1,94 @@
+700 
+FXUS66 KHNX 262126
+AFDHNX
+
+Area Forecast Discussion
+National Weather Service Hanford CA
+226 PM PDT Wed Oct 26 2022
+
+
+.SYNOPSIS...
+After today's cooler and breezy conditions, lighter winds and 
+warming back to near average temperatures will occur Thursday and 
+Friday, then little changes into early next week. 
+
+&&
+
+.DISCUSSION...
+A shortwave trough is tracking southward through central
+California, bringing some cooler and breezier conditions this
+afternoon. Current 24 hr temperature trends are generally running
+down around 3-6 degrees outside of the desert zones, where 
+temperatures are instead running up as much as 4-8 degrees from 
+this time yesterday. Highs this afternoon outside of the desert
+areas should maintain the current temperature trend. Desert zones
+will begin to see some cooling with the passing frontal trough 
+and highs today should end up similar to yesterday's highs.
+
+Gusty winds will develop through and below the mountain passes this
+evening behind the trough. National Blended Model guidance is 
+typically too low in depicting wind speeds in this scenario. The
+likely more accurate 90th percentile solution, suggests a few
+hours of winds gusting around 45 mph in the Mojave area this
+evening. Meanwhile we can expect chilly temperatures overnight
+across our area, with lows running around 4-8 degrees below
+normal.
+
+Model ensemble solutions build a weak ridge over California behind
+the departing trough, bringing continued dry conditions with
+warming temperatures during the next couple of days. By Friday,
+afternoon highs are likely to be near seasonal averages. A weak
+shortwave impulse brings just a slight dip in temperatures, then
+recovering to near normal for the start of next week.
+
+The spread increases in model ensemble solutions for the Tuesday-
+Wednesday period next week as a low pressure system is progged to
+drop out of the northeast Pacific region. There will be cooling
+during the period, as well as the potential for some precipitation.
+Although there is higher uncertainty during this period, pending
+the trajectory and strength of the low pressure system, current 
+blended model guidance for Wednesday suggests some of the best 
+chances for precipitation and coolest afternoon highs for the 
+season so far. Probabilities of high temperatures no higher than 
+69 degrees in the San Joaquin Valley next Wednesday are around 
+60-70 percent.
+
+&&
+
+
+.AVIATION...
+VFR conditions will prevail across the area for at least the next
+24 hours.
+
+&&
+
+.AIR QUALITY ISSUES...
+
+None.
+
+
+
+&&
+
+.CERTAINTY...
+
+The level of certainty for days 1 and 2 is high.
+The level of certainty for days 3 through 7 is medium.
+
+Certainty levels include low...medium...and high. Please visit
+www.weather.gov/hnx/certainty.html for additional information
+an/or to provide feedback.
+
+&&
+
+.HNX WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+public...JEB
+aviation....JEB
+
+weather.gov/hanford
+

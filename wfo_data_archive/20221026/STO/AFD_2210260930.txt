@@ -1,0 +1,69 @@
+367 
+FXUS66 KSTO 260930
+AFDSTO
+
+Area Forecast Discussion
+National Weather Service Sacramento CA
+230 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Dry weather this week. Breezy north wind in the Central Valley 
+and adjacent foothills today. Temperatures remaining near to a 
+little below average. Precipitation chances may return next week,
+but confidence is low.
+
+&&
+
+.DISCUSSION...
+Skies remain clear across the region except for a few high clouds
+moving into the Sacramento Valley ahead of the next approaching 
+short-wave moving into Oregon. Winds remain generally light ahead
+of the system. Current temperatures are mostly in the mid 40s to
+mid 50s across the Central Valley, except in the upper 50s to
+lower 60s across the north end of the valley where north winds
+have begun.
+
+Dry weather will persist through the remainder of the week. North
+winds will increase in the Central Valley this afternoon and
+continue into Thursday as northerly surface gradient increases
+behind the short-wave as it slides to the southeast. Gusts of 
+20-25 mph will be possible. Surface gradient will become more 
+northeast oriented tonight with local gusts up to 40 mph possible 
+near windier spots on the foothills and west slopes of the Sierra.
+The overall short duration of the offshore event and minimum RH 
+of 15-25 percent (low, but not extremely low) preclude higher fire
+weather concerns, but nevertheless, any sparks and open flames 
+near grasses and light fuels should be avoided. Lighter winds
+return later Thursday.
+
+Temperatures will remain near to slightly below normal with upper
+60s to mid 70s in the Valley and Delta, mid 60s to mid 70s in the
+foothills, and upper 40s to upper 60s in the mountains.
+
+&&
+
+.EXTENDED DISCUSSION (Sunday THROUGH Wednesday)...
+Ensembles and clusters support the idea of minimal precipitation 
+chances through the weekend as ridging holds across the region. 
+Precipitation chances increase early next week (though still 
+relatively low - less than 50 percent) as ridging weakens. 
+Clusters indicate considerable uncertainty in the strength and 
+timing of the developing trough over the West next week, so 
+confidence remains low in regards to precipitation chances and 
+amounts. Stay tuned!
+
+&&
+
+.AVIATION...
+VFR conditions next 24 hours. Northerly surface wind
+gusts 15-25 kts in the Central Valley 18Z thru about 03Z 
+Thursday.
+
+&&
+
+.STO WATCHES/WARNINGS/ADVISORIES...None.
+
+&&
+
+$$
+

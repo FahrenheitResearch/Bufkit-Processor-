@@ -1,0 +1,71 @@
+535 
+NWUS55 KGJT 261714
+LSRGJT
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE GRAND JUNCTION CO
+1114 AM MDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0840 AM     SNOW             1 WNW EL JEBEL          39.40N 107.11W
+10/26/2022  M6.2 INCH        EAGLE              CO   COCORAHS         
+
+            COCORAHS STATION CO-EG-37 CARBONDALE 5.7E. 
+
+0800 AM     SNOW             5 N REDSTONE            39.25N 107.24W
+10/26/2022  M3.6 INCH        PITKIN             CO   COCORAHS         
+
+            COCORAHS STATION CO-PT-16 REDSTONE 4.9 N. 
+
+0700 AM     SNOW             4 E CATTLE CREEK        39.46N 107.18W
+10/26/2022  M3.5 INCH        GARFIELD           CO   COCORAHS         
+
+            COCORAHS STATION CO-GF-49 CARBONDALE 4.6NNE. 
+
+0700 AM     SNOW             4 E VAIL                39.63N 106.29W
+10/26/2022  M3.0 INCH        EAGLE              CO   COCORAHS         
+
+            COCORAHS STATION CO-EG-53 VAIL 3.5 E. 
+
+0800 AM     SNOW             3 ESE GYPSUM            39.63N 106.90W
+10/26/2022  M2.8 INCH        EAGLE              CO   COCORAHS         
+
+            COCORAHS STATION CO-EG-64 GYPSUM 3.2 SE. 
+
+0700 AM     SNOW             4 W CATTLE CREEK        39.44N 107.31W
+10/26/2022  M2.7 INCH        GARFIELD           CO   COCORAHS         
+
+            COCORAHS STATION CO-GF-73 GLENWOOD SPRINGS 
+            7.2S. 
+
+0700 AM     SNOW             6 N SILT                39.63N 107.66W
+10/26/2022  M2.0 INCH        GARFIELD           CO   COCORAHS         
+
+            COCORAHS STATION CO-GF-81 RIFLE 8.9 NE. 
+
+0730 AM     SNOW             1 S MOUNT CRESTED BUTTE 38.89N 106.97W
+10/26/2022  M2.0 INCH        GUNNISON           CO   COCORAHS         
+
+            COCORAHS STATION CO-GN-66 MOUNT CRESTED 
+            BUTTE. 
+
+0700 AM     SNOW             2 NW GLENWOOD SPRINGS   39.57N 107.35W
+10/26/2022  M1.9 INCH        GARFIELD           CO   COCORAHS         
+
+            COCORAHS STATION CO-GF-40 GLENWOOD SPRINGS 
+            1.7NW. 
+
+0700 AM     SNOW             2 N STEAMBOAT SPRINGS   40.51N 106.82W
+10/26/2022  M1.0 INCH        ROUTT              CO   COCORAHS         
+
+            COCORAHS STATION CO-RT-52 STEAMBOAT SPRINGS 
+            2.5N. 
+
+
+&&
+
+$$
+

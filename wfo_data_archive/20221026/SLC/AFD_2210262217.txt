@@ -1,0 +1,153 @@
+350 
+FXUS65 KSLC 262217
+AFDSLC
+
+Area Forecast Discussion
+National Weather Service Salt Lake City UT
+417 PM MDT Wed Oct 26 2022
+
+.SYNOPSIS...A cold front will progress through the remainder of
+the area through Thursday morning bringing mountain snow, the 
+potential for lake effect, and colder temperatures. High pressure
+will build into the region behind this system and remain in place
+into early next week. 
+
+&&
+
+.SHORT TERM (through 12Z/6AM Friday)...Current water vapor
+satellite imagery shows a well defined low pressure system
+centered over southeastern Idaho, with the associated cold frontal
+boundary/ cloud shield draped over the northern half of Utah/
+western half of Wyoming. This frontal boundary is expected to
+continue pushing southward through the overnight hours, which will
+begin to generate enhanced flow through north-south oriented
+canyon areas. In particular, Black Ridge Canyon in Washington
+County will see the strongest winds. Winds in this area will begin
+to pick up around 11PM, peaking around 3-4AM with gusts up to
+50-55mph, then continue gusting upwards of 45-50mph through the
+mid morning. A wind advisory will go into effect starting at 11PM
+for lower Washington County and will expire at noon. Chances are,
+this advisory will be allowed to end early.
+
+More importantly, this trough/ storm system moving through the
+region has brought a round of initially hard hitting 
+precipitation across portions of northern Utah where lightning and
+small hail/ graupel were observed. These more intense showers 
+were almost entirely tied to the passing of the frontal boundary, 
+and now we're beginning to transition to more of post-frontal 
+instability showers and orographically enhanced precipitation. 
+With the coldest 700mb air beginning to settle into the region, 
+higher elevation snow ratios will begin to increase substantially,
+allowing additional snow accumulations to really stack up 
+(especially in those areas favored in northwesterly flow). A 
+winter weather advisory remains in effect through 6AM for the 
+northern Utah mountains, with additional accumulations of 3-7 
+inches anticipated. 
+
+As noted, the coldest 700mb temperatures are beginning to filter
+into the region, which will help lower snow levels to valley
+floors overnight. That said, a majority of the upper support will
+be downstream of the area so widespread valley snowfall is not
+anticipated. What is anticipated, however, is the potential for
+lake effect snowfall off the Great Salt Lake. Given that the GSL 
+temperature is sitting right around 14C and the H7 airmass will be
+around -10 to -11C, we'll have a nearly 25C temperature difference
+between the two... certainly enough instability to kick off
+convection over the lake. That said, there is little agreement
+amongst hi-res guidance on location. timing, and duration of any
+lake effect convection. Based on BUFR soundings, the greatest
+instability and wind alignment looks to occur between ~10-11PM and
+4-5AM. Initially starting with potential in the western Salt Lake
+Valley, overhead winds will become more northerly after ~2AM and
+will shift the potential lake effect convection to the eastern
+Tooele Valley. Snow accumulations for areas under more intense
+snow showers could see up to 2 inches, which may create winter
+driving conditions for the early morning commute along I-80
+between Tooele and Salt Lake City. Instability will diminish after
+~4AM as upper subsidence and dry air begin to intrude aloft. That
+said, with enough low level moisture and instability, lake effect
+convection could continue through the mid-morning hours,
+particularly for eastern Tooele Valley.
+
+Lastly, with the H7 airmass expected to be in the -10 to -11C
+range overnight, low temperatures along the Wasatch Front are
+expected to be below 32F... which will be the first time this
+season for much of the Wastach Front. A hard freeze warning is in
+effect from 9PM to 9AM for the Wastach Front from Nephi through
+North Ogden. There is potential for lower level cloud cover to
+stick around in these areas, especially under lake effect
+precipitation, which could keep temperatures warmer than forecast.
+Tomorrow night looks to be much more clear, bringing higher
+confidence in hard freeze conditions.
+
+Otherwise, tomorrow will largely just feature lingering lake
+effect snow showers potentially through the mid-morning hours and
+daytime high temperatures about 5-10 degrees cooler.
+
+
+.LONG TERM (after 12Z/6AM Friday)...Mid level ridging in place at
+the beginning of the long term period will give way to a 
+predominantly westerly flow across the region this weekend, as 
+indicated by global ensemble means. A couple of weak embedded 
+waves within this flow will bring periods of increased mid/upper 
+level cloud cover, and may keep temperatures suppressed a bit. 
+Late in the weekend into early next week, ridging off the CA coast
+will begin to build inland. The net result across the forecast 
+area will be gradual height rises with warming aloft. Overall have
+trended away from bias-corrected temperatures through early next 
+week, and toward raw model guidance which keeps temperatures 3-5 
+degrees cooler. 
+
+Consensus among ensemble guidance continues to advertise a deep 
+trough across the region toward the end of the long term period. 
+However the recent trend has been to delay this feature 12-24 hours 
+with each model suite. As such, confidence will remain low in terms 
+of timing, as well as whether this feature materializes at all, 
+until the models exhibit better temporal agreement. 
+
+&&
+
+.AVIATION...KSLC...Scattered SHRA will continue then SHRASN after 
+23z. The exact timing of SHSN is still fairly uncertain, but is most 
+likely between 03-06z. Overall, precipitation coverage will decrease 
+after 03z. However, lake-effect snow over the west Salt Lake Valley 
+may cause periods of SHSN or VCSH mainly between 04-10z. There is a 
+40% chance of MVFR VIS/CIGs or 15% chance of IFR VIS during this 
+time. Light southeasterly flow is likely to prevail between 12-17z, 
+but will be VRB at times during the overnight hours.
+
+.REST OF UTAH AND SOUTHWEST WYOMING...Gusty northwest flow will 
+continue along the front as it moves roughly north to south through 
+the area. Highest winds are expected just downwind of the Central 
+Mtns and through Black Ridge Canyon (after 05z) between KCDC and 
+KSGU. Scattered rain/snow showers will continue to move south along 
+the front, and are not expected to reach as far south as KBCE. 
+Mountain obscuration is likely across northern and central UT. IFR 
+VIS/CIGs are possible overnight, especially across higher 
+elevations. Very isolated thunder is possible along the front.
+
+&&
+
+.SLC WATCHES/WARNINGS/ADVISORIES...
+UT...Hard Freeze Warning from 9 PM this evening to 9 AM MDT Thursday 
+     for UTZ104>106.
+
+     Winter Weather Advisory until 6 AM MDT Thursday for UTZ110>112.
+
+     Wind Advisory from 11 PM this evening to noon MDT Thursday for 
+     UTZ123.
+
+WY...None.
+&&
+
+$$
+
+Webber / Seaman / Cunningham
+
+For more information from NOAA's National Weather Service visit...
+http://weather.gov/saltlakecity
+
+For frequently asked questions about the Area Forecast Discussion
+visit...
+http://weather.gov/saltlakecity/general/afd_faqs.php
+

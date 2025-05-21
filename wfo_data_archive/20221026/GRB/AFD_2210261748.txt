@@ -1,0 +1,80 @@
+745 
+FXUS63 KGRB 261748
+AFDGRB
+
+Area Forecast Discussion
+National Weather Service Green Bay WI
+1248 PM CDT Wed Oct 26 2022
+
+Updated aviation portion for 18Z TAF issuance
+
+.SHORT TERM...Today...Tonight...and Thursday
+Issued at 326 AM CDT Wed Oct 26 2022
+
+Rain associated with the low pressure system in Lower MI shifted 
+east of the region early this morning, leaving dry conditions
+over GRB CWA. Stratus clouds lingered along the lakeshore, and
+over much of north central and far northeast WI, with mainly high
+clouds over central WI and the Fox Valley. Northwest winds were
+gusting to 15 to 20 mph at times. The combination of clouds and
+winds kept the temperatures from falling much, with readings 
+mainly in the middle 30s to middle 40s.
+
+Clouds are expected to decrease from west to east across the
+southern part of the forecast area this morning. Stratus will 
+likely linger into early to mid afternoon across parts of north 
+central and far northeast WI, aided by northwest flow off Lake 
+Superior. Northwest winds will gust to 15 to 25 mph in most 
+areas, with the highest gusts near Lake Michigan. High
+temperatures should be in the lower to middle 40s in north
+central WI, and upper 40s to lower 50s elsewhere.
+
+High pressure will bring clear to partly cloudy skies tonight
+and Thursday. Cannot rule out the possibility of patchy fog
+late tonight, but given the dryness of the incoming air mass,
+will hold off on any mention at this time. Lows tonight
+should be in the 20s and lower 30s. Highs on Thursday will
+be a little milder, with readings in the 50s.
+
+.LONG TERM...Thursday Night Through Tuesday
+Issued at 326 AM CDT Wed Oct 26 2022
+
+A split flow regime will dominate the extended forecast Thursday
+night through Saturday, keeping quiet weather in place. At the 
+surface, high pressure will drift towards the eastern Great Lakes,
+shifting winds to the south during this period. Despite no major
+airmass exchanges, weak southerly flow and sunny skies will work
+together to bring high temperatures into the upper 50s and lower
+60s.
+
+Sunday, the southern stream system is expected to rejoin the main
+flow and bring a broad low pressure system south and east of our
+area. The forecast remains dry for this period, Sunday night into
+Monday, but an increase in cloud cover can be expected.
+
+As we get into next week, quiet conditions will persist but the
+overall pattern will begin building in amplitude again as an upper
+trough digs into western CONUS. This will keep the above normal
+temperatures in place for early next week as well.
+&&
+
+.AVIATION...for 18Z TAF Issuance
+Issued at 1247 PM CDT Wed Oct 26 2022
+
+MVFR clouds will dissipate from southeast to northwest during the
+afternoon hours, with mostly clear skies tonight through midday 
+Thursday. High clouds will arrive Thursday afternoon and evening. 
+Visibility will be good and surface winds light. 
+
+&&
+
+.GRB WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM.....Kieckbusch
+LONG TERM......Uhlmann
+AVIATION.......RDM
+

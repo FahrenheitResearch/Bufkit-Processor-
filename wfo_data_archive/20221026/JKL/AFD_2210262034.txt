@@ -1,0 +1,108 @@
+957 
+FXUS63 KJKL 262034
+AFDJKL
+
+AREA FORECAST DISCUSSION
+National Weather Service Jackson KY
+434 PM EDT Wed Oct 26 2022
+
+.SHORT TERM...(This evening through Thursday night)
+Issued at 434 PM EDT WED OCT 26 2022
+
+Short term is straight forward. High pressure will strengthen and
+build into the Great Lakes region over the next 24 hours. Seeing 
+a bit of short wave ridging aloft as well. Combined the area 
+should expect a period of strong subsidence across the area by 
+Thursday morning. In response, our stubborn SC deck will thin and 
+scatter out as the subsidence increases through the day Thursday. 
+In addition, believe model guidance is not handling surface dew 
+points and boundary layer moisture very well. While the exact 
+amount of cloud cover will be an important ingredient in 
+determining afternoon dew points for tomorrow, considering the 
+strength of subsidence being advertised in model soundings, 
+believe afternoon dew points will drop lower than current model 
+guidance would suggest due to mixing alone. Therefore undercut 
+model guidance by several degrees. While this will have some minor
+implications with fire weather, the area should remain above 
+critical parameters/thresholds as afternoon minimum RH values fall
+into the low to mid 30s.
+
+Winds will gradually shift out of the northeast late tomorrow 
+afternoon and Thursday night. This pattern is favorable for cloud 
+cover and as such redeveloped at least some partial cloud cover 
+back over the area Thursday night. With the center of surface high
+pressure well to our north, was hesitant to take overnight 
+temperatures too low for Thursday night into Friday morning. 
+
+.LONG TERM...(Friday through Wednesday)
+Issued at 400 PM EDT WED OCT 26 2022
+
+Key Messages:
+
+* Dry to start the period with seasonable temperatures expected.
+
+* A system approaches the area late in the week and into the weekend 
+  and will likely bring light rain to all of eastern Kentucky. Model 
+  spread has decreased substantially since yestreday's model runs.
+
+The 12Z model suite shows good agreement in the upper level pattern 
+to start the long term period. A deep closed low will sit over 
+central Texas with a narrow ridge located across the Southwest and 
+into the Rockies. The closed low will meander eastward into the 
+weekend before turning to the northeast late in the weekend. A short 
+wave trough enters the picture across the California coast Friday 
+night and will quickly progress eastward. This will combine with the 
+closed low over the Mississippi Valley to form a more open wave 
+pattern. the wave will continue to lift to the northeast as we enter 
+the next work week. 
+
+The global models show decent agreement in the development of this 
+pattern. Precipitation in the form of light rain will move in from 
+the southwest late Saturday night as the upper low moves to the 
+northeast along with the supported surface low. Have adjusted the 
+NBM PoPs during the Saturday timeframe down due to the model 
+guidance delaying the onset of precipitation. This has been a 
+consistent discrepancy between the global models and the NBM for 
+several days, though the difference has started to become less.
+
+Sensible weather will start out dry and close to seasonable with 
+temperatures in the mid to upper 60s expected Friday. Saturday is 
+also expected to be mostly dry with temps increasing into the upper 
+60s to around 70. Rain will move in from the southwest late Saturday 
+night and will continue through Sunday and into the work week. 
+Models have started to converge on the timing and track of the upper 
+level low this weekend. High temps will remain in the mid 60s for 
+the remainder of the period.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+ISSUED AT 128 PM EDT WED OCT 26 2022
+
+Forecast challenge will be the extensive cloud cover across the 
+region and prospects of dissipation. Guidance suggests MVFR based 
+cloud cover will remain in place across eastern Kentucky today and
+tonight, though some thinning and scattering out of these low 
+clouds may take place during the latter portions of the forecast 
+period, perhaps between sunrise and noon Thursday. Have no reason 
+to dispute this and thus stayed close to model guidance. That 
+said, cloud bases could lift just a bit overnight, after 06-09Z, 
+into VFR territory before they begin to thin and scatter out 
+Thursday morning. West-northwest winds around 10 kts will slacken 
+and veer with time to around 5 kts or less, becoming more 
+northerly through the overnight and eventually out of the 
+northeast by Thursday as strong high pressure builds into the 
+Great Lakes region. 
+
+&&
+
+.JKL WATCHES/WARNINGS/ADVISORIES...NONE.
+
+&&
+
+$$
+
+SHORT TERM...RAY
+LONG TERM...BATZ
+AVIATION...RAY
+

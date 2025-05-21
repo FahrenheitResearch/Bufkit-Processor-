@@ -1,0 +1,98 @@
+348 
+FXUS63 KICT 261929
+AFDICT
+
+Area Forecast Discussion
+National Weather Service Wichita KS
+229 PM CDT Wed Oct 26 2022
+
+.SHORT TERM...(This evening through Saturday night)
+Issued at 225 PM CDT Wed Oct 26 2022
+
+Current satellite water vapor imagery shows a healthy upper level 
+system over Idaho/western Montana moving southeast across the 
+Rockies. The good quality low-level moisture has been swept well 
+southward into the Gulf of Mexico from the previous weather system. 
+Scattered high based rain showers are still possible across mainly 
+central/south central Kansas on Thursday/Thursday night due to 
+strong upper dynamics associated with this weather system. The rain 
+chances will diminish for Kansas on Friday, as the projected path of 
+this system by the models dives south of the area. 
+
+We could see some light rain showers possibly return to parts of far 
+southern/southeast Kansas for Friday night-Saturday night, 
+especially if models shift the track a bit northward like some of 
+the latest trends suggest. In addition, the clouds wrapping around 
+the north side of this system could also hinder day-time heating 
+across southern Kansas for Friday and Saturday. 
+
+.LONG TERM...(Sunday through Wednesday)
+Issued at 225 PM CDT Wed Oct 26 2022
+
+Models show decaying upper level system moving slowly eastward into 
+Missouri on Sunday, with some possible residual light rain affecting 
+far southeast Kansas during the day on Sunday. Otherwise a gradual 
+warming trend along with dry weather conditions looks to prevail 
+across the central plains for Monday-Wednesday next week. Above 
+normal daytime highs are likely across central and southeast
+Kansas.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1200 PM CDT Wed Oct 26 2022
+
+VFR conditions expected to prevail thru the forecast valid period
+with low level wind shear tonight across parts of central Kansas. 
+Southeast surface flow will increase this afternoon into midday 
+on Thursday to the east of a deepening lee side trof in response 
+to an upper shortwave advancing toward the Rockies. The developing
+nocturnal low level jet will result in LLWS for the higher 
+terrain of central Kansas, including the KRSL/KGBD terminals 
+tonight. Otherwise, a gradual increase in high level saturating to
+a mid-level cloud deck is expected into Thursday morning. 
+
+KED 
+
+&&
+
+.FIRE WEATHER...
+Issued at 225 PM CDT Wed Oct 26 2022
+
+Very high grassland fire danger will affect parts of south 
+central Kansas until sunset today. Meanwhile fire weather risk 
+will be low from Thursday-Monday across the entire area, however 
+increasing south winds combined with warmer temperatures look to 
+elevate grassland fire risk into the very high category for 
+Tuesday- Wednesday afternoons next week.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Wichita-KICT    44  62  46  63 /   0  30  30  10 
+Hutchinson      44  61  43  64 /  10  40  30   0 
+Newton          44  61  44  63 /   0  40  30   0 
+ElDorado        44  62  43  63 /   0  20  30   0 
+Winfield-KWLD   44  64  46  63 /   0  20  30  10 
+Russell         43  58  41  64 /  20  40  30   0 
+Great Bend      44  60  41  63 /  20  30  30   0 
+Salina          45  60  43  64 /  10  40  30   0 
+McPherson       44  61  43  63 /  10  40  30   0 
+Coffeyville     42  65  44  63 /   0   0  20  10 
+Chanute         43  63  43  63 /   0   0  10   0 
+Iola            42  62  41  64 /   0   0  10   0 
+Parsons-KPPF    43  64  44  63 /   0   0  10  10 
+
+&&
+
+.ICT WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...CDJ
+LONG TERM...CDJ
+AVIATION...KED
+FIRE WEATHER...CDJ
+

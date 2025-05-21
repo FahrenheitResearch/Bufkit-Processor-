@@ -1,0 +1,147 @@
+184 
+FXUS61 KGYX 262001
+AFDGYX
+
+Area Forecast Discussion
+National Weather Service Gray ME
+401 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Unsettled, warm, and at times foggy conditions prevail through 
+tonight. Low pressure will move northward through the Gulf of
+Maine through tonight, potentially bringing heavy rainfall 
+across portions of the forecast area, especially the Maine
+Midcoast. A cold front presses across the area on Thursday, 
+bringing cooler and drier conditions for the end of the week and
+through the weekend.
+ 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Heaviest rain associated with sfc low moving N through the Gulf
+of ME is now mostly in ern zones. As the wave briefly
+intensifies into early evening, this band becomes the focus for
+some heavy rain late today, into early evening, so Flood Watch
+remains for this area, heaviest rain will be right around Pen
+Bay and points N, but may end up mostly to the east of the CWA,
+but all this should end by 00Z. To the west, could start seeing
+some breaks of sun in the CT vly before sunset, but otherwise
+look for low clouds to hold through the evening with fog
+redeveloping in many. %00 MB trough axis crosses the CWA around
+midnight to 06Z, so will start seeing some thinning of the fog
+in the pre-dawn in some areas, but any fog will quickly break up
+after sunrise and W winds begin to pick up. Lows range from the
+low 50s in the N and W to the upper 50s on the coast and in the
+E.  
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+ Thursday will see increasing W winds and clearing skies early.
+W-NW winds will gust to 20-30 mph at times. Upslope clouds will
+linger in the mtns, but should begin to diminish in the 
+afternoon. Mainly sunny skies expected in srn NH and the coastal
+plain of ME. Highs range from the mid 50s in the mtns to the 
+mid to upper 60s on the coast and in srn NH. 
+
+Winds will diminish Thu night, but light NW flow will persist in
+all but the most sheltered areas. Lows range from the upper 20s
+in the N to the upper 30s in the S. 
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Broad high pressure will further build into the Northeast U.S. on 
+Friday, eventually settling overhead Friday night and through the 
+weekend. The very dry and subsident airmass provided by this high 
+will give us a period of dry weather and generally sunny conditions 
+through Saturday, although an upper jet will bring some high clouds 
+on Friday. Sunday should start off mostly sunny, but we should start 
+seeing an increase in cirrus later in the day well ahead of an upper 
+trough moving toward the Great Lakes and Ohio Valley.
+
+Friday will be the cooler of the days with highs in the mid 50s, and 
+then temperatures will warm to the upper 50s Saturday and lower 60s 
+for Sunday. Very dry air in place and light winds will bring good 
+radiational cooling conditions at night as well and have undercut 
+the NBM guidance for this reason. Low temperatures Friday night are 
+expected to range from the mid 20s to lower 30s, except a few 
+degrees warmer toward the immediate coast. 
+
+The weather pattern turns more unsettled next week as the previously 
+mentioned trough moves across the Great Lakes/Ohio Valley and toward 
+the Northeast. After guidance seemingly trended drier yesterday, it 
+has gone in the opposite direction with showing another anomalously 
+moist airmass overspreading the region. So, not surprisingly, rain 
+chances have followed the trend of the previous shift by being 
+bumped up for Monday-Tuesday, but timing is still uncertain. The GFS 
+has a more progressive upper air pattern and has an earlier onset 
+and end to the precip while the ECWMF is slower with it now showing 
+the low becoming cutoff. For now will show diminishing rain chances 
+toward the middle of next week, but these will be need to raised if 
+there is a consistent trend in the models for a slower progression 
+of the trough. 
+
+&&
+
+.AVIATION /20Z WEDNESDAY THROUGH MONDAY/...
+Short Term...IFR-LIFR expected to return this evening to all but
+KHIE/KLEB, which will be MVFR. Some improvement could occur late
+tonight, but, unlike the last 2 days, conditions should quickly
+improve to VFR after sunrise. S-SW wind gusts of 20-25 kt are
+expected Thu afternoon. NW flow Thu night, should limit fog to
+only the most sheltered areas, so it may be possible at
+KHIE/KLEB. 
+
+Long Term...Other than some possible valley fog at LEB, high 
+pressure will bring primarily VFR conditions Friday through Sunday. 
+As we get into early next week, moisture and rain chances will be on 
+the increase as well as the potential for fog and low stratus. 
+
+&&
+
+.MARINE...
+Short Term...Winds and seas increase to SCA levels Thu in 
+association with a cold front, and continue into Thursday
+evening. 
+
+Long Term...SCA conditions will linger into early Friday, but winds 
+and seas will diminish through the day as high pressure settles over 
+the region. High pressure will remain overhead through this 
+weekend before sliding offshore early next week allowing winds to 
+become more onshore. SCA conditions are not expected from late 
+Friday into early next week.  However, once we get into early next 
+week, showers and fog will be possible across the waters. 
+
+&&
+
+.HYDROLOGY...
+A Flood Watch continues for the Maine Midcoast northward into 
+portions of central ME through early this evening. We are 
+expecting that an additional 1 to 1.5 inches of rain combined 
+with rainfall that has fallen already along with leaf-clogged 
+storm drains will cause areas of flooding, especially the urban 
+variety. This could occur outside the flood watch area too 
+depending on if and where heavy bands of showers develop.
+ 
+
+&&
+
+.GYX WATCHES/WARNINGS/ADVISORIES...
+ME...Flood Watch until 9 PM EDT this evening for MEZ014-021-022-
+     025>028.
+NH...None.
+MARINE...Small Craft Advisory from 4 AM Thursday to 11 AM EDT Friday 
+     for ANZ150-152-154.
+     Small Craft Advisory from noon Thursday to midnight EDT 
+     Thursday night for ANZ151-153.
+
+&&
+
+$$
+
+NEAR TERM...Cempa
+SHORT TERM...Cempa
+LONG TERM...Combs
+

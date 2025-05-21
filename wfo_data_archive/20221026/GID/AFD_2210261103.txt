@@ -1,0 +1,83 @@
+768 
+FXUS63 KGID 261103
+AFDGID
+
+AREA FORECAST DISCUSSION
+National Weather Service Hastings NE
+603 AM CDT Wed Oct 26 2022
+
+...AVIATION UPDATE...
+
+.DISCUSSION...(Today through Tuesday)
+Issued at 306 AM CDT Wed Oct 26 2022
+
+Key Messages:
+
+* The best chance for precipitation across the area will be
+  between tonight and Friday morning. Precipitation amounts 
+  across the area are expected to be only 0.25" or less, however.
+
+* Near critical fire weather conditions are possible this
+  afternoon in our south and southwest.
+
+Despite high pressure in place at the surface across the area,
+upper level shortwave activity may provide the impetus for a few
+showers to make their way northeast across the forecast area
+today. This may end up being just an increase in cloud cover
+and/or sprinkles, but elected to include a slight chance based on
+CAM guidance. As this pushes off to the northeast, a surface low
+over Colorado will gradually move southeast toward Oklahoma, while
+an upper low pushes southeast across the Rockies tonight.
+
+As this low moves into New Mexico and Texas it will begin to be
+cutoff from the main flow, so the central Plains will not receive
+nearly as much moisture as areas further south. However, an upper
+trough will extend through the Plains region Thursday, bringing
+the best chance of rain to our forecast area Thursday and into
+Thursday evening. There are a couple of models that keep this
+system around into Friday morning, but even worse, the GFS keeps 
+nearly all of the precipitation well to the south leaving us 
+nearly dry. For this forecast, decided to go with consensus with 
+a moderately high chance of rain but low accumulations...most if 
+not all of the area can expect to see 0.25" or less of rain from 
+this system. Winds will be breezy but not really strong with this 
+system...out of the southwest at 20 to 30 mph as the system moves 
+through.
+
+After Friday, while there are some signals in the long term model
+guidance that indicate the possibility of another system late 
+next week, this will be a dry forecast for now. Temperatures 
+Friday through the weekend will top out in the 60s before 
+potentially a brief warm up into the 70s early next week.
+
+
+
+&&
+
+.AVIATION...(For the 12Z KGRI/KEAR TAFS through 12Z Thursday)
+Issued at 549 AM CDT Wed Oct 26 2022
+
+SFC high pressure will keep the winds fairly light this morning
+until it moves a little farther east and allows for southeasterly
+flow over the TAF sites around mid-morning. The gradient will
+tighten a little as the SFC low moves into the plains so added
+gusts to the afternoon forecast. Debated about keeping in the 
+gusts this evening and looking at various models decided to go 
+worse case and keep them in. Also kept LLWS in the TAFs as models
+continue showing a LLJ setting up over the TAF sites this evening.
+TAF sites could see a sprinkle or two mid-day, and chances look
+better this evening so put a mention of VCSH for now. Better
+chances for -SHRA will be near the end of the TAF period.
+
+&&
+
+.GID WATCHES/WARNINGS/ADVISORIES...
+NE...NONE.
+KS...NONE.
+&&
+
+$$
+
+DISCUSSION...Hickford
+AVIATION...Beda
+

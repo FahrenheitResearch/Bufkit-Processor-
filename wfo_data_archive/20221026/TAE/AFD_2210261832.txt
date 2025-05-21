@@ -1,0 +1,129 @@
+881 
+FXUS62 KTAE 261832
+AFDTAE
+
+Area Forecast Discussion
+National Weather Service Tallahassee FL
+232 PM EDT Wed Oct 26 2022
+
+...New NEAR TERM, SHORT TERM, LONG TERM, AVIATION, MARINE, FIRE WEATHER, HYDROLOGY...
+
+.NEAR TERM...
+(Through Thursday)
+Issued at 219 PM EDT Wed Oct 26 2022
+
+Surface high pressure will settle into the Great Lakes on 
+Thursday, which coupled with brief ridge building across the 
+Southeast will lead to subsidence aloft over the region across the
+upper levels. This will subsequently lead to clear skies and dry 
+conditions areawide on Thursday. With the cold front pushing 
+through the area last night and this morning, cooler temperatures 
+will not be noticeable until Thursday morning, as low temperatures
+are forecast to fall into the mid 40s to low 50s areawide. High 
+temperatures on Thursday will be near average, with temperatures 
+climbing into the upper 70s to near 80 for some.
+
+&&
+
+.SHORT AND LONG TERM...
+(Thursday night through Tuesday)
+Issued at 219 PM EDT Wed Oct 26 2022
+
+We will briefly be under the influence of upper-level ridging 
+heading into the weekend before another trough makes its way east.
+The shortwave trough will drop south into Texas and march 
+eastward over the weekend, increasing our rain chances as the 
+associated cold front draws closer; although, the trough is 
+expected to lift north before it reaches our CWA. There is 
+uncertainty regarding the timing and impacts of this system but, 
+as of now, severe weather is not expected. PoPs begin to increase 
+on Saturday ranging from 40-60% and decreases through the Sunday. 
+The last of the system should push through early Monday with PoPs 
+of around 30%.
+
+After the front clears through, the rain chances go back down to 
+near zero as upper level ridging will return following the cold 
+front with dry northwesterly flow at the surface and southwesterly
+flow aloft. Afternoon temperatures will range in the upper 
+70s/low 80s and overnight temperatures will be in the 50s, warming
+to the low-mid 60s around the I-75 corridor by mid-week. 
+
+
+&&
+
+
+.AVIATION...
+(18Z TAFS)
+Issued at 219 PM EDT Wed Oct 26 2022
+
+All TAF sites have returned to VFR conditions so far this 
+morning. These conditions are forecast to remain through the TAF 
+period. Light northwesterly winds at around 5 to 10 mph will 
+persist through the overnight hours, and will transition to 
+northeasterly winds by the morning hours oh Thursday.
+
+&&
+
+.MARINE...
+Issued at 219 PM EDT Wed Oct 26 2022
+
+Fresh breezes of northerly/northwesterly flow will continue 
+through tonight and calmer winds and seas are forecast to return 
+by Thursday with northeasterly flow as high pressure settles over 
+the Mid- Atlantic states. Another cold front will push into the 
+region by the weekend, which may lead to cautionary to advisory 
+conditions returning to all marine zones once again. 
+
+&&
+
+.FIRE WEATHER...
+Issued at 219 PM EDT Wed Oct 26 2022
+
+Dry conditions are expected Thursday through Friday night with 
+another low pressure system bringing another chance for rain 
+expected this weekend. Low dispersions are forecast, especially 
+across the Florida Panhandle on Thursday from light winds.
+
+&&
+
+.HYDROLOGY...
+Issued at 219 PM EDT Wed Oct 26 2022
+
+Rainfall totals from today topped at around a quarter of an inch.
+Beyond today, the next frontal passage and chances for rainfall 
+will be this weekend. Rain totals for the next system look to be 
+about half an inch during the weekend for our western counties 
+with less amounts to the east.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Tallahassee   50  80  58  80 /   0   0   0  10 
+Panama City   51  77  58  79 /   0   0   0  10 
+Dothan        46  76  54  77 /   0   0   0  10 
+Albany        48  77  55  76 /   0   0   0  10 
+Valdosta      49  80  58  78 /   0   0   0  10 
+Cross City    54  83  60  84 /   0   0  10  10 
+Apalachicola  54  75  60  77 /   0   0   0  10 
+
+&&
+
+.TAE WATCHES/WARNINGS/ADVISORIES...
+FL...High Rip Current Risk until 2 AM EDT Thursday for FLZ108-112-114-
+     115.
+
+GA...None.
+AL...None.
+GM...None.
+&&
+
+$$
+
+NEAR TERM...Bunker
+SHORT TERM...Montgomery
+LONG TERM....Montgomery
+AVIATION...Bunker
+MARINE...Montgomery
+FIRE WEATHER...Montgomery
+HYDROLOGY...Montgomery
+

@@ -1,0 +1,113 @@
+301 
+FXUS63 KLBF 260527
+AFDLBF
+
+Area Forecast Discussion
+National Weather Service North Platte NE
+1227 AM CDT Wed Oct 26 2022
+
+...UPDATE FOR AVIATION...
+
+.SHORT TERM...(This evening through Thursday night)
+Issued at 229 PM CDT Tue Oct 25 2022
+
+Key Messages: 
+
+- Tranquil conditions with temperatures at or just below normal will 
+continue through tonight.
+
+- Next chance for precipitation across the area is Wednesday through 
+Thursday evening.
+
+Currently, an upper level trough is situated across northern 
+Manitoba extending south across the Upper Midwest. South of this 
+feature, an upper level low pressure system is centered over the 
+south-central CONUS. Near zonal flow aloft persists across the High 
+Plains into the PNW region. At the surface, high pressure overhead 
+has lead to mostly clear skies and tranquil conditions across 
+western and north central Nebraska today.
+
+A rather quiet night is in store for the region as high pressure 
+continues through tonight. Clouds will increase through the 
+overnight hours across western and southwestern portions of the 
+forecast area, leading to slightly warmer temperatures ranging from 
+30 to 35 degrees. Clear skies are expected over the Sandhills and 
+north central Nebraska and will lead to good radiational cooling 
+with temperatures falling into the 20s. These low temperatures are 
+at or just below the climatological normal for the end of October.
+
+On Wednesday, an upper level trough will form across the upper PNW 
+tracking into the Idaho Panhandle. Some model guidance hints at the 
+potential for precipitation across the forecast area as early as 
+late Wednesday morning through Wednesday evening. This is in advance 
+of the approaching disturbance which is downstream of the main upper 
+level trough. The deterministic model guidance suggests that mid-
+level warm air advection combined with mid-level frontogenetical 
+forcing will push through the forecast area Wednesday morning into 
+the afternoon. This may lead to enough lift to produce very light 
+showers across the Sandhills into portions of north central 
+Nebraska. A point of uncertainty with this potential is that some 
+difference exists between models in respect to the low level 
+saturation and associated QPF. Have decided to introduce limited 
+PoPs at generally around 20% for Wednesday afternoon. If anything 
+does develop, precipitation accumulations will remain limited at 
+less than maybe a few hundreths of an inch. 
+
+As the aforementioned upper level trough digs south into the 
+Southern Rockies and tracks into the Southern Plains, cyclogenesis 
+creates an associated surface low pressure in the same location. An 
+inverted surface trough will extend northeastward which will 
+introduce continued precipitation chances across portions of the 
+forecast area. Model guidance suggests another band of mid-level 
+frontogenetical forcing and mid-level temperature advection to push 
+across the forecast area. Additionally, the flow aloft transitioning 
+to south-southwesterly across the Plains will aid in moisture 
+advection across the forecast area. All of this combined leads to a 
+chance of light rainfall Wednesday night through Thursday evening. 
+Confidence wanes some in the precipitation potential as a whole due 
+to trends pointing at this system having rather limited moisture 
+which limits the overall precipitation potential. While nearly the 
+entire forecast area could see some light rain, the best chance for 
+any rainfall is east of North Platte through Ainsworth line where 
+the most favorable moisture exists. QPF remains rather limited 
+though with amounts less than a quarter of an inch. Precipitation 
+will be quick to exit the region Thursday evening as the upper level 
+low tracks east across Texas and Oklahoma. 
+
+.LONG TERM...(Friday through Tuesday)
+Issued at 229 PM CDT Tue Oct 25 2022
+
+Quiet and dry conditions are expected this weekend into early 
+next week with temperatures gradually warming to above normal. 
+High temperatures will range from the high 50s to around 70 
+degrees through the early part of next week. These temperatures 
+are 5 to 10 degrees above the climatological normal for the end of
+October. This forecast is in agreement with the latest CPC 6-10 
+Temperature Outlook which favors above normal temperatures through
+the period. 
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1224 AM CDT Wed Oct 26 2022
+
+VFR is expected through Wednesday night for western and north
+central Nebraska terminals. A couple aviation weather concerns
+exist, however. South/southeast winds strengthen midday with gusts
+around 20 kts. Cloud cover will also increase and ceilings will
+gradually lower, with scattered rain showers developing in the
+evening. The greatest potential comes across the north (KVTN)
+through 27/06z. 
+
+&&
+
+.LBF WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+SHORT TERM...Viken
+LONG TERM...Viken
+AVIATION...Snively
+

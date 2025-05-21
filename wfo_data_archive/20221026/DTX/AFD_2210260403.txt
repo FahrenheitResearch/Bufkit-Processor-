@@ -1,0 +1,170 @@
+589 
+FXUS63 KDTX 260403
+AFDDTX
+
+Area Forecast Discussion
+National Weather Service Detroit/Pontiac MI
+1203 AM EDT Wed Oct 26 2022
+
+.AVIATION...
+
+Extensive mid level cloud with a few initial pockets of light 
+showers will mark the early morning hours, as moisture gradually 
+deepens in advance of an approaching low pressure system. A steady 
+decline in ceiling heights will then commence after 09-10z within 
+more widespread rainfall as the low lifts across the region. Initial 
+period of low VFR to MVFR emerges late tonight, with a window of IFR 
+and a modest reduction of visibility to accompany the heaviest 
+pockets of rain early Wednesday. Modest recovery back into MVFR as 
+winds shift to northwesterly Wednesday afternoon. Winds turning 
+gusty during the latter half of the day, peaking late afternoon and 
+early evening as precipitation exits eastward. Gusts in excess of 25 
+knots.  
+
+For DTW...Clear skies favored across the lowest 5000 ft prior to 09z 
+as drier low level conditions hold. A steady decline in cloud base 
+thereafter, with rain lending to eventual MVFR to IFR conditions 
+during mid-late morning hours. Extensive low stratus with pockets of 
+rain lasting into Thursday afternoon. Winds turning gusty from the 
+northwest during the afternoon. 
+
+ DTW THRESHOLD PROBABILITIES...
+
+* High in ceilings below 5000 feet late tonight through Wednesday.
+
+* Low in crosswind thresholds being exceeded Wednesday afternoon.
+
+&&
+
+.PREV DISCUSSION...
+Issued at 354 PM EDT Tue Oct 25 2022
+
+DISCUSSION...
+
+Cut-off/closed low well defined over Missouri this afternoon per 
+GOES imagery as the wave begins to lift northeastward, eventually 
+linking up with the amplifying northern stream longwave trough. 
+Ample cloud breaks and resident 12C H8 temps have generally allowed 
+highs to climb into the low-mid 70s today (+2 sigma above norms), 
+although a thickening cloud trend is underway as the main ThetaE 
+plume spills northeastward across Southeast Michigan. Forecast 
+soundings suggest low-level dryness prohibits rainfall until after 
+dark (or well after) while current KDTX reflectivity highlights 
+areas of virga above 7 kft AGL, therefore shifted PoPs back until 
+after 00Z with a steady eastward expansion through 06Z. Latest 
+CAM/Hi-Res suite reveals the axis of heaviest rain should set up 
+west of the CWA late tonight while the LLJ is at its strongest (30-
+40 knots in the lowest 3 kft AGL) and the system's cold front slows 
+(or briefly stalls) across western Lower. Expanding coverage of 
+showers arrives late tonight as activity blossoms overhead once 
+saturated isentropic ascent ramps up in the lower layers, 
+particularly west of US-23. Greater uncertainty exists for the far 
+eastern portions of the region, therefore made a few notable changes 
+to inherited categorical PoPs by decreasing wording to Chance until 
+closer to sunrise east of M-53 as areas along the south-central 
+Great Lakes waterways stay dry through the night.
+
+Rain showers will be on-going Wednesday morning as the surface 
+reflection lifts across the Tri-State border. Strongest local 
+dynamics aligned with the core FGEN region midday Wednesday as the 
+cold front works in. Expect at least a few moderate intensity 
+showers during the late AM and early PM hours, although the 
+thermodynamic environment will not supportive of thunder given 
+formidable static stability from warm layer aloft. Showers could 
+still be gusty at times, especially INVOF the FROPA with peak winds 
+of 25-35 mph supported by mechanical mixing. A decent gradient wind 
+sets in behind the front as southerly winds veer northwesterly under 
+a CAA regime. A second round of more focused showers is likely 
+during the afternoon with trailing deformation, although rainfall 
+rates should be a lighter variety. Moisture progs depict a very 
+sharp boundary Wednesday evening along the frontal slope that 
+ensures not only the end of precip by 00Z, but very aggressive 
+column drying with wake subsidence. PWATs collapse from around 1.25 
+inches earlier in the day to just 0.25 inches with impressive 
+dewpoint depressions throughout the mid levels. Main forecast 
+question Wednesday night tied to the degree and duration to which 
+shallow stratocumulus layer persists as models offer a range of 
+solutions from SKC to OVC, at least until lower tropospheric winds 
+veer more northerly. Airmass change lends a chilly night, with lows 
+near the freezing mark outside urban landscapes.
+
+Low-level anticyclone centers over the Great Lakes Thursday ensuring 
+dry, sunny, and cool conditions with light flow veering ENE through 
+the course of the day. Diurnal highs a few degrees short of normal, 
+in the low-mid 50s. Gradual warming trend gets underway early this 
+weekend with a minor recovery into the normal range amidst 
+southeasterly return flow off departing high pressure and benign 
+zonal mid-level winds. Warmer Saturday on the periphery of building 
+Southeast/Carolina ridge that lifts highs to around 60F with no 
+precipitation concerns in light of subsaturated air below 20 kft 
+AGL. Monitoring the evolution of another cutoff low north of the 
+Gulf Coast Sunday night into Monday, assuming the wave opens up as 
+it takes a more northeasterly track and the CVA can setup 
+along/north of the Ohio Valley.
+
+MARINE...
+
+Modest south-southeast flow continues into tonight ahead of 
+approaching low pressure tracking out of the ArkLaTex region. This 
+low rides along the remnant cold front, currently sitting over the 
+western Great Lakes, into the central lakes daytime Wednesday 
+bringing widespread showers to the area. Trends have continued to be 
+favorable for sufficient gusts to gales latter half of Wednesday to 
+warrant a Gale Warning for most of Lake Huron as stronger 
+northwesterly flow develops (up around 35kts) on the backside of the 
+system. Winds then rapidly weaken daytime Thursday as strengthening 
+high pressure tracks directly over the central Great Lakes. Region 
+remains of the influence of high pressure for the remainder of the 
+week into the weekend.
+
+HYDROLOGY...
+
+A mature low pressure system lifts into the region overnight 
+followed by a cold frontal passage Wednesday afternoon. Coverage of 
+showers increases from southwest to northeast tonight becoming more 
+widespread Wednesday morning and early afternoon. With PWATs up to 
+1.25 inches, could see a few showers producing periods of heavy 
+rainfall, although moreso for areas along/north of I-69 where a 
+stronger interaction is expected with the cold front. Those 
+locations could receive rainfall totals near 0.75 inches. Showers 
+expected to start later for areas further to the southeast limiting 
+totals to around 0.25-0.50 inches. Minor flooding of low-lying areas 
+and poor draining zones will be possible in isolated to scattered 
+fashion dependent on if any moderate to heavy showers train. Drier 
+weather then settles in for the rest of the week and through much of 
+the weekend.
+
+&&
+
+.DTX WATCHES/WARNINGS/ADVISORIES...
+MI...None.
+Lake Huron...Gale Warning from noon today to 10 PM EDT this evening for LHZ361-
+     362.
+
+     Gale Warning from 2 PM this afternoon to 4 AM EDT Thursday for 
+     LHZ363-441-442-462-463.
+
+     Small Craft Advisory from 2 PM this afternoon to 4 AM EDT Thursday 
+     for LHZ421-443.
+
+     Small Craft Advisory from 2 PM this afternoon to 10 PM EDT this 
+     evening for LHZ422.
+
+Lake St Clair...Small Craft Advisory from 4 PM this afternoon to 10 PM EDT this 
+     evening for LCZ460.
+
+Michigan waters of Lake Erie...Small Craft Advisory from 4 PM this afternoon to 10 PM EDT this 
+     evening for LEZ444.
+
+&&
+
+$$
+
+AVIATION.....MR
+DISCUSSION...KK 
+MARINE.......KDK 
+HYDROLOGY....KK
+
+You can obtain your latest National Weather Service forecasts online
+at www.weather.gov/detroit.
+

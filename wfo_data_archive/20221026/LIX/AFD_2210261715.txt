@@ -1,0 +1,163 @@
+102 
+FXUS64 KLIX 261715
+AFDLIX
+
+Area Forecast Discussion
+National Weather Service New Orleans LA
+1215 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(Today through Thursday)
+Issued at 355 AM CDT Wed Oct 26 2022
+
+Negatively tilted upper trough continues to move northeastward
+through the Ohio River Valley this morning. The next strong trough
+is well to the west, moving onto the Pacific Coast this morning.
+Yesterday's cold front is well to the east, near Fort Walton Beach
+at 3 AM. Most of the local area is as much as 20 degrees cooler 
+than 24 hours ago. Most locations are reporting temperatures in
+the 50s, with the exception of areas downwind of Lake
+Pontchartrain, where it's still in the 60s. Dew points generally
+mid 40s to lower 50s, again about 20 degrees lower than this time
+yesterday.
+
+Upper flow is expected to remain zonal across the area today and
+tonight before the Pacific Coast trough reaches the southern
+Rockies tomorrow. This will cause the upper flow to become
+southwesterly, and the surface flow easterly to southeasterly by 
+late in the day tomorrow. 
+
+Expect little or no cloud cover through the daytime hours
+tomorrow, although a few cirrus can't be ruled out late in the day
+tomorrow across the west. 
+
+With dry air in place and cold advection relaxing, will trend
+temperatures toward the warmer end of the guidance envelope, about
+a degree or so above the NBM deterministic numbers for highs.
+Overnight lows looked reasonable with the exception of the Pearl
+and Pascagoula River basins being a few degrees too warm in the
+NBM deterministics, and nudged those downward. The NBM 
+deterministic dew points were about midway between the NAM and 
+GFS MOS values today, which had about a 6-8F difference with NAM 
+higher, opted to stay pretty close to the NBM.
+
+&&
+
+.LONG TERM...
+(Thursday night through Tuesday)
+Issued at 355 AM CDT Wed Oct 26 2022
+
+The western trough that will be in the southern Rockies tomorrow
+afternoon will move eastward on Friday across Texas before
+tracking northeastward into northern Louisiana Saturday, the
+confluence of the Ohio and Mississippi Rivers as it weakens by 
+midday Sunday, and absorbed by a northern stream trough over the
+Great Lakes on Monday. There are minor timing (maybe 6 hours or
+so), strength and location differences between the global models,
+with the exception of the UKMET, which tracks the surface low 
+along Interstate 10 Saturday across our area. That is about 3 
+degrees of latitude further south than the other models. For now, 
+the NBM appears to be a decent compromise on timing, as it doesn't
+appear to have a large contribution from the UKMET.
+
+Precipitable water values near or below 0.50 inch today won't even
+start to increase until Thursday night, and won't even reach 1
+inch until midday Friday. Friday should see a gradual increase in
+high clouds, with ceilings dropping to perhaps 700 mb (10,000
+feet) late in the day. Rain chances will increase from the west by
+sunset Friday, but forecast soundings won't be supportive of
+thunder at that point.
+
+Precipitable water values reach perhaps 1.5 inches on Friday night
+into Saturday, but forecast soundings indicate that any threat of
+surface based convection is pretty low. Can't rule out some
+elevated convection late Friday night or Saturday morning before
+drying upper levels preclude even that by late in the day
+Saturday. Looks to be a decent opportunity for much needed
+rainfall with this system, around 1-1.5 inches (with locally 
+higher amounts), but nowhere near wiping out the rainfall deficit 
+that we've accumulated over the last 6 weeks or so. Much of the 
+area has seen less than 25 percent of normal rainfall over the 
+past month, and yesterday's rainfall in most areas will likely 
+evaporate today, if it hasn't already. 
+
+With the upper system to the north on Sunday, cyclonic flow will
+bring some low clouds to at least northern portions of the area,
+but there's essentially no moisture above 800 mb, so significant
+precipitation isn't in the picture at that point. Next southern
+stream system doesn't look to impact the local area until midweek
+next week. With current differences in the global solutions that
+far out, will ride with the NBM numbers. 
+
+Regarding temperatures, surprisingly little difference between
+ECMWF/GFS/NBM deterministic numbers for most of the long term
+period, no significant adjustments made to those. 
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1213 PM CDT Wed Oct 26 2022
+
+A dry and very stable airmass will remain in place through
+tomorrow. As a result, prevailing VFR conditions are expected at
+all of the terminals. Continued cold air advection over the Lake
+Pontchartrain will allow northeast winds to increase to 12 knots
+or greater late tonight into early tomorrow morning. Otherwise,
+no significant impacts to aviation operations are anticipated
+through tomorrow afternoon. 
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 550 AM CDT Wed Oct 26 2022
+
+VFR conditions through the period at all terminals. Northerly winds
+at KNEW should gradually ease below 15 knots in the next couple 
+hours. Could see a brief increase to 15 knots or higher again this
+evening there as cold advection may not have completely shut off
+by then. 
+
+&&
+
+.MARINE...
+Issued at 355 AM CDT Wed Oct 26 2022
+
+Plan to allow the Small Craft Advisory to expire on schedule at
+12z, and replace with Small Craft Exercise Caution headlines for
+all waters through 18z as conditions slowly relax. Caution
+headlines might be needed in the eastern waters late tonight
+before the cold advection relaxes completely. A couple of quiet
+days beyond that until the western system gets closer, and likely
+necessitates more headlines Friday night into Saturday. Winds at
+that time will turn onshore and increase to perhaps 20 knots on
+Saturday before conditions relax again on Sunday. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+MCB  45  75  49  76 /   0   0   0  30 
+BTR  48  77  52  77 /   0   0   0  50 
+ASD  45  77  50  79 /   0   0   0  30 
+MSY  56  75  58  77 /   0   0   0  30 
+GPT  50  75  53  77 /   0   0   0  20 
+PQL  45  75  51  77 /   0   0   0  10 
+
+&&
+
+.LIX WATCHES/WARNINGS/ADVISORIES...
+LA...None.
+GM...None.
+MS...None.
+GM...None.
+&&
+
+$$
+
+SHORT TERM...RW
+LONG TERM....RW
+AVIATION...PG
+

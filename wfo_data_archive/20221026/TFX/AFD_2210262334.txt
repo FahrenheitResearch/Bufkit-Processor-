@@ -1,0 +1,131 @@
+998 
+FXUS65 KTFX 262334
+AFDTFX
+
+Area Forecast Discussion
+National Weather Service Great Falls MT
+530 PM MDT Wed Oct 26 2022
+
+UPDATED AVIATION SECTION
+
+.SYNOPSIS...
+
+Snow showers across far southwest Montana will end this evening as
+a weather disturbance in southeast Idaho moves off into Wyoming.
+Dry and seasonably mild conditions are expected to follow through
+the weekend with gusty winds across the north-central MT plains
+and periods of strong winds likely along the Rocky Mountain Front. 
+
+&&
+
+.DISCUSSION...
+
+A shortwave trough continued to trek east across the Northern 
+Rockies today with an embedded mid level disturbance moving east 
+just south of the MT/ID border this afternoon. Snow showers will 
+generally remain confined to areas south of I-90 through early this 
+evening with skies already clearing this afternoon across much of
+central/north-central MT in the wake of this system. Through 6pm, 
+there will be enough instability for a few intense bursts of snow
+with some of the activity near the ID border before these showers
+end from W to E through the rest of this evening. 
+
+Attention then turns to the strong Pacific upper level jet 
+currently streaming into NW Canada and the increased westerly flow
+that develops across the Northern Rockies later tonight through 
+Friday as the upper jet sinks south to a position just north of 
+the US/Canadian border. Combination of strengthening surface high 
+pressure across the US Rockies and low pressure emerging east of 
+the Canadian Rockies by Thursday morning along with the increasing 
+westerly flow aloft will bring strong winds to areas along the 
+Rocky Mtn Front late tonight, spreading east into adjacent High 
+Plains areas Thursday morning and as far east as I-15 corridor in
+Toole county by late Thursday morning. Temperature/wind profiles 
+still support some isolated very strong gusts to around 80 mph 
+right along the Rocky Mtn Front Thursday morning with 60-70 mph
+gusts likely as far east as Cut Bank. A High Wind Warning
+continues for these areas with the start time moved to earlier
+Thursday morning for areas near Cut Bank. 
+
+A windy period is likely across much of the north-central MT plains 
+from late tonight through early next week as fast westerly flow 
+remains in place across the area. Overall wind gust speeds have 
+decreased some on Thursday for areas east of I-15, largely due to 
+the position of the upper jet and surface troughing in Canada 
+trending a bit further north. The High Wind Watch for Cascade and
+Judith Basin counties has been canceled with probabilistic 
+guidance now only indicating isolated areas of wind gusts in 
+excess of 55 mph in these areas. Still, widespread winds of 30-35
+mph with gusts of 40-50 mph will be quite windy for these areas.
+
+Friday through Monday period still looks dry and seasonably mild 
+with daytime temps in the 50s to around 60. Breezy to windy 
+conditions persist through the weekend across the plains with 
+potential for stronger winds to develop again late Sunday through 
+Monday as the next round of Pacific jet energy and upper 
+troughing move in from the NW. Statistical blended model guidance 
+continues to give greater than 50% probabilities for wind gusts in
+excess of 55 mph Sunday and Monday for areas along and west of 
+I-15 and across much of Cascade and Judith Basin counties. Looking
+ahead, long range multi-model ensembles unanimously support a
+deepening upper level trough in the western US by the middle of 
+next week with typical variance in the timing and amplitude of 
+troughing at this time range. While there is still considerable 
+uncertainty regarding details, a trend to below average temperatures
+and increasing chances for precipitation/snow is likely to begin 
+November. Hoenisch 
+
+&&
+
+.AVIATION...
+530 PM MDT Wed Oct 26 2022 (27/00Z TAF period)
+
+VFR conditions will mostly persist through at least the next 24 
+hours across North Central, Central, and Southwest Montana.
+
+A northwest flow aloft with a passing disturbance will keep skies 
+mostly cloudy along the Continental Divide and into Southwest 
+Montana through around 15Z, possibly with some mountain top 
+obscuring VFR ceilings. Areas of snow showers are also possible over 
+these same areas through around 06Z, possibly with brief periods of 
+MVFR conditions. Otherwise, skies will be partly cloudy with areas 
+of mid and high level cloudiness passing overhead.
+
+Gusty westerly winds will mostly decrease through 03Z, but they will 
+increase again first along the Rocky Mountain Front after 06Z and 
+spread southeast across the area through 18Z. Winds of 15 to 25 kt 
+with gusts up to 35 kt will be common over the plains after 15Z; the 
+strongest winds will be over the plains west of Interstate 15, where 
+they will increase to between 30 and 40 kt with gusts in excess of 
+50 kt. Mountain wave turbulence will be widespread across the area, 
+and low level wind shear will be common on the Rocky Mountain Front 
+as winds increase between 06Z and 18Z.
+-Coulston
+
+KWYS TAF will not be issued again until airport operations resume 
+next spring.
+
+Refer to weather.gov/zlc for more detailed regional aviation 
+weather and hazard information.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+GTF  29  50  35  53 /   0   0   0   0 
+CTB  28  46  32  53 /  10  10   0   0 
+HLN  29  51  28  51 /   0   0   0   0 
+BZN  20  47  19  49 /  10   0   0   0 
+WYS  11  34   9  40 /  60   0   0   0 
+DLN  17  42  20  45 /  20   0   0   0 
+HVR  30  53  35  55 /   0   0   0   0 
+LWT  24  48  30  55 /   0   0   0   0 
+
+&&
+
+.TFX WATCHES/WARNINGS/ADVISORIES...
+&&
+
+$$
+
+http://www.weather.gov/greatfalls
+

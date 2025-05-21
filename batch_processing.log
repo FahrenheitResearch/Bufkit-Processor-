@@ -1,0 +1,181 @@
+2025-05-21 14:56:06,089 - INFO - Starting complete batch pipeline
+2025-05-21 14:56:06,089 - INFO - Starting batch download process
+2025-05-21 14:56:06,090 - INFO - Total WFOs to download: 122
+2025-05-21 14:56:06,090 - INFO - Created 13 download batches of size 10
+2025-05-21 14:56:06,090 - INFO - Starting download batch 1/13 with 10 WFOs
+2025-05-21 14:56:06,090 - INFO - Starting download batch 2/13 with 10 WFOs
+2025-05-21 14:56:06,090 - INFO - Downloading data for WFO: ABQ
+2025-05-21 14:56:06,090 - INFO - Starting download batch 3/13 with 10 WFOs
+2025-05-21 14:56:06,091 - INFO - Downloading data for WFO: BOI
+2025-05-21 14:56:06,092 - INFO - Downloading data for WFO: CLE
+2025-05-21 14:56:09,890 - INFO - Downloading data for WFO: BOU
+2025-05-21 14:56:09,934 - INFO - Downloading data for WFO: CRP
+2025-05-21 14:56:10,383 - INFO - Downloading data for WFO: ABR
+2025-05-21 14:56:13,460 - INFO - Downloading data for WFO: CTP
+2025-05-21 14:56:13,737 - INFO - Downloading data for WFO: BOX
+2025-05-21 14:56:13,775 - INFO - Downloading data for WFO: AKQ
+2025-05-21 14:56:16,875 - INFO - Downloading data for WFO: CYS
+2025-05-21 14:56:17,554 - INFO - Downloading data for WFO: BRO
+2025-05-21 14:56:17,805 - INFO - Downloading data for WFO: ALY
+2025-05-21 14:56:20,554 - INFO - Downloading data for WFO: DDC
+2025-05-21 14:56:21,301 - INFO - Downloading data for WFO: AMA
+2025-05-21 14:56:21,953 - INFO - Downloading data for WFO: BTV
+2025-05-21 14:56:23,854 - INFO - Downloading data for WFO: DLH
+2025-05-21 14:56:24,796 - INFO - Downloading data for WFO: APX
+2025-05-21 14:56:25,479 - INFO - Downloading data for WFO: BUF
+2025-05-21 14:56:27,264 - INFO - Downloading data for WFO: DMX
+2025-05-21 14:56:31,167 - INFO - Downloading data for WFO: ARX
+2025-05-21 14:56:31,462 - INFO - Downloading data for WFO: BYZ
+2025-05-21 14:56:33,238 - INFO - Downloading data for WFO: DTX
+2025-05-21 14:56:34,586 - INFO - Downloading data for WFO: BGM
+2025-05-21 14:56:35,207 - INFO - Downloading data for WFO: CAE
+2025-05-21 14:56:37,868 - INFO - Downloading data for WFO: DVN
+2025-05-21 14:56:38,276 - INFO - Downloading data for WFO: BIS
+2025-05-21 14:56:38,779 - INFO - Downloading data for WFO: CAR
+2025-05-21 14:56:41,594 - INFO - Downloading data for WFO: EAX
+2025-05-21 14:56:41,940 - INFO - Downloading data for WFO: BMX
+2025-05-21 14:56:42,963 - INFO - Downloading data for WFO: CHS
+2025-05-21 14:56:45,013 - INFO - Completed download batch 3/13: 10 successful, 0 failed
+2025-05-21 14:56:45,013 - INFO - Starting download batch 4/13 with 10 WFOs
+2025-05-21 14:56:45,014 - INFO - Downloading data for WFO: EKA
+2025-05-21 14:56:45,272 - INFO - Completed download batch 1/13: 10 successful, 0 failed
+2025-05-21 14:56:45,272 - INFO - Starting download batch 5/13 with 10 WFOs
+2025-05-21 14:56:45,272 - INFO - Downloading data for WFO: GJT
+2025-05-21 14:56:46,922 - INFO - Completed download batch 2/13: 10 successful, 0 failed
+2025-05-21 14:56:46,922 - INFO - Starting download batch 6/13 with 10 WFOs
+2025-05-21 14:56:46,922 - INFO - Downloading data for WFO: ILM
+2025-05-21 14:56:48,314 - INFO - Downloading data for WFO: EPZ
+2025-05-21 14:56:49,316 - INFO - Downloading data for WFO: GLD
+2025-05-21 14:56:50,663 - INFO - Downloading data for WFO: ILN
+2025-05-21 14:56:51,815 - INFO - Downloading data for WFO: EWX
+2025-05-21 14:56:53,870 - INFO - Downloading data for WFO: GRB
+2025-05-21 14:56:54,247 - INFO - Downloading data for WFO: ILX
+2025-05-21 14:56:55,581 - INFO - Downloading data for WFO: FFC
+2025-05-21 14:56:57,271 - INFO - Downloading data for WFO: GRR
+2025-05-21 14:56:58,068 - INFO - Downloading data for WFO: IND
+2025-05-21 14:56:59,093 - INFO - Downloading data for WFO: FGF
+2025-05-21 14:57:01,000 - INFO - Downloading data for WFO: GSP
+2025-05-21 14:57:02,529 - INFO - Downloading data for WFO: FGZ
+2025-05-21 14:57:05,383 - INFO - Downloading data for WFO: IWX
+2025-05-21 14:57:08,127 - INFO - Downloading data for WFO: GYX
+2025-05-21 14:57:08,500 - INFO - Downloading data for WFO: FSD
+2025-05-21 14:57:08,796 - INFO - Downloading data for WFO: JAN
+2025-05-21 14:57:11,881 - INFO - Downloading data for WFO: HGX
+2025-05-21 14:57:11,931 - INFO - Downloading data for WFO: FWD
+2025-05-21 14:57:12,206 - INFO - Downloading data for WFO: JAX
+2025-05-21 14:57:15,669 - INFO - Downloading data for WFO: JKL
+2025-05-21 14:57:15,765 - INFO - Downloading data for WFO: GGW
+2025-05-21 14:57:15,929 - INFO - Downloading data for WFO: HNX
+2025-05-21 14:57:19,090 - INFO - Downloading data for WFO: KEY
+2025-05-21 14:57:19,114 - INFO - Downloading data for WFO: GID
+2025-05-21 14:57:19,221 - INFO - Downloading data for WFO: HUN
+2025-05-21 14:57:22,482 - INFO - Downloading data for WFO: LBF
+2025-05-21 14:57:22,500 - INFO - Completed download batch 4/13: 10 successful, 0 failed
+2025-05-21 14:57:22,500 - INFO - Starting download batch 7/13 with 10 WFOs
+2025-05-21 14:57:22,501 - INFO - Downloading data for WFO: LCH
+2025-05-21 14:57:24,021 - INFO - Downloading data for WFO: ICT
+2025-05-21 14:57:26,023 - INFO - Completed download batch 6/13: 10 successful, 0 failed
+2025-05-21 14:57:26,023 - INFO - Starting download batch 8/13 with 10 WFOs
+2025-05-21 14:57:26,024 - INFO - Downloading data for WFO: MAF
+2025-05-21 14:57:26,043 - INFO - Downloading data for WFO: LIX
+2025-05-21 14:57:27,459 - INFO - Completed download batch 5/13: 10 successful, 0 failed
+2025-05-21 14:57:27,459 - INFO - Starting download batch 9/13 with 10 WFOs
+2025-05-21 14:57:27,459 - INFO - Downloading data for WFO: MRX
+2025-05-21 14:57:29,417 - INFO - Downloading data for WFO: MEG
+2025-05-21 14:57:29,487 - INFO - Downloading data for WFO: LKN
+2025-05-21 14:57:30,909 - INFO - Downloading data for WFO: MSO
+2025-05-21 14:57:32,840 - INFO - Downloading data for WFO: MFL
+2025-05-21 14:57:33,221 - INFO - Downloading data for WFO: LMK
+2025-05-21 14:57:34,895 - INFO - Downloading data for WFO: MTR
+2025-05-21 14:57:36,375 - INFO - Downloading data for WFO: MFR
+2025-05-21 14:57:40,213 - INFO - Downloading data for WFO: LOT
+2025-05-21 14:57:40,833 - INFO - Downloading data for WFO: OAX
+2025-05-21 14:57:42,309 - INFO - Downloading data for WFO: MHX
+2025-05-21 14:57:43,659 - INFO - Downloading data for WFO: LOX
+2025-05-21 14:57:44,287 - INFO - Downloading data for WFO: OHX
+2025-05-21 14:57:46,058 - INFO - Downloading data for WFO: MKX
+2025-05-21 14:57:47,148 - INFO - Downloading data for WFO: LSX
+2025-05-21 14:57:47,633 - INFO - Downloading data for WFO: OKX
+2025-05-21 14:57:49,590 - INFO - Downloading data for WFO: MLB
+2025-05-21 14:57:50,953 - INFO - Downloading data for WFO: LUB
+2025-05-21 14:57:51,498 - INFO - Downloading data for WFO: OTX
+2025-05-21 14:57:54,036 - INFO - Downloading data for WFO: MOB
+2025-05-21 14:57:54,328 - INFO - Downloading data for WFO: LWX
+2025-05-21 14:57:55,224 - INFO - Downloading data for WFO: OUN
+2025-05-21 14:57:57,859 - INFO - Downloading data for WFO: MPX
+2025-05-21 14:57:57,863 - INFO - Downloading data for WFO: LZK
+2025-05-21 14:57:58,594 - INFO - Downloading data for WFO: PAFC
+2025-05-21 14:58:01,211 - INFO - Completed download batch 7/13: 10 successful, 0 failed
+2025-05-21 14:58:01,212 - INFO - Starting download batch 10/13 with 10 WFOs
+2025-05-21 14:58:01,212 - INFO - Downloading data for WFO: PAH
+2025-05-21 14:58:01,260 - INFO - Downloading data for WFO: MQT
+2025-05-21 14:58:01,635 - INFO - Downloading data for WFO: PAFG
+2025-05-21 14:58:04,572 - INFO - Downloading data for WFO: PAJK
+2025-05-21 14:58:04,743 - INFO - Completed download batch 8/13: 10 successful, 0 failed
+2025-05-21 14:58:04,743 - INFO - Starting download batch 11/13 with 10 WFOs
+2025-05-21 14:58:04,744 - INFO - Downloading data for WFO: PUB
+2025-05-21 14:58:05,670 - INFO - Completed download batch 9/13: 10 successful, 0 failed
+2025-05-21 14:58:05,670 - INFO - Starting download batch 12/13 with 10 WFOs
+2025-05-21 14:58:05,670 - INFO - Downloading data for WFO: SJT
+2025-05-21 14:58:07,665 - INFO - Downloading data for WFO: PBZ
+2025-05-21 14:58:08,492 - INFO - Downloading data for WFO: RAH
+2025-05-21 14:58:09,368 - INFO - Downloading data for WFO: SLC
+2025-05-21 14:58:11,332 - INFO - Downloading data for WFO: PDT
+2025-05-21 14:58:14,959 - INFO - Downloading data for WFO: REV
+2025-05-21 14:58:15,554 - INFO - Downloading data for WFO: STO
+2025-05-21 14:58:17,882 - INFO - Downloading data for WFO: PGUM
+2025-05-21 14:58:18,306 - INFO - Downloading data for WFO: RIW
+2025-05-21 14:58:18,873 - INFO - Downloading data for WFO: TAE
+2025-05-21 14:58:21,121 - INFO - Downloading data for WFO: PHFO
+2025-05-21 14:58:22,025 - INFO - Downloading data for WFO: RLX
+2025-05-21 14:58:23,202 - INFO - Downloading data for WFO: TBW
+2025-05-21 14:58:24,332 - INFO - Downloading data for WFO: PHI
+2025-05-21 14:58:25,507 - INFO - Downloading data for WFO: RNK
+2025-05-21 14:58:26,562 - INFO - Downloading data for WFO: TFX
+2025-05-21 14:58:27,964 - INFO - Downloading data for WFO: PIH
+2025-05-21 14:58:29,239 - INFO - Downloading data for WFO: SEW
+2025-05-21 14:58:30,595 - INFO - Downloading data for WFO: TJSJ
+2025-05-21 14:58:31,663 - INFO - Downloading data for WFO: PQR
+2025-05-21 14:58:32,999 - INFO - Downloading data for WFO: SGF
+2025-05-21 14:58:33,574 - INFO - Downloading data for WFO: TOP
+2025-05-21 14:58:35,926 - INFO - Downloading data for WFO: PSR
+2025-05-21 14:58:36,454 - INFO - Downloading data for WFO: SGX
+2025-05-21 14:58:37,003 - INFO - Downloading data for WFO: TSA
+2025-05-21 14:58:39,304 - INFO - Completed download batch 10/13: 10 successful, 0 failed
+2025-05-21 14:58:39,304 - INFO - Starting download batch 13/13 with 2 WFOs
+2025-05-21 14:58:39,304 - INFO - Downloading data for WFO: UNR
+2025-05-21 14:58:39,814 - INFO - Downloading data for WFO: SHV
+2025-05-21 14:58:40,368 - INFO - Downloading data for WFO: TWC
+2025-05-21 14:58:42,721 - INFO - Downloading data for WFO: VEF
+2025-05-21 14:58:43,619 - INFO - Completed download batch 11/13: 10 successful, 0 failed
+2025-05-21 14:58:44,196 - INFO - Completed download batch 12/13: 10 successful, 0 failed
+2025-05-21 14:58:46,156 - INFO - Completed download batch 13/13: 2 successful, 0 failed
+2025-05-21 14:58:46,157 - INFO - ============================================================
+2025-05-21 14:58:46,157 - INFO - DOWNLOAD PHASE COMPLETE
+2025-05-21 14:58:46,157 - INFO - WFOs completed: 122
+2025-05-21 14:58:46,157 - INFO - WFOs failed: 0
+2025-05-21 14:58:46,157 - INFO - BUFKIT successes: 244
+2025-05-21 14:58:46,157 - INFO - BUFKIT failures: 0
+2025-05-21 14:58:46,157 - INFO - AFOS products saved: 122
+2025-05-21 14:58:46,157 - INFO - ============================================================
+2025-05-21 14:58:46,157 - INFO - Starting batch processing process
+2025-05-21 14:58:46,158 - INFO - WFOs available for processing: 122
+2025-05-21 14:58:46,158 - INFO - Created 5 processing batches of size 25
+2025-05-21 14:58:46,158 - INFO - Starting processing batch 1/5 with 25 WFOs
+2025-05-21 14:58:46,158 - INFO - Processing WFO: SLC
+2025-05-21 14:59:01,489 - INFO - Processing completed for SLC: 2 files processed
+2025-05-21 14:59:01,489 - INFO - Processing WFO: LOT
+2025-05-21 14:59:14,722 - INFO - Processing completed for LOT: 2 files processed
+2025-05-21 14:59:14,722 - INFO - Processing WFO: IWX
+2025-05-21 14:59:30,767 - INFO - Processing completed for IWX: 2 files processed
+2025-05-21 14:59:30,767 - INFO - Processing WFO: HNX
+2025-05-21 14:59:44,482 - INFO - Processing completed for HNX: 2 files processed
+2025-05-21 14:59:44,482 - INFO - Processing WFO: ILM
+2025-05-21 15:00:00,901 - INFO - Processing completed for ILM: 2 files processed
+2025-05-21 15:00:00,901 - INFO - Processing WFO: LWX
+2025-05-21 15:00:14,459 - INFO - Processing completed for LWX: 2 files processed
+2025-05-21 15:00:14,460 - INFO - Processing WFO: KEY
+2025-05-21 15:00:28,451 - INFO - Processing completed for KEY: 2 files processed
+2025-05-21 15:00:28,451 - INFO - Processing WFO: FWD
+2025-05-21 15:00:44,277 - INFO - Processing completed for FWD: 2 files processed
+2025-05-21 15:00:44,277 - INFO - Processing WFO: TFX

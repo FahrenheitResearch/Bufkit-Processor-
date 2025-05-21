@@ -1,0 +1,121 @@
+259 
+FXUS66 KSGX 261602
+AFDSGX
+
+Area Forecast Discussion
+National Weather Service San Diego CA
+902 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A low pressure trough will move through the West, increasing 
+onshore flow and developing a coastal eddy. That will lead to 
+cooler weather and increasing low clouds west of the mountains. 
+Offshore flow develops Thursday, bringing locally gusty winds in 
+the foothills, warmer weather and fewer clouds. Warmer weather and
+patchy coastal clouds will continue through the weekend. Low 
+pressure develops over the West next week for a cooling trend. 
+
+
+.DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+.Morning Update...
+A nice crisp fall morning was felt out there with some lower
+elevations dipping into the 30s and 40s, including Ramona, Borrego
+Springs and Thermal. High and low temperatures will hover near to
+slightly below normal readings through much of the week as subtle
+changes in the upper air pattern are expected. A Catalina eddy
+spinning off the coast this morning has brought in some low 
+clouds near the coast and will continue to do so the next couple 
+of nights/mornings. Latest hi-res model guidance continues to
+depict a short and sweet Santa Ana wind event on Thursday morning,
+where gusty winds will be weak and primarily focused on favored
+passes/canyons near coastal mountain slopes.
+
+Next week continues to look a little more interesting. Uncertainty
+remains high, but a trough has the chance to impact the region by
+the middle of next week, which may bring much cooler temperatures
+and precipitation.
+
+.Previous Forecast (227 AM Today)... 
+
+Low clouds are trying to form in coastal areas as a coastal eddy 
+develops this morning. This time of year you hedge your bets 
+against the marine layer and its cloud cover. Still, the eddy 
+looks pretty robust for late October, so look for some coastal 
+clouds during the nights and mornings for a while. A trough of low
+pressure is moving through the West today, which will deepen our 
+marine layer and extend areas of low clouds all the way to some 
+inland valleys tonight into Thursday. Surface flow turns offshore
+rather abruptly overnight. Most guidance has pockets of gusty 
+northeast winds below mountain passes, with top gusts around 25-35
+mph Thursday morning. This will reverse the inland push of low 
+clouds, but it's not enough to scour out the marine layer near the
+coast, nor does it seem to faze the eddy whatsoever. The extent 
+of the patchy low clouds should remain confined to coastal areas 
+after Thursday morning. These are some details of a generally
+non-hazardous weather pattern this coming week, with high and low
+temperatures running just a little below normal. High 
+temperatures will achieve normal Sunday and Monday, 70s to low 80s
+for Halloween afternoon, but sweater weather will continue during
+the mornings and evenings. A longwave trough of low pressure will
+amplify over the western states next week. That will bring a 
+cooling trend for SoCal starting Tuesday and deepen our marine 
+layer, extending coastal clouds inland. There is considerable 
+spread in ensemble member solutions, ranging from a dry and cool 
+offshore-ish pattern, to a possible legitimate storm around 
+Wednesday and/or Thursday. Our forecast remains dry through 
+Tuesday, but it could get wet after that.
+
+&&
+
+.AVIATION... 
+261530Z...Coast/Valleys...SCT to locally BKN patchy low clouds with 
+bases 1500-2200 ft MSL will continue to develop through the morning, 
+mainly over the San Diego County coast/valleys. Low clouds clearing 
+to the coast by 18Z. Areas of low clouds redeveloping after 00Z Thu 
+with bases near 1800-2500 ft MSL and tops to 3000 ft MSL, spreading 
+into portions of the inland valleys overnight, obscuring lower 
+coastal mountain slopes. Local vis restrictions of 2-4SM on the edge 
+of the cloud deck and near terrain. 
+
+Mountains/Deserts...West winds with surface gusts 25-35 kt 
+developing over the ridges, desert slopes, and below the passes 
+around 00Z Thu, weakening and shifting to northerly after 10Z. MOD 
+up/downdrafts and pockets of LLWS over/east of the mountains during 
+this time. Otherwise a few high clouds at/above 20,000 ft MSL and 
+unrestricted vis through Thursday morning.
+
+&&
+
+.MARINE...
+No hazardous marine weather or sea conditions are expected through 
+Sunday.
+
+&&
+
+.MARINE...
+No hazardous marine weather or sea conditions are expected through 
+Sunday.
+
+&&
+
+.SKYWARN... 
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...None.
+PZ...None.
+
+&&
+
+$$
+
+Morning Update/PUBLIC...APR/MM
+AVIATION/MARINE...CO
+

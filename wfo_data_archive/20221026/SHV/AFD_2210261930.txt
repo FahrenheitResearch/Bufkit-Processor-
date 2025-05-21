@@ -1,0 +1,116 @@
+073 
+FXUS64 KSHV 261930
+AFDSHV
+
+Area Forecast Discussion
+National Weather Service Shreveport LA
+230 PM CDT Wed Oct 26 2022
+
+...New SHORT TERM, LONG TERM...
+
+.SHORT TERM...
+(This evening through Thursday Night)
+Issued at 115 PM CDT Wed Oct 26 2022
+
+Upper-air analysis from this afternoon is showing the low pressure
+system responsible for our recent severe weather and rainfall
+continuing to move into the northeast. At the same time, our next
+weather making system is starting to dig southeastward through
+western Idaho. Meanwhile, between systems, our area remains in
+near zonal flow aloft. At the surface, high pressure remains in
+place across the region which is responsible for these beautiful
+blue skies. 
+
+The upper-air trough currently digging into the Pacific Northwest
+will gradually push south and east, reaching the Four Corners
+region and closing off by Thursday afternoon. By Thursday night,
+this closed low will make it to the southwestern Texas Panhandle.
+As this system works closer to our area, we should see some
+showers increase across our far western zones of east Texas
+Thursday night. Current thinking is that precipitation will begin
+aross our east Texas counties shortly after or around midnight,
+before shifting eastward through the area into Friday. (See Long
+Term portion for more information)
+
+Low temperatures tonight will range from the lower to mid 40s
+across the region under mostly clear skies. By Thursday morning,
+clouds should begin to increase from the west in advance of the
+low pressure system heading our way. Temperatures Thursday
+afternoon will reach the upper 60s across our northern zones to
+the lower and mid 70s elsewhere. /33/
+
+&&
+
+.LONG TERM...
+(Friday through next Tuesday)
+Issued at 115 PM CDT Wed Oct 26 2022
+
+It continues to look like some much needed rainfall is possible to 
+start the weekend, as it now looks like this closed low may be 
+taking a more south track. Previous forecasts had the closed low 
+move into the region, moving along the I-30 corridor before pulling 
+NE. The latest suite of guidance now has the low take a more 
+southerly track, which is good news for us when it comes to the rain 
+factor. Rain chances should begin to increase on the morning hours 
+of Friday, with the heaviest rain falling during the evening and 
+overnight hours on Friday. By the time this closed low finally exits 
+the region on Sunday, most locations are expected to have seen 
+between one and two inches of much needed rainfall. Now, there is 
+one scenario that I do need to mention, and that's the unfortunate 
+scenario that involves less rainfall. There is a chance that showers 
+and thunderstorms develop head of this closed low, south of our 
+region. That development would act as a shield, limiting the deep 
+moisture return to the area that we'd need to support forecast 
+rainfall rates. While this notion is not a heavily supported one 
+right now, it's still one that's worth mentioning in the event 
+actual observed amounts are lesser.
+
+Temperature wise, given the widespread cloud cover and rainfall, 
+temperatures to start the long term will remain just at, or slightly 
+below average for this time of the year. Zonal flow, with eventual 
+ridging will return to the region to start the next workweek. This 
+will lead to temperatures climbing back up to a just above seasonal 
+feel to start the new workweek.
+
+/44/ 
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1206 PM CDT Wed Oct 26 2022
+
+For the 26/18z TAFs...Satellite imagery is revealing clear skies
+across the region early this afternoon. Have SKC prevailing
+through the next 36 hours for all terminals. Winds will remain
+generally out of the north through the day before becoming more
+variable this evening and overnight. Winds should remain below 10
+kts across the region through the day. /33/
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+SHV  44  73  50  69 /   0   0  20  70 
+MLU  43  73  48  75 /   0   0   0  40 
+DEQ  42  69  48  65 /   0   0  20  60 
+TXK  42  70  49  66 /   0   0  20  60 
+ELD  40  71  46  68 /   0   0  10  40 
+TYR  46  73  53  63 /   0   0  40  90 
+GGG  44  73  51  65 /   0   0  30  80 
+LFK  45  78  53  69 /   0   0  40  80 
+
+&&
+
+.SHV WATCHES/WARNINGS/ADVISORIES...
+AR...None.
+LA...None.
+OK...None.
+TX...None.
+&&
+
+$$
+
+SHORT TERM...33
+LONG TERM....44
+AVIATION...33
+

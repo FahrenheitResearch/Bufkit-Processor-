@@ -1,0 +1,88 @@
+641 
+FXUS64 KTSA 261555
+AFDTSA
+
+Area Forecast Discussion
+National Weather Service Tulsa OK
+1055 AM CDT Wed Oct 26 2022
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 1055 AM CDT Wed Oct 26 2022
+
+Current forecast on track for this afternoon with no changes 
+anticipated. Light easterly winds will continue with high 
+temperatures in the upper 60s to near 70 deg under sunny skies. 
+As some would say, Chamber of Commerce weather.
+
+&&
+
+.SHORT TERM...
+(Today)
+Issued at 323 AM CDT Wed Oct 26 2022
+
+Sfc ridge axis extending through the region today will yield 
+pleasant fall conditions area wide.
+
+&&
+
+.LONG TERM...
+(Tonight through Tuesday)
+Issued at 323 AM CDT Wed Oct 26 2022
+
+Wave currently moving ashore the Pacific Northwest will amplify as
+it drops southwestward with a well defined closed mid level low
+forecast across west TX by Friday morning. Winds increase
+Thursday in advance of the wave, while moistening mid level 
+profiles support high based showers nearing NE OK late Thursday. 
+Rain chances will gradually spread east and southward Thursday 
+night however the bulk of heavier rains will remain further west. 
+
+Guidance is in generally good agreement on the track of the upper 
+low across north central TX Friday and then northeastward through 
+AR by Saturday night. A notable gradient in rain chances will 
+exist across the forecast area Friday through Saturday with 
+highest chances across SE OK and far western AR and much lower 
+chances northward across NE OK. This same general precip coverage 
+pattern will also align with areas receiving higher rainfall 
+totals. Cloudy and cool Friday and Saturday with a warm up early 
+next week and temps likely back above normal by mid next week.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 603 AM CDT Wed Oct 26 2022
+
+VFR conditions will prevail through the forecast period, with
+light easterly winds.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TUL   69  44  68  47 /   0   0  10  40 
+FSM   70  44  69  48 /   0   0   0  20 
+MLC   70  44  70  48 /   0   0   0  50 
+BVO   69  42  68  45 /   0   0  10  40 
+FYV   67  38  66  42 /   0   0   0  10 
+BYV   65  41  65  43 /   0   0   0  10 
+MKO   68  43  67  47 /   0   0   0  40 
+MIO   67  41  67  43 /   0   0   0  10 
+F10   69  43  69  47 /   0   0  10  50 
+HHW   70  44  70  49 /   0   0   0  50 
+
+&&
+
+.TSA WATCHES/WARNINGS/ADVISORIES...
+OK...None.
+AR...None.
+&&
+
+$$
+
+UPDATE...12
+SHORT TERM...07
+LONG TERM....07
+AVIATION...14
+

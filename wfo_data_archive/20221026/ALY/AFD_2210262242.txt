@@ -1,0 +1,149 @@
+845 
+FXUS61 KALY 262242
+AFDALY
+
+AREA FORECAST DISCUSSION
+National Weather Service Albany NY
+642 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A cold front will move across the region this evening. With 
+its passage a drier and more seasonable airmass will be ushered 
+in. A large area of high pressure will then build in across the 
+region with fair weather expected into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+UPDATE...As of 635 PM EDT, band of showers/sprinkles continues
+tracking east across the Mohawk Valley, SW Adirondacks and
+eastern Catskills. A few embedded heavier showers have developed
+across southwest Herkimer County, where latest SPC Mesoanalysis
+depicts a pocket of 100-250 J/kg SB CAPE. So, a few brief heavy
+downpours with wind gusts up to 30 mph are possible, with some 
+wind gusts up to 25 mph possible even with the lighter showers, 
+as low level lapse rates are 6-6.5 C/km, and DCAPES are 400-700 
+J/kg across portions of the upper Hudson Valley.
+
+Initial cold front was entering far northern Herkimer County,
+with secondary (main) cold front still back near Toronto
+extending into NE Ohio. This second front will cross the region
+from west to east after midnight, bringing gusty winds and
+falling temps in its wake closer to daybreak.
+
+In between both fronts, there could be a period of clearing
+later this evening through the early morning hours within valley
+areas, as subsidence develops in the wake of potent shortwave
+tracking through this evening. Lower clouds should then increase
+once again as the second front approaches/passes through. Some
+wind gusts could reach up to 30-35 mph in the wake of the second
+front around daybreak, especially within the Mohawk Valley,
+Capital Region and Berkshires.
+
+PREVIOUS [348 PM EDT]...Sunny zone from the Hudson Valley into 
+western New England shifting east as clouds and scattered 
+showers track from central NY toward our region. The clouds and 
+showers will affect eastern NY this evening and western New 
+England later this evening. The rain will exit before midnight 
+but some clouds will linger through much of the night as the 
+cold front and wind shift track through. Cold advection will 
+take place as gusty north west winds spread across our region. 
+
+Lows by daybreak in the mid 40s to around 50 and around 40
+higher terrain.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH SATURDAY/...
+Gusty north to northwest winds Thursday with cold advection and
+increasing sunshine. Highs in the upper 50s to lower 60s with
+around 50 to lower 50s higher terrain.
+
+Winds diminish Thursday night and with a clear sky and strong
+low level ridging building in from Canada, temperatures should 
+fall to near freezing or below freezing in most areas. Some
+periods of high clouds Friday, otherwise, light north winds and
+filtered sun. Highs Friday around 50to mid 50s. 
+
+Strong low level ridging still building into our region from
+Canada Friday night into Saturday with light winds and a clear
+sky. Temperatures should drop below freezing in most areas with
+20s in many areas by early Saturday morning. 
+
+Sunny with light winds Saturday and weak warm advection begins
+Saturday afternoon. Highs in the mid 50s to around 60.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Mainly fair weather with high pressure in control for Sunday, after 
+a chilly start (lows in the 20s north, lower/mid 30s south and 
+east), with highs mainly in the upper 50s to lower 60s by Sunday.
+
+Uncertainty increases for Sunday night into Tuesday regarding the 
+timing and ultimate track of southern stream energy and an 
+associated low pressure system. Mean ensemble solutions suggest 
+gradually increasing PoPs from southwest to northeast Sunday night, 
+with best chances for showers or a period of steady rain Monday into 
+Monday night. Showers could linger into Tuesday, and perhaps as late 
+as Wed morning for areas from Albany south and east.
+
+Temperatures should average above seasonal levels, with highs mainly 
+in the 50s to lower 60s Monday, (although could be cooler if 
+widespread rain occurs), and lower/mid 60s in valley areas and 55-60 
+higher elevations Tue/Wed, with overnight lows mainly in the 40s to 
+lower 50s.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+Through 18z Thursday....KALB/KGFL/KPOU are currently 
+experiencing VFR conditions while lowered ceilings have yielded 
+an MVFR category at KPSF. VFR/MVFR categories are expected to 
+prevail throughout the TAF period with borderline ceilings and 
+the chance for showers tonight. Light, southwesterly winds will 
+prevail overnight before a cold front will shift winds out of 
+the northwest. 
+
+A TEMPO group has been added to the TAFs to account for the
+chance of showers between 23z and 2z. Models indicate that KGFL
+could experience the longest duration of showers, stretching
+through that entire 3 hour period, while KALB/KPOU/KPSF look to
+have a bit of a later start and only lasting an hour or two.
+During this time, visibilities will likely be restricted and
+ceilings will drop into the MVFR category. It is unlikely that
+any terminal will drop into a category lower than MVFR. After 
+the showers cease, winds will begin to shift as a result of an 
+incoming cold front. Ceilings will gradually lift throughout the
+morning tomorrow until skies become mostly clear to clear. 
+Winds will be gusty tomorrow, especially at KALB, ranging from 
+10-13kt sustained and gust of 16-23 kt.
+
+Outlook...
+
+Thursday Night: No Operational Impact. NO SIG WX.
+Friday: No Operational Impact. NO SIG WX.
+Friday Night: No Operational Impact. NO SIG WX.
+Saturday: No Operational Impact. NO SIG WX.
+Saturday Night: No Operational Impact. NO SIG WX.
+Sunday: No Operational Impact. NO SIG WX.
+Sunday Night: Moderate Operational Impact. Chance of SHRA.
+Monday: High Operational Impact. Likely SHRA.
+
+&&
+
+.ALY WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+MA...None.
+VT...None.
+
+&&
+
+$$
+SYNOPSIS...NAS
+NEAR TERM...KL/NAS
+SHORT TERM...NAS
+LONG TERM...KL
+AVIATION...Gant
+

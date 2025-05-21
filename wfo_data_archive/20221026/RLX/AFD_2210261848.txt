@@ -1,0 +1,147 @@
+548 
+FXUS61 KRLX 261848
+AFDRLX
+
+AREA FORECAST DISCUSSION
+National Weather Service Charleston WV
+248 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Cooler/drier tonight as a cold front exited east. High pressure
+and drier weather builds in by Thursday. Southern stream 
+disturbance brings back precipitation by the end of the weekend.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+As of 137 PM Wednesday...
+
+Low pressure system ejects northeast of the Great Lakes this 
+evening, pushing a cold front far east. Wrap-around moisture 
+from the Great Lakes will advect into our area under north to 
+northwest flow, keeping abundant low level clouds tonight. These
+clouds could spit light precipitation across the extreme 
+northern WV and its northeast mountains tonight before 
+dissipating during the overnight hours. H850 CAA is expected 
+tonight under northerly flow providing cool conditions through 
+Thursday and beyond. 
+
+H850 northwest flow around 25 knots will subside to 10 knots
+tonight. At the surface, northwest winds diminish some as they 
+veer from the north overnight, and then light from the northeast
+on Thursday. 
+
+Low temperatures overnight should be in th mid 40s lowlands, ranging 
+into the mid 30s northeast mountains and portions of southeast OH. 
+Highs for Thursday will generally reach the 61 degree mark across 
+the lowlands, ranging into the lower 50s highest elevations of 
+our northeast mountains.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH SATURDAY/...
+As of 245 PM Wednesday...
+
+Subsidence yielded by surface high pressure maintains residence
+over the area through the bulk of the forecast period. While an
+upper level trough aims for Texas, southwesterly flow will
+become more influential over the Tennessee Valley and into the
+Central Appalachians. This will advertise a gradual warming 
+trend to near normal readings for this time of year, accompanied
+by periods of cloud coverage from advancing shortwaves out 
+ahead of the disturbance down in the Central Plains. Afternoon 
+highs rebound into the mid 60s by Friday for the lower 
+elevations.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+As of 245 PM Wednesday...
+
+Prevailing dry spell will come to an end for the latter half of
+the weekend as a low pressure system encroaches from the south.
+Model uncertainty still exists for onset precipitation and
+overall coverage of this system, but opted to maintain strong
+influence from central guidance with showers spreading overhead
+from the southwest on Sunday. The H5 trough hosting this
+disturbance is progged to weaken and become more of an open wave
+by Sunday night, traversing the Ohio Valley and up into the
+Great Lakes. Best window of opportunity for showers looks to be
+between Sunday evening and Monday morning, especially along the
+higher terrain. Another lobe of H5 energy swings through the
+area Monday into Tuesday and will finally bring showers to a
+gradual end.
+
+Current thinking for Halloween evening will be 
+closely monitoring the departure of these showers as the surface
+low and parent trough propagate into New England. Temperatures
+will be fairly mild Monday evening in the upper 50s/low 60s as
+there are no signs of colder air filtering in right away with
+this disturbance. Temperatures remain around or just below
+normal through the course of the forecast period.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+As of 131 PM Wednesday...
+
+A cold front has exited east of the Appalachians this afternoon 
+taking most of the rain showers with it. However, abundant low level 
+moisture will keep MVFR ceilings spreading east, and perhaps few 
+sprinkles over the northern sections through tonight. Satellite and 
+model data suggest wrap around moisture from the parent low pressure 
+system, could bring upslope precipitation across the northeast 
+mountains through at least 03Z. Localized IFR conditions possible 
+along the central and northern mountains to affect EKN and BKW 
+overnight due to mountain obscuration. Otherwise, MVFR ceilings
+will prevail at most sites tonight, with localized IFR
+conditions possible especially over the mountains. Expect
+improving conditions to widespread VFR by 13Z Thursday. 
+
+Northwest winds at H850 will subside to 20 knots tonight, while at 
+the surface, winds will be light mainly from the north. Winds pick 
+up some from the northeast on Thursday afternoon. 
+
+
+FORECAST CONFIDENCE AND ALTERNATE SCENARIOS THROUGH 18Z THURSDAY...
+     
+FORECAST CONFIDENCE: High.
+
+ALTERNATE SCENARIOS: None.
+ 
+EXPERIMENTAL TABLE OF FLIGHT CATEGORY OBJECTIVELY SHOWS CONSISTENCY
+OF WFO FORECAST TO AVAILABLE MODEL INFORMATION:
+H = HIGH:   TAF CONSISTENT WITH ALL MODELS OR ALL BUT ONE MODEL.
+M = MEDIUM: TAF HAS VARYING LEVEL OF CONSISTENCY WITH MODELS.
+L = LOW:    TAF INCONSISTENT WITH ALL MODELS OR ALL BUT ONE MODEL.
+
+UTC 1HRLY       18   19   20   21   22   23   00   01   02   03   04   05
+EDT 1HRLY       14   15   16   17   18   19   20   21   22   23   00   01
+CRW CONSISTENCY  H    H    H    H    H    H    H    H    H    H    H    H
+HTS CONSISTENCY  H    H    H    H    H    H    H    H    H    M    M    M
+BKW CONSISTENCY  H    H    H    H    H    H    H    M    H    M    L    M
+EKN CONSISTENCY  H    H    H    H    H    H    H    M    H    L    L    M
+PKB CONSISTENCY  H    H    H    H    H    H    H    H    H    H    H    H
+CKB CONSISTENCY  H    H    H    H    H    H    H    H    H    H    M    M
+
+AFTER 18Z THURSDAY...
+There may be some IFR stratus that could affect the eastern 
+site for Thursday morning as well as some IFR fog affecting EKN.
+
+&&
+
+.RLX WATCHES/WARNINGS/ADVISORIES...
+WV...None.
+OH...None.
+KY...None.
+VA...None.
+
+&&
+
+$$
+SYNOPSIS...ARJ/MEK
+NEAR TERM...ARJ
+SHORT TERM...MEK
+LONG TERM...MEK
+AVIATION...ARJ
+

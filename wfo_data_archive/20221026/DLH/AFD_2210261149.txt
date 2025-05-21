@@ -1,0 +1,135 @@
+426 
+FXUS63 KDLH 261149
+AFDDLH
+
+Area Forecast Discussion
+National Weather Service Duluth MN
+649 AM CDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 649 AM CDT Wed Oct 26 2022
+
+Minor update to PoPs/Wx Thursday into Thursday night. Recent 
+model runs since 06Z suggest an increased potential for rain 
+showers over our Minnesota areas. Have increased PoPs and coverage
+to better reflect the rain chances. Added a slight chance of rain
+showers Thursday evening, too, as ascent will likely remain in 
+place. Remainder of the forecast appears to be on track.
+
+&&
+
+.DISCUSSION...(Today through Tuesday)
+Issued at 407 AM CDT Wed Oct 26 2022
+
+Summary: Relatively quiet conditions are expected today with cool
+temperatures. There is a chance of rain showers for portions of 
+central and northeast Minnesota Thursday as temperatures begin to 
+trend warmer. Temps are expected to be on the warmer side of 
+normal through next Wednesday.
+
+A weak surface trough stretched from northern South Dakota to 
+near Thunder Bay, ON early this morning. Aloft a mid-level trough 
+was over Minnesota and northwest Ontario and progressing eastward.
+A few embedded vorticity maxima were noted on RAP analysis as 
+well as GOES-East water vapor imagery. Cold air advection in the 
+low-levels continued and stratus was widespread across our area 
+and upstream into Manitoba and Ontario.
+
+Look for the stratus to hang on today. We suspect the clouds are 
+composed of ice crystals, which the models consistently struggle 
+to represent. The majority of the guidance has skies clearing 
+quickly this morning, but I'm skeptical. Have leaned on cloudier 
+solutions for the forecast today. The surface and mid-level 
+troughs over the area this morning are generating a little bit of 
+lift resulting in periodic sprinkles or flurries. KDLH radar has 
+featured a few echoes moving generally toward the east-southeast. 
+Think this trend will continue through today, gradually ending 
+from west to east this afternoon. The troughs will exit to the 
+east by tonight. Highs today will be in the low to upper 40s.
+
+Rising heights in the wake of the mid-level trough are expected 
+tonight and low-level winds will back southwesterly ushering in 
+warmer air and a bit more moisture. There should be enough 
+frontogenesis and isentropic ascent to squeeze out a few rain 
+showers from near the Brainerd Lakes into the Arrowhead Thursday 
+morning and afternoon. Don't expect much precipitation, maybe a 
+few hundredths of an inch. The surge of warmer air at 850 mb and 
+lack of strong forcing should prohibit snow from reaching the 
+ground. Highs on Thursday will climb into the upper 40s over areas
+of the Arrowhead nearest to Lake Superior with low 50s farther 
+inland. Low to middle 50s are expected over the remainder of the 
+Northland.
+
+The warming trend continues Friday as we transition into a quasi-
+zonal flow aloft. While temps are warmer than the median for this
+time of year, the "normal" range is pretty broad during the 
+transition months in the Spring and Fall. So I'd characterize the 
+highs in the low 50s to low 60s as being on the "warm" side of our
+normal temperature range. The milder temperatures will continue 
+into next week with generally dry and quiet conditions expected. 
+An upper-level trough will cross the region Sunday and Monday. 
+However, the best forcing for precipitation appears to be well off
+to our southeast across the mid-Mississippi Valley into the Ohio 
+Valley.
+
+A deeper trough may take shape around the middle of next week and
+linger into the second half of next week. Precipitation chances 
+return on Wednesday and may persist for several days. Temps start 
+out warm enough for rain, but cool next Thursday and beyond, which
+may translate into some light snow.
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Thursday morning)
+Issued at 649 AM CDT Wed Oct 26 2022
+
+MVFR/VFR ceilings and wind gusts of 15 to 20 knots are the main 
+story today. The stratus cloud layer is mostly comprised of ice 
+crystals, which forecast models struggle to represent. As such, 
+confidence in the ceiling categories is medium. Skies may clear 
+earlier than forecast or MVFR ceilings persist longer than 
+forecast. Cloud bases will be between 2800 and 3200 feet and will 
+fluctuate between MVFR and VFR. Winds become light and variable 
+tonight. Clouds return to the forecast overnight, starting out VFR
+and gradually lowering into MVFR after 27.12Z. There is a chance 
+of rain showers at BRD, HIB, and INL after 27.12Z as well, but 
+should stay dry before that time.
+
+&&
+
+.MARINE...
+Issued at 407 AM CDT Wed Oct 26 2022
+
+Seasonally strong northwest winds of 10 to 15 knots with gusts to
+20 knots are expected through tonight. Winds will gradually taper
+off this evening and overnight as high pressure passes overhead. 
+Winds will back southwesterly for Thursday at 5 to 15 knots. Winds
+will remain out of the southwest on Friday and should strengthen 
+during the day. Conditions may become hazardous to small craft, 
+particularly from Grand Portage to Grand Marais, MN and over the 
+Outer Apostle Islands.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DLH  45  32  52  40 /  10  10  30  10 
+INL  41  27  54  40 /  10  10  30  20 
+BRD  47  34  52  39 /   0  10  30  20 
+HYR  46  28  54  36 /  10   0  10   0 
+ASX  47  29  57  39 /  10  10  10  10 
+
+&&
+
+.DLH WATCHES/WARNINGS/ADVISORIES...
+WI...None.
+MN...None.
+LS...None.
+&&
+
+$$
+
+UPDATE...Huyck
+DISCUSSION...Huyck
+AVIATION...Huyck
+MARINE...Huyck
+

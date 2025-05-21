@@ -1,0 +1,81 @@
+822 
+FXUS64 KMEG 262300
+AFDMEG
+
+Area Forecast Discussion
+National Weather Service Memphis TN
+600 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.DISCUSSION...
+(This evening through next Tuesday)
+Issued at 216 PM CDT Wed Oct 26 2022
+
+Currently...Low clouds have finally exited West TN as surface 
+high pressure builds into the MS and OH River Valleys. It has been
+a cool day as low level CAA and some clouds have kept temps in 50s
+east to mid 60s west. A brisk north wind has made in feel a bit
+more chilly. 
+
+Clear and cool conditions are expected tonight with diminishing 
+wind and lows in the upper 30s in the cool spots to lower 40s
+elsewhere.
+
+Thursday and Friday...Surface high pressure will slowly track
+toward the northeast US with light easterly flow and dry
+conditions across the Mid-South during this time period. Highs 
+will be in the 60s Thursday and a few degrees warmer on Friday as 
+upper ridging build over the area in advance of the approaching 
+upper low that will be digging into the Arklatex. Middle and 
+higher clouds will be on the increase Friday afternoon. 
+
+Friday night through Sunday...An deep upper low will track into 
+the Arklatex Friday night. This system will occlude west of the
+Mid-South which will cut off the instability and limit the severe
+weather threat. A few thunderstorms are possible on Saturday as 
+the upper low and associated cold core aloft move through. As the 
+system tracks NE it will be quickly filling and weakening. Right 
+now rainfall amounts around one inch seem reasonable for this 
+event. The main area of heavier precipitation will lift NE/E of 
+the region by Sunday morning. Lingering clouds and showers are 
+possible during Sunday as toughing at the surface and aloft 
+linger. Highs will be in the 60s this weekend with lows in the 
+50s. 
+
+Monday through Wednesday...Clouds and cool conditions will 
+linger into Monday as upper/surface trough are slow to pull out. 
+Surface high pressure will strengthen over the region Tuesday and 
+Wednesday with plenty of sunshine and moderating temps with lower 
+to mid 70s by Wednesday. 
+
+Toward the end of next week the ensembles are showing positive 5
+day height anomalies across the eastern US. Looks like above
+normal temps for the end of next week into the weekend. 
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 557 PM CDT Wed Oct 26 2022
+
+VFR conditions are expected throughout the TAF period, with winds
+slowing to about 4kts overnight. Tomorrow, winds will begin to
+turn more easterly and gain speed to 8-10kts.
+
+ANS
+
+&&
+
+.MEG WATCHES/WARNINGS/ADVISORIES...
+AR...None.
+MO...None.
+MS...None.
+TN...None.
+&&
+
+$$
+
+PUBLIC FORECAST...SJM
+AVIATION...ANS
+

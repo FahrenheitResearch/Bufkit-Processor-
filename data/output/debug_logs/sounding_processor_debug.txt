@@ -1,9 +1,749 @@
-2025-05-21 14:08:37 - sounding_processor.utils - INFO - Logging initialized. Log file: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
-2025-05-21 14:08:37 - sounding_processor.utils - DEBUG - Debug logging enabled for file.
-2025-05-21 14:08:37 - __main__ - INFO - --- Sounding Processor Batch Run Start ---
-2025-05-21 14:08:37 - __main__ - DEBUG - Project Root (derived): /home/ubuntu2/claude-bufkit
-2025-05-21 14:08:37 - __main__ - DEBUG - Log file path: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
-2025-05-21 14:08:37 - __main__ - INFO - --- Starting Batch Processing for Directory: /home/ubuntu2/claude-bufkit/wfo_data_archive/20231026 ---
-2025-05-21 14:08:37 - __main__ - INFO - Searching for files ending with: '.buf.txt'
-2025-05-21 14:08:37 - __main__ - ERROR - Target directory does not exist: /home/ubuntu2/claude-bufkit/wfo_data_archive/20231026
-2025-05-21 14:08:37 - __main__ - INFO - --- Sounding Processor Batch Run End ---
+2025-05-21 15:00:44 - sounding_processor.utils - INFO - Logging initialized. Log file: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
+2025-05-21 15:00:44 - sounding_processor.utils - DEBUG - Debug logging enabled for file.
+2025-05-21 15:00:44 - __main__ - INFO - --- Sounding Processor Batch Run Start ---
+2025-05-21 15:00:44 - __main__ - DEBUG - Project Root (derived): /home/ubuntu2/claude-bufkit
+2025-05-21 15:00:44 - __main__ - DEBUG - Log file path: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
+2025-05-21 15:00:44 - __main__ - INFO - Processing single WFO: TFX
+2025-05-21 15:00:44 - __main__ - INFO - --- Starting Batch Processing for Directory: /home/ubuntu2/claude-bufkit/wfo_data_archive/20221026/TFX ---
+2025-05-21 15:00:44 - __main__ - INFO - Searching for files ending with: '.buf.txt'
+2025-05-21 15:00:44 - __main__ - INFO - Found 2 potential input files to process.
+2025-05-21 15:00:44 - __main__ - INFO - --- File 1/2 ---
+2025-05-21 15:00:44 - __main__ - INFO - Processing: TFX_HRRR_2022102612Z.buf.txt
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Surface summary block state reset.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1400
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1500
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1600
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1700
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1800
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/1900
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/2000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/2100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/2200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221026/2300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0400
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0500
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0600
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0700
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0800
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/0900
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1400
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1500
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1600
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1700
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1800
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/1900
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/2000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/2100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/2200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221027/2300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0400
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0500
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0600
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0700
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0800
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/0900
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/1000
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/1100
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Processed level data. DataFrame shape: (50, 10)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Finalized sounding block for STID: KGTF, TIME: 221028/1200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Parser state reset for new sounding block.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - No surface summary data lines or columns to process.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Surface summary block state reset.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Surface summary block state reset.
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - INFO - Processed surface summary block. DataFrame shape: (49, 33)
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1200
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1300
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1400
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1500
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1600
+2025-05-21 15:00:44 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1700
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1800
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/1900
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/2000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/2100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/2200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221026/2300
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0300
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0400
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0500
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0600
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0700
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0800
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/0900
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1300
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1400
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1500
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1600
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1700
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1800
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/1900
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/2000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/2100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/2200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221027/2300
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0300
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0400
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0500
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0600
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0700
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0800
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/0900
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/1000
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/1100
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Merged surface summary for STNM: 727750, TIME: 221028/1200
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - DEBUG - Surface summary block state reset.
+2025-05-21 15:00:45 - sounding_processor.bufkit_parser - INFO - BUFKIT parsing complete. Found 49 soundings.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1200
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 768.1733297189767 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.5 885.9 881.1 872.8 860.8]...[285.3 268.2 252.  237.2 223.5]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 7.37827729 10.4848182  13.39850904 16.70039221 18.64413687]...[43.89842442 44.86808338 40.20210128 41.19185836 41.37954055]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [5.04822981 7.37705818 8.54236826 8.54602246 8.73752026]...[ 8.73990467  7.18670258  6.41055012  6.02392769 -0.19499793]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    23.72  67.81 144.69 257.04]...[8197.7  8583.23 8969.48 9348.25 9728.04]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (30,), p units: hectopascal, p[:3]: [888.5 885.9 881.1] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (30,), T units: degree_Celsius, T[:3]: [2.44 3.44 3.94] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 814.23 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (30,), Tw units: degree_Celsius, Tw[:3]: [-1.0932354997211178 -0.6597607243288053 -0.4834026446166604] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 711.8244762439272 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.87, LR75=-6.70, T500=-25.7, S06=8.0
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.07 LR=0.96 T500F=25.7 T500N=1.71 S06N=0.21 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1200
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1300
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 765.9690404248717 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.7 886.  881.3 873.  860.9]...[285.3 268.1 251.9 237.2 223.5]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 6.21599167  8.35401067 11.07459812 14.17955804 15.5392751 ]...[33.99278119 36.3129253  35.93567806 36.71898273 37.48191428]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [4.6620111  6.41025785 7.38304656 6.99258419 4.85482537]...[13.40382136 12.4256129   8.1577903   4.46949744 -0.77858951]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    24.64  67.82 144.66 257.88]...[8188.79 8576.74 8965.05 9343.8  9724.72]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (30,), p units: hectopascal, p[:3]: [888.7 886.0 881.3] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (30,), T units: degree_Celsius, T[:3]: [2.54 3.64 3.94] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 814.3950000000001 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (30,), Tw units: degree_Celsius, Tw[:3]: [-1.0644079933882722 -0.5609283303065808 -0.4087843021969775] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 717.3610884421913 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=1.01, LR75=-6.94, T500=-26.6, S06=4.3
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.08 LR=0.99 T500F=26.6 T500N=1.77 S06N=0.11 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1300
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1400
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 773.3473796447079 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.3 885.7 880.8 872.6 860.5]...[285.3 268.1 251.9 237.2 223.5]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 6.60425769  8.74427538 10.6779602  13.41035049 14.17796466]...[26.99461012 28.15410094 31.46918788 33.80590226 33.20647642]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [5.63259979 7.96784463 9.70598093 8.74543308 5.04854612]...[10.48678333 10.09726202  8.54998912  2.52407846 -3.49600107]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    23.73  68.77 144.75 258.06]...[8178.38 8565.69 8955.29 9337.55 9721.7 ]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (30,), p units: hectopascal, p[:3]: [888.3 885.7 880.8] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (30,), T units: degree_Celsius, T[:3]: [2.54 3.54 4.04] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 810.7771428571428 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (30,), Tw units: degree_Celsius, Tw[:3]: [-0.8780445363349259 -0.4743661845946008 -0.30174170090327834] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 714.8670311594366 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.98, LR75=-7.21, T500=-27.3, S06=3.8
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.08 LR=1.03 T500F=27.3 T500N=1.82 S06N=0.10 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1400
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1500
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 783.8560989209399 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.8 886.1 881.3 873.1 861. ]...[285.3 268.1 252.  237.2 223.5]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 5.62868457  7.96335813  9.32021742 12.23481201 13.01698195]...[20.97544688 24.67556816 29.91281852 30.29754072 29.14319701]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [5.23965743 8.15750742 9.90421866 8.9348685  6.4107941 ]...[ 8.54711228  8.16066393  4.08159138  0.38603893 -3.30499137]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    24.61  68.71 144.68 257.88]...[8180.69 8570.46 8961.29 9348.3  9732.79]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (30,), p units: hectopascal, p[:3]: [888.8 886.1 881.3] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (30,), T units: degree_Celsius, T[:3]: [2.34 3.34 4.24] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 812.6657142857143 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (30,), Tw units: degree_Celsius, Tw[:3]: [-0.7991911000737559 -0.4960270541525347 -0.22825888476671707] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 720.9095002123258 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.85, LR75=-7.22, T500=-27.5, S06=7.7
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.07 LR=1.03 T500F=27.5 T500N=1.83 S06N=0.20 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1500
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1600
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 769.2202538473726 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.4 885.7 880.9 872.7 860.6]...[304.2 285.3 268.1 252.  237.2]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 5.62912573  7.18141868  8.54645776  9.89707859 13.41073109]...[17.47635247 17.29300351 20.39735411 24.86413946 24.66923912]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [ 6.01751972  7.95899653 10.09905737 10.86912303  8.16347302]...[8.74006318 7.57670308 5.43875404 1.94375128 0.19375573]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    24.75  68.92 144.92 258.17]...[7771.71 8177.17 8567.85 8958.77 9344.98]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (29,), p units: hectopascal, p[:3]: [888.4 885.7 880.9] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (29,), T units: degree_Celsius, T[:3]: [4.24 4.04 4.14] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 815.3675000000001 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (29,), Tw units: degree_Celsius, Tw[:3]: [0.471244783418058 0.20306078714770592 -0.1302320791891134] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 882.775569636333 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 721.9742982006219 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.93, LR75=-7.02, T500=-27.1, S06=8.4
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.08 LR=1.00 T500F=27.1 T500N=1.81 S06N=0.22 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1600
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1700
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 756.006392784428 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.3 885.7 880.9 872.7 860.6]...[304.2 285.3 268.1 252.  237.2]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 6.99804502  8.35721692  8.9321679   9.70617332 11.84181197]...[13.99271058 13.40571064 16.52302073 20.00642726 20.9715137 ]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [5.83262084 6.99763713 7.57234948 7.76499192 7.76383213]...[ 8.16358074  6.41143684  4.08291391 -0.97147739 -3.30280385]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    23.94  68.27 144.36 257.63]...[7769.56 8175.11 8566.42 8958.52 9346.24]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (29,), p units: hectopascal, p[:3]: [888.3 885.7 880.9] hectopascal
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (29,), T units: degree_Celsius, T[:3]: [5.64 5.24 4.74] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 815.32625 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (29,), Tw units: degree_Celsius, Tw[:3]: [1.3073548395310013 0.965736724919168 0.5915110460958886] degree_Celsius
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 872.149538073839 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 724.6727008561693 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.94, LR75=-7.07, T500=-27.2, S06=5.7
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.08 LR=1.01 T500F=27.2 T500N=1.81 S06N=0.15 -> SHIP=0.00
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1700
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1800
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 749.3878291095606 hectopascal.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Target coordinate magnitude is NaN.
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.3 885.7 880.9 872.6 860.5]...[304.2 285.3 268.1 252.  237.2]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 8.54893226  9.91179007 10.49562922 11.07729782 11.26418246]...[12.04295773 12.61436906 16.51178529 17.6728913  19.2191544 ]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [5.05179743 5.83150217 6.2194668  6.41353826 6.40935204]...[ 6.79971096  6.20977401  0.77578779 -6.01978512 -6.98760361]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    24.02  68.46 145.69 259.22]...[7773.02 8179.32 8572.27 8965.82 9353.8 ]
+2025-05-21 15:00:45 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:45 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (29,), p units: hectopascal, p[:3]: [888.3 885.7 880.9] hectopascal
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (29,), T units: degree_Celsius, T[:3]: [6.54 6.04 5.44] degree_Celsius
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 814.4920000000001 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (29,), Tw units: degree_Celsius, Tw[:3]: [1.8788379781015578 1.5278611247247795 1.1470213394090365] degree_Celsius
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 861.415322642801 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 729.9520897933872 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=0.0, MR=0.91, LR75=-7.07, T500=-27.1, S06=4.0
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.00 MR=0.08 LR=1.01 T500F=27.1 T500N=1.81 S06N=0.10 -> SHIP=0.00
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1800
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/1900
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 745.5935430683363 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 692.082216461857 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 600.7819151036063 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - NCAPE calc: mucape type=<class 'pint.Quantity'>, mucape units=joule / kilogram, cape_depth type=<class 'pint.Quantity'>, cape_depth units=meter, ncape_value before round type=<class 'pint.Quantity'>, units=joule / kilogram / meter, value=[0.011334339702145554] joule / kilogram / meter
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.4 885.7 881.  872.7 860.6]...[285.3 268.1 252.  237.2 223.5]
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input u_s (knot): [ 9.32847268 10.48415096 11.07017855 11.65388294 11.85380081]...[13.59163241 12.82839125 12.42664739 15.53704185 18.26355401]
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input v_s (knot): [4.66524355 5.43678937 5.82676985 5.82819975 5.83022353]...[  2.33058543  -8.35634358 -10.48646912 -10.09758538 -13.59836369]
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input h_s (meter): [  0.    25.02  68.67 146.14 259.97]...[8183.49 8577.45 8970.81 9358.08 9741.96]
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating env thermo for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 1000 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 0 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy interpolate_1d for target 3000 meter.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - FZL Check: p type: <class 'pint.Quantity'>, p shape: (30,), p units: hectopascal, p[:3]: [888.4 885.7 881.0] hectopascal
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - FZL Check: T type: <class 'pint.Quantity'>, T shape: (30,), T units: degree_Celsius, T[:3]: [7.44 6.84 6.34] degree_Celsius
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 812.5576470588235 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - WBZ Check: Tw type: <class 'pint.Quantity'>, Tw shape: (30,), Tw units: degree_Celsius, Tw[:3]: [2.5154607812795575 2.1480410292101055 1.8274913635250414] degree_Celsius
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 851.6891115863397 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating key levels for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 850 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 500 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 300 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 250 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating composites for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 734.562161281713 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - SHIP comps: MUCAPE=12.2, MR=3.21, LR75=-6.88, T500=-26.8, S06=4.2
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - SHIP norms: CAPE=0.01 MR=0.27 LR=0.98 T500F=26.8 T500N=1.79 S06N=0.11 -> SHIP=0.00
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating inversions for KGTF
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - INFO - Successfully calculated derived parameters for STID KGTF TIME 221026/1900
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - INFO - Starting derived parameter calculation for STID KGTF TIME 221026/2000
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating parcel thermo for KGTF
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 736.018910573474 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 700.6526547538418 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.metpy_manager - DEBUG - Interpolate: Using MetPy log_interpolate_1d for target 576.7485426809917 hectopascal.
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - NCAPE calc: mucape type=<class 'pint.Quantity'>, mucape units=joule / kilogram, cape_depth type=<class 'pint.Quantity'>, cape_depth units=meter, ncape_value before round type=<class 'pint.Quantity'>, units=joule / kilogram / meter, value=[0.01675907104394228] joule / kilogram / meter
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Calculating kinematics for KGTF
+2025-05-21 15:00:46 - sounding_processor.sounding_calculator - DEBUG - Bunkers Input p_s (hectopascal): [888.8 886.1 881.4 873.1 861. ]...[268.1 252.  237.2 223.5 209.7]

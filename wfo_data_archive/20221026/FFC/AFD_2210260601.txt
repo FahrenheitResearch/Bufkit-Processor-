@@ -1,0 +1,144 @@
+389 
+FXUS62 KFFC 260601
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+201 AM EDT Wed Oct 26 2022
+
+
+
+...New 06Z Aviation Discussion...
+
+.SHORT TERM...
+(This afternoon through Wednesday)
+Issued at 253 PM EDT Tue Oct 25 2022
+
+A deepening cutoff low continues to trek across the Lower MS 
+Valley Region this aftn with a notable dry slot forming on the 
+backside as the system occludes. At the sfc, an occluded front has
+formed in addition to the cold front that extends south and east.
+Showers and storms along and ahead of the front will continue to 
+push east through the aftn. This will impact our area later this 
+evening into the early overnight hours. Latest satellite imagery 
+shows cloud cover starting to increase across the west in addition
+to an developing Cu field. 
+
+Portions of north and central GA remain in a marginal risk (1/5)
+for severe storms tonight. Still thinking that the primary severe
+threat will remain just to our west given the time of day and 
+upper level support being displaced further north than really any 
+available CAPE. Tightening pressure gradient out ahead of the
+system and strengthening LLJ will result in damaging winds/gusts
+being the primary hazard with any storms that develop tonight. In
+addition, latest hi- res guidance does show a notable area of 
+MUCAPE (100-300 J/kg) clipping portions of southwest GA later 
+tonight despite the fast movement of this system. So will need to 
+keep an eye on any storms that form in that area. Given that 
+plenty of shear is in place, it won't take much CAPE to get storms
+going across the west. 
+
+Conditions will quickly improve across much of the area by
+Wednesday morning. Though some low clouds may hang around across
+the north (most likely north of the ATL metro) as there may be 
+wrap around cloud cover from the upper level system as it lifts 
+northeast. High temperatures Wednesday will be in the 60s across 
+most of the area with temperatures in the 70s across the 
+southeast. 
+
+07
+
+&&
+
+.LONG TERM...
+(Thursday morning through next Monday)
+Issued at 253 PM EDT Tue Oct 25 2022
+
+By Thursday, the frontal push has cleared the Atlantic coast, 
+leaving behind a mild, dry airmass characteristic of early fall. 
+Highs will be pleasant, in the 70s, with low dewpoints to boot 
+(upper-40s to low-50s). The most impactful player for our sensible
+weather into the weekend will be a strong, 1030+ mb surface high 
+sliding into place across SE Canada on Friday, with enough oomph 
+to kick off a classical CAD event. For now, expecting cloud cover 
+to steadily increase beginning overnight Thursday into Friday, 
+with broken to overcast skies likely to persist into next week. 
+Flow looks to remain out of the east/northeast well into Sunday, 
+sufficient to drop highs through the weekend into the 60s (just a 
+few degrees below average) for the majority of north and central 
+GA, with lower-70s possible across our far southern tier. 
+Atmospheric moisture begins to increase late weekend thanks to 
+increasingly southwesterly upper-flow ushering in moisture-rich 
+air from across the Gulf -- as such, a few showers or periods of 
+drizzle are possible in areas especially socked in to the wedge 
+airmass (points east of Metro Atlanta to the GA/SC border). 
+
+Our CAD event looks to come to an end on Monday, when a mid-level 
+trough that had spent the weekend digging and deepening across 
+central Texas begins to lift northeastward across the Midwest and 
+into the Great Lakes. There remains some uncertainty among global 
+models regarding the details of the passage of the attendant cold-
+frontal boundary, as the Euro develops a stronger surface low with a 
+pronounced dry slot directly upstream of the front, while the GFS 
+supports a broader local maxima in moisture. At present, there is 
+also a discrepancy in timing the FROPA, with the drier, faster Euro 
+favoring Sunday morning to Monday morning, and the GFS favoring 
+Sunday evening through Tuesday morning. Either way, the front itself 
+looks to be rather ragged and amorphous once it passes the AL/GA 
+state line (as they tend to be), so it remains to be seen how much 
+organization is retained... though time of day will play a huge role 
+in how much instability is realized. Will wait to see how 
+consistency wiggles out over the next day or two before trying to 
+dig into the details. 
+
+96
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 141 AM EDT Wed Oct 26 2022
+
+A line of SHRA ahead of an advancing cold front is stretching
+across east and central Georgia, along an axis from roughly AHN to
+MCN. This line has cleared the ATL metro area and will continue to
+move eastward through the morning hours. Winds have begun to shift
+to SW at 5-8 kts behind the cold front, and will continue to NW
+before sunrise. Winds will furthermore increase to 7-10 kts during
+the daytime with gusts up to 20 kts. Some cold air stratocu clouds
+are possible on the backside of the front, warranting MVFR
+ceilings during the early morning hours before scattering out
+after 14-15Z.
+
+//ATL Confidence...Avi Update...
+Medium confidence on duration of MVFR ceilings.
+High confidence on all other elements.
+
+King
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Athens          47  74  52  70 /   0   0   0  10 
+Atlanta         47  72  54  71 /   0   0   0  10 
+Blairsville     39  69  46  67 /   0   0   0  10 
+Cartersville    44  73  51  72 /   0   0   0  10 
+Columbus        47  76  54  76 /   0   0   0  10 
+Gainesville     47  72  53  68 /   0   0   0  10 
+Macon           46  77  52  75 /   0   0   0  10 
+Rome            46  74  49  75 /   0   0   0  10 
+Peachtree City  45  73  52  71 /   0   0   0  10 
+Vidalia         50  79  57  76 /   0   0   0  10 
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...NListemaa
+LONG TERM....96
+AVIATION...King
+

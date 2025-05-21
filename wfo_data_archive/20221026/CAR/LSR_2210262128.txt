@@ -1,0 +1,24 @@
+857 
+NWUS51 KCAR 262128
+LSRCAR
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE CARIBOU ME
+528 PM EDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0528 PM     HEAVY RAIN       2 E HANCOCK             44.53N 68.22W
+10/26/2022  E1.56 INCH       HANCOCK            ME   PUBLIC           
+
+             
+
+
+&&
+
+$$
+
+JS
+

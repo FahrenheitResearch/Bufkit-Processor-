@@ -1,0 +1,98 @@
+921 
+FXUS61 KPBZ 262149
+AFDPBZ
+
+Area Forecast Discussion
+National Weather Service Pittsburgh PA
+549 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Lingering light and isolated showers tonight will be followed by
+dry weather and seasonable temperature Thursday and into the 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Isolated to scattered light showers/sprinkles will diminish
+through the evening as a crossing shortwave exits east, but a 
+subsidence inversion will keep low- level moisture trapped, 
+maintaining clouds through the night across the majority of the
+region. This, and continued mixing, will keep overnight lows 
+near climatology.
+
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH SATURDAY/...
+Surface high pressure will drift across the Great Lakes and southern 
+Canada during this period, with another period of dry weather.
+Morning clouds will mix out by midday Thursday, with plenty of
+afternoon sun. Warm advection and a weak shortwave aloft may 
+lead to some high clouds on Friday, although no precipitation is
+expected due to a dearth of moisture in the lower levels.
+
+Temperatures will be a few degrees below climatology on Thursday in 
+the wake of today's frontal passage, but will rebound several 
+degrees on Friday as 850mb temperatures warm.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+An upper closed low over the ArkLaTex region at this start of this 
+period is still forecast to lift northeastward and open up with 
+time.  Eventually, this system could phase with a northern stream 
+wave crossing the Plains on Sunday, with a shortwave over the 
+Lower/Middle Ohio Valley being the eventual result on Monday. Still 
+not impressed with the strength of this wave as it eventually lifts 
+over our region early next week.  
+
+A dry outcome is still very likely through Saturday night.  Elected 
+to pull back on Sunday/Sunday night NBM PoPs slightly in a nod 
+towards the slower outcome.  Also, continued previous trend of 
+nudging Sunday high temperatures a couple of degrees higher 
+than NBM due to a slower arrival of clouds and rain. PoPs 
+maximize in the likely range Sunday night/Monday as the trough 
+crosses. Temperatures remain near/above normal through this 
+time.
+
+A few showers may linger Tuesday, with high pressure and dry weather 
+returning on Wednesday.  Notably, virtually all models beyond the 
+middle of next week point to strong positive 500mb height anomalies, 
+meaning warmer-than-normal weather will continue well into the early 
+part of November.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+A cold font has progressed through all ports. Widespread 
+MVFR/patchy IFR cigs are expected after FROPA, with low level 
+moisture in place below a strengthening subsidence inversion.
+Most showers have departed the region, though some light 
+showers may linger as an upper trough crosses the region. The 
+highest likelihood to showers will be north of PIT with a 
+greater proximity to Lake Erie. Chances will drop drastically
+into the overnight hours.
+
+A brief period of gusty SW wind up to 20kt has been observed as
+the pressure gradient tightens and mixing increases after 
+FROPA. Winds will drop overnight with a building high. The cig 
+restrictions should continue tonight, before bldg sfc high 
+pressure results in a clearing trend and return to VFR by mid 
+morning Thu.
+
+.OUTLOOK...
+VFR is expected Thu thru Sun under high pres. Restriction
+potential returns with Sun night/Mon low pres.
+
+&&
+
+.PBZ WATCHES/WARNINGS/ADVISORIES...
+PA...None.
+OH...None.
+WV...None.
+
+&&
+
+$$
+

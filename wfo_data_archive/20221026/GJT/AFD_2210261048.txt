@@ -1,0 +1,127 @@
+293 
+FXUS65 KGJT 261048
+AFDGJT
+
+Area Forecast Discussion
+National Weather Service Grand Junction CO
+448 AM MDT Wed Oct 26 2022
+
+.SHORT TERM...(Today through Thursday)
+Issued at 448 AM MDT Wed Oct 26 2022
+
+As models had suggested in earlier runs, a cold front stalled in 
+the vicinity and parallel to the I-70 corridor in the wake of a 
+low amplitude mid-level trough which passed over the region 
+Tuesday. In response to the next mid-level trough now over the 
+Pacific Northwest, flow at the 700 mb level has shifted to the 
+southwest resulting in overrunning of the stationary front. This 
+has resulted in a broad swath of showers centered over I-70 with 
+light showers reported at Canyonlands and here at Grand Junction. 
+Web cams atop the Grand Mesa indicated showers were falling in 
+the form of snow. 
+
+Today, the trough upstream shifts southeastward as positive tilt
+open wave with its axis pushing across northwest Utah by 00Z/Thu.
+Continued southwest flow ahead of this system causes the front to
+lift northward as warm front. As the system closes on the forecast
+area ascent associated with overrunning will be augmented by mid-
+level forcing depicted in negative div-Q fields in addition to 
+divergence associated with the cyclonically curved jet. This will 
+cause precipitation to increase in both intensity and coverage as
+the day progresses. Warm air advection ahead of the system will 
+cause snow levels to rise to mountain bases during the afternoon 
+and up to 8500' this afternoon over southwest Colorado. 
+
+The trough continues to steadily track southeastward tonight with
+its axis oriented northeast to southwest, bisecting the forecast 
+by 12Z/Thu. Meanwhile, the surface front associated with this 
+system will be driven southeastward across the region exiting 
+south of the UT/CO border by sunrise. This will cause snow levels 
+to lower to valley floors overnight. On Thursday the system forms
+a closed low south of Pagosa Springs, just across the border over
+north-central New Mexico before finally pushing over the central 
+part of that state late in the afternoon. Lapse rates increase as 
+the system passes overhead tonight while Q fields continued to 
+indicate good mid-level omega values. Meanwhile, flow shifts back
+around to the northwest on the rear flank of the system, yielding
+more favorable orographic flow for the western Colorado mountains. 
+Steep lapse rates and a deeper dendritic growth zone will aid in 
+snow production in the high country tonight into Thursday. 
+
+Previous shift's snowfall totals appeared to be on track and made
+no changes with this package. Specifically, this system is
+expected to bring a storm total of 5 to 10 inches with locally
+higher amounts for the northern and central Colorado mountains
+through Thursday afternoon. Lower elevations across northwest
+Colorado along with the higher central valleys of Colorado can
+expect 1 to 2 inches of snow, mainly during the night. One area 
+that may require attention is the northwest San Juan Mountains 
+where northwest flow on the backside of this system could cause 
+snow to pile up fast. Not enough confidence to pull the trigger 
+yet, so will make no changes to the going Winter Weather 
+Advisories across western Colorado's high country with this 
+package. 
+
+Despite clouds and shower activity, mild overnight lows this
+morning combined with weak warm air advection should help
+temperatures rise a few degrees this afternoon. Overnight lows
+will feel the affects of cold air advection on the backside of the
+front, however, shower activity and clouds will buoy overnight
+lows to some degree. On Thursday the region will cool by 5 to 10 
+degrees relative to today's highs as the colder airmass takes 
+hold across the region.
+
+.LONG TERM...(Thursday night through Tuesday) 
+Issued at 448 AM MDT Wed Oct 26 2022
+
+Models remained in good agreement with dry conditions this weekend
+and into Monday. Differences in perturbations crossing the region
+may add some fluctuation and a wider ensemble spread with regard 
+to high temperatures. For now, the forecast consists of a slow 
+warm up through the end of October.
+
+November will begin with a question mark as the more progressive
+ECMWF digs a deep trough over the West bringing the threat of 
+showers to the northern zones Tuesday afternoon. However, both the
+Canadian and GFS operational runs favored the trough's placement 
+over the West Coast and dry southwest flow. The National Model 
+Blend seemed to be more influenced by the ECMWF solution 
+suggesting a chance of showers over the eastern Uinta Mountains 
+Thursday afternoon with a slight chance for precipitation 
+generally north of the I-70 corridor and over the central Colorado
+mountains. Given model differences, this seems a reasonable 
+place to start. What's more certain is that temperatures will 
+continue their slow warming trend with readings finally near, or 
+perhaps a little above normal.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1117 PM MDT Tue Oct 25 2022
+
+Elsewhere ILS conditions and mountain obscuration is expected for
+the next several hours. Another band of snow and and lower valley
+rain will develop late tonight and will continue through the late
+morning. Most sites will improve towards the afternoon although 
+showers may persist in the mountains most of the day and into the
+evening.
+
+&&
+
+.GJT WATCHES/WARNINGS/ADVISORIES...
+
+CO...Winter Weather Advisory until noon MDT Thursday for COZ004-013.
+
+     Winter Weather Advisory until 6 PM MDT Thursday for COZ009-010-
+     012.
+
+UT...None.
+
+&&
+
+$$
+
+SHORT TERM...NL
+LONG TERM...ERW/NL
+AVIATION...TGJT
+

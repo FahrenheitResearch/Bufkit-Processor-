@@ -1,0 +1,121 @@
+233 
+FXUS64 KMAF 260828
+AFDMAF
+
+Area Forecast Discussion
+National Weather Service Midland/Odessa TX
+328 AM CDT Wed Oct 26 2022
+
+...New SHORT TERM, LONG TERM...
+
+.SHORT TERM...
+(Today through Thursday afternoon)
+Issued at 325 AM CDT Wed Oct 26 2022
+
+WV imagery shows zonal flow over West Texas and Southeast New  
+Mexico, making for a rather prosaic morning across the region. An 
+upper trough has made landfall in the PacNW, and is forecast to 
+dig down to near the Four Corners by 18Z Thursday. Surface obs 
+show light and variable winds at the moment, but return flow 
+resumes today in the east, and southwest-to-west flow over the 
+higher terrain, in response to leeside troughing on the Front 
+Range as the PacNW trough digs SE. This will allow afternoon highs
+to warm 5-7F over yesterday's...near normal most locations. 
+Tonight, a 30+kt LLJ is set to develop, advecting Gulf moisture 
+into the area. This will keep mixing in play, and with higher 
+dewpoints and increasing high cloud, overnight lows will warm a 
+similar 5-7F over this morning's. Thursday, as mentioned above, 
+the trough will dig into New Mexico, and is forecast to center 
+over east central New Mexico by 00Z Friday. 700mb height gradients
+will approach 60m/200nm during the late afternoon, signaling a 
+few hours of high winds in the Guadalupes. Downslope warming will 
+add 1-3F to afternoon highs everywhere but Southeast New Mexico, 
+where the cold front accompanying the trough may spoil highs 
+before the afternoon is over. 
+
+&&
+
+.LONG TERM...
+(Thursday night through Tuesday)
+Issued at 325 AM CDT Wed Oct 26 2022
+
+Thursday night, the trough responsible for the windy conditions  
+across the Guadalupe Mountains will develop a positive tilt as it 
+progresses southeastward from New Mexico across West Texas through 
+Friday morning. Ahead of the trough, a dryline will be in place 
+across the region, with dewpoints likely to be in the upper 
+40s/50s across the eastern Permian Basin and Lower Trans Pecos. As
+ascent increases and temperatures aloft cool in response to the 
+trough's progression, convective potential will increase, 
+especially across northern and eastern portions of the forecast 
+area. The greatest likelihood of thunderstorms will be focused 
+across eastern zones in closer proximity to the dryline, where 
+interaction with the trough's associated Pacific front is progged 
+to result in some strong, possibly severe thunderstorms. Storms 
+will remain elevated, with the cold temperatures aloft yielding a 
+threat of large hail, with damaging downburst winds also a concern
+with the stronger storms. Storms that develop Thursday night will
+quickly move east, though rain chances will linger through the 
+night and into Friday morning as a cold front moves through the 
+region with additional potential for wrap-around precipitation 
+associated with the trough as it translates southeastward across 
+Central Texas. 
+
+In the wake of the departing system, temperatures have continued
+to trend downward for Friday, given expected lingering cloud 
+cover and continued cold advection accompanied by breezy northerly
+to northwesterly winds. Highs are currently forecast to range 
+from the middle 50s to middle 60s for most, with 70s across the 
+Rio Grande Valley, roughly 10-15 degrees below normal for most, 
+and these forecast highs may still be a bit on the warm side. 
+Winds will diminish Friday night, yielding a chilly morning on 
+Saturday, with lows ranging from the lower 30s to lower 40s across
+Southeast New Mexico and West Texas. Temperatures thereafter will
+slowly moderate back toward normal through the first part of next
+week as flow aloft transitions from northwesterly to quasizonal 
+and southerly return flow resumes at the surface. Model solutions 
+begin to diverge next week, though overall, fairly quiescent 
+conditions are expected through midweek with a continued warming 
+trend and dry conditions areawide.
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1207 AM CDT Wed Oct 26 2022
+
+VFR conditions will prevail next 24 hours in light return flow,
+with a few high clouds, mainly over Southeast New Mexico.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Big Spring               77  50  79  48 /   0   0   0  40 
+Carlsbad                 76  45  75  43 /   0   0   0  10 
+Dryden                   75  48  77  51 /   0   0   0  10 
+Fort Stockton            79  48  80  46 /   0   0   0  10 
+Guadalupe Pass           67  47  65  39 /   0   0   0   0 
+Hobbs                    73  44  74  42 /   0   0   0  20 
+Marfa                    74  42  73  35 /   0   0   0   0 
+Midland Intl Airport     76  49  78  47 /   0   0   0  20 
+Odessa                   75  50  78  47 /   0   0   0  20 
+Wink                     77  44  79  45 /   0   0   0  10 
+
+&&
+
+.MAF WATCHES/WARNINGS/ADVISORIES...
+TX...High Wind Watch from Thursday afternoon through Thursday evening 
+     for Guadalupe Mountains Above 7000 Feet-Guadalupe and 
+     Delaware Mountains.
+
+NM...High Wind Watch from Thursday afternoon through Thursday evening 
+     for Guadalupe Mountains of Eddy County.
+
+&&
+
+$$
+
+SHORT TERM...44
+LONG TERM....84
+AVIATION...44
+

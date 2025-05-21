@@ -1,0 +1,104 @@
+774 
+FXUS62 KFFC 262325
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+725 PM EDT Wed Oct 26 2022
+
+
+
+...New 00Z Aviation Discussion...
+
+.SHORT TERM...
+(This evening through Thursday)
+Issued at 335 PM EDT Wed Oct 26 2022
+
+Relatively benign weather pattern in place following the frontal 
+passage last night with PWATs dropping under 0.5". Despite the drier 
+air, most of which remains aloft, cooler air rushing in from the NW 
+is keeping boundary layer RHs low enough for some low-level clouds 
+in NW portions of the forecast area which have slowly eroded away 
+through the morning and afternoon as dry air mixes downward from 
+aloft. 
+
+Winds will lighten overnight and turn toward the ENE as the surface 
+high pressure behind the front becomes the dominant weather pattern 
+over the eastern CONUS as it shift towards the Great Lakes region. 
+As it does so, we'll stay locked in a steady weather pattern with 
+gradual increases towards near-normal temperatures occurring as 
+high temperatures tomorrow rebound into the low 70s.
+
+Thiem
+
+&&
+
+.LONG TERM...
+(Friday morning through next Tuesday)
+Issued at 335 PM EDT Wed Oct 26 2022
+
+Beginning Fri morning the high pressure ridge centered over the New 
+England states is setting up as a wedge down the eastern seaboard. 
+This wedge continues to strengthen through Sat morning as the 
+developing frontal system over eastern TX deepens and pushes east. 
+
+Models seem 5to be coming into a bit better agreement with this next 
+system but the ECMWF is still about 12 hours slower than the GFS.
+The closed low is expected to lift northeastward into the mid MS 
+valley, pushing a cold front through the Southeastern US and into 
+Georgia Sat evening through Sunday. One thing the models agree on is 
+the wedge strengthening ahead of this next system so it should help 
+to keep things fairly stable across North and Central GA through the 
+weekend. This will keep any storms that try to develop along the 
+front fairly weak. The GFS is notorious for weakening and pulling a 
+wedge out to fast and it is also showing it staying across the state 
+through Mon morning. This gives a bit more confidence to keeping 
+mainly showers with some isolated thunderstorms Sunday in the 
+forecast. PoPs stay elevated Sat night, finally tapering off Monday 
+evening. 
+
+High temps through the period stay mainly in the 60s and 70s with 
+Lows in the 50s and 50s.
+
+01
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 632 PM EDT Wed Oct 26 2022
+
+VFR through the period. A wind shift to the east should occur
+overnight, just before 12Z.
+
+//ATL Confidence...Avi Update...
+High confifence all elements. 
+
+NListemaa
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Athens          47  72  51  68 /   0   0  10   0 
+Atlanta         47  70  52  68 /   0   0   0   0 
+Blairsville     38  68  44  65 /   0   0   0   0 
+Cartersville    43  72  50  69 /   0   0   0   0 
+Columbus        47  75  53  73 /   0   0   0  10 
+Gainesville     46  70  51  66 /   0   0   0   0 
+Macon           46  75  51  73 /   0   0  10  10 
+Rome            45  73  48  72 /   0   0   0   0 
+Peachtree City  44  71  51  69 /   0   0   0   0 
+Vidalia         51  76  56  73 /   0   0  10  10 
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...Thiem
+LONG TERM....01
+AVIATION...NListemaa
+

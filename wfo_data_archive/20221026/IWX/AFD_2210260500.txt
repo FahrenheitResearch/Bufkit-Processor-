@@ -1,0 +1,107 @@
+800 
+FXUS63 KIWX 260500
+AFDIWX
+
+Area Forecast Discussion
+National Weather Service Northern Indiana
+100 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Issued at 840 PM EDT Tue Oct 25 2022
+
+Rain showers continue overnight, followed by blustery north to 
+northwest winds, into Wednesday as a low pressure system lifts 
+through northern Indiana. Dry conditions will return on Wednesday
+and persist into the weekend. Cooler, and more seasonal temperatures
+can also be expected in the wake of this weather system, with 
+daytime temperatures dropping back into the 50s.
+
+&&
+
+.SHORT TERM...(This Evening through Wednesday)
+Issued at 230 PM EDT Tue Oct 25 2022
+
+The area remains in the warm sector this afternoon due to 
+southerly flow ahead of a low pressure system currently centered 
+over southeast Missouri. This low is forecast to move up through 
+Illinois and into northern Indiana by late this evening. Rain 
+showers are already moving in from the west and will continue to 
+progress eastward as well. Can't rule out a few rumbles of thunder as
+the low grows closer, but don't have very much confidence. 
+Surface instability will be waning down to only a couple hundred 
+Joules and bulk wind shear will be marginal at around 25-30 kts. 
+The best chances for thunder will be south of US 30. There is 
+greater certainty that moderate rain can be expected, especially 
+across the west as dewpoints continue to increase along with the 
+warm air advection. Rainfall amounts are expected to range from 
+over an inch in the far northwest to around a quarter of an inch 
+in northwest Ohio, although locally higher amounts are possible.
+
+The upper low will move into Ohio on Wednesday morning, and
+showers will taper off during the afternoon. However, a tight 
+surface pressure gradient and cold air advection behind the low 
+will result in gusty north to northwest winds up to 35 to 40 mph. 
+
+&&
+
+.LONG TERM...(Wednesday Night through Tuesday)
+Issued at 230 PM EDT Tue Oct 25 2022
+
+Winds will shift to the northeast and diminish Wednesday night as
+weak ridging builds back across the area. Dry conditions will 
+also return, though it will remain seasonably cool through the end
+of the week with highs in the 50s and lows in the 30s. The ridge 
+axis will strengthen over the region on Saturday and temperatures
+will warm slightly into the 60s. A low moving up from Texas will
+then bring a chance of rain on Sunday into Monday, and possibly 
+Tuesday, but model discrepancies lead to uncertainty as to whether
+this will actually pan out or not. 
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday Night)
+Issued at 1230 AM EDT Wed Oct 26 2022
+
+Surface low near KLAF associated with robust mid level cyclone
+near KHUF. System to continue northeast track, quickly swept out
+through Lake Huron by midday as northern stream shortwave sweeps
+through northern portion of Upper Great Lakes. This should allow 
+for acceleration of spiraled rainbands, with an area of more 
+pronounced/persistent deformation across northeast Illinois/ 
+northwest Indiana early this morning, to the northeast and clear 
+northern Indiana through the morning hours. Stronger, veered low 
+level flow within lagged moist boundary layer should foster 
+deterioration/expansion of lower end MVFR/tempo IFR stratus across
+northern Indiana, especially at KSBN per upstream northern 
+Illinois observations and additive lake enhancement. Gradual 
+mixout into higher end MVFR by midday as drier subcloud air 
+overspreads. Transition to VFR by evening as low level flow 
+transitions to anticyclonic and subsident surface ridge spreads 
+east towards northern Indiana. 
+
+&&
+
+.IWX WATCHES/WARNINGS/ADVISORIES...
+IN...NONE.
+MI...NONE.
+OH...NONE.
+LM...Gale Warning from 5 AM early this morning to noon EDT today for 
+     LMZ043-046.
+
+&&
+
+$$
+
+SYNOPSIS...Andersen
+SHORT TERM...Cobb
+LONG TERM...Cobb
+AVIATION...Murphy
+
+
+Visit us at www.weather.gov/iwx
+
+Follow us on Facebook...Twitter...and YouTube at:
+www.facebook.com/NWSNorthernIndiana
+www.twitter.com/nwsiwx
+www.youtube.com/NWSNorthernIndiana
+

@@ -1,0 +1,146 @@
+879 
+FXUS61 KCAR 261025
+AFDCAR
+
+Area Forecast Discussion
+National Weather Service Caribou ME
+625 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure tracks from the Gulf of Maine today into the
+Canadian Maritimes this evening. A cold front moves into Maine 
+by late tonight, then exits to the east Thursday morning, High 
+pressure builds in through Saturday night, then slides offshore 
+on Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+625 AM Update: No sig chgs to the ongoing near term fcst attm,
+with only hrly sfc temps/dwpts updated into the late morn from
+latest avbl sfc obs. 
+
+Prev Disc: Areas of fog, dense over Downeast areas (where a 
+dense fog adv remains in effect til 9am) will cont ovr the FA 
+thru mid morn then become patchy late in the morn. The leading 
+edge of sct shwrs with the next oceanic sfc low will then advc 
+nwrd into Downeast ME in the morn and into Nrn ptns of the FA by
+erly Wed aftn as an area of steadier mdt-hvy rnfl reaches 
+Downeast areas by aftn as the low apchs from the S with PWs of 
+1.50+. This area of steady rnfl will then traverse nwrd to Nrn 
+areas late Aftn and Eve before exiting NE of the FA late Wed 
+Ngt. Models, spcly meso-models cont to trend heavy with the 
+bullseye of heavier QPF with this system and flood watches have 
+been xtnded from SE ME to the lower and mid Penobscot vly. 
+Elevated CAPE with hvy rnfl MBEs could result in isold rumbles 
+of thunder this aftn and Eve.
+
+Temps Wed will remain well abv normal, spcly at ngt due to very
+high dwpts associated with deep semi-tropical high PW airmass. 
+Mid lvl dry slotting will result in most of the rn exited E of 
+the FA by erly Thu morn.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+A passing 850 hPa cold front could bring some isolated to scattered 
+showers across the North mainly during the morning on Thursday. A 
+weak 700 hPa shortwave passes Thursday afternoon and a 500 hPa 
+shortwave passes Thursday evening. However, dry low levels should 
+allow for these two features to pass by dry.  With clear sky and 
+slackening winds, especially over the North Woods, did go towards 
+the cooler end of guidance to reflect the decent radiational cooling 
+conditions developing late Thursday night there.
+
+Highs Thursday should run around 10-15 degrees above normal, mainly 
+in the 60s. Lows Thursday night should be near to slightly below 
+normal, with readings from the mid 20s to the upper 30s, coldest 
+across the North. 
+
+The region is then under locally zonal flow Friday, with no 
+shortwaves progged to be embedded in the flow, so it should be 
+dry. A northern stream shortwave pushes into the region, but 
+with dry low to mid levels it should remain dry. Highs on Friday
+should be near normal and lows Friday night a few degrees below
+normal.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+A northern stream shortwave trough exits Saturday morning, followed 
+by deep layered ridging building over the region into Monday. It 
+should be dry through at least Monday morning as a result, due to 
+subsidence under the ridge.
+
+The models then differ with respect to the timing and strength of 
+the next system. The timing differences deal mainly with differences 
+of when the aforementioned deep layered ridge slides offshore. This 
+will determine exactly when any rain develop late Monday and how far 
+into Tuesday it will actually last.
+
+Temperatures should be above normal Saturday through Tuesday.
+
+&&
+
+.AVIATION /07Z WEDNESDAY THROUGH SUNDAY/...
+NEAR TERM: Tdy - Tngt...all TAF sites VLIFR-IFR clgs/VLIFR-MVFR
+vsbys in fog, shwrs, and/or steady rn. Lgt winds. LLWS possible
+late this aftn into erly eve.
+
+SHORT TERM: Thursday...Becoming VFR. SW winds G15-20KT possible
+in the morning, then NW Winds G20-30KT possible in the 
+afternoon.
+
+Thursday night-Sunday...VFR. NW-N winds G20-25KT possible
+Thursday evening.
+
+&&
+
+.MARINE...
+NEAR TERM: Winds and seas will slowly build this Aftn into Tngt
+spcly ovr our outer MZs, but will remain just below SCA
+thresholds. Kept close to blended wv model guidance for fcst wv
+hts with wv pds msly between 8 to 10 sec advcg SSE to NNW.
+
+SHORT TERM: There is a low end chance that marginal SCA
+conditions due to seas develop on the coastal ocean waters
+Thursday. All waters should see gusts of 25-30KT Thursday night,
+then diminish into Friday. Winds should be 10 kt or less and
+seas 3 ft or less Friday night-Sunday, as a relaxed pressure
+gradient sets up over the waters.
+
+&&
+
+.HYDROLOGY...
+The consensus of models indicate heaviest rainfall amts of 1 to
+2 inches with local 2 to 3 inches falling ovr Downeast, Cntrl,
+and E Cntrl ptns of the FA beginning this Aftn and contg into 
+the Eve. The area most prone to flooding within the flood watch
+is ptns of coastal Hancock and Cntrl/Srn Washington counties
+that experienced 1 to 2 inches of rnfl ystdy. Top end rnfl rates
+with the heaviest meso elements may reach 0.50 to 0.75 inches
+per hr, however the threat of flooding may be mitigated by the
+speed of the best forcing of hvy rnfl from S to N across the FA,
+which may lmt the tm of heaviest rnfl ovr any particular lctn.
+
+
+&&
+
+.CAR WATCHES/WARNINGS/ADVISORIES...
+ME...Flood Watch from noon EDT today through late tonight for 
+     MEZ011-015>017-029-030-032.
+     Dense Fog Advisory until 9 AM EDT this morning for MEZ015>017-
+     029-030.
+MARINE...None.
+
+&&
+
+$$
+
+Near Term...VJN
+Short Term...Maloit
+Long Term...Maloit
+Aviation...VJN/Maloit
+Marine...VJN/Maloit
+Hydrology...VJN
+

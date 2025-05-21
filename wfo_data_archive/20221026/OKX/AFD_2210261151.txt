@@ -1,0 +1,252 @@
+195 
+FXUS61 KOKX 261151
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+751 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure approaches from the southeast this morning and 
+passes to our east this afternoon. A cold front moves through 
+late tonight. High pressure then builds into the area Thursday 
+through the first half of the weekend. High pressure over the
+area Saturday night will shift east farther into the Western 
+Atlantic Sunday into Sunday night. Another low well offshore 
+will approach the region. A frontal system will also be 
+approaching from the west. The frontal system moves across the 
+area early next week with the low staying offshore but 
+continuing to travel northward in the Western Atlantic.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast remains on track with only minor changes needed to
+reflect current forecast. The Special Weather statement for
+patchy dense fog has been extended until 10 am for all areas.
+There is uncertainty with the actual timing that the fog will
+lift, and could occur an hour or two later or earlier than 10
+am.
+
+Fog and clouds will continue this morning as abundant low level
+moisture is trapped beneath an inversion. The fog will be patchy
+dense in some areas and therefore, the Special Weather 
+Statement continues until 6 am. It will likely need to be 
+continued for a couple of more hours after that, until enough
+heating lifts the fog, generally around 10 am, with conditions
+improving before between 8 am and 10 am. Eastern areas will also
+improve, but more slowly, and some guidance points to fog all
+day across these areas. However, think the most likely scenario
+is a transition to patchy fog for eastern Long Island and
+southeast Connecticut. As for clouds, on average, there will be
+more clouds than sun, though a few breaks are possible for
+western sections as a weak area of low pressure or surface
+trough passes east of the area. Western sections being farther
+from this feature will breaks in the clouds first. 
+
+Speaking of the weak low pressure, it will continue to aid in
+streaming tropical moisture into the region this morning in the
+form of showers for eastern Long Island and southeast
+Connecticut. These showers will slowly trek westward. These
+showers will be associated with locally moderate to briefly
+heavy rain, and a thunderstorm is still possible as elevated
+instability of 100 to 500 J/kg noted in the mean HREF. However,
+no hydrologic problems are anticipated. 
+
+A shortwave trough in the mid levels approaches from the west
+late in the day along with its associated surface cold front. 
+This will halt the progression of the showers farther westward 
+this afternoon, and they should just lift north of the area. 
+
+With a moist air mass in place, conditions will continue to be
+humid for this time of year. A south to southwesterly flow sets
+up this afternoon ahead of the approaching cold front, allowing
+for above normal temperatures, with highs in the upper 60s to
+lower 70s for a majority of the area.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY/...
+The mid level shortwave and surface cold front will continue to
+approach from the west, and will move through late tonight. 
+However, it looks to weaken as it moves through, so expecting a 
+chance for showers for western areas, generally west of the 
+Hudson River, and mainly dry conditions overnight tonight for 
+all other areas.
+
+There may be some patchy fog for eastern areas early tonight, 
+and it may once again be patchy dense, but as the cold front 
+moves through these areas, it will aid in drying out the lower 
+levels with high pressure building in, generally by midnight or
+thereafter. 
+
+With the cold front moving through, cooler temperatures are
+expected. Tonight will be cooler than Tuesday night, but still
+above normal, with lows in the upper 40s to middle 50s. 
+
+The cooling trend will continue Thursday into Friday, with cold
+air advection getting underway more so for Friday than 
+Thursday. Expect highs in the 60s on Thursday, with upper 50s 
+forecast for Friday, and slightly warmer for Saturday as the 
+surface high pushes off the New England coast
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH TUESDAY/...
+Mid levels exhibit area on western side of a large amplitude 
+ridge Saturday night into Sunday with multiple embedded 
+shortwaves traversing the local region for early next week.
+
+Optimal radiational cooling conditions expected Saturday night so a 
+wider variance of lows from interior and rural locations to within 
+NYC. Some near freezing low temperatures forecast for Orange County 
+NY.
+
+Clouds increase on Sunday and flow becomes more easterly as high 
+pressure departs to the Western Atlantic. Clouds further increase 
+Sunday night with rain showers returning to the forecast. Low 
+pressure well offshore begins to approach as well as a frontal 
+system to the west. With continued easterly flow, expecting warmer 
+min temperatures Sunday night, ranging mainly from the lower 40s to 
+lower 50s.
+
+Southerly branch of upper level jet intensifies and the jet streak 
+starts to move in Monday into Tuesday of next week. Enhanced 
+synoptic lift from the left front quad of the jet will be near the 
+local area during this timeframe. Rain showers become likely on 
+Monday afternoon and remain likely through early Tuesday morning. 
+Chances for rain showers remain thereafter through early Tuesday 
+evening. 
+
+Potential for heavy rain at times for early next week. GFS showing 
+layer precipitable waters of near 1.5 inches and at times some 
+slightly negative Showalter Indices. Could even have an isolated 
+thunderstorm, but confidence not high enough to put in forecast yet. 
+There is a lot of uncertainty with wide variance on model 
+precipitation forecasts and timing.
+
+Airmass overall looks in the long range to be remaining milder than 
+normal with highs and lows. Highs forecast mainly in the lower 60s 
+on Sunday trend up to low to mid 60s for Monday and Tuesday.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+Offshore low pressure approaches today and then moves farther north 
+towards Gulf of Maine tonight. A cold front will move across tonight 
+as well.
+
+Abundant low level moisture with a light NE-E flow near 5 kts 
+or less will keep low clouds and fog into this morning. Mainly 
+LIFR to some potential VLIFR conditions expected into this 
+morning. Just some marginal improvement expected this morning 
+into this afternoon to IFR and eventually MVFR late this 
+afternoon towards this evening. Visibilities expected to improve
+first and then ceilings. The wind direction at times will be 
+variable but overall will become more of a S-SW flow around 5-6 
+kts for this afternoon.
+
+The flow will become more westerly behind the cold front tonight. 
+The flow will remain light, still near or slightly above 5 kts.
+Winds increase to near 10-12 kt towards early Thursday morning.
+Fog could redevelop east of NYC terminals so MVFR a higher 
+possibility and perhaps even IFR through the evening hours for 
+these more eastern terminals.
+
+There will be chances for rain showers at times which could actually 
+temporarily improve visibilities in those locations that have fog. 
+Confidence is low on timing and position of these showers
+though. Two main areas of showers, one in and around KGON this
+morning and then next area that develops late this afternoon
+into this evening with the cold front.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Expect amendments for changes in flight cat which could be off by a 
+few hours compared to TAF. Fluctuations quite possible between 
+categories during the day today.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...  
+.Thursday...VFR. NW winds 10-15G20KT. 
+.Friday...VFR. NE winds near 10 kt with gusts 15-20KT. 
+.Saturday...VFR. 
+.Sunday...VFR in the morning. MVFR or lower possible late at night 
+with any showers. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory continues through 10 am this morning  
+
+Winds increase with the passing of a cold front tonight, but 
+gusts stay around 15-20 kt, and waves may touch 5 ft across the 
+outer ocean waters, but it is marginal and for the most part,
+SCA conditions are not expected tonight.
+
+Increasing northeasterly fetch likely brings 25-kt gusts to the
+ocean waters on Friday, with seas building 4-7 ft during this 
+time. Winds subside below SCA criteria Friday night, though seas
+likely remain elevated near 5 ft on Saturday, and perhaps into 
+Sunday as well. 
+
+Non-ocean waters are expected to remain below SCA criteria
+today through the weekend.
+
+&&
+
+.HYDROLOGY...
+Moderate to locally heavy showers, and an isolated thunderstorm, 
+will move from east to west this morning associated with low 
+pressure that approaching from the SE. PWATS increases to 1.75 
+inches for the eastern half of the area and this is where the 
+higher rainfall totals can be expected. However, outside of 
+possible minor flooding in poor drainage areas, no widespread flooding
+is expected. Average totals of up to a third of an inch is expected
+across southern CT and Long Island, with locally higher amounts
+under the heaviest showers. 
+
+Overall, no widespread hydrologic impacts are expected through
+early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will be running high through today due to a 
+new moon. Therefore for today's high tide cycle minor coastal 
+flooding benchmarks may be approached or slightly exceeded 
+across the south shore back bays of Nassau, Queens, and 
+Fairfield, CT. Coastal flood statement is in effect 8AM to 11AM
+this morning across the South Shore Back Bays of Long Island and
+between 11AM to 2PM today for Southern Fairfield CT coastline. 
+
+A ENE swell begins to increase into Friday. With increasing
+swell energy despite an offshore wind preceding the swell 
+increase, minor coastal flood benchmarks may again be approached
+for the Friday and Saturday daytime high tides for the same 
+locations as well as northward facing shorelines of Western Long
+Island.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ331-332-
+     335-338-340-345-350-353-355.
+
+&&
+
+$$
+SYNOPSIS...JM/JP
+NEAR TERM...JP
+SHORT TERM...JP
+LONG TERM...JM
+AVIATION...JM
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...
+

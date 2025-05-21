@@ -1,0 +1,95 @@
+114 
+FXUS64 KSJT 261904
+AFDSJT
+
+Area Forecast Discussion
+National Weather Service San Angelo TX
+204 PM CDT Wed Oct 26 2022
+
+...New SHORT TERM...
+
+.SHORT TERM...
+(This evening through Thursday)
+Issued at 154 PM CDT Wed Oct 26 2022
+
+Zonal flow aloft will leave quiet weather in place for the
+remainder of today and tonight. However, the forecast becomes a
+bit more tricky towards the end of the forecast period on Thursday
+afternoon as both the GFS and ECMWF indicate a strong low pressure
+system moving in aloft. We may see a brief period of scattered
+thunderstorms out ahead of the approaching disturbance. As a 
+result, a 20 to 30 percent chance of rain has been included in the
+forecast for the Big Country. However, the bulk of the activity 
+is expected to occur after 7 PM (overnight Thursday night and 
+Friday morning). If the system speeds up, then we may see a bit 
+higher coverage earlier than 7 PM. For now, the best chances will 
+remain later on Thursday night and Friday morning. The Storm 
+Prediction Center does have a Marginal Risk for severe weather on
+Day 2, which is when this activity rolls through. The primary 
+hazards are large hail and damaging winds at this time.
+
+&&
+
+.LONG TERM...
+(Thursday through Tuesday)
+Issued at 351 AM CDT Wed Oct 26 2022
+
+The main concern in the long term forecast will be the potential
+for strong to severe thunderstorms Thursday night into Friday
+morning. An upper level low will move southeast toward the area
+from the Four Corners region on Thursday. As it approaches, breezy 
+south winds responding to surface low pressure in southeastern 
+CO/northeastern NM will help advect low level moisture into the 
+area. As the low approaches Thursday evening, largescale lift will
+increase, and a cold front will sweep through from west to east 
+providing a focus for storms to develop off of. Thunderstorms are 
+expected to increase in coverage during the evening hours, 
+eventually forming a broken line of storms that will move through 
+west central Texas. Instability will be enhanced due to the cold 
+temperatures aloft associated with the upper low. Combined with 
+increasing winds aloft, some of the storms that develop may be 
+severe, with the main hazards being large hail and damaging winds.
+While most areas should see at least some precipitation, the best
+chance for significant rainfall is expected along and north of a 
+Sterling City to San Saba line.
+
+Showers and a few thunderstorms may linger into Friday afternoon,
+especially east of a line from Sweetwater to Junction. After highs
+in the 70s to near 80 on Thursday, temperatures will be quite a 
+bit cooler Friday, with highs only in the mid 50s to upper 60s.
+Quiet weather with slowly warming temperatures will follow from
+Saturday through early next week. 
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1203 PM CDT Wed Oct 26 2022
+
+VFR conditions will continue through the remainder of the TAF
+period. Expect intermittent wind gusts across KSOA at times.
+Otherwise, fair weather conditions will be the main highlight.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Abilene     53  77  51  59 /   0  20  80  70 
+San Angelo  50  78  51  67 /   0   0  70  20 
+Junction    48  79  53  70 /   0   0  70  30 
+Brownwood   48  78  53  64 /   0  10  90  60 
+Sweetwater  53  77  49  59 /   0  10  70  50 
+Ozona       50  74  50  67 /   0   0  60  10 
+Brady       49  77  54  65 /   0  10  80  40 
+
+&&
+
+.SJT WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...41
+LONG TERM....20
+AVIATION...41
+

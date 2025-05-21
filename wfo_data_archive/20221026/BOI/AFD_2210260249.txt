@@ -1,0 +1,89 @@
+756 
+FXUS65 KBOI 260249
+AFDBOI
+
+Area Forecast Discussion
+National Weather Service Boise ID
+849 PM MDT Tue Oct 25 2022
+
+.DISCUSSION...The shortwave trough moving through the Pacific
+Northwest is on track to bring breezy winds, cooler temperatures,
+mountain snow, and valley rain later tonight into the early 
+morning. Snowfall accumulations still look close to 4-6 inches for
+locations above 6000 feet MSL and 1-2 inches above 4500 feet MSL.
+Precipitation amounts below 4000 feet MSL look to be less than a 
+tenth of an inch. A ridge will build in from the southwest late 
+Wednesday evening, keeping the region dry while elevating 
+temperatures back to near normal through the rest of the short 
+term. No updates necessary to the forecast.
+
+&&
+
+.AVIATION...Areas of MVFR/local IFR and mountain obscuration in 
+rain/snow in the KBKE area and central Idaho mountains late tonight 
+through Wednesday morning. Otherwise mainly VFR. Areas of LLWS late 
+tonight through Wednesday morning. Surface winds: W-NW 10 kt or 
+less, increasing after 26/09z to 10-20 kt in southeast Oregon and 
+the higher terrain of southwest Idaho, then 15-25 kt across most of 
+the area after 26/15z. Winds aloft at 10k ft: W-SW 15-30 kt. 
+
+
+&&
+
+.PREV DISCUSSION...
+SHORT TERM...Tonight through Thursday night...A digging shortwave
+trough approaching the Pac NW coast will move through the region
+on Wednesday. Tonight will see increasing clouds with
+precipitation filling in from NW to SE early Wednesday morning. 
+Southwest flow aloft, along with a stable air mass preceding the 
+trough will limit precipitation amounts at lower elevations to 
+less than 0.10 inches. Snow levels are around 4500 feet for this 
+event resulting in 1-3 inches in mountain valleys. The heaviest 
+snowfall will be above 6000 feet where 4-8 inches is expected. The
+bulk of the rain/snow will fall before sunrise, scattering out
+through the morning at lower elevations. In the mountains,
+afternoon instability will support shower development through the
+day. Northwest flow aloft will mix to the surface, bringing gusty
+winds to 35 mph across open terrain of SE Oregon and SW Idaho 
+Wednesday afternoon. We see a return to dry weather starting 
+Wednesday night as a flat upper ridge builds over the region. 
+Temperatures will be around 10 degrees below normal through 
+Thursday.
+
+LONG TERM...Friday through Tuesday...An active, quasi-zonal flow
+regime will persist across the Pacific Northwest, with minor 
+embedded shortwaves quickly traversing eastward across the 
+Northwest CONUS. Over the weekend, the atmosphere will remain dry 
+enough to generally preclude any precipitation chances, with only 
+periods of cloudiness expected. A more significant wet period is 
+anticipated to develop as early as Sunday and persist into next 
+week as cold Arctic air spreads southward out of Alaska and 
+western Canada. Still plenty of differences in model depictions of
+how this pattern will evolve, but elevated precipitation chances 
+will persist Sunday through Tuesday and beyond. Initially, 
+temperature profiles will be warmer and support mostly rain across
+lower elevations, while mountain snow is likely. The current 
+official forecast highlights a more prolonged period of rain 
+possible, but in reality there will be breaks in precipitation 
+during this period that are currently difficult to determine the 
+timing of.
+
+&&
+
+.BOI WATCHES/WARNINGS/ADVISORIES...
+ID...None.
+OR...None.
+
+&&
+
+$$
+
+www.weather.gov/Boise
+www.facebook.com/NWSBoise
+www.twitter.com/NWSBoise
+
+DISCUSSION...SA
+AVIATION.....JT
+PREV SHORT TERM...DG
+PREV LONG TERM....JR
+

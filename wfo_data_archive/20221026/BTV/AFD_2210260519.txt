@@ -1,0 +1,158 @@
+110 
+FXUS61 KBTV 260519
+AFDBTV
+
+Area Forecast Discussion
+National Weather Service Burlington VT
+119 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Near record warm and humid conditions will persist until 
+Thursday morning when a cold front pushes eastward through the 
+region. Scattered showers are expected Wednesday afternoon and 
+evening, then sharply drier conditions arrive on Thursday. Rain 
+chances drop to zero by Thursday night areawide with quiet 
+weather continuing through Sunday. Dry air will support large 
+swings in temperature from chilly morning lows to seasonably 
+mild highs.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+As of 110 AM EDT Wednesday...No changes were needed with this
+update. Maritime air continues to stream northward ahead of low
+pressure currently centered well south of the 40N/70W
+benchmark. ALthough radar returns are light, we are getting
+surface observations reporting rain is falling in locations east
+of the Greens. Still anticipate this activity will gradually
+spread northward through the early morning hours. Otherwise,
+temperatures will hold fairly close to current readings, which
+are mainly in the mid 50s to mid 60s. The forecast has this all
+covered, so no changes were made. 
+
+
+Previous discussion...The southerly warm and moist flow regime 
+we are in today will continue through tomorrow night as a strong
+northwestern Atlantic ridge holds strong ahead of an amplified 
+trough digging over the Mississippi Valley. Said trough will 
+lift northeastward into northern New York tomorrow evening and 
+drag a cold front through our region to end this stagnant 
+pattern. The timing of the front during the nighttime hours and 
+departure of rich moisture to the east keeps us from seeing 
+larger impacts than just a wind shift and arrival of lower 
+humidity air.
+
+While we currently have a wedge of dry air aloft quashing cloud
+cover, an invigoration of moisture will return from the 
+southeast as a disorganized area of tropical low pressure gets 
+pushed towards southern New England. Scattered showers will once
+again move from south to north, but the low-level convergence 
+between two areas of low pressure will help induce a relatively 
+large area of precipitation. Rainfall amounts, while still 
+mainly 0.25" or less, have trended upwards given the better 
+surface convergence/lifting mechanism. Deeper moisture, by proxy
+>80% relative humidity at 700 millibars, will overspread the 
+region during the day from the south. Ingredients for downpours 
+exists for the showers that move through the region. These 
+include precipitable water greater than 200% of normal and some 
+instability given the rich low level moisture and modest daytime
+heating, upwards of 250 J/kg most unstable CAPE. Temperatures 
+will be sensitive to increasing cloud cover, but will tend to be
+warm once again reaching the mid 60s to low 70s areawide. 
+Expect very mild nighttime conditions prior to the cold frontal 
+passage late Wednesday night, as well, in the upper 50s to low 
+60s in most locations.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT/...
+As of 318 PM EDT Tuesday...The aforementioned cold front will 
+slide through the North Country during the morning hours with 
+lingering rain chances rapidly coming to an end. Cooler and 
+drier air will filter quickly into the region which will cause a
+clash between decreasing cloud cover, increasing sunlight, and 
+cold air advection. Temperatures are expected to warm a few 
+degrees through the day but not much given the degree of cold 
+air advection. Nevertheless, slightly above normal temperatures 
+are expected Thursday afternoon. Gusty northwest winds up to 25 
+mph will develop post-frontal but will quickly abate as the 
+surface and boundary layer decouple close to sunset. With clear 
+skies, decreasing winds, and cold air developing across the 
+region, we should see a very good night for radiational cooling.
+Another feature to note will be a 1036-1028 mb high that sets 
+up just to the north of the International Border. This should 
+allow for cold air drainage into the northern Champlain Valley 
+with Burlington approaching it's potential first freeze of the 
+fall season. Elsewhere, temperatures will be a good bit below 
+normals with lows in the lower 20s to lower 30s expected.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+As of 318 PM EDT Tuesday...Strong surface high pressure will be
+fully in control of out weather on Friday although weak 
+shortwave energy aloft may yield some high clouds during the 
+daylight hours. These clouds are expected to fizzle away during 
+the evening hours with another cold night with good radiational 
+cooling. The latest probabilistic NBM shows a higher probability
+of freezing or colder temperatures at Burlington and the latest
+forecast now reflects this. Elsewhere, temperatures comparable 
+to those seen on Friday morning will again be observed. Seasonal
+temperatures are expected Saturday through the first half of 
+next week as we remain under the influence of the aforementioned
+surface high before it begins to shift east on Monday/Tuesday. 
+This should allow rain chance to begin creeping up on Monday and
+increase into Tuesday as an upper level trough over the central
+US helps to advect some modified Gulf of Mexico moisture up 
+into the region.
+
+&&
+
+.AVIATION /05Z WEDNESDAY THROUGH SUNDAY/...
+Through 06Z Thursday...Currently a mix of MVFR/VFR across the
+region, but with maritime moisture streaming into the area,
+expect ceilings to gradually lower to MVFR from southeast to
+northwest at all terminals by 15z Wednesday. These ceilings,
+with local IFR in patchy fog/drizzle, will persist through much
+of the rest of the day, with some improvement late in the TAF 
+period as a frontal boundary crosses the region. Scattered
+showers will affect all terminals through the period as well,
+and briefly reduced visibility to 4-6SM will be possible in
+heavier precipitation. Winds generally S/SW around 5 kt through
+14z, then increasing to 5-10 kt during the day. These will
+transition to W and eventually NW as the front moves through
+late Wednesday evening. 
+
+Outlook...
+
+Thursday: Mainly VFR, with local MVFR possible. NO SIG WX.
+Thursday Night: VFR. NO SIG WX.
+Friday: VFR. NO SIG WX.
+Friday Night: VFR. NO SIG WX.
+Saturday: VFR. NO SIG WX.
+Saturday Night: VFR. NO SIG WX.
+Sunday: VFR. NO SIG WX.
+
+&&
+
+.CLIMATE...
+Record high minimum (warm low) temperatures for Wednesday, 
+October 26th are forecast. At KBTV, the standing record is 58 in
+1991. At KPBG, the standing record is 53, also in 1991.
+
+&&
+
+.BTV WATCHES/WARNINGS/ADVISORIES...
+VT...None.
+NY...None.
+
+&&
+
+$$
+SYNOPSIS...Kutikoff
+NEAR TERM...Hastings/Kutikoff
+SHORT TERM...Clay
+LONG TERM...Clay
+AVIATION...Hastings/Neiles
+CLIMATE...WFO BTV
+

@@ -1,0 +1,100 @@
+422 
+FXUS61 KPBZ 260129 CCA
+AFDPBZ
+
+Area Forecast Discussion...CORRECTED
+National Weather Service Pittsburgh PA
+929 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+Rain is expected late tonight and continuing through Wednesday 
+as low pressure cross the area. Dry weather and seasonable 
+temperature return with high pressure for Thursday and into the 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/... 
+00Z RAOBS and model data continue to indicate mid and high level 
+clouds will increase across the area tonight under warm, moist 
+advection aloft ahead of an approaching shortwave trough across 
+the MS Valley region. Very dry air mid and low level air was 
+observed on the PIT sounding, though upstream at ILN this dry air 
+has been eroding since the 12Z obs. 
+
+The trough, and its associated sfc low/cold front, will track 
+newd, approaching the Upper Ohio Valley region late tonight. 
+Escalating rain chances are expected as shortwave supported 
+ascent and moisture increase toward morning. Overnight lows are
+expected to average around 10 degrees above seasonable levels.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY NIGHT/...
+The shortwave trough and an associated frontal boundary will lift 
+out of the Middle Ohio Valley and into the eastern Great Lakes on 
+Wednesday.  The system will have ample lift thanks to the front and 
+a shot of DCVA, but overall system speed and a lack of instability 
+will keep rainfall rates in check. Between 0.25 and 0.50 inch 
+of system-total rain can be expected in most cases.
+
+A few showers may linger past sunset in WNW flow behind the front, 
+but these will end during the evening as high pressure noses into 
+the region from the western Lakes.  A clearing sky and dry weather 
+will then take hold for late Wednesday night and Thursday.  A weak 
+shortwave may provide a few high clouds Thursday night, but high 
+pressure and a dearth of moisture will keep the surface dry.
+
+Behind the front, temperatures will cool closer to seasonal levels, 
+with max values on Thursday generally remaining in the 50s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+An upper closed low over Texas will slowly degenerate into an open 
+wave as it drifts towards the Lower and Middle Ohio Valley over the 
+weekend.  Models/ensembles continue to advertise a slower trend with 
+this advance. Ahead of the system, rising 500mb heights will lead to 
+continued dry weather through Saturday, along with temperatures 
+rising several degrees above normal once again.
+
+The NBM seems to be catching on to the slower trend, as QPF is a bit 
+lower and temperatures are a bit higher on Sunday than the previous 
+cycle. Onset of rain from the system from the system approaching 
+from the southwest now seems more likely to hold off until Sunday, 
+and would not be surprised to see this trend even slower with time. 
+Still, another round of light rain seems likely at the tail end of 
+the extended period, with temperatures remaining near or just a 
+touch above climatology into early next week.
+
+&&
+
+.AVIATION /01Z WEDNESDAY THROUGH SUNDAY/...
+VFR is expected to continue until the approach of a shortwave
+trough and its associated sfc low/cdfnt late tonight and early 
+Wed. Rain and MVFR restrictions are expected as shortwave and 
+jet supported ascent, and moisture increase. Low MVFR cigs, and 
+a wshft to the SW are expected by aftn after FROPA. Wind is 
+expected to gust up to 20kt with some mixing and tight sfc 
+pressure gradient behind the cdfnt.
+
+MVFR/patchy IFR cigs should continue through the evening with
+llvl moisture in place below a strengthening subsidence
+inversion.
+
+.OUTLOOK...
+Improvement to VFR is expected Thu under bldg high pres. 
+Outside of lcl restrictions via river valley fog no widespread 
+impacts are anticipated thereafter.
+
+&&
+
+.PBZ WATCHES/WARNINGS/ADVISORIES...
+PA...None.
+OH...None.
+WV...None.
+
+&&
+
+$$
+

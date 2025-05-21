@@ -1,0 +1,110 @@
+013 
+FXUS65 KPSR 262344
+AFDPSR
+
+Area Forecast Discussion
+National Weather Service Phoenix AZ
+444 PM MST Wed Oct 26 2022
+
+.UPDATE...
+Updated Aviation section.
+
+&&
+
+.SYNOPSIS...
+Quiet weather conditions continue today as temperatures warm but 
+remain below normal into the weekend. Gusty north winds expected 
+in higher terrain across the forecast area for tomorrow as a dry 
+front moves through. Otherwise, nothing of note weatherwise 
+through the early portions of next week.
+
+&&
+
+.DISCUSSION...
+Troughing that will dig across the northeastern portions of AZ
+this evening into tomorrow will turn zonal flow into more north to
+northwest flow aloft into tomorrow. This feature will cause gusty
+northerly winds to develop across higher terrain from west to 
+east as a dry cold front advances eastward as we progress through
+the day Thursday. Temperatures will trend upward into the low 80s
+as ridging builds in across the area on Friday. Lingering ridging
+will keep the warming trend through at least Saturday before high
+temperatures level off going into early next week.
+
+The weather pattern will remain generally zonal through early next
+week ahead of another trough that ensemble means continue to show
+will develop across the Pacific Northwest beginning Tuesday 
+night. The trough axis looks to pass over the forecast area 
+sometime between Wednesday and Thursday. There is still a decent 
+amount of spread in the clusters on the evolution of this 
+troughing feature beginning on Wednesday. Based on the 12z 
+ensemble solutions, a more amplified wave moving across the 
+western U.S. consists of about ~50% of the members, while ~30% of 
+the members show a more progressive pattern. The amplified pattern
+would result in increased potential for active weather while the 
+more progressive pattern would result in continued quiet weather 
+across the forecast area. At this point, the NBM is leaning more 
+towards increased activity as some areas across the northeast
+portions of the CWA have up to 20% PoPs beginning Wednesday 
+morning.
+
+&&
+
+.AVIATION...Updated 1735Z.
+
+South-Central Arizona including KPHX, KIWA, KSDL, and KDVT:
+
+A weak weather disturbance aloft will bring a batch of cirrus
+this evening followed by mostly clear skies. Surface winds will
+favor southwest and west directions early this evening before
+transitioning to familiar downvalley drainage patterns (favoring
+easterly components) by late evening. The onset of a westerly
+component during the day tomorrow could be as early as 16Z due to
+an approaching weak dry front but more likely will be after 19Z. A
+shift to northeasterly directions, along with some localized
+gustiness, begins Thursday evening. 
+
+
+Southeast California/Southwest Arizona including KIPL and KBLH: 
+
+A weak weather disturbance aloft will bring a batch of cirrus
+this evening followed by mostly clear skies. AT KIPL, surface 
+winds will be light and variable before westerly directions become
+established around 03Z. As the inversion breaks Thursday morning,
+northerly winds will prevail after 17Z though sustained speeds are
+expected to remain AOB 10kts. At KBLH, wind directions will be 
+highly variable for much of the night until northerly directions 
+develop after 09Z as a weak dry front moves through. Initially, 
+speeds will be light (less than 10kts) before some minor gustiness
+develops (20-25kts) after 17Z.
+
+
+&&
+
+.FIRE WEATHER...
+Dry conditions and near to below normal temperatures will remain 
+across the region through at least the weekend. Winds will be 
+light today with minRHs in a 10-15% range across the lower 
+deserts. On Thursday, a passing dry weather system to the north 
+will lead to some northerly breezes during the day with the 
+strongest winds up to 25 mph across the Lower CO River Valley. 
+Overall weak high pressure late this week through the weekend will
+lead to some modest warming with temperatures warming to near
+normal over the weekend. Moisture levels are also expected to 
+remain low through the weekend with min RHs generally staying in a
+10-20% range across the lower deserts to 15-30% across the higher
+terrain.
+
+&&
+
+.PSR WATCHES/WARNINGS/ADVISORIES...
+AZ...None.
+CA...None.
+&&
+
+$$
+
+DISCUSSION...Young
+AVIATION...AJ
+FIRE WEATHER...Kuhlman
+

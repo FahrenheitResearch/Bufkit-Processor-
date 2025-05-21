@@ -1,0 +1,113 @@
+916 
+FXUS63 KGLD 260905
+AFDGLD
+
+Area Forecast Discussion
+National Weather Service Goodland KS
+305 AM MDT Wed Oct 26 2022
+
+.SHORT TERM...(Today through Saturday Morning) 
+Issued at 301 AM MDT Wed Oct 26 2022
+
+RAP 500mb heights shows mainly zonal flow across the plains with 
+some subtle shortwaves embedded within the flow. A weak cold 
+front is draped across northeast Colorado and into the Nebraska 
+panhandle with temperatures in the low to mid 20s behind it. 
+There is enough upper level moisture for clouds to develop along 
+and behind the front. The potential does exists for some sprinkles
+to develop but think the good majority of radar echos are virga 
+due to the dryness closer to the surface. Through the day today, 
+the weak frontal boundary will slowly move SE allowing the 
+potential for virga/sprinkles mainly north of I-70. High 
+temperatures for the day are forecasted to be in the upper 50s to
+mid 60s. The better signal for cooler temperatures have allowed 
+forecasted RH values to rise above 20%, which limits the 
+magnitude of the expected fire weather conditions. Now expecting 
+widespread elevated fire weather across the entire area as winds 
+are still expected to increase from the south with gusts of 35-40
+mph throughout the day. The peak for winds looks to be between 
+17-21Z. 
+
+Into tonight, the forecast becomes uncharacteristically uncertain
+for 24- 36 hours out. Guidance still continues to struggle with 
+how quickly a surface low across SE Colorado moves to the south. 
+The ECMWF and NAM continue to show the highest amount of moisture 
+return and slowly movement of the low which favors the potential 
+for light rain to develop. The GFS continues to show the surface 
+low moving rapidly to the south and limited moisture return which
+would significantly cut down any potential precipitation. The NBM
+continues to show 40- 50 pops especially across eastern portions 
+of the area, which favors the NAM and ECMWF solutions. The 
+consistent dryness of every run of the GFS does concern me, so 
+kept with the same thought as the previous few midnight shifts by 
+cutting pops 5-10% to account for the dry solution. Nevertheless 
+slight chance to chance precipitation does seem reasonable for 
+this event. If the precipitation does end up occurring it looks 
+like it will be generally light with one locale at max in CWA 
+seeing a tenth of inch of precipitation. A few snow showers may 
+also occurring across east Colorado overnight and into Thursday 
+with little to no accumulation, due to the above 50 degree soil 
+temperatures still present. If sufficient wet bulbing can occur I
+wouldn't be surprised if some rain/snow mix can sneak into 
+western Kansas around sunrise.
+
+Thursday, looks to be cloudy and chilly with the continued chance 
+for light rain. The potential for rain will end NW to SE throughout 
+the day Thursday. A period gusty to windy conditions looks to 
+develop along and west of Kansas Highway 27 Thursday morning with 
+forecast sounding showing 25-30 mph sustained winds and gusts up 
+to 45 mph which may drop wind chills into the teens for a few 
+hours. High temperatures for the day are currently forecasted in 
+the upper 40s to mid 50s across the area. 
+
+Split upper level flow then dominates the area Friday and into the 
+weekend resulting in sunny, dry conditions and slightly warmer 
+temperatures in the upper 50s to low 60s across the area. Light and 
+variable winds can also be expected Friday. 
+
+
+.LONG TERM...(Saturday through Tuesday) 
+Issued at 215 PM MDT Tue Oct 25 2022
+
+Tranquil weather expected through the long term period with no
+precipitation and temperatures slightly above normal. There will
+be an upper trough over the eastern CONUS and a low amplitude 
+ridge over the southern plains, placing the central plains mostly 
+under weak northwest to zonal flow. About the only concern for the
+local area will be the return of elevated fire weather conditions
+beginning on Sunday as afternoon relative humidity minimums fall 
+below 20 percent. However, wind speeds are currently expected to 
+remain well below critical criteria through the period. 
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Thursday night)
+Issued at 1033 PM MDT Tue Oct 25 2022
+
+....Update, the KGLD terminal forecast has been NIL'd until
+further notice. There is a communications issue where the ACU and
+DCP are not talking to each other. No weather information is being
+received from the ASOS, especially the altimeter....
+
+VFR conditions expected through the forecast period at KMCK, with
+only a BKN-OVC sky cover from 8kft-10kft.
+
+Winds for KMCK, light/variable. By 14z, southeast around 10kts, 
+increasing to around 15-25kts by 17z. By 00z Thursday, southeast
+10-15kts. 
+
+
+&&
+
+.GLD WATCHES/WARNINGS/ADVISORIES...
+KS...NONE.
+CO...NONE.
+NE...NONE.
+&&
+
+$$
+
+SHORT TERM...Trigg
+LONG TERM...024
+AVIATION...JN
+

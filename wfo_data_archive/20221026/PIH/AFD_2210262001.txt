@@ -1,0 +1,84 @@
+524 
+FXUS65 KPIH 262001
+AFDPIH
+
+Area Forecast Discussion
+National Weather Service Pocatello ID
+201 PM MDT Wed Oct 26 2022
+
+.SHORT TERM...Today through Thursday. The cold front is just 
+about all the way through the eastern highlands this afternoon and
+cooler air is moving in now along with our gusty winds. The band 
+of precip with the front was our main push of snow with this 
+system, but snow showers will still continue on and off through 
+the afternoon and evening, especially up on the mountains. The NAM
+and HRRR and both picking up on a convergence band of snow 
+developing between Arco and Idaho Falls around 3-4PM and moving 
+southeast before fizzling out around 10PM. The biggest impact from
+this would be reduced visibility for anyone traveling on I-15 
+between 6-9PM. At the same time, the wind will be starting to back
+off which will decrease snow squall potential. With this quick 
+burst of snow, up to about an inch is possible. The WSUP NBM 4.1 
+is showing a 60-70 percent chance of over a tenth of an inch of 
+snow between Pocatello and Idaho Falls by midnight. However, it 
+only shows about a 5 percent chance of at least an inch. 
+Precipitation looks to wrap up by midnight across the entire area 
+and the highest snow totals by the end of this event are still 
+expected to be up in the mountains. Event totals in the Sawtooths 
+will be up to about 7 inches of snow, 4-6 inches in the Bear River
+Range, 3-6 inches in the Big Holes, and about 2-4 inches for the 
+rest of our mountains. The wind will still be blowing into the 
+evening, too, with sustained winds between 20-30mph and gusts 
+between 35-45mph. The strongest gusts will be in the South Hills 
+and up through the Arco Desert and Snake Plain. Winds begin to 
+back off around 8-9PM. Thanks to lighter winds overnight and 
+moisture from today, patchy valley fog is expected to develop 
+after midnight and continue through 8AM. Overall, Thursday will be
+a much quieter weather day in comparison as ridging builds back 
+in to the area. Some afternoon sunshine will help warm most of the
+area back into the low to mid 40s, which is still well below 
+average for this time of the year. AMM
+
+.LONG TERM...Friday through Wednesday. Upper ridge remains in place 
+Friday, then starts to flatten Saturday with passage of dry 
+shortwave feature. Temperatures cool slightly in association with 
+this feature. Models continue to trend slower with onset of 
+precipitation associated with approaching Pacific trough. 
+Ensemble clusters for Sunday favor generally a flat flow across 
+the entirety of the Pacific northwest and northern Rockies. NBM 
+introduces weak precipitation chances across portions of the 
+central mountains Sunday night, spreading the moisture across the 
+rest of East Idaho on Monday through the base of shallow active 
+trough sliding inland along the Canada border. Flow remains nearly
+zonal and unsettled behind this feature and ahead of next 
+incoming Pacific trough. Only edits to the extended period were to
+nudge winds higher for Monday- Wednesday in response to guidance 
+trends. DMH
+
+
+&&
+
+.AVIATION...Cold front with attendant precipitation band has pushed almost 
+completely through East Idaho early this afternoon, with showers 
+developing in wrap-around air mass. Ceilings remain generally 
+VFR/MVFR outside of the precipitation but IFR/LFR within the band 
+and stronger showers. Winds remain gusty especially in clear 
+pockets where deepest mixing can be realized. Showers and gusty 
+winds continue into early evening, then second consolidated band 
+of showers works out of central mountains through the Snake Plain 
+for another round of snow. For the remainder of the night into 
+early Thursday, expect gradual clearing with weakening winds. 
+Skies should improve back to VFR most areas, though lower 
+elevation areas could see stratus/fog development with IFR 
+conditions. KDIJ would be the most likely location for this to 
+occur overnight. DMH
+
+
+&&
+
+.PIH WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+

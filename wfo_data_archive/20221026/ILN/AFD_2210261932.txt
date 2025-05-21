@@ -1,0 +1,146 @@
+250 
+FXUS61 KILN 261932
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+332 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure system exits to our northeast tonight and is slowly
+replaced by high pressure. Temperatures drop to just below
+seasonal normals on Thursday before increasing into the start 
+of the weekend. Dry conditions favored the next few days before 
+the next low pressure system brings a chance of rain Sunday into
+Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Occluded low pressure system now centered around NE OH this
+afternoon, which will continue to travel NE through the day. A 
+negatively tilted H5 trough will carve through the Midwest 
+today behind the surface low, amplifying CAA and keeping some 
+subtle forcing around. A few sprinkles may linger through the 
+mid to late afternoon in portions of central OH, with other 
+locations occasionally observing a light mist. Cloudy and breezy
+conditions will persist throughout the daytime hours, with 
+sustained winds of 10-15 mph and gusts up to 25 mph out of the 
+west-northwest. 
+
+Drier air gradually begins to advect in this evening, allowing 
+for some clouds to dissolve overnight. However, some low level 
+moisture remains trapped just below an inversion that develops 
+several thousand feet AGL and thus won't allow skies to go 
+completely clear. Winds will also subside some tonight as the 
+pressure gradient loosens, with northwesterly winds generally
+remaining between 5-10 mph. Expecting most if not all locations
+to dip into the 30s tonight.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Bufkit soundings keep the low level inversion in place Thursday,
+which will prolong the presence of some lower level clouds. Dry
+air advection will amplify as a surface high builds in from the
+Central Plains region, which should help erode majority of 
+these lower clouds by the afternoon, leaving mainly cirrus 
+clouds around. 
+
+Temperatures favored to remain a few degrees below
+climatological normals, with most locations staying just below
+60 degrees with the exception of some spots near/south of the OH
+River. 
+
+Flow aloft shifts more towards the southwest overnight,
+saturating some of the upper levels. Additional cirrus clouds
+favored to develop Thursday night, making for less efficient 
+radiative cooling processes. Still, overnight lows will be 
+similar to Wednesday night's lows as many locations drop into 
+the mid to upper 30s once again. 
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+This period will be characterized by above normal temperatures, a 
+light rain producing weather system centered on Sunday afternoon or 
+night into Monday morning, and more quiet weather heading into the 
+middle of next week.  No hazardous weather is expected during this 
+time period.
+
+In the details...at 12Z on Friday a compact and rather potent upper 
+trough /not too dissimilar from the system that moved through the 
+Ohio Valley this morning/ will be located over Texas, moving through 
+weak flow in the zonal subtropical jet stream. Detached from 
+this, a stronger belt of flow across the northern Pacific, 
+across southern Canada into the Atlantic maritimes will also be 
+largely zonal, with a notable shortwave trough moving through 
+western Canada. The combination of the western Canada wave 
+moving east, and a more subtle wave in the subtropical jet 
+upstream of the Texas closed low, will guide/steer the Texas 
+closed low east and eventually northeast into the Ohio Valley on
+Sunday afternoon through Monday, bringing increased chances for
+rain. Ensemble and member analysis suggests the 
+magnitude/geometry of the western Canada wave is most directly 
+responsible for subtle timing issues of the Texas closed low as 
+it ejects into the Ohio Valley and opens up into a negatively 
+tilted shortwave trough that weakens. Thus, Sunday is a day that
+could see more dramatic forecast modification in the coming 
+days. Slower-camp solutions would allow for more 
+sunshine/warmth/lower rain chances on Sunday, while a faster-
+camp solution would mean cooler highs, rapidly thickening 
+clouds, and more aggressive rain chances south-to-north across 
+the area especially Sunday morning and afternoon. Things seem to
+be trending slower, but not enough confidence to make large 
+adjustments to the forecast right now based on 26.06Z and 26.12Z
+ensembles. 
+
+Until this occurs /Friday and Saturday/ expansive high pressure 
+building to the north of the Ohio Valley will promote dry easterly 
+flow, cool nights, warm afternoons, and plenty of sunshine.  
+
+Rain chances appear most centered on Sunday afternoon /southern 
+CWA/ into Sunday night /CWA-wide/ with forcing weakening 
+considerably into a patchy light rain/drizzle scenario on Monday as 
+the upper level troughing elongates and slows somewhat over the Ohio 
+Valley. The entire system kicks east on Tuesday with decreasing 
+clouds through the day and warming temperatures, with Wednesday 
+looking like another chance to run toward 70F in a few spots. 
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+Deteriorated flight conditions continue through the afternoon as
+IFR/MVFR CIGs (and some vsbys) linger. IFR vsbys should be much
+more limited in coverage the rest of the afternoon, but pockets
+of thicker BR may still create IFR/MVFR vsbys. IFR CIGs look to
+improve back to MVFR by mid to late afternoon given latest 
+satellite trends and guidance. Breezy conditions persist through
+the evening, with a gradual transition from west-southwesterly 
+winds to northwesterly winds. 
+
+As the low continues to progress NE, sky conditions improve
+overnight. However, models continue to hang onto low level
+moisture, so kept in a SCT 1500-2500 ft CIG in for the overnight
+period. High pressure and drier air eventually allow these
+clouds to dissipate by late morning Thursday, leaving mainly
+high clouds the rest of the day. 
+
+OUTLOOK...No significant weather expected.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+KY...None.
+IN...None.
+
+&&
+
+$$
+SYNOPSIS...Clark
+NEAR TERM...Clark
+SHORT TERM...Clark
+LONG TERM...Binau
+AVIATION...Clark
+

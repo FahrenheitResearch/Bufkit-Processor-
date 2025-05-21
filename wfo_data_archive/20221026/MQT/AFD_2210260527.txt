@@ -1,0 +1,117 @@
+630 
+FXUS63 KMQT 260527
+AFDMQT
+
+Area Forecast Discussion
+National Weather Service Marquette MI
+127 AM EDT Wed Oct 26 2022
+
+.SHORT TERM...(This evening through Wednesday)
+Issued at 306 PM EDT TUE OCT 25 2022
+
+Upper air pattern consists of a 500 mb closed low over the southern 
+plains which is embedded in a deep trough over the plains. The 
+closed low heads northeast into the Ohio Valley by 12z Wed while the 
+trough axis heads east towards the upper Great Lakes. The pcpn will 
+continue to be confined to the east half of the cwa and this was 
+covered well in the going forecast. Will continue to have high pops 
+in the east and dry in the west. Did not make too many changes to 
+the going forecast.
+
+.LONG TERM...(Wednesday night through Tuesday)
+Issued at 330 PM EDT TUE OCT 25 2022
+
+Key Messages:
+-Cold front and showers hanging around Wed. AM
+-Post-frontal breezes for east half Wed.
+-Fog possible Thurs AM
+-High pressure, dry zonal flow thru weekend
+-Potential pattern break after Halloween 
+
+The cold front continues its slow roll through the UP, and the 
+slowing trend in the models continues. While GFS runs from prior to 
+06Z yesterday had the 850mb theta-e gradient beyond Luce County, the 
+latest GFS runs have that gradient around the Luce/Schoolcraft 
+County line by 12Z Wednesday. Thus, the showers associated with the 
+front will still be lingering around the far eastern portions of the 
+region Wednesday morning, though most of the CAMs have showers east 
+of Luce County by 17Z.
+
+A secondary low along the frontal boundary will be passing northeast 
+through the Lower Peninsula and far northern Lake Huron on 
+Wednesday, which will serve to keep the pressure gradient tight in 
+the east half of the UP and the eastern zones of Lake Superior 
+Wednesday.
+
+After fropa, a surface high moves over the Great Lakes into and 
+through the weekend and flow aloft becomes zonal. The sinking air 
+and subsequent drying from the high pressure should hamper any 
+potential ripples of shortwaves in the flow aloft from causing any 
+precipitation through the end of the work week and the weekend. The 
+only potentially impactful weather under this pattern would be some 
+foggy conditions as dry air aloft allows for clear skies and cooling 
+to the dew point, especially as the near-ground air has been 
+moistened with the recent showers and snowmelt. Currently only 
+putting patchy fog in the grids, but sounding analysis in the short 
+term could add confidence for changes in coverage or intensity.
+
+Models still disagree on how to handle the inevitable pattern break 
+next week. EPS guidance shows good agreement that a surface low will 
+form over Louisiana and will begin moving northeast Saturday into 
+Sunday but ensemble spread on the location of this low increases 
+greatly as Halloween approaches. GEFS on the other hand keeps the 
+low far away from the Midwest entirely but the solutions quickly 
+descend into chaos by midweek next week, with no two ensemble 
+members agreeing on placement of a low or high beyond next 
+Wednesday. Expect some form of pattern shift next week along with 
+some showers at some point but confidence in any details is low and 
+no changes are made to the NBM in this period.
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 127 AM EDT WED OCT 26 2022
+
+LL stratus will be the main impact to aviation interests at all 
+three terminals. Trends continue to indicate much of the SHRA 
+activity should remain E of KSAW, but will be monitored as the night 
+progresses. As for the cloud cover, MVFR cigs appear to be the 
+prevailing category, but brief periods of IFR can't be entirely 
+ruled out, particularly at KCMX and KSAW. Improvements to cigs looks 
+to occur later on Wed. at KIWD, and eventually at KCMX by the 
+evening hours, but appears to struggle to clear KSAW this TAF 
+period. There are some indications that perhaps clearing could occur 
+quicker at KSAW than this forecast has, but this should come into 
+better focus in subsequent TAF issuances. NWrly winds will dominate 
+through the remainder of the overnight hours well into Wed., then 
+back to a more Wrly component by day's end from W to E.
+
+&&
+
+.MARINE...(For the 4 PM Lake Superior forecast issuance)
+Issued at 330 PM EDT TUE OCT 25 2022
+
+Westerly and southwesterly winds behind the cold front are causing 
+winds to exceed 25 kts over the western and central parts of the 
+lake. Winds drop below 20 knots tonight but a brief increasing of 
+the pressure gradient Wednesday morning could support northwesterly 
+winds 20 to 25 knots through Wednesday. High pressure moving in 
+Thursday leads to winds remaining 20 knots or less for the remainder 
+of the forecast period.
+&&
+
+.MQT WATCHES/WARNINGS/ADVISORIES...
+Upper Michigan...
+None.
+Lake Superior...
+None.
+Lake Michigan...
+None.
+&&
+
+$$
+
+SHORT TERM...07
+LONG TERM...GS
+AVIATION...lg
+MARINE...GS
+

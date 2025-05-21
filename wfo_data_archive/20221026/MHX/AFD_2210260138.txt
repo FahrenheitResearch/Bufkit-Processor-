@@ -1,0 +1,152 @@
+545 
+FXUS62 KMHX 260138
+AFDMHX
+
+Area Forecast Discussion
+National Weather Service Newport/Morehead City NC
+938 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+High pressure over the region shifts offshore tonight. A weak 
+cold front with limited moisture will cross the area Wednesday 
+night. High pressure builds in from the west again late week 
+into the weekend.
+
+&&
+
+.NEAR TERM /OVERNIGHT/... 
+As of 940 PM Tue...Widespread low stratus continues to plague 
+the area under the subsidence inversion, with high pressure 
+sliding offshore. Main concern overnight will again be potential
+for areas of dense fog with similar set up to last night, with 
+plentiful low level moisture and light NNE flow. Several obs 
+along the Outer Banks and NE coastal counties already reporting 
+vsbys 1/4 mile or less, so will go ahead with DFA for there. 
+Will monitor and the DFA may need to be expanded further W/S 
+later though may be complicated by increasing high clouds from 
+the west. Lows generally falling into the mid 50s well inland 
+and upper 50s to low 60s along the coast.
+
+&&
+
+.SHORT TERM /WEDNESDAY/... 
+As of 630 PM Tue...The high pressure shifts east of the area on
+Wednesday, with a weak surface front moving through the region 
+Wed aftn and evening. By the time it reaches eastern NC, 
+moisture will be greatly diminished along the front. Will throw 
+in a slight chance of showers across the far north Wed 
+afternoon/evening as moisture is slightly better in that region,
+but otherwise it should be a mostly dry frontal passage. Behind
+the front, high pressure builds once again into the area with 
+the flow quickly becoming northeasterly onshore flow by Thu 
+night with clouds on the increase from north to south. Friday 
+will generally see cloudy conditions across the entire region as
+the wedge builds across eastern NC again. Low cigs and areas of
+fog early Wed morning should dissipate by late morning, 
+allowing for increased sunshine and temps to warm into the 70s, 
+maybe approaching 80 across the inland sw sections.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH TUESDAY/...
+As of 300 PM Tuesday...The weekend looks to be cloudy and 
+seasonably cool  as high pressure centered over New England and
+low pressure well east of the SE coastline leading to 
+persistent NE onshore flow. This will allow for clouds and 
+patchy showers/drizzle (especially at the coast) through early 
+next week. Will maintain slight chance or low chance pops 
+through the weekend close to the coast but will simply include 
+patchy drizzle through the weekend given the low level setup. 
+Otherwise, the next weak frontal boundary is expected to 
+approach the area late in the weekend, or Monday, with a chance 
+for showers across the entire region. NBM suggests a dry 
+Tuesday, although the GFS suggests an overall slower solution 
+with the front. Will confine slight chance PoPs on Tuesday to 
+areas closer to the coast but this may need to be refined in 
+future forecasts depending on the evolution of the front. 
+
+After at or slightly below normal temps on Saturday and Sunday,
+temps rebound to near or slightly above normal for 
+Monday/Tuesday. Highs on Saturday/Sunday generally in the upper 
+60s to around 70, then low to mid 70s Mon/Tue. Coolest values 
+will be the northern Outer Banks with persistent NE flow off the
+water.
+
+&&
+
+.AVIATION /02Z WEDNESDAY THROUGH SUNDAY/...
+SHORT TERM /through Wednesday/... 
+As of 630 PM Tue...Mix of VFR and IFR across the terminals early
+this evening. High confidence in widespread low clouds and areas
+of dense fog again overnight into Wed morning, with plentiful
+low level moisture and light N/NE flow. Some sites may reach
+airport minimums early Wed morning. Cigs/Vsbys should be grad
+improving after 14/15z with better mixing than today, with VFR
+returning by early afternoon ahead of an approaching cold front. 
+
+LONG TERM /Wednesday night through Sunday/... 
+As of 315 AM Tuesday...Weak cold front washes out across the 
+region Wed into early Thu with little impacts expected to 
+terminals. High pressure builds back in Thu through Sat with VFR
+conditions prevailing. NE flow will increase into the weekend 
+as a tight pressure gradient develops across the FA. Gusty winds
+across OBX airspace around 20 kts Thu will inc to over 25 kts 
+by Sat.
+
+&&
+
+.MARINE...
+SHORT TERM /through Wednesday/... 
+As of 940 PM Tue...Latest obs show N/NE winds 5-15 kt with seas
+2-4 ft, locally up to 5 ft near the Gulf Stream. An area of low
+pressure persisted well offshore the SC coast with a weak high 
+pressure ridging south across the Delmarva and into NE NC. This 
+pattern persists overnight with N winds becoming NE around 10 kt
+(or less). Seas will average between 2 to 3 ft overnight and 
+waves of the sounds flat to just a light chop. 
+
+Areas of dense fog (vsybs 1 nm or less) expected again tonight 
+into Wednesday morning, so will go ahead with Marine Dense Fog 
+Advisories for the waters north Cape Lookout, sounds and 
+rivers. Fog should dissipate by mid Wed morning. 
+
+A cold front will approach the waters from the west Wed.
+Light/Var winds 10 kt or less early, becoming S/SW 5-15 kt
+during the afternoon with seas 2-4 ft.
+
+LONG TERM /Wednesday night through Sunday/... 
+As of 230 PM Tuesday...The cold front will approach the area 
+Wed night pushing offshore by early Thu. Southwest winds will 
+become Northwest then north around 15 to 20 kt. An offshore low 
+will tighten the pressure gradient against high pressure across 
+the area, increasing NE winds 20+ kts late Thu and into Fri with
+gusts approaching small craft advisory criteria. Seas will 
+start the around 2-4 ft Wednesday then increase late Thu into 
+Fri up to 4- 5 ft. Seas of 4-6 ft are possible by late Friday as
+the winds increase across the region in response to the 
+offshore low. Winds and seas continue to build into Saturday and
+into early Sunday with gusts exceeding 25 kts and seas surging 
+to 6-8+ ft.
+
+&&
+
+.MHX WATCHES/WARNINGS/ADVISORIES...
+NC...Dense Fog Advisory until 9 AM EDT Wednesday for NCZ045>047-081-
+     203>205.
+MARINE...Dense Fog Advisory until 11 AM EDT Wednesday for AMZ131-150-
+     230-231.
+     Dense Fog Advisory until 10 AM EDT Wednesday for AMZ135-152-
+     154-156.
+     Dense Fog Advisory from 2 AM to 10 AM EDT Wednesday for AMZ136-
+     137.
+
+&&
+
+$$
+SYNOPSIS...MHX
+NEAR TERM...CQD/AKQ
+SHORT TERM...AKQ
+LONG TERM...ML 
+AVIATION...CQD/ML 
+MARINE...CQD/ML
+

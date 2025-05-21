@@ -1,0 +1,128 @@
+606 
+FXUS63 KOAX 260803
+AFDOAX
+
+Area Forecast Discussion
+National Weather Service Omaha/Valley NE
+303 AM CDT Wed Oct 26 2022
+
+.DISCUSSION...
+Issued at 302 AM CDT Wed Oct 26 2022
+
+.Key Points:
+
+* Increasing rain chances tonight through Thursday
+* Dry this weekend into early next week with near-seasonal 
+  daytime temperatures
+
+.Today:
+
+Early morning water vapor imagery shows a vigorous shortwave 
+trough over WA/OR with a weaker vorticity maximum over UT. The UT 
+disturbance is forecast accelerate northeast into SD/NE today 
+ahead of the WA/OR system, which will strengthen further while 
+progressing southeast into the Great Basin. Increased forcing for 
+ascent attendant to the approaching UT impulse will promote 
+increasing cloudiness this afternoon with isolated, light rain 
+showers or sprinkles possible. The antecedent air mass will be 
+quite dry, so considerable top-down saturation will be necessary 
+to get precipitation to the ground.
+
+High temperatures will be in the upper 50s to low 60s.
+
+.Tonight into Thursday night:
+
+The Great Basin shortwave trough mentioned above is forecast to
+intensify into a closed, midlevel low over the Four Corners region
+on Thursday with the system continuing into western TX on Thursday
+night. In the low levels, a deepening surface low over eastern CO
+today will develop south into western TX on Thursday. Meanwhile, 
+an inverted, low- to midlevel trough will shift east from the 
+northern/central High Plains into central parts of SD/NE/KS on 
+Thursday. 
+
+The deepening of the midlevel system over the southern Rockies will
+induce the development of a low-level jet (LLJ) over the Great 
+Plains tonight with that feature gradually weakening over the 
+course of the day on Thursday. Low-level warm advection 
+enhancement along the LLJ coupled with convergence along and east
+of the inverted trough will be the primary mechanisms driving the
+development of a precipitation shield over portions of the 
+central Plains tonight and Thursday. 
+
+Latest NBM probabilistic 24-h (06z Thu - 06z Fri) QPF data 
+indicate a slight amplification in median totals with a 
+latitudinal sharpening of the primary precipitation corridor for 
+this event. This model trend would suggest that the individual 
+members of the ensemble are coming into better agreement in the 
+location of the higher precipitation amounts. Now, it appears that
+the preferred corridor for potential rainfall amounts greater 
+than 0.1" will be along and west of U.S. 81 with decreasing 
+potential for measurable precipitation with eastward extent toward
+the MO River. Rainfall amounts of up to 0.25" are most probable 
+in the preferred precipitation corridor with a potential range of 
+around 0.05" (25th percentile) to upwards of 0.5" (75th 
+percentile) in that same area.
+
+In regard to precipitation timing, there will be a continuation of
+this afternoon's light-rainfall potential into evening over northeast
+NE (20-40% PoPs). The next wave of showers (along the LLJ axis) 
+is expected to materialize over central NE late tonight with that 
+activity shifting east into our area on Thursday. We will indicate
+the highest PoPs (60-80%) over northeast NE, decreasing to 20-30%
+along and east of the MO River. Precipitation chances then 
+diminish areawide on Thursday evening.
+
+High temperatures on Thursday will be a function of precipitation
+coverage and cloud cover. In general, we expect that readings will
+be coolest (50-55) in northeast NE with slightly warmer conditions
+(55-60) elsewhere.
+
+.Friday through Tuesday:
+
+The 00z EPS, GEFS, and CMCE 500-mb mean height anomaly forecasts
+suggest that the midlevel low over TX will continue east into the
+lower-MS Valley on Saturday with a transition to broader 
+troughing from the Midwest into south-central U.S. from Sunday 
+into early next week. Elsewhere, low-amplitude ridging in the
+midlevels is forecast to spread east across the northern Plains 
+and upper-MS Valley in the Friday-Saturday timeframe with a trend
+toward falling midlevel heights/troughing over western Canada and
+the northern tier of states early next week. That upper-air 
+pattern evolution would support a dry forecast with high 
+temperatures near or slightly above seasonal normals.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1127 PM CDT Tue Oct 25 2022
+
+VFR criteria to prevail for the TAF period. There are a few 
+potential impacts to aviation. There is a low probability for fog 
+in southwest Iowa and along the Missouri River. Skies are clear 
+and the wind speeds are fairly calm. This time of year those 
+conditions can lead to fog. However, dew points are a few degrees 
+too low. Higher dew points do exist in the aforementioned areas so
+patchy fog is possible in those locations.
+
+Winds will shift tomorrow from the north to the south beginning
+around 15Z. Sustained winds are expected to remain under 10 kts. 
+
+There is a 20 to 30% for rain beginning at 21Z. Confidence is too
+low to include in the TAFs. The best chance for precipitation is
+in northeast Nebraska. Any precipitation will be non-severe and 
+light.
+
+
+&&
+
+.OAX WATCHES/WARNINGS/ADVISORIES...
+NE...None.
+IA...None.
+&&
+
+$$
+
+DISCUSSION...Mead
+AVIATION...Fajman
+

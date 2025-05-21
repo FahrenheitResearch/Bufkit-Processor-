@@ -1,0 +1,109 @@
+259 
+FXUS63 KFSD 261115
+AFDFSD
+
+AREA FORECAST DISCUSSION
+National Weather Service Sioux Falls SD
+615 AM CDT Wed Oct 26 2022
+
+.SHORT TERM...(Today and Tonight)
+Issued at 348 AM CDT Wed Oct 26 2022
+
+Early morning satellite imagery doesn't have much to show as we are 
+in between two trough axis, with one incoming from the west and 
+the other moving off to our east. As a weak surface high slides 
+across the region this morning, temperatures below freezing under 
+clear skies and light winds will likely be enough for the warm 
+water in the river valleys and lakes to create some localized fog 
+prior to daybreak. The suite of models in the HREF are indicating 
+this appears most likely for those in the James and Big Sioux 
+River Valleys, especially north of the I-90 corridor. With 
+visibilities under a mile possible, be sure to slow down to 
+appropriate speeds if you encounter reduced visibilities.
+
+Fog may be slow to mix out, but as the surface high drifts off to 
+our east southerly return flow sets up and any remaining fog that 
+isn't burned off by the sun should dissipate. Strongest surface 
+pressure gradient sets up for areas well west of I-29, leading to 
+breezy southerly winds gusting up into the lower 20s, with weaker 
+winds as one travels eastwards. Coolest afternoon highs will thus be 
+east of I-29 in the mid to upper 50s, getting a little warmer west 
+of I-29 into the lower 60s. Given widespread dewpoints in the upper 
+20s to lower 30s, relative humidity values today will dip down into 
+the upper 20s to mid 30s. This will lead to another day with high 
+fire danger for areas in central South Dakota, tapering off into the 
+moderate category for locations east of I-29. 
+
+As the western trough continues to dig throughout the afternoon, 
+weak positive vorticity advection (PVA) along with warm air 
+advection (WAA) will lead to scattered showers becoming possible 
+by the late afternoon hours for those in central South Dakota. 
+This first round of rain will be pushing northeastwards into the 
+overnight period, with amounts generally expected to remain at or 
+below a tenth of an inch by daybreak Thursday. Very little if any 
+CAPE to work with, so don't be expecting much lightning with this 
+rainfall. With breezy southerly winds remaining elevated 
+overnight, temperatures will remain fairly mild in the upper 30s 
+to lower 40s.
+
+.LONG TERM...(Thursday through Tuesday)
+Issued at 348 AM CDT Wed Oct 26 2022
+
+Chances for rainfall continue throughout the day on Thursday as the 
+now cut-off upper level low spawns a surface low pressure system 
+across southern Colorado, with the inverted trough extending 
+northwards which will be acting as the main forcing. A slowly 
+exiting upper level jet may help to assist throughout the morning 
+hours, so have kept precipitation chances highest in the morning 
+hours before trailing things off into the evening hours as the upper 
+and surface low continue to drift southwards. HREF and the global 
+ensembles continue to show support for areas west of I-29 and south 
+of I-90 to receive up to around a third of an inch, with decreasing 
+amounts moving away to the north and east. Southerly winds will 
+remain breezy throughout the day with gusts up to 30 mph possible, 
+though as the inverted trough shifts southwards into the evening 
+hours winds will be allowed to decrease. Despite the dreary and wet 
+day, WAA in the mid-levels will keep us only a couple degrees shy of 
+our normals, with afternoon highs in the lower to upper 50s expected.
+
+For the end of the week and into the weekend, the closed off upper 
+level low will be slowly drifting eastwards before fizzling out on 
+Sunday as the southern jet weakens on Sunday. For us this means 
+southerly surface flow will be remain through Saturday, with a 
+weak surface high coming down on Sunday swinging winds around to 
+the north-northwest. Temperature wise this will lead to a warming 
+trend into Saturday where highs will be in the lower to upper 60s,
+becoming marginally cooler on Sunday in the upper 50s to mid 60s.
+
+Zonal flow on Monday starts to become southwesterly as troughiness 
+forms across the Pacific northwest on Tuesday.
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Thursday Morning)
+Issued at 615 AM CDT Wed Oct 26 2022
+
+Patchy fog and low stratus is is currently occurring near Brookings, 
+likely also in the Big Sioux and James River Valleys north of the I-
+90 corridor resulting in localized MVFR/IFR conditions. Otherwise, 
+expect VFR conditons throughout the day with a slow shift towards 
+southerly winds for areas along and west of I-29 through the morning 
+hours, and then for areas east of I-29 through the afternoon. Could 
+see a few gusts close to 20 knots in central SD, with lesser gusts 
+expected elsewhere. 
+
+&&
+
+.FSD WATCHES/WARNINGS/ADVISORIES...
+SD...None.
+MN...None.
+IA...None.
+NE...None.
+&&
+
+$$
+
+SHORT TERM...APT
+LONG TERM...APT
+AVIATION...APT
+

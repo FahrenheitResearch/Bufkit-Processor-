@@ -1,0 +1,64 @@
+894 
+NWUS53 KILX 261419
+LSRILX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE LINCOLN IL
+919 AM CDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0700 AM     HEAVY RAIN       WYOMING                 41.06N 89.77W
+10/26/2022  M1.10 INCH       STARK              IL   COCORAHS         
+
+            COCORAHS STATION IL-SK-7 WYOMING 0.3 SSW. 
+
+0700 AM     HEAVY RAIN       1 W URBANA              40.11N 88.22W
+10/26/2022  M1.16 INCH       CHAMPAIGN          IL   COCORAHS         
+
+            COCORAHS STATION IL-CP-151 URBANA 0.5 W. 
+
+0700 AM     HEAVY RAIN       3 WNW CHAMPAIGN         40.12N 88.31W
+10/26/2022  M1.25 INCH       CHAMPAIGN          IL   COCORAHS         
+
+            COCORAHS STATION IL-CP-147 CHAMPAIGN 2.6 
+            WNW. 
+
+0800 AM     HEAVY RAIN       3 E HAVANA              40.30N 90.00W
+10/26/2022  M1.09 INCH       MASON              IL   COCORAHS         
+
+            COCORAHS STATION IL-MS-4 MASON COUNTY. 
+
+0800 AM     HEAVY RAIN       2 NNE ARROWSMITH        40.47N 88.62W
+10/26/2022  M1.34 INCH       MCLEAN             IL   COCORAHS         
+
+            COCORAHS STATION IL-MCL-2 ARROWSMITH 1.7 
+            NNE. 
+
+0800 AM     HEAVY RAIN       1 S OREANA              39.92N 88.87W
+10/26/2022  M1.61 INCH       MACON              IL   COCORAHS         
+
+            COCORAHS STATION IL-MA-29 ORENAA 1.3 S. 
+
+0845 AM     HEAVY RAIN       3 E DANVILLE            40.14N 87.57W
+10/26/2022  M1.62 INCH       VERMILION          IL   COCORAHS         
+
+            COCORAHS STATION IL-VR-44 DANVILLE 2.5 E. 
+
+0900 AM     HEAVY RAIN       3 NNE ASHLAND           39.92N 89.99W
+10/26/2022  M1.00 INCH       MENARD             IL   COCORAHS         
+
+            COCORAHS STATION IL-ME-13 TALLULA 3.0 WSW. 
+
+0900 AM     HEAVY RAIN       2 NNW METAMORA          40.82N 89.38W
+10/26/2022  M1.09 INCH       WOODFORD           IL   COCORAHS         
+
+            COCORAHS STATION IL-WF-26 METAMORA 2.0 NNW. 
+
+
+&&
+
+$$
+

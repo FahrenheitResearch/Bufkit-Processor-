@@ -1,0 +1,92 @@
+300 
+FXUS63 KABR 262326 AAA
+AFDABR
+
+Area Forecast Discussion...UPDATED
+National Weather Service Aberdeen SD
+626 PM CDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 623 PM CDT Wed Oct 26 2022
+
+The forecast remains on track this evening with some light shower
+activity moving north into south central SD. So far, the hourly
+pops are holding true. No major changes are planned. 
+
+&&
+
+.SHORT TERM...(This Evening through Thursday Night)
+Issued at 334 PM CDT Wed Oct 26 2022
+
+Mostly clear skies are currently in place across much of 
+northeastern SD, while cloud cover is on the increase across central 
+SD in response to incoming shortwave energy. Light precipitation 
+will spread from southwest to northeast this evening and tonight as 
+well, and then linger through Thursday morning across the eastern 
+CWA, supported by the shortwave and a ~30+ knot LLJ. Ptype is likely 
+to be all rain given the warm thermal profiles, and amounts will be 
+on the light side with just a 30 to 60% for a tenth of an inch of 
+rain over a 24 hour period roughly along and southeast of a line 
+from Wheaton to Miller to Kennebec. However, the HREF's 24-hr QPF 
+ensemble localized probability-matched mean does indicate the 
+potential for localized quarter inch amounts across east central SD 
+(12z run has the bulls-eye at Clark County). Southerly winds will be 
+strongest across the higher elevations of the Prairie Coteau during 
+the morning and early evening with gusts over 30 mph, but grassland 
+fire danger will only be moderate across the CWA due to higher RH. 
+Temperatures on Thursday should be held in check by cloud cover 
+near/along and east of the James River Valley with highs in the low 
+50s. Mid-50s are forecast further west. 
+
+By Thursday evening and overnight, a now cut-off low continues to 
+dive south towards/across New Mexico and the Texas Panhandle, while 
+the jet stream sets up north of the CWA. Fog may develop if winds 
+become light enough in a weak sfc trough, but confidence is not high 
+enough to include in the forecast at this time. Low temperatures 
+drop into the mid 30s into Friday morning under partly cloudy to 
+mostly clear skies.
+
+.LONG TERM...(Friday through Wednesday)
+Issued at 334 PM CDT Wed Oct 26 2022
+
+When the period opens on Friday, fast, mostly zonal flow aloft is 
+noted across southern Canada. Over this region, weaker flow aloft is 
+in play, with a low amplitude short-wave ridge covering the northern 
+high plains and northern plains. The multi-model ensemble progs in 
+the extended showcase generally zonal flow, or low amplitude swings 
+between shortwave ridging and troffing through Monday. Then the 
+general consensus in the ensembles is for a longwave trof to get 
+carved out across the western CONUS/Rockies Tuesday/Wednesday, which 
+would place this CWA under southwest flow aloft. Overall, there 
+really isn't a threat for precipitation during the out periods. With 
+the exception of a weak frontal passage over the weekend, which will 
+switch the winds around to the northwest briefly, most of the 
+extended forecast will showcase some form of westerly or southerly 
+flow in the low levels. This should help keep temperatures running 
+at or above normal for most, if not all, of the period.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Thursday Evening)
+Issued at 623 PM CDT Wed Oct 26 2022
+
+Terminals KABR,KATY,KPIR,KMBG
+
+VFR conditions are expected through Thursday morning with light
+showers moving into and spreading across the region tonight. Some
+MVFR cigs may encroach near KATY by the end of the period. 
+
+&&
+
+.ABR WATCHES/WARNINGS/ADVISORIES...
+SD...None.
+MN...None.
+&&
+
+$$
+
+UPDATE...Wise
+SHORT TERM...Lueck
+LONG TERM...Dorn
+AVIATION...Wise
+

@@ -1,0 +1,94 @@
+488 
+FXUS62 KTBW 260745
+AFDTBW
+
+Area Forecast Discussion
+National Weather Service Tampa Bay Ruskin FL
+345 AM EDT Wed Oct 26 2022
+
+...New DISCUSSION, AVIATION, MARINE, FIRE WEATHER...
+
+.DISCUSSION...
+Issued at 344 AM EDT Wed Oct 26 2022
+
+A potent shortwave trough swinging through the Ohio River Valley 
+this morning is dragging a weak cold front through the Florida 
+Panhandle. This front will slowly push into the Florida Peninsula 
+today and tonight, and is forecast to stall out across southwest 
+Florida by Thursday. A few showers or perhaps storms will be 
+possible along and ahead of the front today, mainly over the 
+Nature Coast and into the Tampa Bay area, although there is not 
+enough moisture present for significant convection. Otherwise the 
+front will drop temperatures slightly Thursday morning, but only 
+to around near normal levels.
+
+Broad high pressure north of Florida will ridge into the area 
+Thursday and Friday, allowing temperatures to creep back upwards 
+under mostly sunny skies and winds becoming easterly and 
+northeasterly. The next system will approach the area this weekend, 
+as a closed low aloft ejects from the southern Plains into the 
+southeastern US and Ohio River Valley. Models have come into 
+better agreement with the timing of the associated front pushing 
+weakly into the Florida Peninsula on Monday, with isolated rain 
+chances over the Nature Coast forecast for the weekend as 
+moisture increases ahead of the system. That said, the upper level
+support is once again lifting too far north for this front to 
+bring a significant cool down or more widespread rain chances. 
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 344 AM EDT Wed Oct 26 2022
+
+A few patches of fog will be possible around sunrise, but any flight 
+category disruptions should lift out by around 14z. A few showers or 
+storms will be possible this afternoon and evening along a weak cold 
+front, with the highest rain chances around KTPA/KPIE/KSRQ. Rain 
+free and VFR conditions should return again by around 03z.
+
+&&
+
+.MARINE...
+Issued at 344 AM EDT Wed Oct 26 2022
+
+A weak cold front will push southeast into the waters today and 
+tonight and stall out by Thursday, with southwest winds this morning 
+turning to westerly and northerly behind the front. Winds will 
+generally remain less than 15 knots, but a few showers or storms 
+will be possible today along and ahead of the front, causing locally 
+higher winds and seas. High pressure will build in north of the 
+waters Thursday and Friday, then another weak front will approach 
+the area this weekend, bringing more chances for rain.
+
+&&
+
+.FIRE WEATHER...
+Issued at 344 AM EDT Wed Oct 26 2022
+
+No humidity concerns through the rest of the week. Some patchy high 
+dispersion indices will be possible this afternoon, mainly over the 
+interior.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TPA  85  71  83  69 /  20  10  20   0 
+FMY  85  71  85  70 /   0  10  10   0 
+GIF  86  68  85  68 /  10  10  20   0 
+SRQ  82  70  82  67 /  20  10  20   0 
+BKV  85  64  84  63 /  20  10  10   0 
+SPG  82  72  80  71 /  20  10  20   0 
+
+&&
+
+.TBW WATCHES/WARNINGS/ADVISORIES...
+FL...None.
+Gulf waters...None.
+
+&&
+
+$$
+
+Fleming
+

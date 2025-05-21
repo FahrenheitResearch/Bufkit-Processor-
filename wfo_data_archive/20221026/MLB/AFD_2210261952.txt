@@ -1,0 +1,176 @@
+169 
+FXUS62 KMLB 261952
+AFDMLB
+
+Area Forecast Discussion
+National Weather Service Melbourne FL
+352 PM EDT Wed Oct 26 2022
+
+...New MARINE, AVIATION, HYDROLOGY...
+
+.DISCUSSION...
+
+Rest of Today...Still holding the course with 20 pct rain chances 
+from Kissimmee to Titusville northward this afternoon and evening. 
+GOES satellite imagery showing PWATs around 1.6" filtering in from 
+the west, confirmed by the healthier surface cu field from Lake 
+Kissimmee to Daytona Beach, and with the KMCO ACARS 18Z sounding 
+indicating 1,300 J/kg MUCAPE, isolated showers and perhaps a 
+lightning storm remain possible north of The Cape later this 
+afternoon and evening. Expect any convection that manages to develop 
+to push offshore or dissipate a little after sunset. To the south, 
+much drier conditions with mostly clear skies. The sea breeze has 
+been slower to develop along Treasure and southern Space coasts than 
+expected, but hi-res guidance still shows winds turning briefly 
+onshore in the evening before becoming light and variable tonight. 
+The frontal boundary, currently extending from the eastern GOMEX 
+into north central Florida and coastal Georgia, will continue 
+dropping into central Florida tonight, then wash out near or just
+north of the Lake O Region by the morning. Low clouds are 
+possible tonight and early Thursday morning, especially north of 
+the front, in addition to patchy ground fog an perhaps a couple 
+isolated areas of dense fog. Afternoon highs in the mid 80s and 
+overnight lows in the upper 60s to around 70.
+
+Thursday...The remnants of the frontal boundary draped across 
+central Florida will provide a focus for increased cloud cover and
+modest rain chances. Model blends had quite an uptick in rain 
+chances, likely due to GFS advecting in a plume of relatively 
+higher moisture (PWATs around 1.6") along the frontal boundary 
+near peak daytime heating, and perhaps some sea breeze 
+interactions. Tempered the PoPs back a little bit, while also 
+broadening the lower 20 pcts, resulting in rain chances 20 pct 
+across most of east central Florida, and 30 pct closer to the 
+boundary from southern Volusia to northern Okeechobee and 
+southwestern Orange Counties by the early afternoon. Generally 
+kept lightning mention south of the frontal boundary and over the 
+local Atlantic waters, where CAPE remained sufficient to support 
+one or two thunderstorms. Showers and whatever storms manage to 
+form, once again, push offshore or dissipate a little after 
+sunset. Winds generally light and variable. Afternoon highs tick 
+down a degree or two north of the boundary to the lower 80s, and 
+remain in the mid 80s to the south. Overnight lows in the upper 
+60s.
+
+Thursday Night-Saturday...The stalled frontal boundary draped over 
+the peninsula begins to erode late Thursday, but will still keep a 
+small chance of showers over the Atlantic waters. This translates to 
+the forecast for Friday as well, however high pressure will squeeze 
+southward which may end up limiting overall coverage. Late this 
+week, Florida lies positioned between two areas of low pressure; a 
+much more broad feature over TX moving eastward along the Gulf 
+Coast, and a subtropical system wandering across the Atlantic. 
+Between the two, ridging aloft sill extend northward from Central 
+America, resulting in a tightening pressure gradient and increasing 
+north to northeast winds heading into Saturday morning. Residual 
+moisture from the stalled boundary will linger over the area into 
+Saturday, keeping similar isolated PoPs along the coast and northern 
+interior areas. Temperatures to complete the week will be near to 
+slightly above normal, with highs in the low to mid and possibly 
+even upper 80s over the far interior, with warming lows in the upper 
+60s to lower 70s.
+
+Sunday-Tuesday...Late this weekend, the previously mentioned low 
+over TX and southern MS River Valley will drift towards the Deep 
+South dragging another cold front with it. Unfortunately, this front 
+will also wash out prior to its arrival to the area, so central FL 
+misses out once again on another taste of crisp fall air. Instead, 
+isolated showers will be possible on Sunday, clearing out for 
+Halloween and the start of November as slightly drier air filters 
+southward with building high pressure over the area. Relaxing 
+pressure gradient will lead to weakening east winds that will veer 
+south then west early next week. No "treats" for the temperature 
+forecast as highs continue to run above normal in the mid 80s and 
+lows in the mid 60s to low 70s.
+
+&&
+
+.MARINE...
+Issued at 339 PM EDT Wed Oct 26 2022
+
+Rest of Today-Tonight...Generally favorable boating conditions. 
+Isolated showers and perhaps a lightning storm moving offshore and 
+across the local Atlantic waters will be possible from the early 
+evening through around midnight. A weak frontal boundary will drop 
+down and wash out across the Brevard and Treasure Coast waters 
+tonight. Winds SW-S 10-15 kts ahead of the front, veering NW-N 5-10 
+kts tonight as the front settles. Seas 2-3 feet in the nearshore 
+waters and 3-4 feet in the offshore waters.
+
+Friday-Sunday...Poor to hazardous boating conditions will arrive 
+late Thursday into Friday due to a tightening pressure gradient 
+across the area. Northeast winds increase 10-15 knots on Friday, 
+veering onshore by the weekend. As a result, seas will build 4 to 6 
+ft in the nearshore waters, and up to 7 ft in the offshore and Gulf 
+Stream waters. Small chance of showers and isolated storms each day, 
+mainly north of Cape Canaveral.
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 339 PM EDT Wed Oct 26 2022
+
+A weak frontal boundary will reach east central Florida early 
+tonight, and wash out across central Florida near or just north of 
+Lake Okeechobee by Thursday morning. Mainly VFR conditions today and 
+early tonight at the northern terminals. ISO SH/TS possible this 
+afternoon and evening ahead of the front, but lowering confidence, 
+so continuing just VCSH mention. Any convection expected to clear by 
+00Z. Guidance consistently indicating MVFR-IFR CIG impacts at KLEE, 
+and periodically KDAB/KISM/KMCO/KSFB, between 09Z and 12Z. Likely
+to add reductions to KLEE with next package, and will reassess 
+other terminals. Some VIS reductions are also possible, but less
+confident at this time. Predominantly VFR conditions for northern
+terminals Thursday, but low CIGs may linger in the morning, and 
+early SH expected. VFR conditions prevail through the TAF period 
+at terminals from KTIX southward. MIFG possible but not confident 
+enough for mention. Afternoon SH/TS possible.
+
+
+&&
+
+.HYDROLOGY...
+Issued at 339 PM EDT Wed Oct 26 2022
+
+The St. Johns river at Astor will remain in Moderate Flood Stage for 
+the foreseeable future. The river is currently around 3.7 feet 
+and is forecast to continue a slow decline through this weekend.
+
+Near Deland, the river at 5.3 feet is forecast to fall from Major
+to Moderate Flood Stage by tomorrow, then continue slowly 
+declining through Moderate Flood stage through this weekend.
+
+Near Sanford, the river will remain in Moderate Flood Stage into 
+next week. The river is currently at 7.5 feet and is forecast to 
+continue a slow decline.
+
+At Geneva above Lake Harney, the river at 10.2 feet will remain 
+in Major Flood Stage. The river is forecast to continue a slow 
+decline, dropping from Major to Moderate Flood Stage by this 
+weekend. 
+
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DAB  85  67  83  68 /  20  20  20  20 
+MCO  86  70  86  69 /  20  20  30  10 
+MLB  85  68  84  69 /  10  10  30  10 
+VRB  85  65  86  69 /   0   0  20  10 
+LEE  85  68  84  67 /  20  10  20  10 
+SFB  86  69  84  68 /  20  20  30  10 
+ORL  87  70  85  70 /  20  20  30  10 
+FPR  84  65  85  68 /   0   0  20  10 
+
+&&
+
+.MLB WATCHES/WARNINGS/ADVISORIES...
+FL...None.
+AM...None.
+&&
+
+$$
+
+Haley/Smith
+

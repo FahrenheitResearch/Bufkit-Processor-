@@ -1,0 +1,198 @@
+795 
+FXUS65 KABQ 262057
+AFDABQ
+
+Area Forecast Discussion
+National Weather Service Albuquerque NM
+257 PM MDT Wed Oct 26 2022
+
+...New SYNOPSIS, SHORT TERM, LONG TERM, FIRE WEATHER...
+
+.SYNOPSIS...
+Issued at 203 PM MDT Wed Oct 26 2022
+
+Clouds and precipitation chances will quickly arrive for 
+northwestern and northern New Mexico tonight as a disturbance and
+associated cold front sweeps down from the Four Corners area. The
+system will quickly move southeast through the state Thursday 
+bringing a round of gusty winds for the southwest and Sacramento 
+mountain ranges, valley rain and mountain snow for northern areas,
+and possibly a few thunderstorms for the eastern plains. 
+Tmeperatures will be cooler areawide Thursday behind the cold 
+front. 
+
+The system quickly moves into the Texas panhandle late 
+Thursday night into Friday morning with some gusty northerly winds
+possible for the eastern plains. This will set the stage for a 
+dry Halloweeen weekend into early next week with temperatures 
+slowly warming back up to near normal for late October into early
+Novemeber.
+
+
+&&
+
+.SHORT TERM...
+(This evening through Thursday night)
+Issued at 203 PM MDT Wed Oct 26 2022
+
+Winds aloft continue to increase this afternoon ahead of a closed 
+upper-level low over eastern ID. The increasing winds and high 
+clouds ahead of the low will act to keep overnight temperatures from 
+dropping as much as last night. Models continue to bring the low 
+from northwest to southeast across NM on Thursday with the majority 
+of the associated rain and snow over the northern Sangre de Cristo 
+mountains, northeast highlands and along the high terrain along and 
+near the CO border including Raton Pass. Issued a winter weather 
+advisory for this zone given that the track of low center is a tad 
+farther south than previously forecast which will allow the backdoor 
+surge to move in faster and result in a longer period of upslope 
+flow. The stronger winds on the southern periphery of the low will 
+result in wind advisory speeds for a good portion of western and 
+southern NM Thursday afternoon into the early evening. Models are in 
+very good agreement that a wrap-around band of precipitation 
+continues in far eastern NM Thursday night before the low drifts 
+east of NM Friday morning.
+
+&&
+
+.LONG TERM...
+(Friday through Tuesday)
+Issued at 203 PM MDT Wed Oct 26 2022
+
+Some lingering morning showers will be possible on the backside 
+of the low pressure system for the eastern Plains Friday.
+Northerly winds across the eastern plains should gradually 
+subside throughout the day. Meanwhile, a shortwave ridge will move
+into western and central New Mexico with mostly clear skies, 
+light winds, and warmer temperatures compared to Thursday.
+However, high temperatures will be about 5 to 15 degrees below 
+average area wide.
+
+A subtle shortwave trough embedded in northwest flow will slide 
+down the Rockies and clip northern New Mexico on Saturday, but 
+will provide little change in the sensible weather. A second 
+shortwave trough with slide down the California coastline going 
+into Halloween, but will have little to no moisture to work with 
+and will provide nothing more than some high cirrus clouds. 
+Temperatures will still remain just below normal for late October.
+
+Changes will start to occur Tuesday as a longwave trough deepens
+along the Pacific coast. Weak ridging will develop upstream over
+New Mexico with a lee trough east of the Rocky Mountains resulting 
+in some breezy conditions over the eastern plains. Beyond Tuesday,
+there is still some considerable spread in how the global models
+handle the evolution of the longwave trough in the Western U.S.
+with the GFS having a deeper trough with precipitation chances 
+arriving as early as Wednesday for northwest New Mexico. The Euro 
+and Canadian have the trough not as deep and more progressive and 
+thus have drier conditions. At this time, expect stronger winds 
+mid to late next week due to stronger westerly flow setting up 
+over the region.
+
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1142 AM MDT Wed Oct 26 2022
+
+Winds aloft will increase today and tonight ahead of an upper low
+currently over ID. Breezy west to southwest winds with gusts of 
+15 to 25kts this afternoon will be common this afternoon through 
+around sunset. Upper low and associated cold front drops from 
+northwest to southeast across NM Thursday with a wind shift to
+northwesterly from late morning to early afternoon. Widespread
+gusty northwest to north winds will follow the frontal passage.
+
+&&
+
+.FIRE WEATHER...
+Issued at 203 PM MDT Wed Oct 26 2022
+
+Moderate to strong west winds will continue over ridgetops tonight 
+as an upper low approaches from the northwest. Moderate to strong 
+winds develop all areas Thursday along with scattered to numerous 
+rain and snow showers. Several inches of accumulation are forecast 
+mainly for the Sangre de Cristo mountains and far northeast 
+highlands near Raton and Raton Pass. The low shifts east of NM 
+Friday with dry weather expected Friday through early next week.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Farmington......................  34  51  26  56 /  10  10   0   0 
+Dulce...........................  24  47  16  58 /  30  60  10   0 
+Cuba............................  32  44  22  55 /   5  30  10   0 
+Gallup..........................  31  46  19  57 /   5  20   5   0 
+El Morro........................  31  45  20  54 /   5  20  10   0 
+Grants..........................  32  47  17  58 /   0  20  10   0 
+Quemado.........................  34  47  21  57 /   0  10   5   0 
+Magdalena.......................  40  52  29  53 /   5  10  10   0 
+Datil...........................  36  47  23  52 /   5   5  10   0 
+Reserve.........................  31  60  23  64 /   5  10   5   0 
+Glenwood........................  43  64  28  65 /  10   5   0   0 
+Chama...........................  23  40  16  52 /  20  70  20   0 
+Los Alamos......................  37  44  28  52 /   5  40  20   0 
+Pecos...........................  37  47  27  53 /   0  40  30   0 
+Cerro/Questa....................  32  42  13  50 /   5  60  30   0 
+Red River.......................  23  39  12  46 /   5  80  40   0 
+Angel Fire......................  21  41  18  46 /   0  80  40   0 
+Taos............................  27  45  20  52 /   5  50  30   0 
+Mora............................  30  48  21  51 /   0  70  40   0 
+Espanola........................  33  51  25  59 /   5  30  20   0 
+Santa Fe........................  37  45  28  52 /   5  40  30   0 
+Santa Fe Airport................  34  48  25  55 /   5  30  20   0 
+Albuquerque Foothills...........  43  51  31  58 /   0  20  20   0 
+Albuquerque Heights.............  45  53  31  60 /   0  20  20   0 
+Albuquerque Valley..............  42  55  28  61 /   0  20  20   0 
+Albuquerque West Mesa...........  43  54  32  60 /   0  20  10   0 
+Belen...........................  39  57  28  60 /   5  10  10   0 
+Bernalillo......................  42  55  29  62 /   0  20  20   0 
+Bosque Farms....................  39  56  26  60 /   5  20  10   0 
+Corrales........................  42  55  29  62 /   0  20  20   0 
+Los Lunas.......................  40  56  28  60 /   5  20  10   0 
+Placitas........................  43  50  30  57 /   0  20  20   0 
+Rio Rancho......................  43  53  31  60 /   0  20  20   0 
+Socorro.........................  41  63  32  61 /   5  10  10   0 
+Sandia Park/Cedar Crest.........  42  45  28  51 /   0  30  20   0 
+Tijeras.........................  41  48  25  54 /   0  20  20   0 
+Edgewood........................  38  49  23  54 /   0  20  20   0 
+Moriarty/Estancia...............  36  49  22  56 /   0  20  30   0 
+Clines Corners..................  37  48  25  52 /   0  30  30   0 
+Mountainair.....................  39  50  26  53 /   0  20  20   0 
+Gran Quivira....................  39  52  27  54 /   0  20  20   0 
+Carrizozo.......................  42  60  33  59 /   5  20  30   0 
+Ruidoso.........................  40  52  29  49 /   5  20  30   0 
+Capulin.........................  33  47  26  50 /   0  70  50   5 
+Raton...........................  26  52  25  55 /   0  80  40   5 
+Springer........................  28  56  27  55 /   0  80  40   5 
+Las Vegas.......................  36  51  27  52 /   0  60  40   5 
+Clayton.........................  40  57  36  54 /   0  50  60  10 
+Roy.............................  37  56  31  53 /   0  60  50   5 
+Conchas.........................  43  64  39  58 /   0  40  50  10 
+Santa Rosa......................  44  60  36  55 /   0  20  50   5 
+Tucumcari.......................  44  64  40  56 /   0  20  60  20 
+Clovis..........................  44  65  39  53 /   0  20  60  20 
+Portales........................  45  68  40  55 /   0  20  60  20 
+Fort Sumner.....................  43  65  39  57 /   0  10  50  10 
+Roswell.........................  49  73  43  59 /   5  10  30   5 
+Picacho.........................  45  65  37  57 /   0  10  30   0 
+Elk.............................  43  63  33  56 /   0  10  20   0 
+
+&&
+
+.ABQ WATCHES/WARNINGS/ADVISORIES...
+Wind Advisory from noon to 7 PM MDT Thursday for NMZ204-206-208-
+226-241.
+
+Winter Weather Advisory from 9 AM Thursday to 6 AM MDT Friday 
+for NMZ213-215-227.
+
+&&
+
+$$
+
+SHORT TERM...33
+LONG TERM....99
+AVIATION...33
+

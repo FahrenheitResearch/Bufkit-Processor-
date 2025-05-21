@@ -1,0 +1,141 @@
+474 
+FXUS65 KCYS 262339
+AFDCYS
+
+Area Forecast Discussion
+National Weather Service Cheyenne WY
+535 PM MDT Wed Oct 26 2022
+
+.SHORT TERM...(This evening through Friday night)
+Issued at 215 PM MDT Wed Oct 26 2022
+
+A low was located over central ID with a trough axis trailing south
+into NV. The bulk of the energy and QG lift was located over southern
+ID and northern NV/UT with convective activity increasing and even
+a couple lightning strikes. Well ahead of this feature, light showers
+were developing across southern WY. Rain and snow showers will continue
+to increase in coverage from west to east through the rest of the
+afternoon. There will be periods of moderate snowfall for the Snowy
+and Sierra Madre mountains this afternoon and evening, with 2 to 4
+inches expected, with heavier snow falling south of the WY/CO border
+along the track of the mid level low. The showers will taper off from
+NW to SE Thursday morning, with skies clearing. It will continue cooler
+than normal with 700mb temperatures from -4C to -8C. Clear skies and
+lighter winds Thursday night will result in low temperatures in
+the upper teens to upper 20s. The warming trend commences Friday as
+700mb temperatures rise to 2C to 6C in the afternoon. Expect high
+temperatures in the mid 50s to mid 60s along and east of I-25, with
+40s to lower 50s west. Lows Friday night will be milder with lower
+20s to mid 30s.
+
+.LONG TERM...(Saturday through Wednesday)
+Issued at 215 PM MDT Wed Oct 26 2022
+
+Fairly quiet weather over the weekend will likely turn more active 
+for the latter part of the long term forecast period next week. The 
+main concerns are the potential for strong winds on Monday and the 
+next possible precipitation event on Wednesday. Uncertainty remains 
+quite high for both of these. 
+
+The synoptic pattern over the weekend will be largely under a zonal 
+flow regime. A cutoff low, which will be spawned by the system 
+moving through our area today, will be sitting over the southern 
+plains, while a few weak shortwaves will perturb the flow slightly 
+over the western US. An elongated area of 500-mb vorticity is expected
+to pass through on Saturday, which will likely increase mid to high
+level cloud cover. 700-mb temperatures will hover around 0C, leading
+towards near normal temperatures. Another shortwave right on the tail
+of this pushes through early Sunday and may knock another degree or
+two C off the 700-mb temps, so expecting slightly cooler temperatures
+Sunday afternoon. This period looks dry with limited lift, so 
+precipitation is unlikely. 
+
+A strong jet stream slamming into British Columbia over the weekend 
+will start to sag southward on Monday, bringing the temperature 
+gradient and storm track closer to our area. A week surface low 
+spinning up over the Canadian prairie at the nose of the jet aloft 
+will lead to falling MSLP over the high plains and increase the 
+cross-barrier MSLP gradient, though this isn't too impressive now 
+based on current forecasts. Similarly, jet shifting southward will 
+increase height gradients to near typical high wind thresholds. The 
+GFS shows 700-mb winds around 40-45 knots on Monday, pointing to a 
+the possibility for a strong wind event for the wind prone areas. 
+Will need to watch this period to see how this unfolds, but it looks 
+marginal for reaching high wind criteria. For Tuesday, the zonal 
+flow starts to transition more towards western troughing as a longer 
+wave digs southward. Models show the flow aloft turning southwesterly
+with good warm-air advection and downsloping leading to climbing 
+700-mb temperatures to around +2 to +4C. 
+
+Ensemble spread is fairly tight through about Tuesday. Little 
+variability between member forecast temperatures projects higher 
+confidence in the general temperature forecast, but this changes 
+dramatically on Wednesday. For example, the GEFS 10th to 90th 
+percentile 700-mb temperature spread at 00z Wednesday is about 3C, 
+but this increases to about 12C by 00z Thursday. This indicates a 
+major drop in forecast confidence. The deterministic GFS shows a 
+deep and impressively strong upper level trough digging into the 
+Great Basin, leading towards lee-cyclogenesis over the high plains. 
+This specific solution ejects the trough quickly, keeping much of 
+the precip along and west of the Laramie range, but still would 
+bring some light QPF to the east. The deterministic ECMWF is vastly 
+different, showing a shallow, progressive trough sliding through 
+around this time. This keeps most of the precip to our north, but 
+does allow some light QPF west of the Laramie range. Most of the 
+ensemble members are somewhere in between these two extremes. For 
+now, keeping the official forecast near the NBM 50th percentile for 
+temperatures, with PoPs for most of the area, but highest west of 
+the Laramie range.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through Thursday evening)
+Issued at 535 PM MDT Wed Oct 26 2022
+
+A potent upper level trough will dig southeast across western and 
+southern Wyoming tonight and will result in cloudy skies and an 
+increasing threat for locally heavy snow showers until midnight 
+(06z). Snowfall will then increase in coverage after 06z with light 
+to moderate snow possible along the I-80 corridor terminals. 
+Snowfall may linger through 15z early Thursday morning before skies 
+gradually clear from west to east. 
+
+HAZARDS/WEATHER TRENDS: Will continue with prevailing VFR conditions 
+tonight for all terminals.  However, scattered to numerous snow 
+showers this evening through 05z will result in brief IFR conditions 
+in VIS below 1 mile and CIGS around 500 feet for mainly KLAR and 
+KRWL. Snow will become lighter after 06z but should become more 
+widespread further east, impacting KCYS and possibly KSNY with 
+periods of IFR conditions through 15z Thursday.  Kept VCSH in the 
+TAFs for now but will likely update later with increasing 
+confidence. 
+
+&&
+
+.FIRE WEATHER...
+Issued at 215 PM MDT Wed Oct 26 2022
+
+A upper level disturbance will move east across Colorado tonight and
+Thursday morning. Rain and snow showers will develop this afternoon
+and become all snow tonight before tapering off Thursday morning. Snow
+accumulations of 2 to 4 inches are likely through tonight over higher
+elevations west of the Laramie Range. Temperatures will remain cool
+Thursday, followed by a warming trend Friday through early next week.
+Afternoon relative humidities of 30 to 40 percent Thursday will lower
+to 15 to 25 percent Friday and Saturday. Gusty winds at that time will
+elevate fire weather concerns along and east of the Laramie Range.
+
+&&
+
+.CYS WATCHES/WARNINGS/ADVISORIES...
+WY...None.
+NE...None.
+&&
+
+$$
+
+SHORT TERM...MAJ
+LONG TERM...MN
+AVIATION...TJT 
+FIRE WEATHER...MAJ
+

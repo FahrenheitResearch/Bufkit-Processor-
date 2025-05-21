@@ -1,0 +1,125 @@
+360 
+FXUS61 KBGM 261724
+AFDBGM
+
+Area Forecast Discussion
+National Weather Service Binghamton NY
+Issued by National Weather Service State College PA
+124 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Unsettled conditions will persist into tonight as an upper 
+level disturbance and cold front move through the area. Dry 
+weather and near-normal temperatures will return on Thursday, 
+then continue into Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+945 am update... Lower clouds and some spotty light
+showers/patchy drizzle continue late this morning from about the
+I-81 corridor eastward, with filtered sunshine fading behind 
+thickening clouds back across the Finger Lakes region.
+
+As we head through the afternoon, we expect the coverage of
+showers to increase, as an upper-level wave approaches from the
+southwest, along with the gradual approach of a surface cold
+front from the west.
+
+Temperatures are off to a very mild start this morning,
+especially over the Catskills and Poconos, where clouds kept
+readings from falling much last night. Afternoon highs should be
+in the 60s for much of CNY/NEPA, with the normally warmer lake
+plain areas to the north, as well as the Wyoming/Lackawanna
+Valleys in NEPA, likely reaching the lower 70s. 
+
+Previous discussion... 406 AM Update...
+
+Low level SSE flow has allowed low clouds to remain in place
+east of the Finger Lakes (and roughly east of I-81). Low level
+flow will slowly veer to southerly later today, allowing the
+lower clouds to start scouring out, but additional cloud cover
+and scattered showers will develop in their place, perhaps after
+a few hours' lag during which fair weather will prevail.
+
+Showers will increase in coverage as a shortwave trough moves
+into western NY late this afternoon, and a cold front pushes
+through the area tonight. This will set the stage for a cooler
+but drier spell heading into the weekend, though temperatures
+will technically be near normal.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH SATURDAY/...
+315 AM Update...
+
+High pressure over the region will result in dry conditions and a 
+quiet end to the week. Skies are clear to start Thursday night but 
+then some high clouds begin to move in from the west. Mostly clear 
+skies and decent radiational cooling will bring temperatures 
+down into the upper 20s to mid 30s. Temperatures will rebound to
+seasonal levels on Friday, maxing out in the 50s. Skies clear 
+once again Friday night and it will be chilly with temperatures
+falling into the upper 20s to mid 30s. The lows for both nights
+were a combination of NBM, NBM tenth percentile, and Consall in
+order to bring temperatures below guidance. Given the
+combination of mostly clear skies, light winds, and high 
+pressure, it will likely be colder than what NBM guidance is 
+suggesting.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH TUESDAY/...
+1 pm update... On the large-scale, a weakening southern stream
+wave is expected to approach CNY/NEPA late in the weekend,
+bringing the likelihood of rain, which could well last into
+Monday. 
+
+Next week, consensus of our various ensemble prediction systems
+points to the gradual amplification of an eastern CONUS ridge,
+as an upper trough digs into the western states. As a result,
+there is fairly high confidence that above normal temperatures
+will continue (daily highs into the 60s for most areas, with
+some upper 50s across the higher terrain). Although there is
+uncertainty with the exact timing, by later Monday/early 
+Tuesday, we generally expect rain to depart to the northeast, 
+with drier conditions setting in. 
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+18z update... As some showers push through the region this
+afternoon, occasional MVFR-fuel alternate restrictions can be
+anticipated, particularly at KBGM and KAVP. 
+
+Tonight, once the low-level flow veers around to the W-NW behind
+a departing cold front, post-frontal and lake enhanced
+stratocumulus clouds will build into the region and produce
+widespread MVFR-fuel alternate ceiling bases.
+
+Gradual improvement back towards VFR is foreseen after about 
+15z Thursday, as the lower level clouds slowly break up. 
+
+Outlook...
+
+Friday and Saturday...Other than possible early morning valley
+fog (especially KELM), mainly VFR.
+
+Sunday into Monday...Restrictions may develop, as an area of
+rain approaches the region. 
+
+&&
+
+.BGM WATCHES/WARNINGS/ADVISORIES...
+PA...None.
+NY...None.
+
+&&
+
+$$
+SYNOPSIS...
+NEAR TERM...
+SHORT TERM...
+LONG TERM...
+AVIATION...
+

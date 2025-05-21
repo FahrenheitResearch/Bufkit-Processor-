@@ -1,0 +1,58 @@
+183 
+NWUS53 KILX 261345
+LSRILX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE LINCOLN IL
+845 AM CDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0600 AM     HEAVY RAIN       OGDEN                   40.11N 87.96W
+10/26/2022  M1.12 INCH       CHAMPAIGN          IL   CO-OP OBSERVER   
+
+            CO-OP OBSERVER STATION OGDI2 OGDEN. 
+
+0700 AM     HEAVY RAIN       1 E PARIS               39.62N 87.67W
+10/26/2022  M1.35 INCH       EDGAR              IL   CO-OP OBSERVER   
+
+            CO-OP OBSERVER STATION PWWI2 PARIS. 
+
+0700 AM     HEAVY RAIN       2 E CHATHAM             39.67N 89.67W
+10/26/2022  M1.29 INCH       SANGAMON           IL   COCORAHS         
+
+            COCORAHS STATION IL-SG-45 CHATHAM 1.5 E. 
+
+0700 AM     HEAVY RAIN       3 S MANSFIELD           40.17N 88.52W
+10/26/2022  M1.50 INCH       PIATT              IL   COCORAHS         
+
+            COCORAHS STATION IL-PT-16 3 S MANSFIELD. 
+
+0700 AM     HEAVY RAIN       1 SE LAWNDALE           40.21N 89.27W
+10/26/2022  M1.08 INCH       LOGAN              IL   COCORAHS         
+
+            COCORAHS STATION IL-LG-19 6 NE LINCOLN. 
+
+0800 AM     HEAVY RAIN       4 NW SEYMOUR            40.14N 88.48W
+10/26/2022  M1.49 INCH       PIATT              IL   COCORAHS         
+
+            COCORAHS STATION IL-PT-8 WHITE HEATH 3.7 
+            NNE. 
+
+0800 AM     HEAVY RAIN       1 E HEYWORTH            40.31N 88.97W
+10/26/2022  M1.30 INCH       MCLEAN             IL   COCORAHS         
+
+            COCORAHS STATION IL-MCL-4 HEYWORTH 0.6 E. 
+
+0800 AM     HEAVY RAIN       3 NE MANSFIELD          40.24N 88.46W
+10/26/2022  M1.73 INCH       PIATT              IL   COCORAHS         
+
+            COCORAHS STATION IL-CP-140 MANSFIELD 3.2 NE. 
+
+
+&&
+
+$$
+

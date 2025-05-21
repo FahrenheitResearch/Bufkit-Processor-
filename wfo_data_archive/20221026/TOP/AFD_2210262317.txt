@@ -1,0 +1,79 @@
+908 
+FXUS63 KTOP 262317
+AFDTOP
+
+Area Forecast Discussion
+National Weather Service Topeka KS
+617 PM CDT Wed Oct 26 2022
+
+...Update to aviation forecast discussion...
+
+.DISCUSSION...
+Issued at 228 PM CDT Wed Oct 26 2022
+
+Forecast Key Points:
+
+- A short period of light isolated rain along Hwy 36 this afternoon.
+
+- Best chance for measurable rainfall for the remainder of the week 
+into the afternoon and early evening tomorrow of north central areas.
+
+- Seasonal temps for the week and warmer into next week.
+
+Forecast Discussion:
+
+Currently, mainly zonal flow is stretched over the region upstream 
+from the departing eastern CONUS trough. A weak open mid level 
+shortwave is providing enough lift to support a band of light rain 
+generally along Hwy 36 to the KS/NE border. This is likely very 
+light and intermittent as Marysville has recently reported drizzle. 
+Impressive that it has been able to reach the ground though 
+regardless. A more meaningful trough is currently over the 
+Intermountain West region with a defined cyclonic curvature showing 
+up on WV imagery which should continue to deepen into an upper level 
+low. 
+
+A weak lead shortwave breaks away from this incoming upper level 
+feature into the day tomorrow. Isentropic ascent should develop with 
+sufficient moisture saturation to support a steady light rain into 
+afternoon and early evening periods tomorrow over north central 
+areas. Eastward extent of rainfall for tomorrow could exhibit a 
+fairly sharp cutoff as lift appears to be generally less over 
+eastern areas with only limited amounts of ascent. So confidence in 
+rain is higher over western areas and much less over eastern zones. 
+Superensemble data suggest that amounts may be slightly higher than 
+previous forecasts with good clustering through two-tenths of an 
+inch. There are more members than previously at amounts around four-
+tenths of an inch as well. Of course instability not anticipated to 
+play a major factor in increased amounts so have kept forecast 
+amounts on the low end.  
+
+Depending on the track of the upper low as it slowly pinwheels 
+through the southern Plains and lifts into the mid MS Valley region, 
+east central areas could see some light precipitation Saturday 
+evening. Chances still too low to mention. Heights rise with ridging 
+overhead into early next week. Southerly flow pattern should help 
+temperatures push into the upper 70s but still mainly pleasant fall 
+weather in place through the period.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Thursday evening)
+Issued at 617 PM CDT Wed Oct 26 2022
+
+VFR conditions are expected to continue at all TAF sites. Winds
+should remain light from the SE through the overnight, then pick
+up late tomorrow morning at 10-15 kt with gusts to 20-25 kt at
+times. Any light showers should hold off until after this period.
+
+&&
+
+.TOP WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+DISCUSSION...Drake
+AVIATION...Picha
+

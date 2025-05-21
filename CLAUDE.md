@@ -11,41 +11,61 @@ This project is a meteorological data processing system that downloads and proce
 
 ## Architecture
 
-The project uses a multi-stage pipeline:
+The project uses a scalable multi-stage pipeline with batch processing:
 
+### Batch Processing Architecture
+1. **Batch Download**: Downloads WFO data in configurable batches (default: 10 WFOs per batch)
+   - Multiple download batches can run concurrently (default: 3 workers)
+   - Each WFO download is isolated and failure-resistant
+2. **Batch Processing**: Processes downloaded data in larger batches (default: 25 WFOs per batch)
+   - Sequential processing to avoid system overload
+   - Individual WFO processing failures don't stop the batch
+
+### Core Processing Pipeline
 1. **Data Acquisition**: Downloads raw BUFKIT files and AFOS products organized by date/WFO
 2. **Parsing**: Converts BUFKIT text format to structured data using `BufkitParser`
 3. **Calculation**: Computes derived meteorological parameters using MetPy via `SoundingCalculator`
 4. **Output**: Generates both verbose and LLM-optimized JSONL formats
 
 Key architectural patterns:
-- Uses MetPy for meteorological calculations with graceful fallbacks when unavailable
-- Implements a `MetPyManager` singleton to handle MetPy imports and function availability
-- Uses dataclasses (`Sounding`) for structured data representation
-- Separates concerns between parsing, calculation, and output formatting
+- **Batch Processing**: Scalable concurrent downloads with sequential processing
+- **Fault Isolation**: Individual WFO failures don't impact other WFOs in the batch
+- **Resource Management**: Configurable batch sizes and worker limits to control system load
+- **MetPy Integration**: Graceful fallbacks when MetPy is unavailable
+- **Structured Data**: Uses dataclasses (`Sounding`) for consistent data representation
+- **Modular Design**: Separates downloading, parsing, calculation, and output formatting
 
 ## Common Commands
 
-### Data Fetching
+### Batch Processing (Recommended)
 ```bash
-# Download data for a specific date and model
-python fetch_all_daily_data_multi_model.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR
+# Complete pipeline: Download WFOs in batches of 10, process in batches of 25
+python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR RAP
 
-# Download multiple models
-python fetch_all_daily_data_multi_model.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR RAP GFS
+# Customize batch sizes
+python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive \
+  --download-batch-size 5 --process-batch-size 15 --max-download-workers 2
 
-# Skip BUFKIT or AFOS downloads
-python fetch_all_daily_data_multi_model.py 2023-10-26 ./wfo_data_archive --skip-afos
+# Download only (then process separately)
+python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --download-only
+
+# Process only (assuming data already downloaded)
+python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --process-only
 ```
 
-### Sounding Processing
+### Legacy Single-Process Commands
 ```bash
+# Download data for all WFOs sequentially (legacy)
+python fetch_all_daily_data_multi_model.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR
+
+# Download single WFO
+python fetch_single_wfo.py ABQ 35.04 -106.62 2023-10-26 ./wfo_data_archive --hour 12 --model RAP
+
 # Process all BUFKIT files for a specific date
 python -m sounding_processor.main ./wfo_data_archive 20231026
 
-# Run from project root
-cd /path/to/claude-bufkit
-python -m sounding_processor.main wfo_data_archive 20231026
+# Process single WFO
+python -m sounding_processor.main ./wfo_data_archive 20231026 --wfo ABQ
 ```
 
 ### Direct LLM Conversion
@@ -72,14 +92,19 @@ python -m sounding_processor.convert_to_llm_optimized_jsonl
 
 ## File Structure
 
-- `/fetch_all_daily_data_multi_model.py` - Main data acquisition script
-- `/sounding_processor/` - Core processing package
-  - `main.py` - Batch processing entry point
-  - `bufkit_parser.py` - BUFKIT format parser
-  - `sounding_calculator.py` - Meteorological calculations
-  - `sounding_data.py` - Data structures
-  - `config.py` - Configuration and constants
-  - `convert_to_llm_optimized_jsonl.py` - Output format conversion
+### Main Scripts
+- `/batch_fetch_and_process.py` - **NEW**: Main batch processing script with configurable batch sizes
+- `/fetch_single_wfo.py` - **NEW**: Single WFO downloader (used by batch processor)
+- `/run_batch_example.py` - **NEW**: Example script showing batch processing usage
+- `/fetch_all_daily_data_multi_model.py` - Legacy: Sequential data acquisition script
+
+### Core Processing Package (`/sounding_processor/`)
+- `main.py` - Batch processing entry point (now supports single WFO processing)
+- `bufkit_parser.py` - BUFKIT format parser
+- `sounding_calculator.py` - Meteorological calculations
+- `sounding_data.py` - Data structures
+- `config.py` - Configuration and constants
+- `convert_to_llm_optimized_jsonl.py` - Output format conversion
 
 ## Dependencies
 

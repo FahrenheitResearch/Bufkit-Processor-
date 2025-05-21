@@ -1,0 +1,110 @@
+583 
+FXUS64 KMRX 262317
+AFDMRX
+
+Area Forecast Discussion
+National Weather Service Morristown TN
+717 PM EDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(This evening through Thursday)
+Issued at 322 PM EDT Wed Oct 26 2022
+
+Key Messages:
+
+1. Clouds continue through this evening and late tonight.
+
+2. Dry and clearer on Thursday with temperatures near seasonal
+normals.
+
+Discussion:
+
+Cold front is east of the area with drier and cooler air arriving
+from the northwest. Low/mid-level trough continues to move
+eastward with a continued inversion setting up the low cloud deck
+across the region this afternoon and into tonight. As this trough
+axis shifts east late tonight, a gradual clearing late tonight and
+into Thursday morning is expected.
+
+Increasing upper level heights across the Southeast CONUS and an 
+amplifying trough across the Great Plains will result in southwest
+flow by Thursday afternoon. As high pressure begins to shift 
+eastward, we get a more southerly and southeasterly low-level flow
+with afternoon temperatures increasing to near seasonal normals. 
+
+&&
+
+.LONG TERM...
+(Thursday night through next Wednesday)
+Issued at 322 PM EDT Wed Oct 26 2022
+
+Key Message:
+
+Chances for widespread rain return this weekend and early next 
+week.
+
+Discussion:
+
+Upper level wave digging into the Southern Rockies/Southern Plains 
+will become cutoff and meander across Texas and the Arklatex by 
+Saturday keeping southwest upper level flow sustained across the 
+Tennessee Valley. Eventually this low will be picked up by a 
+shortwave Sunday into early next week before ejecting the wave off 
+to the northeast. Surface high pressure will remain anchored across 
+New England late this week before an area of pressure deepens 
+underneath the aforementioned upper low this weekend. Surface flow 
+will generally remain out of the northeast or east, Thursday night 
+through Friday night before winds veer toward a southerly direction 
+into Saturday and Sunday. 
+
+Increasing upper level ascent will begin to overspread the region as 
+early as late Saturday night and especially on Sunday while moisture 
+advection ramps up within increasing BL and 850mb flow. Guidance 
+continues to slow this system down, which does make sense given a 
+cutoff synoptic system. The current thinking is that precipitation 
+chances begin to ramp up after 06Z Sunday with the maximum in PoPs 
+expected between 12Z-00Z Sunday. Thunder chances look limited still 
+and will continue to carry rain showers for now. Rain chances will 
+decrease late Sunday night into early Monday, although southwest 
+flow remaining across the region as a shortwave passes will keep 
+scattered rain chances in the forecast through Monday night. 
+Conditions begin to dry out Tuesday through Wednesday as high 
+pressure at the surface moves across the Tennessee Valley.
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 714 PM EDT Wed Oct 26 2022
+
+Off and on MVFR conditions will gradually improve to VFR at CHA
+over the next several hours with the other sites likely to be off
+and on MVFR through the night. VFR is expected to be in place from
+Thursday morning onward across the region. Winds will also be 
+fairly light and generally from the north to northeasterly 
+direction. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Chattanooga Airport, TN             47  70  48  72 /   0   0   0   0 
+Knoxville McGhee Tyson Airport, TN  46  67  45  72 /   0   0   0   0 
+Oak Ridge, TN                       45  67  45  71 /   0   0   0   0 
+Tri Cities Airport, TN              43  66  42  67 /   0   0   0   0 
+
+&&
+
+.MRX WATCHES/WARNINGS/ADVISORIES...
+NC...NONE.
+TN...NONE.
+VA...NONE.
+&&
+
+$$
+
+SHORT TERM...JB
+LONG TERM....Diegan
+AVIATION...BW
+

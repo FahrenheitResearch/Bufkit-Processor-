@@ -1,0 +1,117 @@
+109 
+FXUS66 KMTR 261118
+AFDMTR
+
+Area Forecast Discussion
+National Weather Service San Francisco Bay Area
+418 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS...Seasonably cool temperatures, mostly clear sky 
+conditions and dry weather are forecast through the remainder of 
+the week. Aside from a slight chance of light rain over the North 
+Bay on Saturday, dry conditions are likely to persist through the 
+weekend as well. 
+
+&&
+
+.DISCUSSION...as of 03:00 AM PDT Wednesday...Mainly clear sky 
+conditions prevail early this morning in wake of yesterday's weak 
+frontal passage. That said, a few low clouds have developed around
+the Monterey Bay region where boundary layer moisture remains 
+abundant. To the north, another approaching frontal boundary has 
+brought some light rainfall to northern California. That front 
+will continue to weaken as it approaches and then pushes across 
+the region later today. As such, dry weather conditions are likely
+to prevail across the Bay Area and Central Coast. 
+
+Seasonably cool conditions will linger as a result with afternoon 
+temperatures reaching into the upper 50s near the coast to mid/upper 
+60s inland. Under mostly sunny conditions this afternoon, a few of 
+the region's warmer spots may peak in the lower 70s. Breezy winds 
+will once again impact the coast line, yet the strongest winds are 
+likely to remain offshore out over the Pacific. As wind speeds 
+diminish overnight, temperatures will cool into the upper 40s to 
+near 50 at the coast and around the bays, low to mid 40s inland and 
+potentially the upper 30s in the region's coldest, wind sheltered 
+interior spots. 
+
+A weak ridge will build in late in the week, yet temperatures will 
+change very little day-to-day and remain near to slightly below 
+seasonal averages. Thus, mild days with cool at times chilly 
+overnights are likely to persist. For the upcoming weekend, both 
+deterministic and ensemble guidance have converged on a more 
+similar solution...mainly dry weather conditions. There does remain 
+an outside chance of light precipitation reaching as far south as 
+the North Bay as a weakening frontal boundary approaches from the 
+north Saturday afternoon/evening. However, the trend has continued 
+to keep the focus of any widespread precipitation well north of the 
+region. 
+
+Looking further out, the models continue to suggest the potential 
+for precipitation across the Bay Area and Central Coast by the 
+middle of next week. That said, confidence remains low at this time 
+with respect to any widespread, beneficial rainfall across our 
+region. However, the ensembles generally suggest an energetic 
+pattern across the Pacific to persist with troughing along the West 
+Coast heating into early November. 
+
+&&
+
+.AVIATION...as of 4:20 AM PDT Wednesday...For the 12Z TAFs. VFR 
+likely through the TAF period as the atmosphere remains relatively 
+well mixed. One exception will be some very isolated stratus around 
+the Monterey Bay area this morning, and some possibility of marine 
+stratus along the coast Thursday morning. Other than some passing 
+mid-high clouds, skies will remain mostly clear today. Breezy 
+condition can be expected this afternoon.
+
+Vicinity of KSFO...VFR through the TAF period. Current satellite 
+showing a few clouds but mostly clear skies around the Bay Area. 
+Expect these conditions to persist through the day today with some 
+passing high clouds late this morning. W/NW winds with gusts to 20 
+kts can be expected this afternoon.
+
+KSFO Bridge Approach...Similar to SFO.
+
+Monterey Bay...Current satellite showing some isolated areas of 
+stratus around the area with a low likelihood that coverage will 
+expand much this morning. Expect VFR to prevail with periods of MVFR 
+cigs before sunrise this morning. Mostly clear skies and breezy 
+onshore flow for the rest of the period after.
+
+&&
+
+.MARINE...as of 03:00 AM PDT Wednesday...Gusty conditions are 
+expected across the local waters through mid week with gale-force 
+gusts expected in the outer waters and at the coastal jets. This 
+will result in building seas with wave heights up to 12 feet 
+possible in the outer waters. Winds and seas are expected to 
+diminish towards late week before potentially increasing again 
+into the weekend.
+
+&&
+
+.MTR WATCHES/WARNINGS/ADVISORIES...
+     .Tday...SCA...Mry Bay from 3 PM
+             SCA...Pt Arena to Pt Reyes 0-10 nm
+             SCA...Pt Reyes to Pigeon Pt 0-10 nm
+             SCA...Pigeon Pt to Pt Pinos 0-10 nm
+             SCA...Pt Arena to Pigeon Pt 10-60 nm
+             SCA...Pigeon Pt to Pt Piedras Blancas 10-60 nm
+             GLW...Pt Pinos to Pt Piedras Blancas 0-10 nm
+
+&&
+
+$$
+
+PUBLIC FORECAST: RGass
+AVIATION: Behringer
+MARINE: Behringer
+
+Visit us at www.weather.gov/sanfrancisco
+
+Follow us on Facebook, Twitter, and YouTube at:
+www.facebook.com/nwsbayarea
+www.twitter.com/nwsbayarea
+www.youtube.com/nwsbayarea
+

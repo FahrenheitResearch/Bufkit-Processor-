@@ -1,0 +1,211 @@
+725 
+FXUS61 KRNK 261053
+AFDRNK
+
+Area Forecast Discussion
+National Weather Service Blacksburg VA
+653 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A vigorous area of low pressure aloft will move rapidly north
+from the western Tennessee Valley into the Ohio Valley today and
+weaken. A large area of surface high pressure will build in its
+wake across the Ohio Valley by Thursday then move toward New
+England by the end of the week. A few showers will accompany the
+low pressure tracking through the Ohio Valley today. Then cooler
+air will spread into the region by the weekend as high pressure
+sets up to our northeast. A new area of low pressure will track
+out of the Southern Plains toward the Ohio Valley during the
+first half of next week bringing our next chance for rain.
+Temperatures will be near seasonal normals for the next several
+days.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As of 415 AM EDT Wednesday...
+  
+...Chance for Rain Showers Western Mountain This Morning,
+Otherwise Remaining Mostly Cloudy but Dry Later Today the End of
+the Week...
+
+The vigorous negatively tilted upper low which ejected northeast
+out of the Southern Plains on Tuesday was located in the Ohio
+Valley early this morning. The system is rapidly weakening, but
+still supports a band of showers from its center in Ohio
+southeast through the Appalachians into the southeast U.S. and
+eastern Gulf. This system will continue to weaken today as it
+tracks north toward the Great Lakes on the west side of a high
+amplitude upper ridge anchored in the western Atlantic. While
+the upper low will briefly suppress heights, the western
+Atlantic ridge will quickly strengthen again Thu-Fri and remain
+anchored along the Mid-Atlantic/Southeast U.S. coast into the
+weekend. Surface high pressure will build in the wake of the
+departing upper low and move from the Ohio Valley toward New
+England by Friday and into the weekend.
+
+Showers will move toward the Blue Ridge this morning all the
+while weakening. Little more than clouds and perhaps a light
+shower or sprinkle will make it east of the Blue Ridge by
+afternoon. That should be the end of any meaningful
+precipitation this forecast period. Even in the west, rainfall
+amounts are only expected to be 1/10th inch or less.
+
+Areas of fog were observed once again this morning across the 
+eastern portions of the Piedmont advected westward from the 
+coastal plain by a shallow marine layer and light easterly 
+surface flow. Visibilities overall have been more in the 1/2 to
+1 mile range this morning as compared to the widespread 0 to 1/4
+mile range observed this time yesterday morning. Thus, an SPS so
+far has been more appropriate than a Dense Fog Advisory (DFA),
+but will continue to monitor and coordinate with our eastern
+neighbors.
+
+Temperatures today should be on the order of 5-7 degrees cooler
+than those observed Tuesday as clouds temper insolation. 850mb
+temperatures, which yesterday peaked around +16C will drop back
+toward +10C to +12C today and back toward +8C by Thursday
+morning. High temperatures today are expected to be mostly in
+the 50s to mid 60s west and in the upper 60s to lower 70s east.
+Lows tonight should be mainly 35 to 40 west and 40 to 45 east,
+thus remaining above freezing for the most part except locations
+like Burkes Garden.
+
+The gusty southeast winds across southwest VA/southeast WV this
+morning have subsided and become variable in direction as the
+rain showers moved through. Winds will become west to northwest
+later this morning with low end gusts possible at times, mainly
+west of the Blue Ridge.
+
+/Confidence Levels in Forecast Parameters/
+- Moderate Confidence in Temperatures,
+- Moderate Confidence in Precipitation Probabilities,
+- Moderate Confidence in Wind Direction and Speed.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH SATURDAY NIGHT/...
+As of 445 AM EDT Wednesday...
+
+     Cool and dry most of the weekend...
+
+After an upper trough tracks northeast and past our CWA by Thursday, 
+an area of surface high pressure moves east across the Mid-west and 
+towards the Great Lakes/southern Canada. By Saturday this high will 
+be in a position to wedge us in and cool things down, especially 
+east of the Blue Ridge. With 500mb heights rising in response to a 
+cutoff  low over the southern plains, and a dry airmass in place, 
+not expecting any precipitation through Saturday. Clouds will fill 
+in over the east with the wedge. Highs Friday and Saturday will be 
+held to the 50s and low 60s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH TUESDAY/...
+As of 445 AM EDT Wednesday...
+
+     Rain returns by early next week...
+
+Deep troughing over the southern and central plains will track 
+northeast and into the Midwest/Great Lakes region over the weekend. 
+This will bring rain to the CWA as early as Sunday morning, but each 
+model cycle continues to trend a few hours slower, so timing is not 
+set in stone for this system yet. As this system interacts with the 
+increased moisture brought in from return flow as a result of the 
+wedge setup, rain showers will impact the entire area and exit with 
+the trough near the middle of the week. The wedge will be eroded by 
+this low pressure system, and high pressure placed more overhead of 
+the Mid-Atlantic will come behind this system. Mostly dry weather to 
+end next week. Temperatures will start cool and moderate towards 
+normal by the end of the forecast period.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+As of 645 AM EDT Wednesday...
+
+...Rainshowers Western Areas This Morning, Fog east, Otherwise Mostly MVFR
+to VFR Conditions Through the TAF Valid Period...
+
+Synopsis: A vigorous upper short wave with a negative tilt was
+moving rapidly northward through the Tennessee and Ohio Valley
+early this morning. The main dynamics associated with this system
+will track northward into Ohio and west of the RNK forecast area
+as the system weakens quickly through the day today. A band of
+rainshowers accompanying this system was skirting through the northwestern
+half of the CWA early this morning. East of the Blue Ridge another
+morning with areas of dense fog as light east to southeast marine flow persists
+in that region. However, over all the fog was not as widespread
+or as widespread as what was observed Tuesday morning. All of
+the fog should dissipate by around 14Z. Showers in the
+west/north will also dissipate by mid to late morning with only
+a possible sprinkle left by early afternoon. Nonetheless, widespread
+MVFR ceilings will be left throughout the day and into the 
+evening for areas west of the Blue Ridge with upslope westerly 
+flow becoming established behind the passing front. 
+Ceilings/visibilities should become VFR east of the Blue Ridge 
+by afternoon with no precipitation. Winds will shift to the SW- 
+NW as the upper trough moves to the northwest of the area today 
+and a weak cold front sweeps through from the west. Fog
+potential eastern areas should be less Thursday morning, but
+perhaps not zero.
+
+Ceilings...MVFR ceilings will likely persist west of the Blue 
+Ridge throughout much of the TAF valid period, in scattered rain
+showers this morning and upslope stratus/stratocumulus, 
+especially west of the Blue Ridge. Indefinite ceilings in 
+fog/low clouds will plague eastern areas through 14Z with mainly
+IFR-LIFR ceilings in these areas. However, after 14Z eastern 
+areas of the CWA should see ceilings improve to VFR, especially 
+by afternoon. Patchy fog late tonight may result in isolated
+pockets of sub-VFR ceilings east.
+
+Visibilities...Mainly VFR to locally MVFR in rain showers
+through 14Z west of the Blue Ridge this morning, becoming 
+mainly VFR this afternoon. For areas east of the Blue Ridge, 
+widespread fog, albeit not as dense or widespread as Tuesday 
+morning, is occurring once again this morning with visibilities 
+widespread 1/2SM to 1SM east of a LYH-W78 line. Issued an SPS 
+for these conditions earlier and just updated once again to 
+extend until 13Z.
+
+Winds...Any east or southeast winds this morning will become
+southwest to west today with speeds increasing to 8-12kts this
+afternoon. Gusts to 20kts possible west of the Blue Ridge during
+the afternoon/evening evening, diminishing after sunset.
+
+/Confidence Levels in Forecast Parameters/
+- Moderate Confidence in Ceilings,
+- Moderate Confidence in Visibilities,
+- Moderate to High Confidence in Wind Direction and Speed.
+
+Extended Aviation Discussion... 
+
+VFR conditions are expected Thursday through Saturday as low 
+clouds dissipate in the mountains and high pressure covers the 
+region both at the surface and aloft. However, it should be
+noted that a large Canadian high will become anchored over the
+northeast through the weekend leading to strong potential for a
+wedge set up that will eventually result in increasing clouds
+going into the later half of the weekend with increasing
+potential for sub-VFR conditions by Sunday into Monday.
+Temperatures will cool and periods of light rain and drizzle
+will develop early next week as the wedge intensifies and a
+short wave lifts through the western half of the area Mon-Tue.
+
+&&
+
+.RNK WATCHES/WARNINGS/ADVISORIES...
+VA...None.
+NC...None.
+WV...None.
+
+&&
+
+$$
+SYNOPSIS...RAB
+NEAR TERM...RAB/WP
+SHORT TERM...VFJ
+LONG TERM...VFJ
+AVIATION...RAB
+

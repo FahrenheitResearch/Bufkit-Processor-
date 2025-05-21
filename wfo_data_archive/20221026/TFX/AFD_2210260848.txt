@@ -1,0 +1,126 @@
+021 
+FXUS65 KTFX 260848 CCA
+AFDTFX
+
+Area Forecast Discussion...Corrected National Weather Service Great 
+Falls MT 241 AM MDT Wed Oct 26 2022
+
+.SYNOPSIS...
+
+A weather disturbance moving southeast across Idaho today will bring 
+a period of snow showers to mostly the mountains of Southwest 
+Montana while much of north-central Montana remains dry. Strong, 
+gusty winds are expected across much of Central and North-central 
+Montana, especially the Rocky Mountain Front and areas north of the 
+Little Belts, beginning late Wednesday through Thursday night
+
+&&
+
+.DISCUSSION...
+
+Today through Tonight...Weak upper-level ridging overhead is quickly 
+superseded with a longwave trough from the west that propagates 
+toward the Continental Divide early this morning and with it, decent 
+moisture embedded. As the trough propagates, it digs southward, with 
+majority of its energy moving southeastward across Idaho, leading to 
+a brief period of snow showers developing mostly over the mountains 
+of Southwest Montana, more specifically the higher elevations along 
+the Beaverhead, Centennial, and Madison ranges. Latest model 
+guidance suggests a high (>80%) probability of these ranges 
+exceeding an inch of total accumulation along the Montana-Idaho 
+border and upwards of 4 inches in the Madison range through late 
+tonight.
+
+Thursday through Friday...As the aforementioned trough deepens into 
+southwest CONUS, winds pick up again, particularly along the Rocky 
+Mountain Front and adjacent plains and across portions of Cascade 
+County. NBM v4.1 depicts portions of Cascade County, including Great 
+Falls, has a high (70-80%) probability of gusts exceeding 48 knots 
+(55 mph). 
+
+The latest probabilistic guidance from NBM v4.1 also suggests a 
+medium (60-70%) chance of gusts greater than 41 knots (47 mph) for 
+portions of Judith Basin and Judith Basin Gap. After careful 
+consideration, these zones were also added to the current High Wind 
+Watch given the tightened pressure gradient along the Montana 
+Highway 200 corridor and climatology of the area notoriously being a 
+wind-prone location.
+
+In addition, confidence was high enough to upgrade the Rocky 
+Mountain Front and adjacent foothills and plains to a High Wind 
+Warning. NBM v4.1 depicts a high (>80%) probability of gusts 
+exceeding 64 knots (73 mph) across the Rocky Mountain Front and a 
+medium (50-60%) probability of gusts of 56 knots (64 mph) or greater 
+reaching the Cut Bank vicinity. The magnitude of these strong winds 
+could create difficult travel conditions for high-profile vehicles 
+or those pulling trailers, cause tree and/or property damage, and 
+blow away unsecured objects. 
+
+Friday through next Wednesday...Winds mellow out this Halloween 
+weekend, with weak upper-level ridging and zonal flow, suggesting 
+warmer and drier conditions. Afternoon temperatures warm up 
+slightly, returning closer to near and just above seasonal averages, 
+with upper 50s approaching 60 in North-central Montana, and upper 
+40s nearing 50 in the Southwest. However, after a brief hiatus, 
+strong winds return the region Sunday night into Halloween day, with 
+a medium (60-70%) probability of gusts in excess of 48 knots (55 
+mph) to the Rocky Mountain Front and portions of Central Montana. 
+
+Long-range models supports a deep trough propagating out of the Gulf 
+of Alaska next week; however, confidence is low regarding specific 
+details on strength and timing. That being said, the latest NBM run 
+suggests temperatures return to below average with unsettled 
+conditions that may lead to precipitation by mid-week. - Pierce
+
+&&
+
+.AVIATION...
+1102 PM MDT Tue Oct 25 2022 (26/06Z TAF period)
+
+Continued mountain obscuration is expected through the entire 
+2606/2706 TAF period as Pacific moisture streams eastward within an 
+overall zonal flow pattern. A weak disturbance moving within this 
+pattern will bring another round of mountain snow and valley/plain 
+rain/snow to areas southwest of a KCTB, to KGTF, to KLVM line from 
+approximately 12z Wednesday to 03z Thursday. While a rogue snow/rain 
+shower can't be ruled out at the KHLN, KBZN, and KEKS terminals over 
+this timeframe, confidence remains too low to mention any prevailing 
+groups. VFR conditions are predominately expected across the 
+Northern Rockies over the next 24 hours, with the exception of 
+beneath areas of precipitation where MVFR conditions will occur. - 
+Moldan
+
+KWYS TAF will not be issued again until airport operations resume 
+next spring.
+
+Refer to weather.gov/zlc for more detailed regional aviation weather 
+and hazard information.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+GTF  49  29  52  35 /  10  10   0   0 CTB  46  28  47  32 /   0  10 
+ 0   0 HLN  48  28  51  29 /  30   0  0   0 BZN  45  19  46  20 / 
+40  20  0   0 WYS  36  10  34   9 / 80  60  0   0 DLN  39  17  42 
+21 / 60  30  0   0 HVR  50  30  54 36 / 0   0 0   0 LWT  47  25  49 
+30 
+/  10  10  0   0 
+
+&&
+
+.TFX WATCHES/WARNINGS/ADVISORIES...
+
+High Wind Warning in effect for the Rocky Mountain Front, Eastern 
+Glacier, Western Toole, and Central Pondera and adjacent foothills 
+and plains from late Wednesday night through Friday morning.
+
+High Wind Watch in effect for Cascade County below 5000ft, Judith 
+Basin County, and Judith Gap from Thursday afternoon through 
+Thursday evening.
+
+&&
+
+$$
+
+http://www.weather.gov/greatfalls
+

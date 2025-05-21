@@ -1,0 +1,162 @@
+857 
+FXUS64 KLIX 262042
+AFDLIX
+
+Area Forecast Discussion
+National Weather Service New Orleans LA
+342 PM CDT Wed Oct 26 2022
+
+...New SHORT TERM, LONG TERM, AVIATION, MARINE...
+
+.SHORT TERM...
+(This evening through Thursday night)
+Issued at 244 PM CDT Wed Oct 26 2022
+
+An increasingly difluent flow pattern aloft will combine with
+strong positive vorticity advection to induce a broad area of
+enhanced forcing across the Gulf South throughout the short term
+period. Typically, this pattern would be supportive of cloud and
+rain development, but a lack of moisture throughout the entirety 
+of the atmospheric column through tomorrow will keep skies mainly 
+clear through at least Thursday evening. Possibly by late Thursday
+night, some high level moisture will begin to transport into the
+area on the back of a strong jet streak, and this will translate
+over to increasing cirrus cloud cover. The main driver of this
+drier airmass lingering over the area is the continuation of
+offshore flow through tomorrow evening and the presence of a
+strong mid-level ridge over the Gulf South. A larger than average
+diurnal range of around 30 degrees is expected because of these
+clear and dry conditions. Lows should cool into the 40s over
+interior locations, but should also easily warm into the middle to
+upper 70s by the afternoon hours tomorrow. 
+
+&&
+
+.LONG TERM...
+(Friday through Tuesday night)
+Issued at 244 PM CDT Wed Oct 26 2022
+
+The strong positive vorticity advection and highly difluent flow
+pattern mentioned in the short term period will remain in place on
+Friday in advance of a deepening shortwave trough and strong upper
+level low over Oklahoma and Texas. The trough axis will remain in
+neutral tilt on Friday as it slowly moves east along the Red River
+Valley. In advance of this trough a series of weak vorticity
+maxima embedded within the strong 130+ knot jet aloft will sweep
+through the Lower Mississippi Valley. At the same time, the mid-
+level ridge dominating the area will shift to the east and a
+strengthening deep layer onshore flow regime will develop by
+Friday afternoon. Moisture will begin surging back into the area
+from the southern and central Gulf of Mexico, and this is most
+evident in the one inch increase in precipitable water values from
+around 0.5 inches Friday morning to 1.5 inches by Friday evening.
+Given the favorable forcing aloft, cloud cover will be on the
+increase through the day, and scattered showers should begin to
+develop over the western third of the forecast area near the
+Atchafalaya River by late Friday afternoon. Thunderstorm activity
+is still not expected as lingering drier air in the mid-levels
+will keep lapse rates weak and instability very low.  
+
+The primary period of higher PoP will occur Friday night into
+Saturday as the strong shortwave trough axis and associated upper
+level low over Texas begins to take on a negative tilt in response
+to the 130+ knot jet streak rounding the base of the trough. Near
+the right entrance region of this jet streak and within a region
+of higher baroclincity over the Texas coastal Plain and far
+northwest Gulf, a surface low should begin to deepen. The
+evolution of this low will be the primary driver of the PoP and
+weather forecast over the Friday night into Saturday time period.
+There are some model differences on how far north the warm front 
+developing in advance of this will surge with most of the guidance
+keeping the front over our coastal waters. However, some more
+recent guidance, including the NAM, indicate that the front could
+surge as far inland as the I-12 corridor. If this occurs, the risk
+of surface based thunderstorms and the potential for severe
+storms, given very favorable directional shear as winds back near
+the warm front, would increase dramatically for Saturday. At this
+time, have opted to stick with the blended solution of the NBM 
+which keeps the highest dewpoints over the offshore waters. 
+However, even the NBM has increased the thunderstorm potential for
+Saturday, and now calls for at least a high end chance of 
+elevated thunderstorms forming in advance of a dry line surging 
+east across the CWA late Saturday morning into early Saturday 
+afternoon. The development of this low and the attendant warm
+front will need to be closely examined over the next couple of
+days as CAMS guidance becomes more available.  
+
+Conditions are expected to improve from west to east Saturday
+afternoon into Saturday evening as the negatively tilted trough
+axis lifts into the Midwest and the surface low pulls well north
+and east of the forecast area. A potent and deep dry slot should
+punch into the region on the backside of the front, and will lead
+to a sharp cutoff of rain chances in the immediate wake of the
+front. Little in the way of cold air advection is anticipated with
+this system, and that will result in temperatures only cooling a
+few degrees below average for this time of year. By Sunday, only
+some fair weather cumulus is expected to form where lingering low
+level moisture is trapped beneath an elevated inversion layer
+across the northern third of the CWA. Otherwise, dry and mild
+conditions are expected to persist from Sunday through Tuesday
+across the forecast area.  
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 244 PM CDT Wed Oct 26 2022
+
+A dry and very stable airmass will remain in place through
+tomorrow. As a result, prevailing VFR conditions are expected at
+all of the terminals. Continued cold air advection over the Lake
+Pontchartrain will allow northeast winds to increase to 12 knots
+or greater late tonight into early tomorrow morning. Otherwise,
+no significant impacts to aviation operations are anticipated
+through tomorrow afternoon. 
+
+&&
+
+.MARINE...
+Issued at 244 PM CDT Wed Oct 26 2022
+
+Lingering cold and dry air advection over the eastern waters,
+sounds, and lakes should allow for some stronger boundary layer
+winds of 15 to 20 knots to mix down over the coastal water
+tonight. However, these winds will quickly diminish tomorrow
+morning as temperatures warm. A brief period of more benign
+conditions should be in place over the waters for tomorrow night,
+but a return to more unsettled conditions is expected by Friday.
+Southeast flow will increase back to near advisory levels on
+Friday as a surface low deepens over Texas. This low will track
+north of the waters Friday night into Saturday and drive a strong
+cold front through the area. Winds should remain high at 15 to 25
+knots and seas of 4 to 7 feet are expected to develop. As a
+result, small craft advisories will likely persist into Saturday.
+High pressure is then expected to begin settling over the waters
+Saturday night and this will lead to lighter winds and calmer seas
+for Sunday and Monday of next week. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+MCB  44  76  49  77 /   0   0   0  20 
+BTR  47  77  52  77 /   0   0   0  40 
+ASD  46  77  50  78 /   0   0   0  20 
+MSY  56  74  59  77 /   0   0   0  20 
+GPT  48  74  54  76 /   0   0   0  10 
+PQL  44  76  49  78 /   0   0   0  10 
+
+&&
+
+.LIX WATCHES/WARNINGS/ADVISORIES...
+LA...None.
+GM...None.
+MS...None.
+GM...None.
+&&
+
+$$
+
+SHORT TERM...PG
+LONG TERM....PG
+AVIATION...PG
+

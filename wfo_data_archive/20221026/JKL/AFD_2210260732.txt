@@ -1,0 +1,147 @@
+137 
+FXUS63 KJKL 260732
+AFDJKL
+
+AREA FORECAST DISCUSSION
+National Weather Service Jackson KY
+332 AM EDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 140 AM EDT WED OCT 26 2022
+
+The cold front continues to progress toward eastern Kentucky as
+the main area of convection associated with this is quickly
+departing to the northeast. As such, winds will be turning more 
+westerly before diminishing in speed towards dawn. Have updated 
+the forecast mainly to fine tune the PoPs through the rest of the 
+night as well as to add in the latest Sky/T/Td obs and trends to 
+the forecast grids. These updates have been sent to the NDFD and 
+web servers. 
+
+UPDATE Issued at 1105 PM EDT TUE OCT 25 2022
+
+In addition to adjustments made in alignment with observations,
+additional changes were made for Timing of the band of showers 
+moving across eastern KY. These timing adjustments were made 
+based on radar and convective allowing model trends. Rainfall 
+across the far southeast will be considerably more meager compared
+to locations nearer to I 75 with less than a tenth of an inch 
+expected for much of the headwaters of the KY and Big Sandy
+region. Some rainfall and higher relative humidity for the
+remainder of the night into Wednesday as well as cooler
+temperatures on Wednesday will provide some relief for the several 
+wildfires ongoing across southeastern KY.
+
+UPDATE Issued at 750 PM EDT TUE OCT 25 2022
+
+Hourly grids were freshened up based on recent observations. An
+area of showers near and west of I-75 is gradually working into 
+eastern KY. A moisture gradient remains in place across the area 
+with downslope winds leading to dewpoints in the 30s over the Big 
+Sandy Region and in the higher elevations near the VA border to 
+the 40s to near 50. Dewpoints are in the upper 50s over portions 
+of Wayne County. As the activity spreads east this evening, 
+it will take longer for measurable rain to reach the ground.
+
+&&
+
+.SHORT TERM...(This evening through Wednesday night)
+Issued at 414 PM EDT TUE OCT 25 2022
+
+Increasing high cloud coverage has been the trend thus far, with 
+winds generally out of the south between 5-10 mph and periodical 
+gusts near 25 mph. This has allowed for temperatures to climb into 
+the mid to upper 70s this afternoon. Dew points have started to 
+climb as well, with mid 50s across the Cumberland Valley and mid 40s 
+in the far east.  
+
+Overall, guidance is in good agreement through the short term, with 
+amplified flow across the eastern half of the CONUS. A closed low 
+sits across the Ozarks, where another sits across Eastern Manitoba. 
+At the surface, a cold front runs through the Midwest to the 
+occluding low, where it continues south through the Lower 
+Mississippi Valley. This will continue to press eastward, as the low 
+is expected to meander just north of the area- through the Ohio 
+Valley and into the Lower Great Lakes. 1930z composite depicts a 
+line of showers and a few storms working through Western KY and 
+West TN. This will shift eastward through the evening, with the 
+best activity expected overnight along and ahead of the front. 
+CAMs suggest the line of showers and minimal thunderstorms to 
+weaken eastward, where the better focus for activity will be along
+our northern fringes and into Ohio and north- nearer to the low. 
+Soundings largely lack much instability, with any hints all 
+elevated, so have omitted the mention. A weakening LLJ will also 
+accompany the approaching system, which could lead to breezy 
+southerly winds overnight, with the high terrain seeing gusts up 
+to 25 to 30 kts. 
+
+Fropa will come into Wednesday morning, where low cloud cover will 
+linger through much of the day on westerly to northwesterly flow. As 
+a result, have nudged highs down a bit cooler given the coverage, 
+where mid 50s is generally anticipated. Heights will gradually
+rise through the day as we are wedged between the exiting trough,
+and a digging low across the Rockies. High pressure at the 
+surface will shift through the Midwest and into the Great Lakes 
+through the end of the period, where gradually clearing skies find
+the area into Thursday morning. Lows tonight will be uniform 
+given the coverage and rainfall, with lows in the upper 40s to low
+50s. Wednesday night will feature upper 30s in the Bluegrass and 
+western valleys, with mid 40s in the east where cloud cover 
+lingers.
+
+.LONG TERM...(Thursday night through Tuesday)
+Issued at 332 AM EDT WED OCT 26 2022
+
+The extended period will start off dry, as a ridge of high
+pressure remains in place over the region. This ridge will begin
+to erode and move off to our east by Sunday, as an area of low
+pressure approaches from the southwest. The NBM continues to be
+too fast with the progression of this system, and therefore the
+timing of precipitation onset. That being said, again trended
+toward slow system progression and precip onset for eastern
+Kentucky. Will be first introducing rain showers to the area from
+the southwest Saturday evening. The rain should become widespread
+by Sunday morning, as low pressure moves northeast toward the
+area. The peak of precipitation coverage should occur roughly
+mid-morning Sunday through late Monday morning. The last showers
+should begin gradually exiting the area early Monday evening, and
+may lingering well into the day on Tuesday in our eastern
+counties. Another ridge of high pressure is expected to move back
+by mid-week, leading to perhaps another period of dry weather.
+
+Temperatures on average through the entire period will be slightly
+above normal across the area. The coolest nights will see low in
+the low to mid 40s, with the warmer nights only falling into the
+upper 40s and lower 50s. Daytime highs will be mostly in the mid
+to upper 60s, with a couple of days maybe maxing out in the upper
+60s to lower 70s.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+ISSUED AT 155 AM EDT WED OCT 26 2022
+
+While VFR conditions were still observed across the region to 
+begin the period, a cold front moves east across the area will
+bring decreasing ceilings, into the MVFR range during the 08 to 
+15Z time-frame. Some isolated showers will accompany and precede 
+the front. Once those lower clouds arrive, MVFR and spotty IFR 
+level ceilings will prevail through the end of the period with 
+perhaps some lifting noted late. Winds will start from the 
+southeast to south at 5 to 10 kts, before becoming southwest to 
+west behind the front at the same speeds. Gusts in the 10 to 20 
+kts range will also occur at times through the forecast period.
+
+&&
+
+.JKL WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+UPDATE...GREIF
+SHORT TERM...BB
+LONG TERM...AR
+AVIATION...JP/GREIF
+

@@ -1,0 +1,128 @@
+172 
+FXUS63 KDTX 262324
+AFDDTX
+
+Area Forecast Discussion
+National Weather Service Detroit/Pontiac MI
+724 PM EDT Wed Oct 26 2022
+
+.AVIATION...
+
+Extensive area of MVFR stratus will remain entrenched through the 
+late evening period, as sufficient low level moisture depth remains 
+in the wake of an exiting low pressure system. Gusty northwest winds 
+persist within this environment, with gusts in excess of 20 knots 
+common prior to midnight. Clearing potential overnight carries less 
+certainty, as prospects for some degree of low level drying could 
+emerge as low level veers toward the north and then northeast with 
+time. Confidence in timing the clearing remains low, with the 
+outgoing forecast edging toward a slower, more conservative outlook 
+until upstream trends prove otherwise. A more definitive signal does 
+exist by 11z-14z mid morning Thursday. VFR conditions then expected 
+to persist throughout the remainder of Thursday with modest east-
+northeast flow.   
+
+For DTW...MVFR stratus to hold through at least the first half of 
+the night within gusty northwest winds. Eventual clearing expected 
+during the Thursday morning period, although confidence in exact 
+remains low attm. Highest likelihood for clearing anticipated 
+between 10z and 14z. Clear skies for the remainder of Thursday. 
+
+ DTW THRESHOLD PROBABILITIES...
+
+* High for ceiling 5000 feet or less through this evening, then 
+  low overnight and Thursday morning.
+
+* High for exceedence of crosswind thresholds into early evening.
+
+&&
+
+.PREV DISCUSSION...
+Issued at 341 PM EDT Wed Oct 26 2022
+
+DISCUSSION...
+
+Departing upper low merges with the northern stream troughing 
+pattern over Ontario this evening, driving the surface low 
+responsible for earlier shower activity northeast of the Great 
+Lakes. This initiates a period of height rises and large scale 
+subsidence across the cwa, stripping away the majority of upper 
+level moisture above 4 kft agl per forecast soundings. Low level 
+moisture trends offer less clarity, with decreasing confidence in a 
+clearing trend overnight. Upstream cloud field over northern MN/WI 
+is a bit more extensive than modeled RH fields would suggest, along 
+with a notable moisture flux off of Lake Michigan per GOES-16 
+visible satellite imagery. Even in the wake of isentropic downglide, 
+thinking there will be a deep enough moist layer for the subsidence 
+inversion to trap the stratocu field overhead equating to partly to 
+mostly cloudy coverage overnight. Higher confidence in clearing 
+trend exists tomorrow morning, especially as daytime mixing ramps 
+up. 
+
+Thermal trough axis shifts right overhead tomorrow morning, and 
+given preceding cold advection and at least pockets of clearing 
+overnight, lows settle into the mid 30s (in comparison to lows in 
+the 50s the past few days). High pressure building in from the west 
+keeps conditions dry Thursday, with limited available moisture (30-
+40 percent RH in the 1000-500 MB layer) equating to a mostly sunny 
+forecast. Veering wind field with only modest warm advection lends 
+to highs in the 50s.
+
+Dry and gradual warming trend persists into the weekend as southerly 
+low to mid level flow ensues, keeping temperatures within seasonable 
+range for late October standards (upper 50s/low 60s) and dry/sunny 
+weather. The next chance for rain does not arrive until early next 
+week, although the responsible disturbance has already moved onshore 
+the Pacific Northwest. This system cuts off from the mean flow and 
+dives southeast into the ArkLaTex region over the next several days 
+toward a region of broad mid level height falls. Deep layer 
+isentropic ascent formulates a robust precipitation shield as the 
+cyclone matures and stalls near the Gulf. Aside from propelling a 
+plume of high cloud into southeast MI Friday, main impacts remain 
+well south through the weekend. By the time the system projects 
+north into the Great Lakes, model guidance consistently suggests a 
+weakening trend after becoming vertically stacked. That said, 
+expectation is for associated cloud cover to increase on Sunday, 
+followed by at least a disorganized region of precipitation heading 
+into Monday.
+
+MARINE...
+
+Widespread showers will continue into the evening over the central 
+and eastern Great Lakes as low pressure moves eastward away from the 
+region.  Stronger northwest winds due to the tighter pressure 
+gradient will also continue into early tonight before beginning to 
+diminish.  Gale Warnings remain in effect overnight with Small Craft 
+advisories up for all other nearshore waters. Winds rapidly diminish 
+going into Thursday as strengthening high pressure tracks directly 
+over the region. High pressure will continue to bring quieter marine 
+conditions across the central lakes through the remainder of the 
+week and into the upcoming weekend.
+
+&&
+
+.DTX WATCHES/WARNINGS/ADVISORIES...
+MI...None.
+Lake Huron...Small Craft Advisory until 10 PM EDT this evening for LHZ422.
+
+     Gale Warning until 10 PM EDT this evening for LHZ361-362.
+
+     Gale Warning until 4 AM EDT Thursday for LHZ363-441-442-462-463.
+
+     Small Craft Advisory until 4 AM EDT Thursday for LHZ421-443.
+
+Lake St Clair...Small Craft Advisory until 10 PM EDT this evening for LCZ460.
+
+Michigan waters of Lake Erie...Small Craft Advisory until 10 PM EDT this evening for LEZ444.
+
+&&
+
+$$
+
+AVIATION.....MR
+DISCUSSION...MV
+MARINE.......SS
+
+You can obtain your latest National Weather Service forecasts online
+at www.weather.gov/detroit.
+

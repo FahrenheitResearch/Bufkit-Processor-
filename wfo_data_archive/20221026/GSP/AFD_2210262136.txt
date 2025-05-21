@@ -1,0 +1,122 @@
+209 
+FXUS62 KGSP 262136
+AFDGSP
+
+Area Forecast Discussion
+National Weather Service Greenville-Spartanburg SC
+536 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Cool high pressure crossing the Great Lakes Thursday and Friday will 
+bring cooler day time temperatures into the weekend.  Expect rain 
+chances to increase again this weekend and into early next week as a 
+low pressure system approaches from the Gulf states.  Drier weather 
+and milder temperatures return on Tuesday after low pressure departs 
+from our region.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+As of 533 PM EDT Wednesday: Satellite imagery and sfc obs continue
+to show the clearing trend across the fcst area, with most locations
+away from the TN border having only scattered clouds remaining
+early this evening. Most of the remaining clouds should dissipate
+with sunset. Temps were in good shape, but the dewpt trend needs
+a few tweaks.
+
+Tonight, sustained NW flow will allow CAA to peak during the
+predawn hours, leading to a potential for some ridgetop gusts,
+though the supporting surface high is generally too far north for
+a strong pressure gradient to form.  Temps will drop into the 40s
+across the region, with isolated 30s possible in the mountains.
+Stout NNW flow should have a suppressive effect on morning fog;
+nonetheless, enough lingering moisture will be present in the
+mountain valleys that at least patchy and intermitten fog may be
+able to crop up there.  This is depicted by short-term guidance
+mostly in the French Broad Valley.  What fog does develop should
+quickly scatter out tomorrow morning, giving way to clear and dry
+conditions through Thursday afternoon.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH SATURDAY/...
+As of 205 pm EDT Wednesday: A southern stream cutoff low center over 
+northern Texas Thursday night through Friday will migrate east to 
+the lower Mississippi River Valley through Saturday. Meanwhile, 
+1030+ mb surface high pressure will build from the Great Lakes to 
+the northeastern U.S. Friday, with the nose of the surface ridge 
+pushing across the western Carolinas and northeast Georgia through 
+Saturday. Anticipate continued dry profiles, other than modest 850 
+mb moisture passing over the area on east-northeast flow from the 
+Atlantic. A smaller-than-climo diurnal range on temperatures is 
+expected through the period given the nighttime mixing on steady NE 
+flow and cooler daytime thicknesses under the surface high. Very 
+small rain chances will return from the southwest late Saturday.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+As of 210 pm EDT Wednesday: Hybrid cold air damming will develop 
+over the region through the latter half of the weekend, with a dry 
+surface ridge in place south of a New England/coastal waters high, 
+and with precipitation returning from the southwest ahead of a 
+phasing southern stream system. This upper low, which will be 
+positioned over the Mississippi River Valley Saturday night, will 
+phase back into the northern stream over the Ohio Valley through 
+Sunday. A better Gulf of Mexico fetch will start to get established 
+Saturday night ahead of this feature, with deeper moisture in 
+profiles maximizing Sunday into Sunday night atop our area. All 
+zones will see likely PoPs at some point during this period, but 
+with QPF totals trending a bit downward. Maximum temperatures will 
+remain a few degrees under guidance given the wedge potential.
+
+Mid-level dry slotting will wrap into the area from the southwest on 
+Monday, coincident with the passage of an occluding/cold front. 
+Shower coverage will diminish, but cannot rule out some brief warm 
+sector instability along the southeast Piedmont fringe midday 
+Monday. It's more likely that some degree of shallow, stable wedging 
+will persist so no thunder will be featured. A lingering upper 
+trough axis west of the mountains will then cross the southern 
+Appalachians on Tuesday, with fairly dry profiles and downsloping 
+flow aiding in the final dissipation of any residual surface-based 
+cool wedge layer. Ridging returns on Wednesday with temperatures 
+back above climo.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+At KCLT and elsewhere: Finally seeing some improvement at the
+Piedmont/Upstate sites after hours of prevailing IFR and LIFR
+restrictions.  Have retained TEMPO for IFR cigs at KCLT until
+19z to catch any brief restrictions, although satellite imagery
+suggests more permanent clearing is imminent.  Winds mostly WSW
+at this point, but as the front exits the region this afternoon
+to the east, flow should become predominantly NW to N through the
+evening and overnight.  Low-end gusts possible across the mountains,
+mentionable only at KAVL.  The overwhelming majority of guidance
+now supports fog at KAVL, but have kept it VFR for now based on
+expected stout cold advective flow up the French Broad Valley
+all night long, which should limit radiative cooling potential.
+VFR conditions then expected through the end of the TAF period late
+Thursday as dry, stable, high pressure builds in from the north.
+
+Outlook: Dry, mostly VFR conditions continue through Friday. Precip
+and restrictions could return at some point over the weekend,
+but low confidence remains on timing and impacts.
+
+&&
+
+.GSP WATCHES/WARNINGS/ADVISORIES...
+GA...None.
+NC...None.
+SC...None.
+
+&&
+
+$$
+SYNOPSIS...DEO
+NEAR TERM...MPR/PM
+SHORT TERM...HG
+LONG TERM...HG
+AVIATION...MPR
+

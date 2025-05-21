@@ -1,0 +1,90 @@
+206 
+FXUS63 KOAX 260436
+AFDOAX
+
+Area Forecast Discussion
+National Weather Service Omaha/Valley NE
+1136 PM CDT Tue Oct 25 2022
+
+...Updated Aviation Forecast Discussion...
+
+.DISCUSSION...
+Issued at 350 PM CDT Tue Oct 25 2022
+
+Mild conditions and sunny skies prevail across the area today with
+the trof just east of here losing its influence on the mid-
+Missouri River Valley as the southern mid-level vort max streaks
+northeast, rounding the dominant/deeper low just north of 
+Minnesota. Temps are seasonable and will remain that way through 
+the forecast period. 
+
+Winds, breezy at times today, will slow and turn variable
+overnight with the passing of the high pressure axis pushing
+through the area. Temps will slip towards the low end of guidance.
+I've pushed numbers closer to the 25th percentile of ensemble
+guidance as a result. HREF probabilities suggest no fog 
+development, but it has cropped up the last couple of nights and 
+seems possible in low lying parts of western Iowa overnight... 
+especially where the rain fell yesterday. Have added "patchy" fog 
+to the grids there. Confidence in its development is low. 
+
+Wednesday brings southerly return flow developing from west to 
+east. With prevalent sunshine and widespread drought conditions, 
+have bumped up highs toward 75th percentile.
+
+Have added slight POPs for Wednesday afternoon and evening with
+the approach of a lee trof on the plains of Colorado. Frontogenesis
+at 700hPa is forecast. Southerly flow remains quick overnight as 
+an LLJ develops.
+
+Best chances of precip wait for the development of southwesterly
+flow ahead of the deepening trof mid-day on Thursday. PWAT values
+will be above normal, but still shy of 1". The max precip possible
+has slipped with subsequent model runs this week, capping the 
+reasonable high end amount. Latest QPF forecast from WPC is 
+justifiable and suggests a few hundredths in western Iowa to near
+a quarter of an inch in the northwestern corner of the CWA. 
+Beggars can't be choosers. Under the cloud cover, highs may 
+struggle to hit 60F.
+
+The usual cadre of deterministic models show that mid-level low 
+meandering south, cut off from the primary flow along the 
+US/Canada border. It'll take it's rainfall with it. Stuck between
+the trof and the primary flow up north, we'll be dry and 
+relatively quiet with highs close to seasonal norms - autumnal 
+temps! Activities over the Halloween weekend should be 
+unencumbered by the weather. 
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1127 PM CDT Tue Oct 25 2022
+
+VFR criteria to prevail for the TAF period. There are a few 
+potential impacts to aviation. There is a low probability for fog 
+in southwest Iowa and along the Missouri River. Skies are clear 
+and the wind speeds are fairly calm. This time of year those 
+conditions can lead to fog. However, dew points are a few degrees 
+too low. Higher dew points do exist in the aforementioned areas so
+patchy fog is possible in those locations.
+
+Winds will shift tomorrow from the north to the south beginning
+around 15Z. Sustained winds are expected to remain under 10 kts. 
+
+There is a 20 to 30% for rain beginning at 21Z. Confidence is too
+low to include in the TAFs. The best chance for precipitation is
+in northeast Nebraska. Any precipitation will be non-severe and 
+light.
+
+&&
+
+.OAX WATCHES/WARNINGS/ADVISORIES...
+NE...None.
+IA...None.
+&&
+
+$$
+
+DISCUSSION...Nicolaisen
+AVIATION...Fajman
+

@@ -1,0 +1,63 @@
+179 
+FXUS65 KFGZ 260403
+AFDFGZ
+
+Area Forecast Discussion
+National Weather Service Flagstaff AZ
+900 PM MST Tue Oct 25 2022
+
+.SYNOPSIS...Expect warmer temperatures through Wednesday, then a 
+bit cooler Thursday and warming back up again heading into next 
+weekend. Breezy southwest winds Wednesday turn northerly Thursday 
+and then decreasing into the weekend.
+
+&&
+
+.DISCUSSION...High pressure over the area begins to collapse 
+tonight as a series of s/wv troughs move through the Great Basin. 
+This will culminate in the passage of a compact upper low over the 
+Four Corners by early Thursday.
+
+Temperatures this evening are running up to 10 degrees warmer than 
+this time last night, due to a warmer day Tuesday and increased 
+mixing overnight into Wednesday. We will make a few tweaks to the 
+overnight MinT grids, mainly to adjust some of the lower elevations. 
+Overall, the forecasted slightly warmer overnight lows look good.
+
+Breezy conditions Wednesday, from the southwest, ahead of the 
+aforementioned low, a bit cooler with northerly winds on Thursday. 
+Expect a slight chance of showers in proximity to the upper low. No 
+additional short term updates are planned.
+
+&&
+
+.AVIATION...For the 06Z TAF package...Expect VFR conditions for the 
+24 hour TAF forecast period. Sfc winds light and variable overnight 
+and then increasing to S-SW15-25KTS AFT 18Z-20Z Wednesday. Aviation 
+discussion not updated for TAF amendments. 
+
+&&
+
+.FIRE WEATHER...A weather disturbance will approach northern 
+Arizona on Wednesday delivering gusty southwest wind and otherwise 
+dry conditions. As the disturbance passes through on Thursday, gusty 
+winds will shift to northerly, with just slight chance of showers 
+over the Four Corners.
+
+Friday through Sunday...Light winds and dry conditions are forecast.
+
+&&
+
+.FGZ WATCHES/WARNINGS/ADVISORIES...NONE.
+
+&&
+
+$$
+
+PUBLIC...Peterson
+AVIATION...Peterson
+FIRE WEATHER...McCollum
+
+For Northern Arizona weather information visit
+weather.gov/flagstaff
+

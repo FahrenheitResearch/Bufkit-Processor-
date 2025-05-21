@@ -1,0 +1,140 @@
+654 
+FXUS61 KALY 261704
+AFDALY
+
+AREA FORECAST DISCUSSION
+National Weather Service Albany NY
+104 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Another mild and muggy day with chances for showers especially 
+east of the Hudson River Valley. A cold front will move across 
+the region this afternoon and evening. With its passage a drier 
+and more seasonable airmass will be ushered in. A large area of 
+high pressure will then build in across the region with fair 
+weather expected into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Considerable breaks in the clouds and temperatures are climbing
+solidly into the 70s with some 60s in higher terrain. Showers
+are breaking up in western NY as they approach but there should
+be enough low level forcing along the leading edge of cooling 
+and drying to support scattered showers over most of our region 
+late this afternoon and evening.
+
+Southeasterly flow will become more southerly as the cold front
+gets closer and moves in to the region.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY/...
+The cold front will move off to our east across New England this
+evening as the weakening short wave trough passes over the
+region. Chances for showers will finally come to an end and a
+new airmass will be ushered in; drier and more seasonable.
+Temperatures tonight are expected to bottom out in the 40s with
+around 50 degrees in the Hudson River valley with some 30s into
+the western Adirondacks. 
+
+Thursday will feature seasonable temperatures with highs from
+the 40s across the western Adirondacks to lower 60s in the mid
+Hudson Valley with a return of sunshine across the area as high
+pressure build in from the west. Northwesterly winds will be 
+bit brisk with gusts up to 25 to 30 mph in cold air advection.
+
+The surface high is expected to strengthen as its moves 
+eastward from the Great Lakes Region with its center passing 
+over northern NY into New England on Friday. After recent nights
+it's going to feeling chilly Thursday night with lows down into
+the upper 20s to mid 30s. Highs Friday will be in the 50s with 
+40s limited to above 2000 feet and winds will very light.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Dry and tranquil weather conditions will persist Friday night into 
+Sunday with a strong, sprawling 1030-1040 mb surface high pressure 
+system overhead. Forecast models and ensembles continue to 
+advertise/depict a storm system emerging out of the South-
+Southeastern U.S. and tracking poleward towards our region. This 
+storm system will be responsible for bringing widespread rainfall to 
+the forecast area. While there still remains some spread amongst 
+guidances/ensembles, prime time looks to be Monday-Tuesday. Have 30-
+40% PoPs spreading from southwest to northeast Sunday night into 
+Monday over the forecast area. PoPs increase to high end chance to 
+categorical Monday afternoon/evening before decreasing to 30-40% 
+chances on Tuesday. The bulk of the rain should come to an end 
+Tuesday night, however, there could still be some lingering showers 
+over at least parts of the area on Wednesday should the occluding, 
+double-barreled low slow/stall near or just off the coast. There 
+remains some uncertainty with how this evolves so will have to keep 
+tabs on trends in the days ahead. Wednesday night into Thursday, 
+drier weather for sure should take place with another area of high 
+pressure expected to build into the region.
+
+As far as temperatures, anomalies are expected to average out 
+mild/above normal for the balance of this period. High temperatures 
+on Saturday will be near normal levels with values in the upper 50s 
+to near 60F along the river valleys (low to mid 50s higher 
+elevations). Slightly milder on Sunday and Monday with highs in the 
+lower 60s along the river valleys (mid to upper 50s higher 
+elevations). By Tuesday and Wednesday, high temperatures could climb 
+into the mid 60s along the river valleys (upper 50s to lower 60s 
+higher elevations). Overnight low temperatures will start off cold 
+Friday night and Saturday night amid strong radiational cooling 
+potential with values in the low to mid 30s along the river valleys 
+(mid to upper 20s higher elevations) before moderating into the 40s 
+and 50s Sunday night through Wednesday night. Frost is possible 
+Friday night and Saturday night.
+
+Looking further ahead in the 8-14 day outlook (November 2-8 time 
+line), NOAA Climate Prediction Center (CPC) continues to favor an 
+above normal temperature pattern for eastern New York and western 
+New England.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+Through 12z Thursday....Cigs and/or vsbys are ranging from MVFR to 
+IFR at the terminals as of this update due to mist/fog and/or low 
+stratus clouds. Expect for MVFR to IFR conditions to persist through 
+the morning hours and for that matter through a good chunk of the 
+TAF cycle, though things should improve to more VFR/MVFR towards the 
+end of the TAF cycle. As additional moisture associated with a weak 
+coastal low and inverted trough streams northward into the area, 
+showers could develop later this afternoon over parts of the area. 
+Have maintained TEMPOs for patchy drizzle, mist/fog, and low stratus 
+for the morning hours and VCSH/Prob30 headlines for the terminals 
+during the afternoon/evening hours to reflect the potential for 
+additional showers over the area. Tonight into Thursday, any showers 
+over the are should have come to an end. However, MVFR cigs could 
+persist.
+
+Winds will be light and variable to calm this morning before a 
+southerly component develops this afternoon at about 5-10 kts. 
+Tonight into Thursday, winds are expected to have shifted out of the 
+west at 5-10 kts.
+
+Outlook...
+
+Thursday-Sunday: No Operational Impact. NO SIG WX.
+
+&&
+
+.ALY WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+MA...None.
+VT...None.
+
+&&
+
+$$
+SYNOPSIS...IAA
+NEAR TERM...NAS
+SHORT TERM...IAA
+LONG TERM...Evbuoma
+AVIATION...Gant
+

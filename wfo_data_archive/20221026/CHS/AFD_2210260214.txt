@@ -1,0 +1,174 @@
+076 
+FXUS62 KCHS 260214
+AFDCHS
+
+Area Forecast Discussion
+National Weather Service Charleston SC
+1014 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+A weak cold front will move through the area Wednesday,
+followed by high pressure into late week. Low pressure should
+then arrive and produce a period of cooler, unsettled weather
+during the upcoming weekend. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Late this evening: Aloft, the upper ridge axis will shift 
+eastward and deamplify overnight as a potent upper low moves 
+into the Ohio Valley. At the surface, weak high pressure will 
+completely dissipate as an upstream cold front approaches from 
+the west. The front appears to be on track to reach the far 
+inland and western portion of the forecast area just after 
+sunrise Wednesday morning. Along the front, a rapidly weakening 
+band of showers will attempt to push into this portion of the 
+forecast area late tonight. Given that the main belt of moisture
+and forcing will lift off to the northeast of the region, we 
+are carrying nothing more than a 20 percent chances of showers 
+for these far western zones late tonight. Perhaps the more 
+significant forecast issue will be fog and stratus once again. 
+Model guidance suggests that the main area of concern is the 
+Charleston Tri-County region, where winds will go calm by the 
+late evening and the low-level wind field will begin to increase
+last. There will be a good amount of mid and high level 
+cloudiness passing through overnight, so we certainly aren't 
+dealing with ideal radiational cooling conditions. However, 
+residual low-level moisture is higher in this area thanks to the
+extensive fog from this morning that lingered until around 
+midday. The forecast features patchy to areas of fog beginning 
+around midnight. Locally dense fog is certainly possible. If fog
+and stratus develops it shouldn't linger as long as it did this
+morning thanks to increasing low-level winds ahead of the 
+arriving front. Temperatures won't be as cool, and lows should 
+mostly be in the upper 50s.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH FRIDAY/...
+Wednesday: A mid-level low will progress across the Ohio River 
+Valley through the daytime hours, pushing northeastward into New
+England by the end of the day. At the surface, high pressure 
+will advance into the Atlantic as a cold front approaches the 
+region from the west. Isolated to scattered showers are possible
+across the region in the morning hours, mainly across 
+southeastern GA where the better low level moisture profiles 
+are. High temperatures are forecast to reach to around 80 across
+the majority of the forecast area. After FROPA, cooler and 
+significantly drier air will overtake the region. Overnight lows
+are forecast to be in the upper 40s far inland and upper 50s 
+near the coastline. 
+
+Thursday and Friday: Aloft the region will remain under slight 
+ridging while high pressure builds at the surface. With building
+high pressure and persistent northeasterly flow, temperatures 
+will trend slightly cooler. Thursday's forecast features mid to 
+upper 70s, with Friday only reaching the low to mid 70s. 
+Overnight lows Thursday are forecast to be in the mid 50s inland
+with near 60 along the coast.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+The long range forecast is fairly uncertain, as there are many 
+factors that could potentially have an impact to the local 
+region. Models are depicting an omega block pattern to develop 
+this weekend aloft, with a low pressure system over ArkLaTex and
+a low somewhere out in the Atlantic Ocean. High pressure over 
+New England could produce a wedge on the eastern side of the 
+Appalachians, making for an uncertain forecast. Temperatures 
+have been trended downwards through the weekend due to the 
+possible wedge. The aforementioned low aloft over ArkLaTex and 
+its associated surface low are forecast to impact the region 
+early next week. Showers are possible starting late Saturday and
+into Sunday as a warm front lifts north through the area. In 
+general highs should be in the 70s, with overnight lows in the 
+50s to low 60s.
+
+&&
+
+.AVIATION /02Z WEDNESDAY THROUGH SUNDAY/...
+At KCHS and KJZI: The most immediate concern is for another
+round of fog and stratus developing around and just after
+midnight. Fog could then linger through sunrise before
+dissipating as low-level winds increase. The TAF's feature fog
+developing by around 06z, with a TEMPO group from 07-11z for IFR
+conditions. If fog develops, visibilities could certainly drop
+below a mile. The rest of the period should be VFR. 
+
+At KSAV: A weak band of showers could move through the vicinity
+of the terminal in the 12-16z time period. No significant,
+direct impacts are expected so the TAF doesn't explicitly mention
+any showers at this point. Otherwise, no significant concerns at
+this time. 
+
+Extended Aviation Outlook: Prevailing VFR through late week. 
+Flight restrictions are possible this weekend as low pressure 
+approaches the region.
+
+&&
+
+.MARINE...
+Tonight: Southeast winds will gradually veer to the southwest 
+overnight as a cold front approaches from the west. Speeds will 
+remain less than 10 kt through daybreak with seas 1-2 ft 
+nearshore waters and 2-3 ft over the Georgia offshore waters. 
+There is a chance that little fog could impact the Charleston 
+Harbor, but guidance is split in how low vsbys could go. With 
+low-level wind fields progged to increase after midnight as the 
+cold front draws closer, widespread fog is not expected at this 
+time. Trends will be monitored throughout the evening and 
+overnight. 
+
+Wednesday through Saturday: High pressure will shift offshore 
+Wednesday as a surface cold front approaches from the west. The 
+cold front is forecast to clear the marine zones Thursday, 
+leaving northeasterly winds, generally 10-15 knot with 20 knot 
+gusts, in its wake. Winds will remain elevated into the weekend 
+as high pressure builds in at the surface. Seas should average 2
+to 4 feet. A coastal trough could develop this weekend, further
+enhancing the pressure gradient and therefore increasing the 
+northeasterly flow more. The forecast does not feature Small 
+Craft Advisory conditions, however this will need to be 
+monitored with future forecast updates. 
+
+Rip Currents: A moderate risk for rip currents is in place for 
+area beaches Wednesday with onshore winds and a 1-2 ft swell 
+contribution in place. An elevated risk for rip currents could 
+persist into this weekend as astronomical factors and winds 
+become even more favorable for rip currents.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical influences from the new moon that occurs early 
+this morning and the upcoming lunar perigee (Oct 29) will drive 
+elevated tides this week. Minor coastal flooding will be 
+possible around the times of high tide this morning through 
+Thursday morning between Edisto beach and South Santee River, 
+including the Downtown Charleston area. Moderate coastal 
+flooding is then possible during morning high tides this weekend
+with persistent north-northeast winds in place. South of Edisto
+Beach through much of coastal Georgia, the probability for 
+minor coastal flooding has increased with the mid to late week 
+morning high tides. Highest chances will also be during the 
+upcoming weekend.
+
+&&
+
+.CHS WATCHES/WARNINGS/ADVISORIES...
+GA...None.
+SC...None.
+MARINE...None.
+
+&&
+
+$$
+
+NEAR TERM...BSH
+SHORT TERM...CPM
+LONG TERM...CPM
+AVIATION...BSH/CPM
+MARINE...CPM
+TIDES/COASTAL FLOODING...
+

@@ -1,0 +1,107 @@
+733 
+FXUS63 KIWX 262259
+AFDIWX
+
+Area Forecast Discussion
+National Weather Service Northern Indiana
+659 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Issued at 652 PM EDT Wed Oct 26 2022
+
+Notably colder tonight with lows near freezing and decreasing
+clouds. There will be a gradual warming trend through the
+remainder of the week with dry conditions until Sunday afternoon.
+
+&&
+
+.SHORT TERM...(This Evening through Thursday)
+Issued at 253 PM EDT Wed Oct 26 2022
+
+The shortwave associated with this morning's rain pushes away from 
+the area during the afternoon. Behind the shortwave, drier air moves 
+into the region in conjunction with the arrival of surface high 
+pressure and slight mid level ridging. Additionally, a 30 kt low 
+level jet associated with the pressure gradient and mixing up to 
+around 850 mb allows for gusty winds up to around 30 mph into the 
+afternoon before the gradient and mixing relaxes by late afternoon.
+
+While the low level temperatures stay above freezing, the lows 
+tonight will have the potential to dip down into the low 30s as 
+winds relax. Some lake enhanced cloudiness may linger a couple 
+counties away from Lake Michigan into tonight, which may provide a 
+little bit of a floor for low temperatures there.
+
+Cooler temperatures on easterly wind trajectories will be across the 
+area on Thursday as highs are only able to rise up into the low to 
+mid 50s, which is just below normal by around 5 years. Surface high 
+pressure will be overhead allowing for dry weather. Areas away from 
+Lake Michigan will likely see plenty of sunshine, especially to 
+start the day. Meanwhile, an upper low level pressure system dives 
+southeast into the Southern Plains, but the jet structure is such 
+that it will help push some moisture in the form of cloud cover into 
+areas southwest of US-30 by mid to late afternoon.
+
+&&
+
+.LONG TERM...(Thursday Night through Wednesday)
+Issued at 253 PM EDT Wed Oct 26 2022
+
+Friday starts our long term section with one upper jet to the
+north and another our south as surface high pressure slips out to
+our east. This set up allows for warming return flow on the 
+western side of the high pressure system and a return to normal or
+perhaps slightly above normal temperatures for Friday through 
+Sunday. Even as the surface high pressure system slips off to the 
+east, mid level ridging remains and this provides a dry period of 
+weather from this afternoon through much of Sunday. 
+
+By Sunday, the aforementioned upper level low pressure system 
+approaches the area. There still remains some uncertainty with how 
+quickly this system will be able to approach the area on Sunday as 
+is often the case with cut-off systems arriving from the 
+Southwestern US. Then, a second shortwave arrives from the Pacific 
+and this catches up with the slowly departing and lumbering low 
+pressure system later Sunday, which may extend the time period of 
+light rainfall into Monday. Temperatures during this time period 
+stay right around normal. 
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Thursday Evening)
+Issued at 652 PM EDT Wed Oct 26 2022
+
+Lake induced clouds will exit SBN shortly according to satellite,
+while clouds likely stick around at KFWA for a least the next 
+several hours. I have Medium-high confidence that ceilings will 
+remain VFR. Wind gusts will continue to diminish within the hour 
+as the pressure gradient relaxes and high pressure settles in. An
+easterly wind takes hold tomorrow with high pressure over Lake
+Michigan.
+
+
+&&
+
+.IWX WATCHES/WARNINGS/ADVISORIES...
+IN...NONE.
+MI...NONE.
+OH...NONE.
+LM...Small Craft Advisory until 11 PM EDT this evening for LMZ043-046.
+
+&&
+
+$$
+
+SYNOPSIS...Brown
+SHORT TERM...Roller
+LONG TERM...Roller
+AVIATION...Brown
+
+
+Visit us at www.weather.gov/iwx
+
+Follow us on Facebook...Twitter...and YouTube at:
+www.facebook.com/NWSNorthernIndiana
+www.twitter.com/nwsiwx
+www.youtube.com/NWSNorthernIndiana
+

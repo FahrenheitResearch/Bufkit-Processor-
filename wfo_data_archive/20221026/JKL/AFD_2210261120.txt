@@ -1,0 +1,114 @@
+588 
+FXUS63 KJKL 261120 AAA
+AFDJKL
+
+AREA FORECAST DISCUSSION...UPDATED
+National Weather Service Jackson KY
+720 AM EDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 710 AM EDT WED OCT 26 2022
+
+The current forecast is on track, but have tweaked it in the near
+term by adding the latest obs and trends into the T/Td/Sky grids,
+as well as adding some sprinkles for the sub 15 PoPs today. These
+updates have been sent to the NDFD and web servers. 
+
+&&
+
+.SHORT TERM...(Today through Thursday)
+Issued at 450 AM EDT WED OCT 26 2022
+
+08Z sfc analysis shows a moderately strong area of low pressure
+lifting into the the northern Ohio Valley - dragging a cold front
+into eastern Kentucky. Winds ahead of this boundary remain south
+to southeast at 5 to 10 mph while they switch to the southwest 
+and west at 10 to 20 mph on the cool side of the front.
+Temperatures are starting to vary more distinctly one either side
+of the fropa from near 60 ahead of it to the mid 50s to the west.
+Meanwhile, dewpoints are generally in the low to mid 50s across
+the boundary - though drier air is found to the west of the CWA. 
+Just a few showers remain along and ahead of the front under 
+mostly cloudy skies with ceilings falling to near 1000 feet AGL. 
+
+The models continue to be in very good agreement aloft through 
+the short term portion of the forecast. They all depict a sharp,
+but quickly weakening, shortwave trough lifting through the Ohio 
+Valley this morning. In the wake of this, heights will rebound 
+through Kentucky with southwest mid level flow and only weak 
+energy riding over the region aloft. Heights will further build 
+on Thursday well downstream of the next deep diving shortwave 
+cutting into the western Southern Plains. The small model spread 
+supported using the blended NBM as the starting point of the 
+forecast grids with little adjustments needed. 
+
+Sensible weather will feature a much cooler and more humid day
+under continued low clouds and persistent CAA on westerly winds of
+10 to 15 mph. The clouds sticking around for most of the area
+tonight will limit the potential for radiational cooling and ridge
+to valley differences - but did allow for some late in the western
+parts of the area by dawn. Those clouds will also likely keep
+valley fog at bay for most of the area as well, tonight. Thursday
+will see higher temperatures as warmer air moves in aloft and sfc
+winds switch more to the northeast. Clearing skies will also 
+allow for more sunshine - helping warm the area by afternoon. 
+
+Did not end up adjusting the NBM solution much for temperatures,
+dewpoints, or PoPs given the expected cloud cover and more moist
+air for much of the period. 
+
+.LONG TERM...(Thursday night through Tuesday)
+Issued at 332 AM EDT WED OCT 26 2022
+
+The extended period will start off dry, as a ridge of high
+pressure remains in place over the region. This ridge will begin
+to erode and move off to our east by Sunday, as an area of low
+pressure approaches from the southwest. The NBM continues to be
+too fast with the progression of this system, and therefore the
+timing of precipitation onset. That being said, again trended
+toward slow system progression and precip onset for eastern
+Kentucky. Will be first introducing rain showers to the area from
+the southwest Saturday evening. The rain should become widespread
+by Sunday morning, as low pressure moves northeast toward the
+area. The peak of precipitation coverage should occur roughly
+mid-morning Sunday through late Monday morning. The last showers
+should begin gradually exiting the area early Monday evening, and
+may lingering well into the day on Tuesday in our eastern
+counties. Another ridge of high pressure is expected to move back
+by mid-week, leading to perhaps another period of dry weather.
+
+Temperatures on average through the entire period will be slightly
+above normal across the area. The coolest nights will see low in
+the low to mid 40s, with the warmer nights only falling into the
+upper 40s and lower 50s. Daytime highs will be mostly in the mid
+to upper 60s, with a couple of days maybe maxing out in the upper
+60s to lower 70s.
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Thursday morning)
+ISSUED AT 720 AM EDT WED OCT 26 2022
+
+In the wake of a cold front look for decreasing ceilings, into 
+the MVFR range, to move in from west to east through 15Z. Some 
+isolated showers will still be possible this morning but likely 
+not affect any terminal. Low clouds in the MVFR and IFR levels 
+will then prevail through the end of the period with perhaps some 
+lifting to the ceilings starting later tonight from the west and
+spreading east. Winds will be southwest to west at around 10 kts 
+through the day with occasional gusts in the 15 to 20 kts range - 
+diminishing to around 5 kts after sunset later this evening.
+
+&&
+
+.JKL WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+UPDATE...GREIF
+SHORT TERM...GREIF
+LONG TERM...AR
+AVIATION...GREIF
+

@@ -1,0 +1,81 @@
+218 
+FXUS63 KABR 260814
+AFDABR
+
+Area Forecast Discussion
+National Weather Service Aberdeen SD
+314 AM CDT Wed Oct 26 2022
+
+.SHORT TERM...(Today through Thursday Afternoon)
+Issued at 314 AM CDT Wed Oct 26 2022
+
+Winds are light and variable across the area early this morning with 
+surface high pressure in place. Temps are falling into the low to 
+mid 20s in the coldest areas under mostly clear skies. Satellite 
+imagery is showing some patchy fog over portions of north central 
+SD. Various visibility guidance is showing this, and to some extent 
+there appears to be potential later this morning in the Big Sioux 
+valley. So, have added patchy fog to portions of the CWA for the 
+morning hours.
+
+For later today, expecting dry conditions as we await the approach 
+of shortwave energy. Southerly winds will develop today with mild 
+air aloft overspreading the area. Highs look to be a bit above 
+normal again and leveraged some NBM75 flavor for highs once again. 
+Mid and high level clouds will be increasing from the west/southwest 
+during the afternoon hours.
+
+Best precip chances appear to be during the overnight hours into 
+Thursday morning. Quite a bit of spread in the hi-res guidance in 
+regards to areal coverage of light rain tonight, and overall QPF is 
+rather light. Fairly healthy low-level jet around 40 knots develops 
+overnight, with the nose spreading from south central SD into east 
+central SD by 12Z Thurs. This may be the focus for slightly higher 
+rainfall chances, which is reflected in the forecast currently. 
+Signals point to best precip chances during the day Thursday 
+confined to the eastern CWA where the low-level jet resides at least 
+for the morning hours.
+
+
+.LONG TERM...(Thursday Evening through Tuesday)
+Issued at 314 AM CDT Wed Oct 26 2022
+
+The long term looks to be pretty quiet. Once the trough moves out 
+Thursday evening, a low amplitude ridge pattern develops and is the 
+dominant feature for the period. This will bring dry, slightly above 
+average air into the region. Deterministic models are showing high 
+temperatures on Saturday between 60 and almost 70 for areas of east 
+central SD. Some gusty winds are possible for east SD on Saturday 
+ahead of an approaching trough. Sunday high temps will be a little 
+lower as that area of weak low pressure works its way east. No 
+precipitation is expected with this. Temperatures will recover to 
+about the same as Saturday to start the work week. There is a slight 
+chance (15-20%) for some precip Wednesday as some shortwave energy 
+combines with 60% relative humidities in mid and low levels. These 
+chances are primarily for north central and north eastern SD.
+
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday Night)
+Issued at 1239 AM CDT Wed Oct 26 2022
+
+Terminals KABR,KATY,KPIR,KMBG
+
+Shallow ground fog will affect the KABR terminal early in the TAF
+period. Otherwise, VFR conditions are forecast across the region.
+
+
+&&
+
+.ABR WATCHES/WARNINGS/ADVISORIES...
+SD...None.
+MN...None.
+&&
+
+$$
+
+SHORT TERM...TMT
+LONG TERM...KK
+AVIATION...TMT
+

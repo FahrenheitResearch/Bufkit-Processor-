@@ -1,0 +1,123 @@
+622 
+FXUS63 KGLD 261706
+AFDGLD
+
+Area Forecast Discussion
+National Weather Service Goodland KS
+1106 AM MDT Wed Oct 26 2022
+
+.SHORT TERM...(Today through Saturday Morning) 
+Issued at 301 AM MDT Wed Oct 26 2022
+
+RAP 500mb heights shows mainly zonal flow across the plains with 
+some subtle shortwaves embedded within the flow. A weak cold 
+front is draped across northeast Colorado and into the Nebraska 
+panhandle with temperatures in the low to mid 20s behind it. 
+There is enough upper level moisture for clouds to develop along 
+and behind the front. The potential does exists for some sprinkles
+to develop but think the good majority of radar echos are virga 
+due to the dryness closer to the surface. Through the day today, 
+the weak frontal boundary will slowly move SE allowing the 
+potential for virga/sprinkles mainly north of I-70. High 
+temperatures for the day are forecasted to be in the upper 50s to
+mid 60s. The better signal for cooler temperatures have allowed 
+forecasted RH values to rise above 20%, which limits the 
+magnitude of the expected fire weather conditions. Now expecting 
+widespread elevated fire weather across the entire area as winds 
+are still expected to increase from the south with gusts of 35-40
+mph throughout the day. The peak for winds looks to be between 
+17-21Z. 
+
+Into tonight, the forecast becomes uncharacteristically uncertain
+for 24- 36 hours out. Guidance still continues to struggle with 
+how quickly a surface low across SE Colorado moves to the south. 
+The ECMWF and NAM continue to show the highest amount of moisture 
+return and slowly movement of the low which favors the potential 
+for light rain to develop. The GFS continues to show the surface 
+low moving rapidly to the south and limited moisture return which
+would significantly cut down any potential precipitation. The NBM
+continues to show 40- 50 pops especially across eastern portions 
+of the area, which favors the NAM and ECMWF solutions. The 
+consistent dryness of every run of the GFS does concern me, so 
+kept with the same thought as the previous few midnight shifts by 
+cutting pops 5-10% to account for the dry solution. Nevertheless 
+slight chance to chance precipitation does seem reasonable for 
+this event. If the precipitation does end up occurring it looks 
+like it will be generally light with one locale at max in CWA 
+seeing a tenth of inch of precipitation. A few snow showers may 
+also occurring across east Colorado overnight and into Thursday 
+with little to no accumulation, due to the above 50 degree soil 
+temperatures still present. If sufficient wet bulbing can occur I
+wouldn't be surprised if some rain/snow mix can sneak into 
+western Kansas around sunrise.
+
+Thursday, looks to be cloudy and chilly with the continued chance 
+for light rain. The potential for rain will end NW to SE throughout 
+the day Thursday. A period gusty to windy conditions looks to 
+develop along and west of Kansas Highway 27 Thursday morning with 
+forecast sounding showing 25-30 mph sustained winds and gusts up 
+to 45 mph which may drop wind chills into the teens for a few 
+hours. High temperatures for the day are currently forecasted in 
+the upper 40s to mid 50s across the area. 
+
+Split upper level flow then dominates the area Friday and into the 
+weekend resulting in sunny, dry conditions and slightly warmer 
+temperatures in the upper 50s to low 60s across the area. Light and 
+variable winds can also be expected Friday. 
+
+.LONG TERM...(Saturday through Tuesday)
+Issued at 341 AM MDT Wed Oct 26 2022
+
+The long term period maintains dry conditions along with warmer
+than average temperatures.
+
+A short wave trough aloft moves from the central Rockies across
+the central High Plains on Saturday with an associated weak
+surface trough moving across the central High Plains late 
+Saturday into early Sunday. Light south winds turn northerly 
+across the forecast area with the passage of the surface trough. A
+weak short wave ridge moves across the region on Monday with 
+westerly flow aloft turning more southwesterly as a trough begins 
+to deepen over the western U.S. Surface winds turn back to the 
+southwest southwest as a larger lee surface trough deepens and 
+extends south along the front range from eastern Montana through 
+Wyoming, Colorado and into New Mexico on Monday in response to the
+westerly flow aloft over the Rockies. The surface trough 
+continues to deepen into a closed surface low over the western 
+Dakotas by late Tuesday that lifts out across the northern plains 
+Tuesday night.
+
+High temperatures across the forecast area will be in the 60s on
+Saturday and Sunday with Lows in the upper 20s to upper 30s.
+Temperatures warm slightly with highs in the 60s to lower 70s
+Monday through Wednesday and lows in the lower 30s to the lower
+40s.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1103 AM MDT Wed Oct 26 2022
+
+At KGLD...ASOS continues to be down, and with no data TAF for KGLD
+will be NIL. 
+
+At KMCK...mid and high clouds continue to stream across the area
+from the west. Radar returns are virga as no precipitation has
+been reaching the ground. May eventually see some light showers
+tonight or Thursday morning, but will be very scattered in nature.
+Otherwise, expecting VFR to continue. 
+
+&&
+
+.GLD WATCHES/WARNINGS/ADVISORIES...
+KS...NONE.
+CO...NONE.
+NE...NONE.
+&&
+
+$$
+
+SHORT TERM...Trigg
+LONG TERM...LOCKHART
+AVIATION...024
+

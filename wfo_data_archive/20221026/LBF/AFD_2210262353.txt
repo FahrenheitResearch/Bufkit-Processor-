@@ -1,0 +1,94 @@
+513 
+FXUS63 KLBF 262353
+AFDLBF
+
+Area Forecast Discussion
+National Weather Service North Platte NE
+653 PM CDT Wed Oct 26 2022
+
+...00Z AVIATION UPDATE...
+
+.SHORT TERM...(This evening through Thursday night)
+Issued at 253 PM CDT Wed Oct 26 2022
+
+Main concerns in the short term:
+ 
+-Precipitation chances for tonight and Thursday
+
+Did lower pops across western Nebraska for the remainder of this 
+afternoon. Although radar has been showing returns for many 
+locations across western Nebraska and the Sandhills, dry air in the 
+boundary layer has been inhibiting perception from reaching the 
+ground all day. Mostly virga is expected for this afternoon, maybe
+a few sprinkles, but nothing significant. Looking at 
+probabilistic models for this evening into tomorrow, precipitation
+probabilities increase, leading to higher confidence in 
+measurable rainfall tonight into Thursday. That being said, do not
+expect a widespread rainfall as the precipitation mode is mostly 
+a showery type of rain falling. The other caveat, for areas that 
+do receive rainfall, exactly how much rain will make it to the 
+ground as cigs are still expected to be fairly high, with rain 
+falling into a dry lower layer. The hope is that there will be 
+some saturation by overnight and rain potential will be better. 
+
+Overnight through Thursday mid-day rain chances look better for 
+areas generally east of a line from Sparks to Elsmere to Arnold. QPF 
+values from 0.10 to 0.25 of in inch will be possible, with the 
+highest QPF values falling generally across eastern Boyd, Holt and 
+Wheeler counties. Precipitation begins to diminish by afternoon so 
+did lower pop chances after 18z. As for precipitation type in the 
+overnight hours, there is low probabilities for precipitation to 
+fall as snow, and temperatures will remain mostly above freezing 
+where precipitation is falling, thus leading to high confidence 
+all precipitation will fall as rain. 
+
+.LONG TERM...(Friday through Wednesday)
+Issued at 253 PM CDT Wed Oct 26 2022
+
+Weather Highlights:
+
+1) Mostly seasonable temperatures expected through the 
+weekend
+
+2) Mainly dry through the long term forecast
+
+3) Warmest days - Monday and Tuesday
+
+An upper level closed low will move across the Rockies into the 
+south central US keeping the High Plains in a quasi-zonal flow 
+keeping mild temperatures Friday through Sunday with highs in the 
+upper 50s to low 60s. A shortwave moves through Sunday night, 
+however no precipitation is expected with the passage. Weak ridging 
+on Monday and Tuesday will give temperatures a slight boost with 
+highs into the upper 60s, maybe a few 70s, across southwest 
+Nebraska.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Thursday evening)
+Issued at 649 PM CDT Wed Oct 26 2022
+
+Aviation concerns focus on continued cloudiness and precipitation
+chances over the next twelve hours. Starting to see the break
+between rounds of -RA encompass much of western Nebraska. This
+should fill in by late evening as another disturbance leads to
+expanding coverage in time. Even so, low-level dry air may never
+completely erode and thus limits confidence in how much rain
+actually impacts terminals. Will cover the higher confidence
+periods with vicinity mention and tempo group for now. Lower CIGs
+will redevelop Thursday morning, with the bulk of the daytime
+expected to see ceilings below 10kft AGL before improving by late
+in the period.
+
+&&
+
+.LBF WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+SHORT TERM...Gomez
+LONG TERM...Gomez
+AVIATION...NMJ
+

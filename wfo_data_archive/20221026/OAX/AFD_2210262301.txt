@@ -1,0 +1,81 @@
+416 
+FXUS63 KOAX 262301
+AFDOAX
+
+Area Forecast Discussion
+National Weather Service Omaha/Valley NE
+601 PM CDT Wed Oct 26 2022
+
+...Updated Aviation Forecast Discussion...
+
+.DISCUSSION...
+Issued at 334 PM CDT Wed Oct 26 2022
+
+.Today and Tomorrow:
+
+Water vapor imagery this afternoon continues to feature the 
+departing shortwave over the eastern CONUS while a deepening wave 
+continues to move southeast across the Rockies. Drilling down to the 
+local area, scattered to broken mid and high clouds waft over the 
+area with a band of light rain beginning to move into southeast 
+Nebraska associated with increased warm air advection and a weak 
+shortwave. This activity is expected to continue slowly moving to 
+the northeast along with increasing light rain coverage moving in 
+from central Nebraska. While the radar echoes look like they cover a 
+decent area, much of the precipitation is evaporating below the 
+cloud bases ranging from 7,000 to 10,000 ft. By sunrise tomorrow 
+morning, WAA advection and overall lift is expected to be greater 
+and will result in rain chances for much of central Nebraska 
+eastward to a line from Beatrice to Onawa. Most areas are expected
+to receive less than 0.1" of rain but a few spots closer to KOFK 
+could see as high as 0.3" by the time everything winds down 
+tomorrow evening.
+
+.Friday through Monday:
+
+Friday through Monday will feature a rock-steady period of very 
+pleasant 60-degree days with dry weather expected. Halloween goers 
+will be able to rest easy knowing that a generally benign, zonal 
+flow will in the mid-upper levels while a cutoff that will have 
+swung south and east of the area (missing us completely) begins 
+dissipating Monday evening. 
+
+.Tuesday and Wednesday:
+
+By Tuesday, model guidance begins diverging as the zonal patter from 
+the weekend begins breaking down due the the amplification of a 
+shortwave trough beings over the Pacific Northwest. The main feature 
+that differs between the deterministic field is the handling of a
+shortwave south of the main jet streak Tuesday and how deep the 
+shortwave trough ends up being by Wednesday. This period deserves 
+some attention, as a deterministic GFS-based forecast (not a great
+bet to make) would result in a rather deep system moving into the
+forecast area Thu/Fri that could make some impacts locally. Due 
+to the uncertainty, we're holding off on getting too excited until
+models begin to agree.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Thursday evening)
+Issued at 554 PM CDT Wed Oct 26 2022
+
+VFR conditions will prevail through tonight. By early Thursday
+morning. a warm front lifting through eastern NE will be the
+focus for possible -SHRA activity. As of now, it appears that axis
+for most favorable development will cross though northeast NE,
+thus affecting KOFK for potential MVFR/-SHRA during the day.
+Cannot rule out and activity at KOMA or KLNK so am inclined to at
+least include PROB30 group for both. 
+
+&&
+
+.OAX WATCHES/WARNINGS/ADVISORIES...
+NE...None.
+IA...None.
+&&
+
+$$
+
+DISCUSSION...Petersen
+AVIATION...DEE
+

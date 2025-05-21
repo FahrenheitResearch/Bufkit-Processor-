@@ -1,0 +1,122 @@
+812 
+FXUS62 KFFC 261918
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+318 PM EDT Wed Oct 26 2022
+
+
+...New 18Z Aviation Discussion...
+
+.SHORT TERM...
+(Today through Thursday)
+Issued at 424 AM EDT Wed Oct 26 2022
+
+As the morning begins, a low pressure system is positioned over the 
+Midwest and moving northeastward towards the eastern Great Lakes. A 
+cold front extending southward from the surface low is currently 
+stretching from roughly Athens to Macon, and moving eastward. 
+Scattered to numerous showers are ongoing ahead of the front. 
+Instability in the region ahead of the front has been nearly 
+nonexistent through the morning, and no thunder is being observed as 
+a result. With 0-1 km shear values of 25-30 kts in east Georgia, 
+some broad rotation in showers will be possible, and any storms that 
+are able to develop will need to be monitored. Precipitation chances 
+will continue to diminish from west to east as the cold front 
+continues to progress through the forecast area, coming to an end by 
+mid-morning today.
+
+As the low pressure system continues to retreat to the northeast, 
+strong surface high pressure will set up over much of the eastern 
+CONUS, which will serve to inhibit PoPs and keep weather benign 
+throughout the remainder of the short term period. Cooler and drier 
+northwesterly flow has begun to set up behind the front in portions 
+of north and west Georgia, and will continue to spread across the 
+area throughout the day today. High temperatures this afternoon will 
+range from the low 60s across far north Georgia to the upper 70s in 
+east-central Georgia. Low temperatures on Thursday will be back to 
+normal values, in the mid 40s across the majority of north and 
+central Georgia. On Thursday, the upper level flow will become 
+southwesterly as an upper trough digs into the Southwest, which will 
+promote a gradual moisture return. Meanwhile, the aforementioned 
+surface high will move eastward, with the center moving into eastern 
+Canada on Thursday afternoon, which will begin setting up a cold air 
+damming event on the eastern side of the Appalachians as we 
+transition to the extended period.
+
+King
+
+&&
+
+.LONG TERM...
+(Thursday night through Tuesday)
+Issued at 424 AM EDT Wed Oct 26 2022
+
+As the closed off low sets up and moves eastward from the four 
+corners region, a strong 1030+ high sets up over the NE into the 
+weekend, giving us a CAD event into the weekend. AS mentioned in the 
+previous discussion, cloud cover is expected to cover the area for 
+much of the weekend causing temps to stay in the upper 60s to lower 
+70s for the highs.
+
+Models have been a bit all over the place with the next system 
+coming through, but at this time they seem to be a bit more in 
+agreement.  The closed off low is expected to lift northeastward 
+into the mid MS valley, dragging along a front through the SE and 
+into Georgia Sunday evening. As such, PoPs are elevated through 
+much of the weekend, tapering off into monday evening. Max temps 
+on Sunday have been lowered a bit into the upper 50s to low 70s 
+from north to south Georgia. Instability is a bit all over the 
+place at this time, so have chosen to cross that bridge when we 
+get a little closer to the FROPA. Tuesday into Wednesday will see 
+another dry airmass with temps only slightly warming a couple of 
+degrees.
+
+Hernandez
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 148 PM EDT Wed Oct 26 2022
+
+Lingering SCT/BKN020 around ATL sites will persist and slowly 
+break up and retreat northwestward through the rest of the 
+afternoon, otherwise SKC expected across the forecast area through
+tomorrow morning. NNW Winds at 10G20kts will persist until 23Z 
+and lightening to 5-9kts overnight, shifting to ENE between 
+07-11Z. Chance for FEW/SCT020 at MCN/CSG/AHN sites tomorrow 
+morning, otherwise SKC expected. 
+
+//ATL Confidence...Avi Update...
+High confidence on all elements.
+
+Thiem
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Athens          46  73  53  68 /   0   0  10  10 
+Atlanta         46  72  53  69 /   0   0   0  10 
+Blairsville     38  68  47  66 /   0   0   0   0 
+Cartersville    43  72  52  70 /   0   0   0  10 
+Columbus        46  76  53  74 /   0   0   0  10 
+Gainesville     45  71  53  67 /   0   0   0  10 
+Macon           45  76  52  74 /   0   0  10  10 
+Rome            44  72  50  74 /   0   0   0   0 
+Peachtree City  44  72  52  70 /   0   0   0  10 
+Vidalia         50  77  57  74 /   0   0  10  10 
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...King
+LONG TERM....Hernandez
+AVIATION...Thiem
+

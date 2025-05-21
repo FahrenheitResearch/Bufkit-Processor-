@@ -1,0 +1,24 @@
+618 
+NWUS54 KHUN 260140
+LSRHUN
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE HUNTSVILLE AL
+840 PM CDT TUE OCT 25 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0531 PM     NON-TSTM WND DMG 4 NNW HENAGAR           34.68N 85.76W
+10/25/2022                   JACKSON            AL   PUBLIC           
+
+            LARGE TREE DOWN ALONG CR 260. 
+
+
+&&
+
+$$
+
+AMP
+

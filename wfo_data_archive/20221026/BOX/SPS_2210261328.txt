@@ -1,0 +1,50 @@
+871 
+WWUS81 KBOX 261328
+SPSBOX
+
+Special Weather Statement
+National Weather Service Boston/Norton MA
+928 AM EDT Wed Oct 26 2022
+ 
+MAZ022-261430-
+Barnstable MA-
+928 AM EDT Wed Oct 26 2022
+
+...Heavy rainfall will impact portions of Barnstable County through 
+1030 AM EDT...
+
+At 927 AM EDT, Doppler radar was tracking showers with heavy rain 
+moving across Cape Cod.
+
+HAZARD...Minor flooding.
+
+SOURCE...Radar indicated.
+
+IMPACT...Minor nuisance flooding of typically flood prone areas.
+
+Locations impacted include...
+Barnstable, Falmouth, Brewster, Provincetown, Yarmouth, Sandwich,
+Bourne, Dennis, Mashpee, Harwich, Chatham, Orleans, Eastham,
+Wellfleet, Truro and Hyannis.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Do not drive through flooded roads or underpasses. Avoid low lying
+areas near small streams.
+
+&&
+
+LAT...LON 4155 6999 4154 7000 4167 7002 4154 7066
+      4155 7066 4180 7053 4172 7030 4172 7035
+      4171 7033 4179 7003 4191 7000 4190 7007
+      4203 7009 4207 7022 4207 7024 4208 7023
+      4208 7022 4205 7006 4181 6994
+TIME...MOT...LOC 1327Z 114DEG 26KT 4177 7037 
+
+MAX HAIL SIZE...0.00 IN
+MAX WIND GUST...<30 MPH
+
+$$
+
+KC
+

@@ -1,0 +1,150 @@
+344 
+FXUS66 KPQR 260424 AAB
+AFDPQR
+
+Area Forecast Discussion...UPDATED
+National Weather Service Portland OR 
+923 PM PDT Tue Oct 25 2022
+
+Updated aviation section for 06Z TAFs
+
+.SYNOPSIS...A weather system will push through tonight to bring
+accumulating snow over 4000 feet and rain elsewhere. Showers will 
+return each day Thursday before another stronger system arrives to
+bring a wet weekend. 
+
+&&
+
+.SHORT TERM...Tonight through Friday...As a vigorous upper trough
+dives south near Vancouver Island this afternoon, satellite and radar
+show the frontal band pushing into our northern waters this
+afternoon. Stratiform precipitation is filling in ahead of this
+front, spreading east and south, with snow levels currently around
+4500-5000 feet MSL. While we've already had some lightning along and
+ahead of the front, good cloud top cooling evident on satellite shows
+the continued potential for lightning especially over the waters this
+evening. This cloud top cooling is also reflecting the good dynamics
+of this system, which is expected to bring most of the rain/snow
+expected over the area more in a relatively short amount of time.
+This will include the snowfall expected over the high mountains
+tonight, which are under a Winter Weather Advisory.  Southwesterly
+winds ahead of the front, gusting to 35 mph at Buoy 29, will spread
+inland late this afternoon into the evening. This will align well
+into the Willamette Valley to bring similar gusts along with
+increasing rain for around rush hour time as well.  While HREF shows
+the thunder chances decreasing into the evening, especially into
+inland areas, enough mixed layer CAPE and shear will exist to keep
+the chance to slight chance of thunder into the evening and early
+morning. Snow accumulations around 6 to 10 inches of snow are
+expected around pass level tonight, along with gusty winds along the
+front to potentially impact visibilities. 
+
+Weather will turn to showers behind the frontal passage and continue
+into Wednesday. With northwesterly flow, look for temperatures to be
+cooler than average. An upper ridge will then push up over the area
+Wednesday night into Thursday. Skies clearing Wednesday night will
+lead to colder readings as well. Flow aloft will turn southwesterly
+to bring warmer temperatures for Thursday, before a decaying weather
+system drops down into WA and potentially into OR and stalls into
+Friday. Will have to watch the evolution of this system and how much
+precipitation would be involved if it did just sit over one area as
+both the GFS and EC deterministic models show. NBM currently has
+0.5-1.25 inches across southwestern WA and northwestern OR for the 48
+hour period.  
+
+.LONG TERM...Friday night through Saturday...WPC Cluster analysis
+show a larger upper trough started to drop down the Canadian coast
+during the weekend while still having a good connection to an
+atmospheric river of moisture.	This looks to end up potentially
+bringing a more significant and wetter system for Sunday along with
+some stronger winds. The wet pattern looks to continue into early
+next week for a normal active fall pattern to last. /Kriederman
+
+&&
+
+.AVIATION...06Z TAF preliminary thoughts: An upper trough 
+continues to dig south over the PacNW as of 04Z. The associated
+cold front is now fully east of I-5 across NW Oregon and is nearly
+fully east of the Cascade Crest from KEUG northward. Moderate
+showers continue in the wake of the front and expect these will
+continue until the upper trough axis crosses region as well.
+Expect this will occur in the 06-09Z timeframe. Raw model and
+associated text guidance shows a strong likelihood of MVFR conds 
+or better remaining through the remainder of the night. Might get 
+some brief MVFR 015-025 cigs from the remaining passing showers, 
+however. Showers will taper off for several hours beginning 
+shortly after daybreak at 1440Z under brief passing high pressure.
+A warm front then impinges upon the PacNW and brings light rain 
+and/or light showers to the coast near 22Z, and then further 
+inland closer to 27/00Z. However, indications are conditions will 
+remain VFR through 27/06Z.
+
+KPDX AND APPROACHES...Now that the front has passed, may see some
+brief MVFR cigs at 025-030 under passing showers through 07Z, then
+continued visual approach restrictions with cigs at FL040 and 
+lower through 16Z. Otherwise, no concerns through 27/06Z. /JBonk
+
+
+&&
+
+.MARINE...Winds are hovering around 33 kt at the buoys as of 3 PM
+Tuesday. Will not upgrade to a Gale Warning as conditions will be
+intermittent and not widespread. However, gusty winds with 
+isolated thunderstorms are likely across the waters through this 
+evening. Buoy 46005 which is currently in the path of the 
+strongest winds is observing wave heights of 17 ft at 11 seconds. 
+GFS Wave is resolving these conditions well which increases 
+confidence for seas to build into the 13-15 ft range with a 
+dominant period of 11 seconds during the overnight hours producing
+steep and hazardous conditions. Have issued a Hazardous Seas 
+Warning during this time. 
+
+Winds and seas will gradually ease Wednesday morning as transient
+high pressure moves over the area. This will bring quieter weather
+Wednesday into Thursday. Will see more fronts arriving to close 
+the week. Likely to have gale force winds at times on Friday. 
+Seas will also be on the rise, with seas 15 to 18 ft late Thursday 
+night and Friday. Active weather continues through the coming 
+weekend. 
+
+The new moon on Tuesday will continue to produce strong tidal 
+currents during the evening ebb cycle. Those moving in and out of 
+harbors and crossing coastal bars should use caution and be aware 
+of any bar restrictions in place. -BMuhlestein
+
+&&
+
+.PQR WATCHES/WARNINGS/ADVISORIES...
+
+OR...Winter Weather Advisory until 6 AM PDT Wednesday for Cascades in 
+     Lane County-Northern Oregon Cascades.
+
+WA...Winter Weather Advisory until 5 AM PDT Wednesday for South 
+     Washington Cascades.
+
+PZ...Small Craft Advisory until 6 PM PDT Wednesday for coastal waters 
+     from Cape Shoalwater WA to Florence OR out 10 nm.Columbia 
+     River Bar.
+
+     Small Craft Advisory until 8 PM PDT this evening for coastal 
+     waters from Cape Shoalwater WA to Florence OR from 10 to 60 
+     nm.
+
+     Small Craft Advisory from 8 AM to 6 PM PDT Wednesday for coastal 
+     waters from Cape Shoalwater WA to Florence OR from 10 to 60 
+     nm.
+
+     Hazardous Seas Warning from 8 PM this evening to 8 AM PDT 
+     Wednesday for coastal waters from Cape Shoalwater WA to 
+     Florence OR from 10 to 60 nm.
+&&
+
+
+$$
+
+www.weather.gov/portland
+
+Interact with us via social media:
+www.facebook.com/NWSPortland
+www.twitter.com/NWSPortland
+

@@ -1,0 +1,123 @@
+655 
+FXUS63 KDVN 260757
+AFDDVN
+
+Area Forecast Discussion
+National Weather Service Quad Cities IA IL
+257 AM CDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Issued at 255 AM CDT Wed Oct 26 2022
+
+Water vapor imagery shows an upper level low lifting toward central
+Indiana early this morning. Incoming weak mid level ridging and 
+associated negative vorticity advection has brought a cessation to
+the rain, and is being followed by clearing skies. Further west, 
+water vapor imagery shows embedded disturbances being shuttled 
+across the central Rockies ahead of a digging Pacific shortwave. 
+
+&&
+
+.SHORT TERM...(Today and tonight)
+Issued at 255 AM CDT Wed Oct 26 2022
+
+Key message: 
+
+Drier, brighter, and not as snappier. 
+
+Discussion:
+
+Surface high pressure will be the dominant weather feature, as
+it traverses the region later today and tonight. We'll continue 
+to see clearing skies east early on, followed by abundant 
+sunshine. Later this afternoon and especially tonight, mid level
+shortwave energy will move across portions of the Northern and 
+Central Plains. Attendant warm advection will glance the area and 
+anticipate mainly some uptick in mid/high clouds. Any precip 
+should get no closer to us than western Iowa, and will largely 
+focus even further north/west across the High Plains in the more 
+robust low level warm, moist advection and ascent from the mid 
+level waves.
+
+As for highs today, with the damp - moist ground to start in many
+areas for a change and a northwest wind I've sided with highs in 
+the 25th-50th percentile range of NBM, or generally widespread mid
+50s and a general range from 53 to 58. If we mix a bit deeper as
+GFS soundings would support (near 850 mb), then there's potential
+to see more upper 50s to around 60. 
+
+Tonight, lows will be challenging with generally light winds 
+(variable becoming easterly overnight) favorable for plunging
+temps, but this will likely be offset a bit by some increase in 
+clouds. Because of this I opted to stay close to 50th percentile 
+of NBM, with lows mainly in the lower to mid 30s. Some areas west
+and south where clouds arrive sooner could see upper 30s. Fog was
+also considered, but enough uncertainty with the clouds to preclude 
+mention. Fog signal in various guidance is underwhelming... but  
+earlier runs of HRRR was supporting some fog into west central/
+central Illinois, which would seem to be the most favorable area or
+juxtaposition of the ridge axis and thinner clouds. Something to 
+monitor for any changes. 
+
+.LONG TERM...(Thursday through Tuesday)
+Issued at 255 AM CDT Wed Oct 26 2022
+
+
+Key Messages:  
+
+1. Essentially dry, near to above normal temperatures, winds mainly 
+under 10-15 MPH
+
+2. A "Treat" of a forecast for Halloween 
+
+Thursday through Saturday night, high pressure will dominate the 
+weather for the area as a low pressure system drops southeast out of 
+the Rockies to the Gulf and then begins to lift northeast. It will 
+be dry through the period with temperatures near normal in the mid 
+50s to near 60 on Thursday rising into the upper 50s to mid 60s 
+Saturday. There will be a southeast breeze at 10 to 20 MPH Thursday, 
+with light or calm winds Thursday evening into Monday. 
+
+Sunday and Sunday night, the low in the lower MS Valley will be 
+lifting northeast into the OH River Valley.  Models have it taking 
+different tracks, lending to low confidence.  The current blended 
+forecast brings it close enough for some slight or low chance POPs 
+along and east of the MS River for mainly Sunday afternoon and 
+evening. Will watch later model runs to see if it tracks more to the 
+southeast and we stay dry. Highs are slightly cooler with upper 50s 
+and low 60s forecast. 
+
+Monday into Tuesday, flow will become more from the southwest as the 
+low exits east and a trough digs out west. It will be dry with 
+slightly above normal temperatures in the upper 50s to low 60s on 
+Monday, with temperatures well into the 60s Tuesday along with 
+breezier southwest winds. The current forecast for Trick or treating 
+Monday evening is for temperatures in the lower and middle 50s 
+slipping into the mid 40s to near 50 by mid evening, winds calm or 
+light out of the south, and skies mostly clear.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1225 AM CDT Wed Oct 26 2022
+
+VFR conditions are expected through the period. NW winds will be
+sustained at around 10 kts and occasionally gust higher (15-20 kts)
+into mid afternoon, then diminish to light and variable by tonight
+as high pressure builds in. 
+
+&&
+
+.DVN WATCHES/WARNINGS/ADVISORIES...
+IA...NONE.
+IL...NONE.
+MO...NONE.
+&&
+
+$$
+
+SYNOPSIS...McClure
+SHORT TERM...McClure
+LONG TERM...14
+AVIATION...McClure
+

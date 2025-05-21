@@ -1,0 +1,145 @@
+115 
+FXUS64 KLIX 260425
+AFDLIX
+
+Area Forecast Discussion
+National Weather Service New Orleans LA
+1125 PM CDT Tue Oct 25 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(This evening through Thursday night) 
+Issued at 354 PM CDT Tue Oct 25 2022 
+Closed upper level low is currently centered over AR/IL/TN and 
+the cold front associated with this low and our thin line 
+of...showers has moved out of our forecast area into Alabama. 
+Winds have shifted to westerly, and some gusts were a bit on the 
+strong side. New Orleans Intl had as much as 30 mph. While it will
+remain a bit gusty today and tomorrow, not expecting needing a 
+wind advisory since sustained winds should only be around 10 to 15
+mph. By tomorrow, winds should be out of the north to northwest.
+
+Otherwise, the forecast will be rather quiet with dry conditions
+and clouds clearing out of the area this afternoon and evening. 
+Low temperatures tonight will be in the mid 40s and there will be 
+a slight warming trend through Friday. -BL
+
+&&
+
+.LONG TERM...
+(Friday through Monday night) 
+Issued at 354 PM CDT Tue Oct 25 2022
+
+Model solutions have begun to come into better agreement today 
+concerning the evolution of a strong shortwave trough axis and 
+attendant surface low and front on Friday and Saturday.  All of the 
+guidance is now in good agreement that a jet streak passing through 
+Texas will allow the trough axis to take on a more negative tilt as 
+it pushes into the Arklatex region Friday night into Saturday. At 
+the base of this trough in a region of enhanced upper level forcing 
+near the entrance region of the jet streak, a rapidly deepening 
+surface low and strong front will form over eastern Texas by Friday 
+afternoon and then quickly pull to the east and northeast Friday 
+night into Saturday. A surge of deep layer moisture will advect in 
+from the Gulf of Mexico on Friday as strong onshore flow forms in 
+advance of the deepening trough axis and surface low.  Precipitable 
+water values will increase from near 0.75 inches Friday morning to 
+1.5 inches by Friday afternoon, and shower activity should begin to 
+form due to the strong kinematic forcing in place by Friday 
+afternoon over the western half of the CWA.  However, thermodynamic 
+profiles will remain very limited due to continued weak mid-level 
+lapse rates of around 5.5C/km, and thunderstorm activity is not 
+expected throughout the day on Friday even as temperatures warm into 
+the 70s.  
+
+The low will surge to the northeast across the I-20 corridor and 
+into the Tennessee Valley Friday night into Saturday morning.  As 
+this occurs, a cold front will sweep eastward across the forecast 
+area. Given the increased forecast confidence in the passage of this 
+front Friday night into Saturday morning, have increased PoP values 
+to between 50 and 70 percent for this time period.  Precipitable 
+water value will peak in advance of the front with values rising to 
+around 1.75 inches.  Sounding analysis shows that the lapse rates 
+will be largely moist adiabatic and remain below 6.0C/km. This will 
+greatly limit the amount of instability in place with CAPE expected 
+to remain below 500J/KG.  As a result, only limited potential for 
+thunderstorm development exists with the passage of the front late 
+Friday night into Saturday morning.  Despite impressive shear 
+values, the lack of deep convection will keep the risk of severe 
+thunderstorm development suppressed over this time period.  
+
+By Saturday afternoon and evening, a strong dry slot will feed into 
+the area on the backside of the front and the southwest periphery of 
+the upper level low.  Precipitable water values should plunge below 
+an inch by the afternoon and any lingering PoP should clear the far 
+eastern portions of the CWA by Saturday afternoon.  Strong negative 
+vorticity advection and deep layer northwest flow will then dominate 
+the forecast area on Sunday and Monday as a longwave trough axis 
+lingers over the eastern half of the CONUS.  This pattern will bring 
+clear skies, low humidities, and seasonably mild temperatures to the 
+forecast area both Sunday and Monday.  
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1117 PM CDT Tue Oct 25 2022
+
+VFR conditions will prevail through the period as high pressure
+builds into the area. Cold air advection will keep northwesterly
+winds elevated through the remainder of the night at the 
+terminals along the south shore of Lake Pontchartrain, but 
+otherwise, generally expect light winds elsewhere. After sunrise,
+expect winds in the 7 to 12 kt range for most of the terminals,
+relaxing quickly around sunset.
+
+&&
+
+.MARINE...
+Issued at 354 PM CDT Tue Oct 25 2022
+A colder and drier airmass advecting over the coastal waters 
+tonight will keep winds elevated near 20 knots, and the small 
+craft advisory will remain in place through early tomorrow 
+morning. The wind field is expected to quickly diminish during the
+day tomorrow as surface ridging builds in from the west, and 
+these more benign conditions will linger into Friday morning as 
+the high passes through the Gulf South. However, a deepening 
+surface low in Texas Friday afternoon will increase the pressure 
+gradient over the coastal waters and push easterly winds into the 
+15 to 20 knot range. These stronger winds and resultant rougher 
+seas will persist through Saturday night as the low pressure 
+passes north of the coastal waters. High pressure will gradually 
+settle in on Sunday and winds should slowly relax back to near 10 
+knots by Sunday night. Seas will also slowly fall from 4 to 6 feet
+to 2 to 4 feet over this time period.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+MCB  44  71  45  75 /   0   0   0   0 
+BTR  47  75  47  78 /   0   0   0   0 
+ASD  46  76  46  77 /   0   0   0   0 
+MSY  55  73  56  76 /   0   0   0   0 
+GPT  50  75  50  76 /   0   0   0   0 
+PQL  48  73  47  75 /   0   0   0   0 
+
+&&
+
+.LIX WATCHES/WARNINGS/ADVISORIES...
+LA...None.
+GM...Small Craft Advisory until 7 AM CDT Wednesday for GMZ536-538-550-
+     552-555-557-570-572-575-577.
+
+MS...None.
+GM...Small Craft Advisory until 7 AM CDT Wednesday for GMZ538-550-552-
+     555-557-570-572-575-577.
+
+&&
+
+$$
+
+SHORT TERM...BL
+LONG TERM....PG
+AVIATION...DM
+

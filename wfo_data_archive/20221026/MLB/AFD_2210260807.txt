@@ -1,0 +1,148 @@
+016 
+FXUS62 KMLB 260807
+AFDMLB
+
+Area Forecast Discussion
+National Weather Service Melbourne FL
+407 AM EDT Wed Oct 26 2022
+
+...New MARINE, AVIATION, HYDROLOGY...
+
+.DISCUSSION...
+Today through Tonight...A weak frontal boundary located across SW GA 
+and the FL Panhandle will approach the forecast area bringing 
+increased cloudiness and a slight chance of showers later in the day 
+and into the early evening. Dry air aloft combined with unimpressive 
+lapse rates will limit CAPE values to less than 1000 J/kg and 
+therefore, the chance for thunderstorms, although a stray lightning 
+strike cannot be ruled out. PWAT values look to increase north of 
+the Cape, with values up to 1.5" possible based on model guidance. 
+Despite the return of moisture with this weak frontal boundary, PoPs 
+will be no greater than 20% north of Osceola and central Brevard. 
+Showers will move east through the late afternoon before moving 
+offshore overnight, with the frontal boundary expected to stall 
+across central FL tonight. Temperatures will be above normal today, 
+though record highs will be out of reach, with highs in the mid to 
+upper 80s across all of east central Florida, including the coast, 
+due to a delayed sea breeze. Overnight lows in the mid to upper
+60s.
+
+Late Week...The weakening frontal boundary will slow across
+central/south FL with some decay during Thu. Residual sfc 
+troughing across central Fl to the Atlc coastal waters and NE FL 
+will provide a focus point for some isold showers to develop Thu 
+into Thu night. High pressure building across the Mid Atlc coast 
+will bring a coastal surge to the NE FL waters the latter half of 
+Fri. The most notable gradient conds for thunder look to persist 
+north of the immediate area, however some coastal showers and a 
+few marine storms are advertised to re-develop over the Atlc 
+waters and be pushed to the coast mainly from Brevard Co northward
+into Saturday. Best forcing for measurable rainfall during this 
+time will reside over the central to northern zones with near to 
+above normal temperatures continuing through Saturday. 
+
+Extended...By Sunday, broad mid-level troughing will approach the
+region from the lower MS Valley. Modestly unsettled conditions
+accompanied by considerable mid to upper cloudiness wl eventually
+bring an ill-defined surface front across the gulf to the peninsula
+early Monday. The forecast early in the week remains dry over 
+land. A lack of forcing precludes mention of rainfall at this time
+in the extended period with no significant cooldown shown as well
+through the end of the month. 
+
+&&
+
+.MARINE...
+Issued at 256 AM EDT Wed Oct 26 2022
+
+Today through Tonight...Generally favorable boating conditions today 
+with seas 2-3 feet and winds out of the SW at 5 to 10 knots. The 
+east coast sea breeze is expected to develop this afternoon along 
+the Space and Treasure Coasts. In the late afternoon and into the 
+overnight hours, some isolated showers and a stray lightning storm 
+due to an approaching frontal boundary are possible across the near 
+and offshore waters north of the Cape. Winds this evening become 
+southerly before veering out of the W to NW as at 5-10 knots as the 
+front settles over the local waters.
+
+Late Week...With approach and passage of weak front into Thu 
+winds then veer east component as the front washes out, increasing
+to around 10 kts during the day and easing to 5-10 kts at night 
+through Fri. Seas 2-3 ft in the nearshore waters, and 3-4 ft in 
+the offshore waters through Fri. Some isolated showers, and
+perhaps a brief storm will be possible.
+
+Weekend...Boating conditions becoming poor to hazardous during 
+the weekend. Initially north of the Cape. The pressure gradient 
+tightens between high pressure over the CONUS and low pressure 
+developing east of the Atlantic waters, causing winds to NErly 
+winds to freshen and seas to build upwards of 7ft, due to long 
+period swell arriving from the NE, through the weekend and early 
+next week. Isolated to scattered showers will be possible as well.
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 256 AM EDT Wed Oct 26 2022
+
+VFR conditions expected throughout the period. A weak frontal 
+boundary will approach the area today, with only mention of VCSH at 
+interior sites and KDAB as early as 17Z and continuing into the 
+early evening. Winds primarily out of the SW across the interior, 
+with a sea breeze development prompting winds along the coast to 
+turn onshore at 10 kt or less. Stratocu likely at all sites, with 
+cloud bases around 040-050 AGL and also around 080 AGL during the 
+day. Winds becoming light and variable to calm overnight. Stratus is 
+possible across the northern terminals after 06Z as the front 
+settles over the area. This may be added in a later TAF package.
+
+&&
+
+.HYDROLOGY...
+Issued at 256 AM EDT Wed Oct 26 2022
+
+The St. Johns river at Astor will remain in Moderate Flood Stage 
+for the foreseeable future. The river is currently around 3.8 feet
+and is forecast to continue a slow decline through this weekend.
+
+Near Deland, the river at 5.4 feet is forecast to fall from Major
+to Moderate Flood Stage by Wednesday night or Thursday morning, 
+then continue slowly declining through Moderate Flood stage 
+through this weekend.
+
+Near Sanford, the river will remain in Moderate Flood Stage into 
+next week. The river is currently at 7.6 feet and is forecast to 
+continue a slow decline.
+
+At Geneva above Lake Harney, the river at 10.3 feet will remain 
+in Major Flood Stage. The river is forecast to continue a slow 
+decline, dropping from Major to Moderate Flood Stage by this 
+weekend. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DAB  87  67  83  67 /  20  20  10  10 
+MCO  88  69  86  68 /  20  10  20  20 
+MLB  85  67  84  69 /  10  10  20  10 
+VRB  87  64  86  68 /  10   0  20  10 
+LEE  85  67  84  67 /  20  10  10  10 
+SFB  86  68  84  68 /  20  10  20  10 
+ORL  87  70  85  69 /  20  10  20  10 
+FPR  86  63  85  68 /  10   0  10  10 
+
+&&
+
+.MLB WATCHES/WARNINGS/ADVISORIES...
+FL...None.
+AM...None.
+
+&&
+
+$$
+
+SHORT TERM...Tollefsen/Kelly 
+LONG TERM....Pendergrast 
+AVIATION...Tollefsen/Kelly
+

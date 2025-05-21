@@ -1,0 +1,163 @@
+727 
+FXUS61 KCLE 262354
+AFDCLE
+
+Area Forecast Discussion
+National Weather Service Cleveland OH
+754 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure will move from Central Lower Michigan into Canada 
+today, pulling a cold front east across the area this afternoon. 
+Strong high pressure will build overhead on Thursday and continue to 
+influence the region through the weekend as it moves east into New 
+England.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY NIGHT/...
+
+Update...
+
+Most of our forecast remains valid. The surface cold front was 
+located over far-eastern Lake Erie and in vicinity of far- 
+eastern Erie and Crawford Counties in NW PA as of 7:20 PM EDT. 
+The eastward-moving front will likely exit the rest of our CWA 
+by 8 PM. Scattered rain showers along the front will give way to
+primarily fair weather behind the front as high pressure at the
+surface and aloft builds from the Upper Midwest. However, lake-
+enhanced rain showers will stream generally SE'ward from Lake 
+Erie through about midnight tonight as low-level CAA allows 850
+mb temperatures to drop from near 3C toward 0C, resulting in 
+lake surface to 850 mb temperature differences near 9C to 12C.
+These showers will impact our snowbelt counties in NE OH and 
+NW PA and vicinity. The lake-enhanced rain showers should end 
+from west to east through about midnight tonight as a shortwave 
+trough axis at/near 700 mb exits E'ward from our CWA. This will 
+cause abundant moisture and a cloud deck in the mid-levels, and
+the seeder-feeder process necessary to maintain the lake-enhanced
+precip, to exit E'ward. POP's were adjusted through midnight 
+tonight to better reflect expected evolution of lake-enhanced 
+precip and to have our POP's jibe better with our QPF. May have 
+to adjust our current POP's for after midnight tonight with the
+late evening update. Will continue to monitor trends.
+
+Previous Discussion...
+
+The cold front is making its way east across the region this 
+afternoon, bringing periods of gusty west to northwest winds of 25 
+to 30 mph. The best rain shower coverage remains confined to 
+portions of NE OH and NW PA and that will remain to be the case 
+through the remainder of today, though there does appear to be a 
+decent area of drizzle immediately following the cold front. 
+Precipitation chances will begin to diminish by late this evening 
+and overnight as the surface low and associated low-level moisture 
+pull away from the region. Lows tonight will be slightly below 
+average in the mid to upper 30s. 
+
+For Thursday, surface high pressure will build across the Great 
+Lakes, though a pesky low-level inversion may result in general 
+cloudiness persisting for much of the morning and perhaps into the 
+afternoon, especially for areas east of the I-75 corridor. For this 
+reason, went slightly below temperature guidance,resulting in highs 
+in the low to mid 50s.  Chilly temperatures will continue for 
+Thursday night with lows in the low to mid 30s.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Closed upper level low ejects northeastward out of the lower 
+Mississippi Valley towards the lower Ohio Valley during the duration 
+of the short term. This filling/weakening upper level low pressure 
+system and surface low will follow retreating high pressure off the 
+New England coast into the lower Great Lakes. The influences of high 
+pressure will dominate the short term forecast period despite the 
+exit of the surface high, leading to a dry forecast. Temperatures 
+begin near normal, finish the short term slightly above normal 
+Saturday under abundant sun, and cloud up Saturday night with the 
+approach of the aforementioned low pressure system. No significant 
+weather impacts in the short term.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+The Sunday through Monday period will be the next chance for rain 
+for the CWA despite the weakening characteristics of the low 
+pressure system heading into our area. Will still have some defined 
+forcing in the form of low-mid level frontogenesis which will 
+probably peak Sunday night. The characteristics of the surface 
+system are difficult to decipher. The system will move in as a 
+weakening occluded frontal system Sunday that will probably get 
+harder to identify into Sunday night. The first open upper wave 
+passes around 03Z Monday, but will be followed by a second moving in 
+from the west Monday with a the occluded front lingering, oriented 
+southwest to northeast along the lower Great Lakes. In the end, the 
+result is going to be a relatively high POP event over roughly 24 
+hours with low QPF. Monday evening looks damp at this point in time 
+with 6hr QPF amounts 18Z Monday-00Z Tuesday only a couple/few 
+hundredths or so, highest in NE OH/NW PA during that 6hr period.
+
+&&
+
+.AVIATION /00Z Thursday THROUGH Monday/...
+At 23:20Z/Wed, the eastward-moving surface cold front was 
+located over far-eastern Lake Erie and far-eastern parts of 
+northwest PA. This front will likely exit the rest of our region
+by 00Z/Thurs. Behind the front, a surface ridge builds into our
+area as the ridge's core moves from the Upper Midwest toward 
+Lake Huron. Southwesterly surface winds around 5 to 15 knots 
+veer quickly to westerly and then to northwesterly following 
+the front's passage. The northwesterly winds may gust up to
+about 20 knots at times through the predawn hours of Thursday 
+morning, especially along and just inland from Lake Erie in
+northeast OH and northwest PA. Regional surface winds around 5 
+to 15 knots will then veer gradually to northerly and then 
+toward northeasterly through 00Z/Fri in response to the building
+ridge.
+
+Scattered to widespread low-level clouds, primarily in the MVFR
+to 4kft AGL range, are expected through the TAF period. The 
+most-widespread cloud cover is expected through about midday
+Thursday. Scattered rain showers along and ahead of the cold 
+front will be followed by mainly fair weather behind the front. 
+However, lake-enhanced rain showers are expected over and 
+generally southeast of Lake Erie through about 03Z/Thurs. These 
+lake-enhanced showers will affect much of northeast OH and 
+northwest PA. Occasional MVFR visibility and IFR ceilings may 
+accompany showers. 
+
+Outlook...Non-VFR possible with periods of rain showers this
+Sunday into Monday.
+
+&&
+
+.MARINE...
+Winds shift this afternoon behind an occluded front to the northwest 
+15-25kts with gusts to 30kts, gradually decreasing tonight to 10-
+20kts. Small Craft Advisory in effect for the afternoon and tonight 
+as wave heights increase accordingly through that period. Winds 
+become northeasterly late Friday through Saturday decreasing from 10-
+15kts to 5-10kts during that stretch as weakening low pressure 
+approaches from the southwest. Winds variable, ultimately coming 
+around to the south Monday as weak low pressure passes. By Tuesday, 
+winds become southwesterly 5-15kts under the influence of high 
+pressure to our south.
+
+&&
+
+.CLE WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+PA...None.
+MARINE...Small Craft Advisory until 4 AM EDT Thursday for LEZ142>145.
+     Small Craft Advisory until 10 AM EDT Thursday for LEZ146>149.
+
+&&
+
+$$
+SYNOPSIS...Kahn
+NEAR TERM...Jaszka/Kahn
+SHORT TERM...26
+LONG TERM...26
+AVIATION...Jaszka
+MARINE...26
+

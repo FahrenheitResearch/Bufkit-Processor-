@@ -1,0 +1,135 @@
+941 
+FXUS62 KTAE 260733
+AFDTAE
+
+Area Forecast Discussion
+National Weather Service Tallahassee FL
+333 AM EDT Wed Oct 26 2022
+
+...New NEAR TERM, SHORT TERM, LONG TERM, MARINE, FIRE WEATHER, HYDROLOGY...
+
+.NEAR TERM...
+(Today and tonight)
+Issued at 313 AM EDT Wed Oct 26 2022
+
+Convection ongoing mainly in the Florida panhandle with the
+associated cold front through southeast Alabama into the western
+Florida panhandle. Expect a slow weakening trend in the convection
+as inhibition and weaker flow is draped to its east. A few
+lightning strikes are possible early this morning. As the front
+moves by, winds will quickly change to the northwest with a few
+gusts to 20 mph just behind the front. A few breezes could occur
+through the day as well as cold air advection keeps highs mainly
+in the 70s with perhaps closer to 80 degrees in the southeast
+Florida Big Bend. High pressure sets up later today and lows
+tonight will fall into the 40s with the exception of the low 50s
+in the Florida Big Bend.
+
+&&
+
+.SHORT AND LONG TERM...
+(Thursday through Tuesday) 
+Issued at 313 AM EDT Wed Oct 26 2022
+
+Surface high pressure will be positioned across the Great Lakes
+starting Thursday with ridging and dry conditions entrenched
+through the southeast. High pressure will slide northeast as a
+digging shortwave trough enters west Texas Friday and deepens a
+surface low pressure area. This low will kick out towards the
+ArkLaTex Saturday then towards the Midwest Sunday will beginning
+to weaken. The associated cold front, though some uncertainty
+exists, will swing through Saturday night into Sunday. A decent
+chance of rain is forecast, for southeast Alabama and western 
+Florida panhandle, with decreasing rain chances and amounts
+further east as the dynamics quickly move northward. Dry
+southwesterly flow will move in after the frontal passage as
+shortwave ridging and surface high pressure build in.
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 137 AM EDT Wed Oct 26 2022
+
+Tracking a line of showers and isolated thunderstorms moving
+through the Florida panhandle north into southwest Georgia
+associated with a cold front. As the line moves through, expect
+1-2 hours of convection followed by a brief reduction in cigs to
+mostly MVFR. Flight conditions become VFR from west to east
+through the morning hours.
+
+&&
+
+.MARINE...
+Issued at 313 AM EDT Wed Oct 26 2022
+
+A cold front will pass across the waters through late morning, 
+followed by a shift to fresh and strong northerly breezes. A 
+broken line of thunderstorms will precede the front. Calmer winds 
+and seas return by Thursday as high pressure settles over the Mid-
+Atlantic states. Another cold front will push into the region by 
+the weekend, which may lead to cautionary conditions returning to 
+all marine zones once again. 
+
+&&
+
+.FIRE WEATHER...
+Issued at 313 AM EDT Wed Oct 26 2022
+
+Cold front will progress through the area this morning, exiting
+the Florida Big Bend by late this morning. A narrow line of
+showers and storms will slowly weaken as the front moves east as
+well. Breezy northwest winds will will occur behind the front with
+minimum humidity values remaining above critical levels. Dry
+conditions are expected Thursday through Friday night with another
+low pressure system expected this weekend. Low dispersions are 
+forecast, especially areawide on Thursday from light winds.
+
+&&
+
+.HYDROLOGY...
+Issued at 313 AM EDT Wed Oct 26 2022
+
+Rainfall amounts with whats left over of the showers accompanying
+the cold front this morning with be relatively light and average
+around a quarter inch or less. Beyond today, the next frontal
+passage and chances for rainfall will be this weekend. All and
+all over the next week, southeast Alabama and the western Florida
+panhandle could experience up to an inch of rainfall between this
+morning and this weekend systems with lesser amounts further 
+east.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Tallahassee   79  52  80  58 /  10   0   0   0 
+Panama City   76  52  77  57 /   0   0   0   0 
+Dothan        73  46  77  53 /   0   0   0   0 
+Albany        76  48  77  56 /   0   0   0   0 
+Valdosta      81  51  80  58 /  50   0   0   0 
+Cross City    82  56  83  60 /  40   0  10   0 
+Apalachicola  77  55  76  60 /  10   0   0   0 
+
+&&
+
+.TAE WATCHES/WARNINGS/ADVISORIES...
+FL...High Rip Current Risk through late tonight for FLZ108-112-114-
+     115.
+
+GA...None.
+AL...None.
+GM...Small Craft Advisory until 11 AM EDT this morning for GMZ750-752-
+     770-772.
+
+&&
+
+$$
+
+NEAR TERM...Scholl
+SHORT TERM...Scholl
+LONG TERM....Scholl
+AVIATION...Scholl
+MARINE...Scholl
+FIRE WEATHER...Scholl
+HYDROLOGY...Scholl
+

@@ -1,0 +1,97 @@
+847 
+FXUS63 KPAH 261113
+AFDPAH
+
+Area Forecast Discussion
+National Weather Service Paducah KY
+613 AM CDT Wed Oct 26 2022
+
+.SHORT TERM...(Today through Thursday night) 
+Issued at 111 AM CDT Wed Oct 26 2022
+
+Vertically stacked low centered between Terre Haute and
+Indianapolis, IN is departing to the northeast this morning. 
+Pockets of light rain and drizzle have wrapped around the backside
+of the low and we have maintained a decent low cloud deck amid 
+cool temperatures and a west northwest wind. Low level moisture 
+and convergence should mostly be clear of the region by daybreak 
+as the storm system moves northeast setting us up for a mostly 
+sunny day with a mostly northerly breeze as surface ridging builds
+in to the west.
+
+Expecting to maintain a bit of a gradient as the high passes to 
+the north of the region overnight Thursday which will keep 
+temperatures somewhat moderated, although they will be chilly.
+
+Thursday winds shift to the east as we move in between the ridging
+over the Great Lakes region and a developing trough/storm system
+over the central plains. Mostly sunny skies with seasonable
+temperatures are expected.
+
+.LONG TERM...(Friday through Tuesday) 
+Issued at 111 AM CDT Wed Oct 26 2022
+
+On the synoptic scale, a deep trough will be located over the Plains 
+on Friday, with a developing low in Texas. This system gets cutoff 
+and will progress slowly northeastward into the weekend. Model 
+agreement is improved relative to last night, but remains separated 
+in time, with the Canadian ensemble progressing the system faster 
+and the ECMWF ensemble slower. The weak synoptic flow is likely 
+responsible for much of the separation in timing. The NBM is closer 
+to the 50th percentile than prior iterations that had large 
+disparities so only smaller adjustments (lowering PoPs Saturday 
+morning and increasing them late Sunday) were made.
+
+Rain is expected to hold off until near dawn Saturday for portions 
+of Southeast Missouri, with PoPs increasing through the day area-
+wide Saturday. The highest rain chances are Saturday night into 
+Sunday morning with likely PoPs for most of the Quad State. A 
+thunderstorm or two is possible in southern portions of Western 
+Kentucky Saturday night but this easily could change depending on 
+the position of the low pressure center. QPF remains around a half 
+an inch, which is welcome for the current drought, but will not be 
+nearly enough to bring monthly rainfall amounts up to normal.
+
+There is a general tendency amongst the models to weaken the system 
+as it lifts northeastward with the weakened low being pulled back 
+into the primary synoptic flow by Monday morning. There are hints 
+that the lingering trough axis could result in a light shower or two 
+Monday but for now the forecast will stick near the NBM with showers 
+limited to the far eastern portion of the CWA. Conditions become dry 
+for Tuesday as ridging builds into the South and Midwest with a 
+surface high.
+
+Highs in the upper half of the 60s to lower 70s Friday and Saturday 
+will drop to the lower 60s Sunday when rain chances are at their 
+peak. Highs slowly trend warmer towards the middle of next week. 
+Lows near 40 early Friday morning increase with moisture advection 
+to the lower 50s Saturday night, then remain in the upper 40s to 
+near 50 afterwards.
+
+&&
+
+.AVIATION...
+Issued at 608 AM CDT Wed Oct 26 2022
+
+Improvement to VFR expected from west to east this morning as a
+storm system departs to the northeast (by 17z at all terminals). 
+Some gustiness to northwest winds will likely redevelop after 
+sunrise. VFR conditions with light north to northeasterly winds
+expected through the overnight.
+
+
+&&
+
+.PAH WATCHES/WARNINGS/ADVISORIES...
+IL...None.
+MO...None.
+IN...None.
+KY...None.
+&&
+
+$$
+
+SHORT TERM...JGG
+LONG TERM...ATL
+AVIATION...JGG
+

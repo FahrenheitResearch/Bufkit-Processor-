@@ -1,0 +1,148 @@
+377 
+FXUS62 KMHX 261734
+AFDMHX
+
+Area Forecast Discussion
+National Weather Service Newport/Morehead City NC
+134 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+High pressure over the region shifts offshore this morning. A 
+weak cold front with limited moisture will cross the area 
+late tonight. High pressure builds in from the west again late 
+week into the weekend. The next storm system will arrive early
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+As of 1020 AM Wed...Widespread low stratus clouds along with 
+areas of fog, locally dense, continues to plague the area under 
+the subsidence inversion early this morning, as high pressure 
+slides offshore. Will continue the DFA NE zones for widespread 
+visibilities of 1/4 mile or less, elsewhere the dense fog is 
+more patchy and have issued a SPS to alert for hazardous driving
+conditions for this mornings commute. The fog is expected to 
+dissipate by around noon. 
+
+As the high shifts eastward, the low level flow will become
+southerly and this should help to scour out the low level
+moisture, dissipating the persistent low cloud deck by noon. 
+Moisture with the approaching cold front will be limited but 
+with diurnal heating think we could see a few showers develop 
+over the coastal plain late so will maintain slight chance PoPs 
+mainly west of Highway 17 late. The southerly flow will help to 
+produce warm highs today once the clouds diminish with highs of 
+75-80 degrees.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 AM THURSDAY/...
+As of 630 AM Wed...The aforementioned cold front will be over 
+the coastal plain this evening, moving off of the coast by dawn 
+followed by a northerly flow of cooler, drier air as high 
+pressure builds in. Will include a slight chance evening PoP 
+western/central zones with the frontal passage in region of 
+deeper moisture. Lows will be in the mid to upper 50s inland and
+around 60 coast.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+As of 305 AM Wednesday...High pressure builds in from the north
+behind the front Thursday, dropping temps back into the low 70s
+and resulting in a Nrly surge of winds, especially along the 
+coast. This strong ridge of high pressure to our north then 
+begins to interact with a broad offshore low that will remain 
+relatively stationary through the weekend. This will tighten the
+pressure gradient even more and increase windy N-NE'rly 
+conditions along the OBX and coastal areas Friday into Saturday.
+Guidance also showing persistent onshore NErly flow will result
+in increasing cloud coverage Friday with a chc for some light 
+drizzle or showers along the coast through Saturday. Continued 
+tweaks will be possible in the coming days depending on forecast
+trends. Cooler temps are forecast on Friday and Saturday as 
+well with aftn high temps in the upper 60s both days. Could 
+start seeing high pressure shift north and east on Sunday as 
+another low pressure system across the south central US inches 
+towards the southern MS River Valley. Still expecting a mostly 
+dry day Sunday at the moment, but precip chances will begin to 
+inc Sunday night and into Monday once high pressure retreats 
+northward with one low pressure system moving north across 
+Appalachia and the second low meandering off the Southeast 
+coastline. Precip chances linger into Tuesday before both 
+systems eventually push out of the region sometime late Tue into
+Tue night.
+
+&&
+
+.AVIATION /17Z WEDNESDAY THROUGH SUNDAY/...
+SHORT TERM /through Thursday Afternoon/...
+As of 120 PM Wed...VFR conditions have returned to the area as
+skies continue to clear early this afternoon. However this is
+not expected to last long as a cold front moves into the area 
+this evening and passes through overnight. MVFR level ceilings
+are expected to develop along and ahead of the front this
+evening from west to east, and persist into the overnight 
+hours. By early tomorrow morning VFR conditions should return
+over the coastal plain as dry air moves in, however MVFR
+conditions may linger along the coast for much of tomorrow
+morning, including KEWN.
+
+LONG TERM /Thursday through Sunday/...
+As of 310 AM Wednesday...High pressure builds in behind the 
+front Thu through Sat with VFR conditions prevailing. Gusty NNE 
+winds 20-30 kts will impact the OBX airspace beginning Thu and 
+into Sat night before beginning to diminish Sun.
+
+&&
+
+.MARINE...
+SHORT TERM /through Tonight/...
+As of 630 AM Wed...High pressure will move offshore this 
+morning, then a cold front will approach the area late today. 
+The front will cross the waters early Thu followed by high 
+pressure. Today NW/N winds 5-15 kt will become S/SW in the 
+afternoon. Winds will shift to N 15-20 kt late tonight behind 
+the front. Seas 2-4 ft today will become 3-5 ft late tonight in 
+the stronger post frontal northerly flow. 
+
+Areas of dense fog (vsybs 1 nm or less) will occur through late
+this morning, so will continue with the Marine Dense Fog 
+Advisories for the waters north Cape Lookout, sounds and rivers.
+
+LONG TERM /Thursday through Sunday/...
+As of 315 AM Wednesday...High pressure builds in from the north
+behind the frontal boundary, but southwest winds will surge 
+from the N to NE with gusts as high as 25-30 kts. SCA raised for
+coastal waters and major rivers & sounds. Winds could relax 
+slightly Thu night before ramping up again on Friday as an 
+offshore low keeps a tight pressure gradient against high 
+pressure across the area, maintaining SCA criteria Friday and 
+into Saturday. Seas will steadily build from 4-6 ft Thu to 5-7 
+ft Friday and 5-9 ft by Saturday. Winds begin to ramp down late 
+Sat night into Sunday, diminishing to 15-20 kts by Sunday night,
+though seas will be slower to respond, remaining at 4-8 ft late
+Sunday.
+
+&&
+
+.MHX WATCHES/WARNINGS/ADVISORIES...
+NC...None.
+MARINE...Small Craft Advisory from 10 AM Thursday to 3 AM EDT Sunday 
+     for AMZ131-230-231.
+     Small Craft Advisory from 7 AM Thursday to 3 AM EDT Sunday for 
+     AMZ135-150-152-154-156-158.
+     Small Craft Advisory from 5 PM to 11 PM EDT Thursday for 
+     AMZ137.
+
+&&
+
+$$
+SYNOPSIS...MHX
+NEAR TERM...JME/SGK
+SHORT TERM...JME
+LONG TERM...ML
+AVIATION...SGK/ML
+MARINE...JME/ML
+

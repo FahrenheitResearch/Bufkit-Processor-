@@ -1,0 +1,122 @@
+460 
+FXUS61 KCTP 260238
+AFDCTP
+
+Area Forecast Discussion
+National Weather Service State College PA
+1038 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+A low pressure system and stationary boundary over the Atlantic
+will contribute to patchy light rain or drizzle over the 
+eastern half of PA through tonight. On Wednesday, a low pressure
+system approaching from the west will produce some rain 
+showers. A dry stretch of weather returns for the end of the 
+week and into the first half of the weekend, with rain showers 
+possibly returning as early as Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+A persistent southeast flow off of the Atlantic, combined with
+nocturnal cooling, should cause stratus over the eastern half of
+the forecast area to expand westward into the central mountains
+tonight. Meanwhile, mid and high level cloudiness will
+overspread the region from the west ahead of a potent shortwave
+approaching from the Ohio Valley. Model soundings indicate cloud
+depth will become sufficient for patchy drizzle late tonight
+over the eastern part of the forecast area, especially where the
+southeast flow is forced to ascend the higher elevations of
+Schuylkill and Sullivan counties. Surging low level moisture and
+cloud cover will hold temperatures up tonight, with lows mainly
+in the 50s.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+A weakening mid level shortwave and an attendant cold front will
+push through the region Wednesday, accompanied by a band of 
+showers. Highest POPs of near 100 pct are placed across the 
+northwest mountains, where the strongest large scale forcing is 
+progged to sweep through during the afternoon. Most likely 
+rainfall based on ensemble qpf plumes ranges from around 0.2 
+inches over the northwest mountains, to just a few hundredths 
+over the southeast counties. Cloud cover and showers should 
+result in little diurnal heating Wednesday with highs ranging 
+from near 60F over the Alleghenies, to near 70F over Lancaster 
+County. 
+
+The front should be through all of central PA near sunset. The 
+upper trough and wrap around behind the low/frontal passage will
+create some isolated to scattered showers Wednesday night over 
+portions of the Alleghenies. As skies mostly clear out in 
+southeast PA, temperatures should drop back into the 40s for 
+most Thursday morning.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+All model guidance supports fair and seasonable weather late
+this week, as large high pressure system and associated low-pwat
+air mass builds east from the Grt Lks to New England. Models 
+have begun to converge on the timing of strength of a southern 
+stream shortwave approaching Pa early next week. Thus, have now
+focused the greatest chance of rain in the Sunday night/Monday
+time frame, as low level jet and plume of GOMEX moisture surges
+into the region ahead of shortwave, overrunning relatively 
+cool/stable air linked to retreating high east of New England. 
+Showery conditions look likely to linger into Tuesday, as mid 
+level shortwave lifts through the state. 
+
+Ensemble 2m temp plumes suggest daytime temperatures will 
+remain seasonal into early next week, but cloud cover and 
+surging humidity should result in very mild conditions Sunday 
+and Monday nights. 
+
+&&
+
+.AVIATION /02Z WEDNESDAY THROUGH SUNDAY/...
+Stratus remains over the eastern half of the CWA with MVFR cigs
+spreading westward. MVFR and IFR cigs expected to develop at 
+all airfields during the late evening and overnight hours with
+moist, southerly flow. Rain beginning at western 
+airfields around 15Z to 18Z and spreading eastwards throughout 
+tomorrow afternoon. Intermittent LIFR cigs possible at MDT and 
+LNS. Rain moving out around 22Z when cigs should start improving
+to MVFR. 
+
+
+Outlook...
+
+Wed...AM low cigs likely, -shra spread from SW to NE during the
+day.
+
+Thu...AM low cigs possible W Mtns. 
+
+Fri...No sig wx expected.
+
+Sat...Slight chance of low cigs Laurel Highlands.
+
+&&
+
+.EQUIPMENT...
+Scheduled maintenance on many regional ASOS sites will occur 
+over the next few weeks. Interruptions will mainly be to the 
+wind sensor data. But, at times, much of the observation data
+may be interrupted.
+
+&&
+
+.CTP WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+SYNOPSIS...Guseman/Dangelo
+NEAR TERM...Fitzgerald
+SHORT TERM...Guseman/Fitzgerald
+LONG TERM...Fitzgerald
+AVIATION...Travis/Buvala
+EQUIPMENT...
+

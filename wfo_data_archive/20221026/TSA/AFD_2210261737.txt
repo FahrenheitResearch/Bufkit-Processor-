@@ -1,0 +1,90 @@
+017 
+FXUS64 KTSA 261737
+AFDTSA
+
+Area Forecast Discussion
+National Weather Service Tulsa OK
+1237 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.UPDATE...
+Issued at 1055 AM CDT Wed Oct 26 2022
+
+Current forecast on track for this afternoon with no changes 
+anticipated. Light easterly winds will continue with high 
+temperatures in the upper 60s to near 70 deg under sunny skies. 
+As some would say, Chamber of Commerce weather.
+
+&&
+
+
+.SHORT TERM...
+(Today)
+Issued at 323 AM CDT Wed Oct 26 2022
+
+Sfc ridge axis extending through the region today will yield 
+pleasant fall conditions area wide.
+
+&&
+
+.LONG TERM...
+(Tonight through Tuesday)
+Issued at 323 AM CDT Wed Oct 26 2022
+
+Wave currently moving ashore the Pacific Northwest will amplify as
+it drops southwestward with a well defined closed mid level low
+forecast across west TX by Friday morning. Winds increase
+Thursday in advance of the wave, while moistening mid level 
+profiles support high based showers nearing NE OK late Thursday. 
+Rain chances will gradually spread east and southward Thursday 
+night however the bulk of heavier rains will remain further west. 
+
+Guidance is in generally good agreement on the track of the upper 
+low across north central TX Friday and then northeastward through 
+AR by Saturday night. A notable gradient in rain chances will 
+exist across the forecast area Friday through Saturday with 
+highest chances across SE OK and far western AR and much lower 
+chances northward across NE OK. This same general precip coverage 
+pattern will also align with areas receiving higher rainfall 
+totals. Cloudy and cool Friday and Saturday with a warm up early 
+next week and temps likely back above normal by mid next week.
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1236 PM CDT Wed Oct 26 2022
+
+VFR conditions will likely prevail through the forecast period.
+Light east/southeast winds through tonight will modestly increase
+Thursday morning. Could again see patchy fog around a few lakes
+and valley areas, but should not impact any TAF sites.  
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TUL   45  67  48  65 /   0  10  40  30 
+FSM   43  69  48  67 /   0   0  20  40 
+MLC   43  68  48  62 /   0   0  50  60 
+BVO   42  65  46  64 /   0  10  40  10 
+FYV   38  66  42  65 /   0   0  10  20 
+BYV   41  64  43  63 /   0   0  10  10 
+MKO   43  66  47  64 /   0   0  30  40 
+MIO   41  65  43  64 /   0   0  20  10 
+F10   43  69  47  64 /   0   0  50  50 
+HHW   43  67  50  60 /   0   0  50  80 
+
+&&
+
+.TSA WATCHES/WARNINGS/ADVISORIES...
+OK...None.
+AR...None.
+&&
+
+$$
+
+SHORT TERM...07
+LONG TERM....07
+AVIATION...12
+

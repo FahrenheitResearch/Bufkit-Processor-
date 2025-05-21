@@ -1,0 +1,146 @@
+064 
+FXUS61 KALY 262344
+AFDALY
+
+AREA FORECAST DISCUSSION
+National Weather Service Albany NY
+744 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A cold front will move across the region this evening. With 
+its passage a drier and more seasonable airmass will be ushered 
+in. A large area of high pressure will then build in across the 
+region with fair weather expected into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+UPDATE...As of 635 PM EDT, band of showers/sprinkles continues
+tracking east across the Mohawk Valley, SW Adirondacks and
+eastern Catskills. A few embedded heavier showers have developed
+across southwest Herkimer County, where latest SPC Mesoanalysis
+depicts a pocket of 100-250 J/kg SB CAPE. So, a few brief heavy
+downpours with wind gusts up to 30 mph are possible, with some 
+wind gusts up to 25 mph possible even with the lighter showers, 
+as low level lapse rates are 6-6.5 C/km, and DCAPES are 400-700 
+J/kg across portions of the upper Hudson Valley.
+
+Initial cold front was entering far northern Herkimer County,
+with secondary (main) cold front still back near Toronto
+extending into NE Ohio. This second front will cross the region
+from west to east after midnight, bringing gusty winds and
+falling temps in its wake closer to daybreak.
+
+In between both fronts, there could be a period of clearing
+later this evening through the early morning hours within valley
+areas, as subsidence develops in the wake of potent shortwave
+tracking through this evening. Lower clouds should then increase
+once again as the second front approaches/passes through. Some
+wind gusts could reach up to 30-35 mph in the wake of the second
+front around daybreak, especially within the Mohawk Valley,
+Capital Region and Berkshires.
+
+PREVIOUS [348 PM EDT]...Sunny zone from the Hudson Valley into 
+western New England shifting east as clouds and scattered 
+showers track from central NY toward our region. The clouds and 
+showers will affect eastern NY this evening and western New 
+England later this evening. The rain will exit before midnight 
+but some clouds will linger through much of the night as the 
+cold front and wind shift track through. Cold advection will 
+take place as gusty north west winds spread across our region. 
+
+Lows by daybreak in the mid 40s to around 50 and around 40
+higher terrain.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH SATURDAY/...
+Gusty north to northwest winds Thursday with cold advection and
+increasing sunshine. Highs in the upper 50s to lower 60s with
+around 50 to lower 50s higher terrain.
+
+Winds diminish Thursday night and with a clear sky and strong
+low level ridging building in from Canada, temperatures should 
+fall to near freezing or below freezing in most areas. Some
+periods of high clouds Friday, otherwise, light north winds and
+filtered sun. Highs Friday around 50to mid 50s. 
+
+Strong low level ridging still building into our region from
+Canada Friday night into Saturday with light winds and a clear
+sky. Temperatures should drop below freezing in most areas with
+20s in many areas by early Saturday morning. 
+
+Sunny with light winds Saturday and weak warm advection begins
+Saturday afternoon. Highs in the mid 50s to around 60.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Mainly fair weather with high pressure in control for Sunday, after 
+a chilly start (lows in the 20s north, lower/mid 30s south and 
+east), with highs mainly in the upper 50s to lower 60s by Sunday.
+
+Uncertainty increases for Sunday night into Tuesday regarding the 
+timing and ultimate track of southern stream energy and an 
+associated low pressure system. Mean ensemble solutions suggest 
+gradually increasing PoPs from southwest to northeast Sunday night, 
+with best chances for showers or a period of steady rain Monday into 
+Monday night. Showers could linger into Tuesday, and perhaps as late 
+as Wed morning for areas from Albany south and east.
+
+Temperatures should average above seasonal levels, with highs mainly 
+in the 50s to lower 60s Monday, (although could be cooler if 
+widespread rain occurs), and lower/mid 60s in valley areas and 55-60 
+higher elevations Tue/Wed, with overnight lows mainly in the 40s to 
+lower 50s.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+Through 00z/Fri...Light rain showers will push across portions
+of the region over the next couple hours, mainly affecting 
+KALB/KGFL. Otherwise, VFR ceilings are expected to start the TAF
+period. There is a chance for brief MVFR cigs and/or vsbys at 
+KGFL if a heavier shower moves across the terminal so maintained
+a tempo for this possibility.
+
+As a secondary boundary moves through overnight, low clouds will 
+return with bases in the 2000-3000 ft range, resulting in the 
+return to MVFR conditions. Coverage may remain more SCT at KPOU 
+so kept VFR conditions there. Clouds will lift and dissipate 
+Thursday morning with a nearly clear sky expected by the 
+afternoon.
+
+Wind will shift to the west to southwest this evening at 6-12
+kt, then increase overnight out of the west to northwest at 
+10-15 kt with gusts to around 25 kt. Wind will shift more north 
+to northwesterly on Thursday at similar speeds.
+
+Outlook...
+
+Thursday Night: No Operational Impact. NO SIG WX.
+Friday: No Operational Impact. NO SIG WX.
+Friday Night: No Operational Impact. NO SIG WX.
+Saturday: No Operational Impact. NO SIG WX.
+Saturday Night: No Operational Impact. NO SIG WX.
+Sunday: No Operational Impact. NO SIG WX.
+Sunday Night: Moderate Operational Impact. Chance of SHRA.
+Monday: High Operational Impact. Likely SHRA.
+
+&&
+
+.ALY WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+MA...None.
+VT...None.
+
+&&
+
+$$
+SYNOPSIS...NAS
+NEAR TERM...KL/NAS
+SHORT TERM...NAS
+LONG TERM...KL
+AVIATION...Rathbun
+

@@ -1,0 +1,83 @@
+638 
+FXUS63 KARX 261950
+AFDARX
+
+Area Forecast Discussion
+National Weather Service La Crosse WI
+250 PM CDT Wed Oct 26 2022
+
+.DISCUSSION...(This evening through Wednesday)
+Issued at 239 PM CDT Wed Oct 26 2022
+
+Key Messages:
+
+ - Mostly dry conditions expected to persist through early next
+   week
+
+ - Slight increase in temperatures through the weekend 
+
+
+Increasing mid and high clouds through Thursday...
+
+A weakening shortwave trough will move out of the Northern Plains 
+tonight. With this system moving into a dry air mass, only expecting 
+some mid- and high clouds from this system. Low temperatures tonight 
+will be in the mid- and upper 20s across central and north-central 
+Wisconsin and in the lower and mid-30s for the remainder of the area.
+High temperatures on Thursday will be in the lower and mid-50s.
+
+Thursday Night Through Wednesday...
+
+The early part of the extended forecast will be dominated by split 
+flow aloft, with an upper level trough expected to continue to dig 
+into the Southern Plains by Friday. A weaker wave passing through 
+the northern stream could bring some light showers Thursday 
+evening/night, but most guidance keeps this to the southwest of our 
+forecast area and weakens it through the night. Thus, a dry
+forecast remains through the weekend for the local area. A small 
+increase in high temperatures into the upper 50s and low/mid 60s 
+is expected through early next week, supported by small spread 
+(~3-5 degrees F) between the 25th and 75th percentiles of the NBM.
+
+
+The southern stream system is forecasted to lift into the Mid-MS 
+Valley/Ohio River Valley on Sunday/Sunday evening. Although a few 
+EPS solutions (< 30%) show precipitation inching into our far 
+southern WI counties as this system continues to move northeast, the 
+majority of ensemble guidance suggests the precipitation will stay 
+to our southeast, keeping dry conditions through the early part of 
+next week. By mid week guidance suggests an upper level trough will 
+move into the Pacific Coast, but there remains some differences 
+between ensemble solutions on the strength and progression of this 
+trough. With this, the spread in temperatures begins to increase 
+towards the end of the forecast period, but generally stays in the 
+50/60s into Wednesday. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 111 PM CDT Wed Oct 26 2022
+
+The combination of a departing trough and cold air aloft will
+result in a scattered to broken MVFR deck over western Wisconsin.
+Due to this, included a scattered deck of these clouds for KLSE
+this afternoon. 
+
+High clouds will move into the area tonight as a shortwave moves
+out of the Northern Plains. These clouds will then become mid
+clouds on Thursday morning.
+
+
+&&
+
+.ARX WATCHES/WARNINGS/ADVISORIES...
+WI...NONE.
+MN...NONE.
+IA...NONE.
+&&
+
+$$
+
+DISCUSSION...Boyne/EMS
+AVIATION...Boyne
+

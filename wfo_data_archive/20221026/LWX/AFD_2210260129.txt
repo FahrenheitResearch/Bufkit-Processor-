@@ -1,0 +1,154 @@
+066 
+FXUS61 KLWX 260129
+AFDLWX
+
+Area Forecast Discussion
+National Weather Service Baltimore MD/Washington DC
+929 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+A weak area of high pressure is expected to build in through
+tonight as a weak low pressure system slides further to the
+northeast. Cold front approaches from the west on Wednesday,
+bringing a few showers. High pressure builds in late in the
+week. Unsettled conditions return for the weekend as a cold air
+damming setup takes shape with strong high pressure over the 
+northeast.
+
+&&
+
+.NEAR TERM /UNTIL 8 AM WEDNESDAY MORNING/...
+The latest surface analysis places a weak area of high pressure
+along the Mid-Atlantic coastline. Gradients remain somewhat weak
+with light easterly flow continuing to advect low-level moisture
+inland. The depth of moisture is very shallow as noted by the
+00Z IAD sounding with most of the saturation occurring in the
+surface-925 mb layer. It is rather bone dry above with the mid-
+level RH running at 7 percent. Based on this profile, it is not
+surprising to see a shield of low stratus encompassing many
+locations along and east of U.S. 15. Some of this may further
+lower into an area of patchy fog, becoming locally dense. The
+highest probability for the dense fog would be north and east of
+the Potomac River late tonight and into the subsequent morning.
+
+Farther west, while a few showers cannot be ruled out across the
+Alleghenies and Potomac Highlands, these should largely be
+isolated and infrequent in nature. Tonight's low temperatures
+range from the upper 40s to 50s across the area.
+
+&&
+
+.SHORT TERM /8 AM WEDNESDAY MORNING THROUGH THURSDAY NIGHT/...
+During the day on Wednesday. a cold front is expected to cross the 
+region. Precipitation chances will increase throughout the day, 
+especially across the western areas. Forcing continues to be better 
+situated across areas further north. Temperatures will be cooler 
+across the areas most likely to be impacted by the light to moderate 
+rain. High temperatures are expected closer to the waters where 
+skies may allow for a bit more sunshine than out west. Overnight 
+lows will drop back down into the 40s for the mountains and 50s 
+elsewhere Wednesday night. A dominant high pressure will bring dry 
+conditions for most areas with temperatures coming back to normal 
+for late October. By Thursday night, temperatures return colder with 
+some sub-freezing temps possible along the Allegheny Front with 40s 
+further east.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+Dry conditions look to round out the workweek as broad 1032-1034 mb 
+high pressure slides east into New England leaving mid-level ridging 
+wedged over our region. The 12z GFS/GEM continue to agree with there 
+00z ECMWF/GEM/GFS counterparts in keeping the first half of the 
+weekend dry. The forecast starts to turn wetter beyond this point as 
+upper level troughing builds back into the region. Current guidance 
+continues to suggests a cutoff low over the southeastern U.S being 
+absorbed into the trough across the Ohio/Tennessee river valleys 
+late Saturday night into Sunday. As the system, pushes east it looks 
+to occlude over the central Appalachians with a parent low off the 
+coast late Sunday into Monday. This will lead to on and off shower 
+chances through at least midweek with persistent troughing across 
+much of the eastern CONUS. With that said, the weekend will not be 
+washout with Saturday being the better of two days. Highest rain 
+chances remain toward late Sunday into Monday with a decrease in 
+coverage Tuesday as high pressure builds back into the region.
+
+Temperatures will remain at or slightly above average through the 
+period. Expect mid to upper 50s over the mountains with mid to upper 
+60s further east Friday and Saturday due in part to northeasterly 
+flow. These numbers will trend down a few degrees Sunday through 
+Tuesday with extra cloud cover and showers across the region. 
+Overnight lows will become increasingly mild as well, going from low 
+to mid 40s Friday night to low to mid 50s for Sunday and Monday 
+nights.
+
+&&
+
+.AVIATION /01Z WEDNESDAY THROUGH SUNDAY/...
+Some stratus and fog (locally dense at times) will likely form 
+late tonight and into Wednesday morning. This keeps the DC and
+Baltimore terminals down to IFR, while at times lowering to LIFR
+where dense fog forms. Most notably, the eastern terminals have
+the best opportunity for dense fog through Wednesday morning. 
+Cold front approaches Wednesday, bringing low clouds and some 
+light precipitation across mainly the western terminals. Patchy 
+fog will be possible late Wednesday into Thursday morning. VFR 
+conditions expected for Thursday.
+
+VFR flight conditions are expected to prevail Friday and Saturday 
+with high pressure wedged across the region. Northeast winds around 
+10-15 knots with gusts upwards of 20 knots are possible at BWI, MTN, 
+and DCA during this timeframe. 
+
+Sub-VFR conditions look to return Sunday into Monday starting at CHO 
+Sunday afternoon before spreading north and east toward IAD, MRB, 
+DCA, BWI, and MTN Sunday night into Monday afternoon. Shower chances 
+will be on and off through at least Tuesday with VFR conditions 
+returning midweek.
+
+&&
+
+.MARINE...
+While winds are expected through tonight. A cold front 
+approaches Wednesday, likely bring SCA conditions ahead and just
+behind the frontal passage. Increased pressure gradient will 
+likely allow winds to continue to remain gusty at times 
+Thursday.
+
+Broad high pressure over New England will lead to SCA 
+conditions across the middle/southern portion of the Chesapeake 
+Bay Friday into Saturday. Northeasterly winds will likely gusts 
+upwards of 15-20 knots before switching back toward more of a 
+west and southwest direction Sunday into Tuesday as low 
+pressure/upper level troughing pass through. Gusts will be less 
+than 15 knots through this period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A southerly flow ahead of a cold front will cause elevated water 
+levels Wednesday into Wednesday night. Minor flooding is possible 
+around high tide, especially later Wednesday into Wednesday evening 
+for the more sensitive tidal sites such as Annapolis and Point 
+Lookout.
+
+&&
+
+.LWX WATCHES/WARNINGS/ADVISORIES...
+DC...None.
+MD...None.
+VA...None.
+WV...None.
+MARINE...None.
+
+&&
+
+$$
+SYNOPSIS...ADM/CAS
+NEAR TERM...BRO/ADM
+SHORT TERM...ADM
+LONG TERM...DHOF
+AVIATION...BRO/DHOF/ADM
+MARINE...BRO/DHOF/ADM
+TIDES/COASTAL FLOODING...LWX
+

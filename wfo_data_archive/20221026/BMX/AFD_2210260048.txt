@@ -1,0 +1,171 @@
+369 
+FXUS64 KBMX 260048
+AFDBMX
+
+Area Forecast Discussion
+National Weather Service Birmingham AL
+748 PM CDT Tue Oct 25 2022
+
+...New SHORT TERM, AVIATION...
+
+.SHORT TERM...
+(Tonight through Wednesday)
+Issued at 720 PM CDT TUE OCT 25 2022
+
+A cold front was located just southeast of the I-59 corridor this
+evening. The front will continue eastward and clear the area after
+midnight. Showers and a few thunderstorms were ongoing ahead of
+the front from near Anniston to Montgomery. Shear remains high
+over the area but instabilities were limited and lapse rates were
+poor. Do not expect any uptick in this activity as it exits the
+area after midnight. Gusty Winds will slowly subside through the
+evening. The chances of any gusts near 35 mph is rather low and
+will cancel whats left of the Wind Advisory.
+
+75
+
+Previous short-term discussion:
+(This evening through Wednesday)
+Issued at 141 PM CDT TUE OCT 25 2022
+
+A potent upper low was located over the Ozarks in Northern
+Arkansas within a negative tilted trough over the Mid South
+Region. Surface low pressure has become more organized over
+Southeast Missouri with a cold front extending from Southwest of
+St. Louis south through Central Mississippi. Regional radar
+composites with satellite animations indicate the convection has
+been strengthening gradually with time over the past few hours as
+the activity is moving east through an area with temperatures in
+the lower 70s with dew points in the upper 60s. Surface-based
+instability persists in a fairly narrow swath along and just
+ahead of the convective line from eastern Mississippi to near the
+AL/MS state line per 17z RAP mesoanalysis data. The highest shear
+and best forcing is positioned across Northeast Mississippi and 
+Northwest Alabama at this writing. Through mid afternoon, expect 
+the line of storms to continue moving east into West-Central and 
+Northwest Alabama from 1 to 3 pm.
+
+A tornado watch is currently being issued for the western portion
+of the area, generally near Interstate 65 and west through 7 pm
+tonight.
+
+Tonight.
+
+Showers with some thunderstorms will continue to move east,
+affecting much of the eastern portion of the area tonight. The
+overall intensity of the line is expected to gradually weaken with
+time with damaging winds being the primary concern with bows
+within the line of storms. There will remain a tornado risk with
+embedded circulations, QLCS, within the line of storms. Winds will
+gradually weaken overnight from the southwest to west at 6-12 mph.
+Lows will range from the mid 40s northwest to the low 50s
+southeast.
+
+Wednesday.
+
+Dry conditions will return areawide on Wednesday but cloud cover
+will likely linger through the morning hours then clearing
+entirely from southwest to northeast through the daytime hours.
+Winds will be from the west to northwest at 6-12 mph. Highs will
+range from the mid 60s north to around 70 far southeast.
+
+05
+
+&&
+
+.LONG TERM...
+((Wednesday night through next Monday)
+Issued at 318 PM CDT TUE OCT 25 2022
+
+Models have trended slightly wetter for the system next weekend,
+and trended rain changes and qpf upward. Otherwise, no changes
+needed. 
+
+14
+
+Previous long-term discussion:
+(Wednesday night through Monday)
+Issued at 308 AM CDT TUE OCT 25 2022
+
+Flow aloft becomes southwesterly through the rest of the week
+ahead of the next trough digging into the Southern High Plains in
+this progressive split flow pattern. At the surface, winds will 
+be out of the east courtesy of a strong high pressure center 
+centered over Quebec, though the associated CAD wedge should stay 
+northeast of the area. The easterly winds will keep dew points and
+RH values from crashing as much as in recent days as well as low 
+temperatures to a certain extent. Expect pleasant conditions with 
+a good bit of sunshine. 
+
+The southern stream trough will eventually close off into a slow-
+moving upper low that will impact the forecast area over the
+weekend. Deep layer SSW flow ahead of the upper low will
+eventually result in moist isentropic lift and widespread rainfall
+at some point during the weekend, while a weak surface low lifts 
+northward over the Lower Mississippi Valley. The deterministic GFS
+trended slower towards the deterministic ECMWF with the area
+remaining mostly dry Saturday afternoon. However, am leery of
+buying this trend as these are just 2 of 80 ensemble members, and
+the ensemble means and many ensemble members of the EPS and GEFS
+are quicker than the deterministic runs. Therefore, leaned heavily
+on the ensemble members for timing of the higher PoPs but have
+capped values at 50% for now. A warm front may lift northward into
+our southern counties with enough instability for a few
+thunderstorms. 0-6 km bulk shear values are only around 30-35 kts,
+so severe storms are not expected at this time. 
+
+32/Davis
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 720 PM CDT TUE OCT 25 2022
+
+A cold front was moving through Central Alabama as of this
+writing. It was approaching BHM/EET as winds have turned to the 
+west at TCL. Showers and a few thunderstorms were ahead of the 
+front from near ANB to MGM. The convection will affect 
+ANB/ASN/MGM/TOI for another hour or so before exiting the area. 
+There may be a brief period of MVFR ceilings near this convection.
+A wrap around moisture area will follow behind the front and also
+may produce some MVFR ceilings for the northern sites. Gusty 
+southerly winds will veer to west and then north as high pressure 
+moves in behind the front.
+
+
+75
+
+&&
+
+.FIRE WEATHER...
+
+Drier conditions return for Wednesday and Thursday, but with 
+minimum RH values above critical thresholds. Low level winds swing
+around to the north Wednesday and northeast Thursday.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Gadsden     45  64  42  72 /  90   0   0   0 
+Anniston    47  64  44  73 /  90   0   0   0 
+Birmingham  47  64  46  72 /  50   0   0   0 
+Tuscaloosa  46  68  46  72 /  10   0   0   0 
+Calera      46  65  47  73 /  50   0   0   0 
+Auburn      49  67  47  73 /  90   0   0   0 
+Montgomery  48  69  45  75 /  80   0   0   0 
+Troy        50  69  45  76 /  90   0   0   0 
+
+&&
+
+.BMX WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+
+SHORT TERM...75
+LONG TERM....14
+AVIATION...75
+

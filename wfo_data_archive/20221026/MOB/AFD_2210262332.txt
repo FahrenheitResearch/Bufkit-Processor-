@@ -1,0 +1,106 @@
+264 
+FXUS64 KMOB 262332
+AFDMOB
+
+Area Forecast Discussion
+National Weather Service Mobile AL
+632 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.AVIATION...
+(00Z TAFS)
+Issued at 626 PM CDT Wed Oct 26 2022
+VFR conditions will prevail over the next 24 hours. Light 
+northerly winds overnight become light and northeasterly on 
+Thursday. /14
+
+&&
+
+.PREV DISCUSSION... /issued Issued by National Weather Service New Orleans LA/ 
+
+..New NEAR TERM, SHORT TERM, LONG TERM, MARINE...
+
+NEAR TERM...
+(Now through Thursday)
+Issued at 228 PM CDT Wed Oct 26 2022
+
+Upper level high pressure will dominate the weather pattern in the
+near term forecast. Northerly surface winds will help to enhance
+advection of stable and drier air into the region. As a result,
+rain chances will be basically zero tonight through tomorrow night.
+
+Rip Current Risk will be low tonight through tomorrow night. MSW
+
+SHORT TERM...
+(Thursday night through Saturday night)
+Issued at 228 PM CDT Wed Oct 26 2022
+
+Rain chances are expected to remain low on Friday into early
+Saturday morning. Southerly surface winds ahead of an upper level
+low will help to reintroduce moisture and warm air back into the 
+environment, which will enhance instability. An upper level trough
+is expected to influence the area Saturday into Sunday, enhancing
+rain chances for the area. Upper level divergence will act to 
+enhance the lifting in the environment ahead of the system as 
+well. Rain chances will be high with PoPs in the mid-80s, 
+especially during the morning and daytime hours Saturday. There is
+plenty of deep layer moisture, but CAPE will be around 500J/kg, 
+which will be enough to see some thunderstorms, but overall will 
+limit development of strong to severe storms. Shear looks adequate
+at 30-60kts, so some gusty strong to severe winds will still be a
+concern. There is still quite a bit of uncertainty in the model 
+guidance regarding the timing of the system, so we will have to 
+see how it develops over the next couple of days. But overall,
+decent shear and moisture, but limited instability means that
+storms will struggle to fully develop/grow unless enhanced by
+daytime heating or strong forcing. MSW
+
+LONG TERM...
+(Sunday through Wednesday)
+Issued at 228 PM CDT Wed Oct 26 2022
+
+Sunday afternoon through the beginning of next week, the system 
+will push eastward. Westerly to northerly winds will enhance cold 
+air and dry air advection into the area, increasing stability in 
+the environment. Looking at the models, rain chances will be low 
+Sunday through Wednesday as more northerly flow dominates the 
+pattern and dry, stable air moves into the area. MSW
+
+MARINE...
+Issued at 228 PM CDT Wed Oct 26 2022
+
+Winds will be northerly and strong (15-20kts) overnight tonight
+through 12Z Thursday. An Exercise Caution headline is in effect
+for Small Craft overnight through the early morning hours, as a
+result. Winds will be northerly to easterly and moderate (<15
+knots) Thursday through Saturday morning. Winds will be southerly
+and strong (20-25kts) Saturday through Sunday. Winds will be
+northerly and moderate (<15 knots) Monday through Wednesday. Wave
+heights will correspond to the wind speeds. MSW
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Mobile      48  76  53  78  62  74  59  76 /   0   0   0  10  40  90  60  20 
+Pensacola   52  76  57  78  64  76  64  77 /   0   0   0  10  30  80  70  40 
+Destin      56  78  61  80  66  79  67  77 /   0   0   0  10  30  70  70  50 
+Evergreen   44  75  49  78  56  74  59  74 /   0   0   0   0  20  70  70  40 
+Waynesboro  43  72  48  75  56  69  54  70 /   0   0   0   0  40  80  50  10 
+Camden      43  73  48  75  56  71  57  71 /   0   0   0   0  20  70  70  30 
+Crestview   46  77  52  79  59  76  61  74 /   0   0   0  10  20  60  70  40 
+
+&&
+
+.MOB WATCHES/WARNINGS/ADVISORIES...
+AL...None.
+FL...None.
+MS...None.
+GM...None.
+&&
+
+$$
+
+This product is also available on the web at:
+www.weather.gov/mob
+

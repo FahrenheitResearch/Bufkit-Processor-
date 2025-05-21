@@ -1,3 +1,4 @@
 /bufkit-env
 /sounding_processor/__pycache__
 sounding_processor/__pycache__
+**/.claude/settings.local.json

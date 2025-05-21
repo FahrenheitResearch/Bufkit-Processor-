@@ -1,0 +1,90 @@
+086 
+FXUS63 KMPX 260451 CCA
+AFDMPX
+
+Area Forecast Discussion...CORRECTED
+National Weather Service Twin Cities/Chanhassen MN
+1151 PM CDT Tue Oct 25 2022
+
+.UPDATE...
+Issued at 1144 PM CDT Tue Oct 25 2022
+
+Update to include the 06z aviation discussion.
+
+&&
+
+.DISCUSSION...(This evening through Tuesday)
+Issued at 232 PM CDT Tue Oct 25 2022
+
+Key Messages:
+
+- Quiet weather this week, with a slight chance at precipitation 
+  on Thursday.
+
+- Above normal temperature trend by the end of the week. Highs in the
+  low 60s compare to normals of near 50 this weekend.
+
+There is no need to separate time periods with this discussion as the
+weather will basically not change aside from gradually increasing
+high temperatures through this week, with the only exception being
+Thursday. Broad surface high pressure will lift into the northern
+plains on Wednesday, resulting in sunny skies and near normal
+temperatures alongside light winds tomorrow. This will be closely
+followed by a fairly weak low level jet, with enough forcing to
+perhaps produce a few rain showers in western Minnesota on Thursday
+morning, weakening as we head into daylight hours and the jet weakens
+further. Most deterministic models have some form of light
+precipitation over primarily western Minnesota that dissipates before
+it can reach the Twin Cities and western Wisconsin, with trace
+amounts to possibly a few hundredths the most of what we can expect.
+
+After Thursday, upper level flow becomes zonal as an upper level jet
+passes too far north to influence our weather, with a series of weak
+surface high pressure systems not amounting to anything special 
+progress across this the area. Our mid level winds will be the
+primary feature to influence the sensible portion of the forecast,
+with a turn out of the southwest resulting in warming at 925-700mb,
+which should be able to mix down given a neutral boundary layer,
+resulting in rising high temperatures this weekend and into early
+next week. Highs will generally be in the upper 50s to low 60s
+beginning on Friday and lasting into early next week. Our next hint
+of a potential major system arrives by the very end of the period on
+Tuesday, with ensemble solutions showing potential for a more
+significant system. Given this is still 7-10 days out, there is a lot
+that could still change, but for now it does appear our quiet weather
+pattern will begin to shift by the first week of November.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1144 PM CDT Tue Oct 25 2022
+
+VFR conditions continue as satellite imagery depicts a large area of 
+cloud cover in Northern and Central MN. This shield of cloud cover 
+could potentially reduce cigs to near MVFR criteria before sunrise 
+for AXN. Otherwise, high cloud cover will prevail for the remaining 
+terminals. Clouds will mix out through the afternoon as winds 
+undergo a southwesterly shift late afternoon Wednesday between 
+5-10 kts. Cloud cover will return Wednesday overnight but should 
+not cause disruption to VFR categories. 
+
+KMSP...No additional concerns.
+
+/OUTLOOK FOR KMSP/
+WED...VFR. Wind WNW 5-10kts.
+THU...VFR. Wind S 10-15kts. 
+FRI...VFR. Wind SW 10-15kts.
+
+&&
+
+.MPX WATCHES/WARNINGS/ADVISORIES...
+MN...None.
+WI...None.
+&&
+
+$$
+
+
+DISCUSSION...TDH
+AVIATION...RMD
+

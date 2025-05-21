@@ -1,0 +1,164 @@
+664 
+FXUS61 KCAR 262215
+AFDCAR
+
+Area Forecast Discussion
+National Weather Service Caribou ME
+615 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure will lift north across the region tonight. A cold 
+front crosses the region Thursday. High pressure will build 
+across the region Friday through the weekend. Low pressure 
+will approach Monday.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+6 PM Update...
+Latest radar reflectivity imagery shows rain has overspread the
+entire forecast area at this hour. It was also showing a well 
+defined back edge of the rain shield moving toward the Bangor 
+region and Downeast Maine, and the rain there will begin to wind
+down over the next hour or two there. The highest rainfall 
+totals thus far have been across coastal Hancock County and 
+Southern Penobscot counties with amounts generally ranging from 
+one to two inches, with some locally higher amounts. As of this 
+time no major hydro issues reported other than some localized 
+low lying and poor drainage issues. No changes to going forecast
+at time.
+
+previous discussion
+Have expanded the Flood Watch to include northeastern and
+southeastern Aroostook county along with northern Penobscot 
+county. Surface low pressure/upper level disturbance will lift
+north across the region tonight. The system will draw abundant 
+moisture north, with precipitable water values increasing to 
+1.50 to 2.00 inches. Rain, heavy at times, will lift north 
+across the region tonight. Could also have enough elevated 
+instability to support isolated thunderstorms. The rain will 
+then taper to showers, from south to north, overnight. Rain
+totals tonight will generally range from 1 to 2 inches, with
+locally greater totals also expected. The low will exit north 
+toward Labrador Thursday, drawing a cold front across the 
+region. Could have isolated/scattered showers with the cold 
+front across mostly northern and central areas Thursday. Clouds
+should then begin to decrease in the wake of the cold front 
+later Thursday. Low temperatures tonight will range through the 
+50s north, to the mid to upper 50s Downeast. High temperatures 
+Thursday will range from the upper 50s to lower 60s north, to 
+the mid to upper 60s Downeast, in advance of the cold front. 
+Temperatures will then begin to fall in the wake of the cold 
+front during the afternoon.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH SATURDAY/...
+Cold front will be well into the North Atlantic by Thu evening with 
+1030mb sfc high located over the central Great Lakes. High pressure 
+strengthens and builds east overnight with skies clearing. Twd 
+daybreak may be able to see winds decouple acrs the northwest and 
+have undercut guidance in this area and have gone toward the 25th 
+percentile of the NBM with lows in the l/m 20s for Fri morning. 
+Remainder of region should remain closer to NBM lows (around 
+30) given winds remaining mixed over srn and ern zones. 
+
+High pressure builds twd the southeast drg the day Friday with sunny 
+skies expected. Upr lvl flow will remain zonal with little in the 
+way of clouds expected until later in the evening as subtle s/wv 
+moves thru acrs the north. H9 temps drop to below 0C for Friday's 
+highs, yielding temps in the lwr 50s at most locations tho slightly 
+colder acrs the mountains.  
+
+Zonal flow continues Fri night before upr ridge begins to amplify 
+acrs the area on Saturday.  Other than some passing high clouds late 
+Fri night acrs the north very little wx to speak of. Highs on 
+Saturday will be above normal, topping out in the m50s.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+At the end of the short term closed H5 low over the southern Plains 
+begins to open up and eject twd the Northeast. Sunday will feature 
+sunny skies and temps back up to around 60F for highs. Clouds begin 
+to increase ahead of the next H5 trof Sun night. 
+
+Discrepancies continue with 12Z EC keeping sfc high south of Nova 
+Scotia with drier conditions over the area into Mon evening while 
+GFS/CMC bring rain in by afternoon. Have gone with the NBM, which is 
+more of a compromise soln, with chc pops for Downeast after 18z and 
+spreading north from there into the evening hours. Given 
+uncertainties hv capped pops at high chc Mon night into Tue morning. 
+Near normal temps will continue into the middle of next week.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+NEAR TERM: MVFR/IFR, occasional LIFR/VLIFR, tonight. Rain  
+tonight, possibly heavy at times with an isolated thunderstorm 
+also possible. Rain then tapering to showers overnight. 
+Patchy/areas of fog tonight. VFR/MVFR with isolated to 
+scattered showers north, VFR Downeast, Thursday. Variable winds
+around 10 knots, becoming southwest tonight. Southwest winds 10
+to 15 knots, becoming northwest 15 to 25 knots with gusts up to
+30 knots Thursday. South/southeast low level wind shear late 
+this afternoon through the evening. 
+
+SHORT TERM:
+Thursday night...VFR. NW 5-15kts gusts 20-25kts in the evening. 
+
+Friday-Sunday...VFR. WSW 5-15kts.
+
+&&
+
+.MARINE...
+NEAR TERM: Winds/seas below small craft advisory levels tonight.
+A Small Craft Advisory has been issued for Thursday. Rain, with 
+isolated thunderstorms, early tonight then tapering to showers.
+Areas of fog early tonight, then patchy late.
+
+SHORT TERM: SCA for winds gusting to 25-30kts and seas 4-6 ft
+will continue through late Fri morning. After this time expect 
+conditions drop below SCA levels through the weekend.
+
+&&
+
+.HYDROLOGY...
+GOES-E continues to show an impressive deep layer plume of 
+tropical moisture advancing north over the Gulf of Maine into 
+Maine. PWATs approaching and likely exceeding record levels for
+this date. Across Eastern and Northeastern Maine soil moisture 
+remains well above normal for this date in the 90+ percentile. 
+Small rivers and streams in the Flood Watch area are running 
+above normal for today in the 75-90th percentile. Strong upper 
+level dynamics will aid in the efficient producing of rainfall 
+across the already wet antecedent conditions in place. A Flood 
+Watch will continue for the potential of flooding on small 
+rivers, creeks and streams in addition to urban flooding. Flash 
+Flooding cannot be ruled out given the potential of rainfall 
+rates of 1-1.5 inches per hour. One hour flash flood guidance is
+low across the area generally 1-1.4 inches with 3 hour flash 
+flood guidance of 1.5-2 inches. Given these trends including a 
+push northeastward with heavy precip we opted to expand the 
+Flood Watch to include portions of Aroostook and Northern 
+Penobscot.
+
+&&
+
+.CAR WATCHES/WARNINGS/ADVISORIES...
+ME...Flood Watch until 4 AM EDT Thursday for MEZ002-005-006-011-
+     015>017-029-030-032.
+MARINE...Small Craft Advisory from noon Thursday to 11 AM EDT Friday 
+     for ANZ050>052.
+
+&&
+
+$$
+
+Near Term...TWD/Norcross
+Short Term...Buster
+Long Term...Buster
+Aviation...TWD/Norcross/Buster
+Marine...TWD/Norcross/Buster
+Hydrology...Sinko
+

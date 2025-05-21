@@ -1,0 +1,220 @@
+708 
+FXUS61 KOKX 260118
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+918 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+Low pressure approaches from our southeast this evening through 
+tonight and passes to our east Wednesday afternoon. A cold front 
+moves through late Wednesday night. High pressure then builds 
+into the area Thursday through the first half of the weekend. The 
+high departs for the second half of the weekend, eventually giving
+way to approaching low pressure from the south and west early 
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Hoisted a Special Weather Statement for the entire area through
+04Z to highlight the potential for reduced visibilities from 
+patchy dense fog. Vsbys have been falling quickly after sunset, 
+and this should continue into tonight with a moist onshore flow.
+A Dense Fog Advisory may be needed in future updates. 
+Otherwise, forecast remains on track. Nothing more than a few
+light showers expected this evening. Adjusted temperatures once
+again to capture any higher readings from across Long Island 
+due to extended sunny skies.
+
+The area remains on the western side of a large mid level ridge
+with a shortwave trough approaching from the west. The warm 
+front draped across our area earlier has now washed out. Surface
+ridge axis, extending into our area from high pressure to our 
+east, moves farther north slowly overnight as low pressure 
+approaches from our southeast. 
+
+This low will bring a tropical plume of higher moisture air into
+the area, with pwats over the eastern half possibly reaching 
+1.75 inches by late tonight into Wednesday morning, which is 
+above the max moving average for the OKX sounding according to 
+SPC's Sounding Climatology Page. The CAMs appear to be in decent
+agreement on timing and coverage of showers moving from east to
+west across the area. Given the high moisture, moderate to 
+locally heavy showers are possible. No widespread hydrologic 
+impacts are expected. See hydrology section below. Elevated 
+instability increases overnight tonight and an isolated 
+thunderstorm cannot be ruled out across the eastern half of the 
+area, but confidence in this is low. As for timing, showers 
+likely enter eastern portions of the area this evening then 
+move westward overnight. 
+
+Temperatures tonight will be in the lower/mid 60s. 
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Showers will still be working through the area on Wednesday
+morning, but have less moisture to deal with the farther west 
+they get. See hydrology section below. Any showers likely come 
+to an end during the late morning/early afternoon, with some 
+lingering light showers possible through the day. Aforementioned
+surface low pressure passes to our east and continues north and
+east as a shortwave trough and associated broad surface low 
+pressure pass to our north and west. This low will drag a cold 
+front through our area Wednesday night and bring back 
+drier/cooler air. With limited moisture, the cold front moves 
+through with isolated light showers, if not dry.
+
+Highs on Wednesday will be in the mid 60s to lower 70s. Lows 
+Wednesday night will be lowest across the Lower Hudson Valley as
+the cold front moves through here first. Lows here will be in 
+the lower 50s, with mid to upper 50s expected elsewhere.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+Mid-level ridging reestablishes itself across the Northeast
+Thursday and Friday. Conditions dry behind the frontal passage
+late Wed night/early Thursday morning and winds veer from NW to
+NE through Friday as surface high pressure approaches from the 
+Lakes.
+
+The high to the north and ridging aloft should make for a
+pleasant, albeit cool, late week. A cooler air mass advects 
+south and east post frontal, with high temperatures tumbling 
+10-15 degrees from earlier in the week. This cool-down is 
+gradual however, with highs in the mid 60s expected Thursday, 
+lowering to the upper 50s for Friday and Saturday (near climo 
+norms for late Oct).
+
+Global models continue to show a subtropical low spinning up
+well off the Southeast coast, meandering in the western 
+Atlantic into the weekend. Meanwhile, the surface high 
+strengthens as it tracks into New England into the weekend, and 
+the increased pressure gradient between the two pressure centers
+may enhance the flow, especially on Friday, with gusts 20-25 
+mph possible.
+
+A predominantly dry weekend is expected with the high nearby,
+though conditions moisten on Sunday as the high slides 
+offshore, adding to the cloud cover late in the weekend as 
+return flow sets up on the backside. A cutoff low over the Deep 
+South begins to increase rain chances by late Sunday and on 
+Monday as it begins to drift northward. A wet Halloween cannot 
+be ruled out at this point, with guidance continuing to resolve 
+temporal and spatial differences of this system. For now, capped
+PoPs at chance (40-45%) given how late in the period this 
+remains. Otherwise, maintained a balanced approach using 
+national blended guidance.
+
+&&
+
+.AVIATION /01Z WEDNESDAY THROUGH SUNDAY/...
+Weak low pressure will approach from the southeast tonight, and
+pass east Wednesday afternoon. 
+
+All terminals except KSWF currently experiencing at least LIFR
+cond, with cigs 200-400 ft. Pockets of VLIFR expected as fog 
+develops in mainly light onshore flow. Showers are likely late
+tonight into Wednesday morning which may briefly improve 
+conditions, but not by much. 
+
+Conds will take some time to improve, with MVFR not expected
+until mid to later afternoon 
+
+
+Winds tonight into Wed AM will be light and mainly out of the 
+SE-E. A wind shift to the SE and then S or SW likely in the
+afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Expect AMD for changes in flight cat. Cannot rule out a rumble
+of thunder late tonight.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY... 
+.Wednesday night...Becoming VFR in the evening, except IFR/LIFR 
+at KGON, becoming VFR after midnight. 
+.Thursday...VFR. NW winds 10-15G20kt. 
+.Friday and Saturday...VFR. 
+.Sunday...VFR in the morning. Sub VFR possible late at night
+with any showers. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory has been issued through 15Z Wednesday with
+lowering vsbys under 1 nm as fog develops and expands tonight. 
+
+No SCA conditions are expected through Wednesday night. Winds 
+do increase with the passing of a cold front Wednesday night, 
+but gusts stay around 15-20 kt.
+
+Increasing northeasterly fetch likely brings 25-kt gusts to the
+ocean waters on Friday, with seas building 4-6 ft during this
+time. Winds subside below SCA criteria Friday night, though 
+seas likely remain elevated near 5 ft on Saturday, and perhaps 
+into Sunday as well. 
+
+Non-ocean waters are expected to remain below SCA criteria
+Thursday through the weekend.
+
+&&
+
+.HYDROLOGY...
+Moderate to locally heavy showers, and an isolated thunderstorm, 
+will move from east to west tonight into Wednesday morning 
+associated with low pressure that approaching from the SE. PW
+increases to 1.75 inches for the eastern half of the area and 
+this is where the higher rainfall totals can be expected. 
+However, outside of possible minor flooding in poor drainage 
+areas, no other flooding is expected. Average totals of a 
+quarter to half an inch can be expected across southern CT and 
+Long Island, with a tenth to a quarter of an inch for the rest 
+of the area. There will be locally higher amounts under the 
+heaviest showers. 
+
+Overall, no widespread hydrologic impacts are expected through
+early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will be running high through Wednesday due to
+a new moon. Therefore for Wednesday's high tide cycle minor 
+coastal flooding benchmarks may be approached or slightly 
+exceeded across the south shore back bays of Nassau, Queens, and
+Fairfield, CT.
+
+A ENE swell begins to increase into Friday. With increasing
+swell energy despite an offshore wind preceding the swell 
+increase, minor coastal flood benchmarks may again be approached
+for the Friday and Saturday morning high tides for the same 
+locations.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT Wednesday for ANZ331-332-
+     335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/JT
+NEAR TERM...DR/JT
+SHORT TERM...JT
+LONG TERM...DR
+AVIATION...JE/BG
+MARINE...DR/JT
+HYDROLOGY...DR/JT
+

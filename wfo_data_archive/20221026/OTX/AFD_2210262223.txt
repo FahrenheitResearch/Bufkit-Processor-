@@ -1,0 +1,127 @@
+704 
+FXUS66 KOTX 262223
+AFDOTX
+
+Area Forecast Discussion
+National Weather Service Spokane WA
+323 PM PDT Wed Oct 26 2022
+
+.SYNOPSIS....
+An active weather pattern will deliver several chancs of precipitation
+through the weekend into early next week. Gusty winds are also 
+expected on Thursday and again Sunday into early Monday. 
+Seasonably temperatures are expected through the weekend with 
+cooler than average temperatures possible by the middle of next 
+week including a good chance of widespread freezing temperatures.
+
+&&
+
+.DISCUSSION...
+Tonight through Friday night: Trof with its limited conditionally 
+unstable air allowing light showers to linger over the North Idaho 
+and extreme Eastern Washington should be moved out to the southeast 
+and allowing a positively tilted ridge tonight with a more stable 
+atmosphere to take its place resulting in a generally dry forecast 
+heading into Thursday. An exception will be within close proximity of 
+the Cascade Crest as some spillover might occur with the more active 
+zonal flow to the west of the Cascades heading into Thursday. 
+Another weather system sags a southwest to northeast oriented 
+moisture plume across Eastern Washington and North Idaho starting 
+late Thursday night. This orientation favors a substantial rain 
+shadow between the lee of the Cascade Crest, so substantial in fact 
+that little if any precipitation may occur over the Idaho Panhandle 
+and higher terrain of Northeast Washington during this period with 
+the plume weakening as it moves through. Forecast temps show a 
+warming trend through the remainder of the workweek. There is a 
+tendency for more gusty low level Southerly/southwest winds, 
+especially Thursday with the flattening out of the ridge resulting 
+in closer proximity of the jet stream and hints of a surface low 
+passing from west to east within close proximity of the British 
+Columbia Border. 
+/Pelatti
+
+Saturday and Sunday...Ensemble solutions are in good agreement 
+for the first half of the weekend and keep energetic westerly 
+flow poised over southern BC. This should keep most of the region 
+dry however with westerly winds in the lower portions of the 
+atmosphere. However residual moisture from Friday nights front 
+should keep some light orographic precipitation in the forecast 
+near the Cascade Crest and over the ID Panhandle. With the jet 
+being well to our north, we should see mild temperatures with 
+highs generally in the 50s in the valleys. By Sunday, the jet will
+begin sagging south toward the region which will begin to 
+introduce a weak atmospheric river with precipitable water values 
+increasing to 160-190 percent of normal. The weak river will 
+continue to sag slowly south through Monday. The incoming river is
+expected to deliver a steady increase in the chances of 
+precipitation from NW to SE across the region. However, since the 
+mid-level flow will remain primarily out of the west, we will 
+continue to see a well-defined rain shadow in the lee of the 
+Cascades. Total precipitation amounts from Sunday into Monday will
+range from 1-1.5” near the Cascade Crest to 0.25-0.60” over the 
+Panhandle. Meanwhile over the Columbia Basin precipitation 
+amounts will be less than an tenth of an inch. Based on the 
+relatively mild temperatures before the onset of the 
+precipitation, snow should not be a major issue. The snow levels 
+will generally be 5000’ or higher before the moisture arrives and 
+won’t fall until the passage of the atmospheric river and 
+associated cold front. Consequently we don’t expect this to impact
+most of our mountain passes, with the possible exception of 
+Washington Pass where snow totals could range from 6-12 inches. 
+However the NBM forecasts lately have generally over forecast the 
+snow amounts and can’t help but think this trend will continue. 
+While most areas won’t see snow, many valley locations should be 
+subject to increasing winds. 850 mb winds ahead of the upcoming 
+system could range from 35-45 knots extending from the Dalles to 
+Spokane, and once the cold air advection sets in behind the cold 
+front there’s a chance some of these winds could mix down to the 
+ground. There are timing differences at this point, but many of 
+the ensembles are hinting that this will occur either late Sunday 
+or early Monday and should not interfere with Halloween trick or 
+treat activities. 
+
+Tuesday and Wednesday...The weather for these days looks decidedly
+cooler as the upper level jet sags well to our south with an upper
+level trough digging in across the region. The 850 mb temperatures
+will likely drop below 0c over most of the Inland NW which should
+equate to high temperatures only in the 40s and overnight lows
+dipping well below freezing. Although it doesn’t look terribly wet
+during this period, the presence of the trough suggests we could
+see the development of showers due to deep instability over the
+entire region, weak forcing from the trough, and some orographic
+ascent over the mountains. Snow levels by this point could drop to
+the valley floors at most locations at least during the overnight
+and early morning hours. fx
+
+
+&&
+
+.AVIATION... 
+18Z TAFS: Ceilings will remain low around KGEG to KCOE through the
+morning, before increasing in the afternoon. Showers will linger
+over the mountains in the Idaho Panhandle. Ceilings will lower
+again across Central and Eastern Washington overnight tonight. /KM
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Spokane        34  54  39  55  39  54 /  10   0  10  20  30  20 
+Coeur d'Alene  36  51  37  52  39  52 /  10  10  10  30  40  30 
+Pullman        35  53  33  54  36  52 /   0   0   0  10  20  30 
+Lewiston       39  60  40  58  43  58 /   0   0   0   0  10  20 
+Colville       32  50  28  52  28  52 /  10  10  20  40  30  10 
+Sandpoint      36  48  35  47  36  48 /  10  20  10  30  40  30 
+Kellogg        35  50  37  49  41  46 /  10  10   0  20  30  40 
+Moses Lake     37  61  39  58  34  57 /  10   0  10  20  20  10 
+Wenatchee      39  59  41  57  39  55 /  20  10  30  30  30  20 
+Omak           35  54  38  57  36  55 /  10  10  30  20  20  10 
+
+&&
+
+.OTX WATCHES/WARNINGS/ADVISORIES...
+ID...None.
+WA...None.
+&&
+
+$$
+

@@ -1,0 +1,122 @@
+046 
+FXUS66 KPDT 262357 AAA
+AFDPDT
+
+Area Forecast Discussion
+National Weather Service Pendleton OR
+455 PM PDT Wed Oct 26 2022
+
+Updated Aviation Discussion
+
+.SHORT TERM...Tonight through Friday Night...The upper trough that
+brought snow to the mountains has moved into eastern Idaho and a
+drier northwest flow has developed over the area. A few rain and 
+snow showers linger over the Blue Mountains and Wallowa county but
+they should be ending in the next couple of hours. Have cancelled
+the Winter Weather Advisory for the northern Blue Mountains a few
+hours early. The trough will develop into a cutoff low and sink 
+southward tonight and tomorrow arriving into New Mexico by 
+tomorrow afternoon. The northwest flow over the area will turn 
+westerly by tomorrow morning as another trough develops in the 
+Gulf of Alaska. This will give us dry weather tonight and tomorrow
+with just a few light rain and snow showers over the Washington 
+Cascades. Snow levels will rise from 3500 feet this afternoon to 
+5500 feet by tomorrow afternoon so mainly rain will be seen at 
+pass levels. Temperatures tonight will be a few degrees cooler 
+than last night due to less cloud cover. Lows will be in the 30s 
+and lower 40s with upper teens and 20s in the mountains. Breezy 
+winds this afternoon will decrease this evening. Temperatures 
+tomorrow will be several degrees warmer with highs in the mid 50s 
+to lower 60s and in the 40s and lower 50s in the mountains.
+
+Thursday night and Friday the trough will move to the British 
+Columbia coast and the flow will turn southwesterly with a 
+precipitation band setting up along the Cascades bringing a 
+chance of rain and snow to the Washington Cascades reaching as far
+as the Columbia Gorge and Yakima and Kittitas Valleys on Friday. 
+Snow levels will rise to 6500 feet by Friday so rain is 
+anticipated with amounts of one to two tenths of an inch expected.
+Temperatures Thursday night will be in the upper 30s to mid 40s 
+with mid 20s to mid 30s in the mountains. Temperatures will be a 
+couple of degrees warmer than Thursday. Friday will see the trough
+axis move to the Cascades and a slight chance of precipitation 
+will spread across the Columbia Basin though not into the eastern 
+mountains. Rain amounts will be light. Temperatures Friday night 
+will be similar to Thursday night. Perry/83
+
+.LONG TERM...Saturday through Wednesday...Predominantly active 
+weather is likely to continue through the extended period, with 
+zonal flow and a weak frontal boundary expected to stall over the 
+forecast region for Saturday, and broad troughing with lowering snow 
+levels favored as the most likely solution Monday onward. While 
+confidence is high in a troughing pattern for the Pacific Northwest 
+(90%), pattern details remain unclear beyond Sunday as ensemble 
+cluster analysis reveals the usual suspects (timing and amplitude 
+discrepancies among ensemble members) driving forecast uncertainty. 
+
+The resulting forecast paints light PoPs across the forecast area 
+Saturday and Sunday, primarily focused on the Cascades due to the 
+zonal flow aloft. Snow levels of 5-7 kft are anticipated which is 
+well above mountain pass levels with just light rain and snow for 
+the Cascades in the forecast. Deterministic guidance suggests some 
+weak synoptic lift and shortwave activity Saturday morning along a 
+SW-NE oriented line from central Oregon through northeast Oregon. 
+This may be enough for some light precipitation across central and 
+eastern Oregon, though this would be <0.10" with the best chances 
+for the mountains where orographic lift would aid any synoptic lift. 
+Zonal flow will keep upslope precipitation chances for the Cascades 
+Sunday, though snow levels of 6-8 kft will again keep snow above 
+pass levels.
+
+Looking beyond the weekend, the NBM blankets more widespread PoPs 
+over the forecast area Monday through Wednesday due to the favored 
+troughing pattern aloft. Potential impacts during this period 
+include widespread breezy to locally windy conditions Monday 
+followed by NBM-advertised snow levels lowering enough to dust areas 
+above 2000 ft with some light snow.
+
+Delving deeper into 12Z ensemble clusters reveals two likely 
+solutions for Tuesday and Wednesday: the first, favored by roughly 
+half of all ensemble members, is a deep trough over the Pacific 
+Northwest. This would keep the forecast area wetter and cooler than 
+the ensemble mean solution. In contrast, the other half of ensemble 
+members suggest weaker, less amplified troughing for the Pacific 
+Northwest. This solution would keep the forecast area warmer and 
+drier. Looking at EOF patterns, timing differences account for 
+roughly half of the variance Monday through Wednesday, while 
+amplitude differences account for a further 25-30%. Plunkett/86
+
+&&
+
+.AVIATION...00Z TAFS...Showers have ended, leaving SCT-BKN mid and 
+high level clouds with varying bases AOA 5K feet. This will continue 
+through 00Z/28th. Breezy winds will diminish overnight and will be 
+mostly 10 kts or less on Thursday.   Wister/85
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+PDT  35  61  41  62 /   0   0   0   0 
+ALW  37  61  43  62 /   0   0   0   0 
+PSC  44  63  46  63 /   0   0   0  10 
+YKM  34  60  40  60 /  10   0  10  30 
+HRI  39  63  43  63 /   0   0   0   0 
+ELN  36  58  39  58 /  20   0  20  30 
+RDM  25  59  33  60 /   0   0   0  10 
+LGD  28  49  34  53 /   0   0   0   0 
+GCD  25  54  32  58 /   0   0   0   0 
+DLS  39  63  45  61 /  10   0  20  30 
+
+&&
+
+.PDT WATCHES/WARNINGS/ADVISORIES...
+OR...None.
+WA...None.
+&&
+
+$$
+
+SHORT TERM...83
+LONG TERM....86
+AVIATION...85
+

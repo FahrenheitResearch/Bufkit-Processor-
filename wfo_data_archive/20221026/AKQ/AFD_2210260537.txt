@@ -1,0 +1,157 @@
+668 
+FXUS61 KAKQ 260537
+AFDAKQ
+
+AREA FORECAST DISCUSSION
+National Weather Service Wakefield VA
+137 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Fog is expected to persist through the morning before gradually
+lifting. A few showers are possible later today ahead of a cold
+front. High pressure north of the area builds southward from
+Friday through Saturday. Another low pressure system impacts the
+local area early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+As of 1000 PM EDT Tuesday...
+
+Evening sfc analysis depicts a coastal low off the SE coast with
+a coastal trough lingering along the coast and high pressure 
+aloft. Low stratus deck continues to push inland tonight with 
+moisture pushing west as the coastal trough moves a bit closer 
+to shore. Fog (coastal fog) has begun to develop and will be 
+likely tonight into mid morning, especially near the coast (due 
+to increasing dew points over the cooler ocean temps). As such
+have issued an SPS for portions of the coast until 1 AM due to
+visibilities of 1/2 to 3/4 miles. A secondary area of locally 
+dense fog may develop in the W Piedmont (over similar areas that
+saw dense fog this morning) where temps are a little cooler. 
+Some patchy drizzle will also possible. Lows tonight will be 
+tempered by insulating clouds, generally in the lower to mid 50s
+W and mid and upper 50s to near 60F near the coast.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH FRIDAY NIGHT/...
+As of 825 PM EDT Tuesday...
+
+Low level winds swing around to the south on Wednesday ahead of the 
+aforementioned trough/surface low moving into southern Canada by Wed 
+evening. Low clouds may hang on into the afternoon before 
+clearing across E portions of the area and clearing by late 
+afternoon across W portions of the area behind the cold front.
+Stratus holding on longer than modeled seems possible given
+abundant moisture and additional forcing invof the cold front.
+Latest hires guidance suggests this with the HRRR/NAM/ARW
+showing highs only in the lower 60s for the Piedmont. However,
+if clearing occurs behind the front, temps may quickly rise 
+into the upper 60s. Therefore, trended lower with temps and now
+have highs in the mid to upper 60s W and mid 70s SE (where the
+best chance for clearing resides). Expect a sharp temp gradient
+depending on where clouds clear ahead of the clouds from the
+cold front. Some areas in SE VA/NE NC may approach the upper
+70s. Spotty showers will be possible across the region during 
+the afternoon into the early evening as a cold front pushes E. 
+Not expecting much in the way of measurable rainfall for this 
+event as deep moisture will be in short supply. Any lingering 
+showers will be confined to the coast by evening and well 
+offshore after midnight as the attendant cold front moves across
+the area. Overnight lows fall into the upper 40s W to the mid 
+50s along the coast. 
+
+High pressure builds NW of the area on Thursday and moves into NY by 
+Friday. Expecting dry conditions for our area Thursday with temps in 
+the mid 60s to low 70s. Lows overnight cool into the low 40s NW to 
+the low 50s for SE VA and NE NC. Winds turn NE on Friday as high 
+pressure translates eastward. Increasing onshore flow/moisture will 
+cause increasing clouds to spread from E to W Friday, keeping 
+temperatures generally in the 60s. Remaining dry overnight with lows 
+in the 40s inland and low to mid 50s near the water.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+As of 315 PM EDT Tuesday...
+
+High pressure ridges southward Saturday into Sunday as low pressure 
+approaches from the Gulf Coast. Another area of low pressure moves 
+northward offshore and could bring a few showers to coastal NE 
+NC Saturday. Moisture will be limited, however. Blended guidance
+continues to show some potential for light precip Sunday 
+morning but will limit PoPs to slight chance until deeper 
+moisture arrives later Sunday into Monday and lingers into early
+Tuesday before moving offshore. High temps inch upward through 
+the 60s Sat/Sun with upper 60s and low 70s by Mon/Tue. Overnight
+lows in the 40s and 50s Sat through Tue.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+As of 135 AM EDT Wednesday...
+
+Widespread fog has overspread the terminals early this morning
+with VSBYs of 1/4-1SM (and CIGs of 200-300ft AGL). The fog (and
+LIFR to VLIFR conditions) will persist through 13-15z before
+gradually lifting. Even after the fog lifts, IFR to LIFR CIGs
+will likely linger into the midday to early aftn timeframe
+before becoming MVFR to VFR and potentially scattering out. CIGs
+should become VFR at all of the terminals by 21-00z. Winds will
+be generally light and variable this morning, becoming SSW 5-10 
+kt later today. Patchy drizzle is possible this morning, and a 
+few showers will be possible this afternoon/evening along and
+ahead of a cold front pushing through. However, confidence in 
+coverage remains too low to reflect in the TAFs.
+
+Winds shift to the N-NE behind the cold front tonight with 
+MVFR stratus possible in SE VA/NE NC. VFR conditions are
+expected on Thursday. Low stratus may result in flight
+restrictions Thu night into Friday.
+
+&&
+
+.MARINE...
+As of 930 PM EDT Tuesday...
+
+As anticipated, fog has set in over the local waters late this
+evening and will become dense (1/4 to 1/2 NM) overnight. As
+such, a marine dense fog advisory is in effect for all local
+waters and will remain in place through 10 AM EDT Wednesday.
+Otherwise, winds will be light and variable on the Ches
+Bay, Currituck Sound, and eastern VA Rivers overnight with E-NE
+winds around 5 kt on the coastal waters given weak high pressure
+overhead.
+
+Weak high pressure shifts offshore Wed. Winds will become SSE 
+10 kt or less on Wed, in advance of the next cold front. The 
+cold front will cross the waters Wed night, with marginal SCA 
+conditions possible (esply for the Ches Bay) with the initial 
+CAA surge late Wednesday night into Thu morning. Strong high 
+pressure will then build from the Eastern Great Lakes into New 
+England Thu night into the weekend resulting in an extended 
+period of NE flow with SCA conditions likely for much of the 
+marine area. Seas will generally be 2-4 ft through midweek, and 
+then build to 5-8 ft late Fri into this weekend, with 2-4 ft 
+waves in the Bay (3-5 ft at the mouth of the Bay).
+
+&&
+
+.AKQ WATCHES/WARNINGS/ADVISORIES...
+MD...None.
+NC...None.
+VA...None.
+MARINE...Dense Fog Advisory until 10 AM EDT this morning for ANZ630>638-
+     650-652-654-656-658.
+
+&&
+
+$$
+SYNOPSIS...RHR
+NEAR TERM...RMM
+SHORT TERM...RHR/RMM
+LONG TERM...RHR
+AVIATION...ERI
+MARINE...JDM/TMG
+

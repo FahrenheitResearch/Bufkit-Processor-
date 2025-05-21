@@ -1,0 +1,89 @@
+794 
+FXUS63 KDMX 260502
+AFDDMX
+
+Area Forecast Discussion
+National Weather Service Des Moines IA
+1202 AM CDT Wed Oct 26 2022
+
+...Updated for the 06z Aviation Discussion...
+
+.DISCUSSION.../Tonight through Tuesday/
+Issued at 324 PM CDT Tue Oct 25 2022
+
+Key Messages:
+
+- Clearing overnight
+- Low chances for precipitation for parts of northwest and western
+  Iowa late Wednesday night into Thursday.
+- Otherwise, mostly dry and near to above normal temperatures
+  through the weekend.
+
+Upper low pressure and an attendant surface low are over southeast 
+Missouri this afternoon. A portion of the warm conveyor belt is 
+wrapping around mid-level moisture into central Iowa but with dry 
+air below 700 mb, little to no precipitation will occur in the 
+forecast area outside maybe some sprinkles or very light rain into 
+far southeast Davis county in the next few hours. There is a band of 
+stratus that has transitioned to cellular clouds, moving through 
+parts of central and north central Iowa. These clouds will continue 
+move east/southeast into this evening and the mid-level clouds over 
+the southeast will eventually pull out as the upper low passes to 
+the east. 
+
+Wednesday will begin the day mostly sunny as high pressure passes 
+across the state. Return flow and theta-e advection on the backside 
+of the high will lead to increasing clouds over western Iowa by the 
+afternoon. Did introduce rain chances for late Wednesday night over 
+parts of northwest Iowa as the stronger push of theta-e advection 
+moves through that area and will feature deeper saturation. The 
+aforementioned surface low will stall over the Great Lakes region 
+with a surface ridge becoming established westward of the parent 
+high. This ridge will build into Iowa on Thursday and will erode the 
+low moisture and cloud bases will lift back to 10 kft for much of 
+the area except for the west. Some low precipitation chances remain 
+over the far west on Thursday while an upper low digs southeast 
+through Colorado and into New Mexico. This upper low will become cut 
+off as it settles over Texas on Friday then will eventually shear 
+out and be ingested into the westerlies established to the north. 
+With diminished forcing and moisture as this system shears out, so 
+at this point, have kept next Sunday night and Monday dry.
+
+For Iowa, the westerly flow will feature mostly dry conditions and 
+near to above temperatures as top soil conditions dry and become 
+easily warmed during the daytime hours. Expect temperatures this 
+weekend and into early next week will be in the upper 50s to even 
+upper 60s. This flow also features well above temperature anomalies 
+through a large portion of the Canadian Provinces, thus any cold air 
+is well to the north. The long wave trough development discussed 
+yesterday, is more delayed into next week than it appeared 24 hrs 
+ago and in fact, temperature anomalies for central Iowa only 
+transition from above normal to more neutral by mid to late next 
+week.
+
+&&
+
+.AVIATION.../For the 06Z TAFS through 06Z Wednesday night/
+Issued at 1201 AM CDT Wed Oct 26 2022
+
+Patchy high clouds should exit east soon leading to clear skies
+into Wednesday. VFR conditions are still anticipated through the
+period, although confidence has decreased just a bit overnight 
+with several surface obs already at or near 100% RH and fog 
+possible. Have omitted mention however with winds just above the 
+surface quickly jumping up into the teens /kts/ and likely 
+creating too much turbulence for fog formation. High cloudiness is
+expected to increase late in the period into Wednesday evening as
+well.
+
+&&
+
+.DMX WATCHES/WARNINGS/ADVISORIES...NONE.
+
+&&
+
+$$
+
+DISCUSSION...Donavon
+AVIATION...Small
+

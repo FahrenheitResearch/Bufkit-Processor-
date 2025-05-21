@@ -1,0 +1,88 @@
+895 
+FXUS63 KDDC 261905
+AFDDDC
+
+Area Forecast Discussion
+National Weather Service Dodge City KS
+205 PM CDT Wed Oct 26 2022
+
+...UPDATE TO LONG TERM...
+
+.SHORT TERM...(This evening through Thursday)
+Issued at 1202 PM CDT Wed Oct 26 2022
+
+Short range models show an upper level trough of low pressure 
+dropping south-southeast through the Great Basin tonight and into 
+the Four Corners Region early tomorrow, setting up an increasingly 
+difluent southwest flow aloft across the Western High Plains. Lee 
+side cyclogenesis is still projected late tonight/early morning 
+Thursday across southeast Colorado and northeast New Mexico in 
+response to the approaching system. The strengthening low is then 
+expected to shift southeast into west Texas by Thursday afternoon 
+with an attendant frontal boundary extending northeast into western 
+Kansas. Although the bulk of the upper level system will track just 
+to our south, a few showers will still be possible during the day as 
+H5 vort maxima eject out of the advancing trough axis, lifting 
+northeast and interacting with the frontal boundary in western/central
+Kansas. A lack of deep moisture and weak QPF fields suggest minimal
+potential rain amounts for those that see any rain at all.
+
+Temperatures will not be quite a cool tonight as prevailing southerlies
+draw slightly warmer air into western Kansas. Lows are expected to
+range from the mid/upper 30s(F) in west central Kansas to the lower/mid
+40s(F) farther south and east. Increased cloud cover and possible areas
+of light rain ahead of an approaching cold front will result in cooler
+temperatures tomorrow. Highs are only expected to reach the 50s(F)
+in west central Kansas to possibly the lower/mid 60s(F) closer to the
+Oklahoma border.
+
+.LONG TERM...(Thursday night through Wednesday)
+Issued at 202 PM CDT Wed Oct 26 2022
+
+Medium range models indicate a closed upper low shifting eastward 
+through north Texas to begin the period Friday, limiting what any
+light rain chances there are to our extreme southern fringe before
+the system begins lifting northeast into the Central Plains Saturday.
+Otherwise, much drier conditions resume through the weekend as weak
+ridging aloft builds in across the Colorado Rockies and Western High
+Plains. Prevailing northeasterlies due to a surface low shifting 
+southeast across Texas will help reinforce a cooler air mass across
+the high plains of western Kansas Friday. Depending on the timing
+of expected cloud cover scattering out, look for highs in the upper
+50s(F) to the lower 60s(F), possibly slightly higher if clouds clear
+out soon enough. A gradual warming trend is expected to carry highs
+well into the mid/upper 60s(F) by Sunday as weak ridging aloft 
+approaches from the west.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1115 AM CDT Wed Oct 26 2022
+
+VFR conditions will prevail in vicinity of all TAF sites through 
+early Thursday. South-southeasterly winds 15 to 30kt through late 
+afternoon are expected to gradually subside somewhat late this 
+evening through the overnight with loss of daytime heating.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DDC  43  61  40  63 /   0  30  30  10 
+GCK  41  60  36  61 /   0  30  30  10 
+EHA  41  60  36  60 /   0  30  50  10 
+LBL  43  63  38  60 /   0  30  60  10 
+HYS  43  58  38  63 /  20  40  30   0 
+P28  45  63  44  64 /   0  30  40  20 
+
+&&
+
+.DDC WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+SHORT TERM...JJohnson
+LONG TERM...JJohnson
+AVIATION...JJohnson
+

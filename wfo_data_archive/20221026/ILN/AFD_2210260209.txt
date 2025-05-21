@@ -1,0 +1,109 @@
+690 
+FXUS61 KILN 260209
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+1009 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+Low pressure system slowly moves through the Midwest region
+tonight, finally providing some much needed rainfall. Cold front
+moves through early Wednesday morning, keeping temperatures 
+just below seasonal normals through the middle of the week. 
+Temperatures trend warmer heading into the weekend, with dry 
+weather persisting until the next low pressure system moves in 
+for the end of the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+A quickly occluding low pressure system will continue to bring
+good chance of showers overnight. The best coverage will be late
+this evening until just past midnight as an initial band of rain
+at the nose of a 35-40 knot LLJ pushes northeast ahead of the 
+low. Later, a band of weakening showers just ahead of the 
+surface boundary keeps a chance of rain going before moisture 
+becomes shallow toward morning. Lows tonight will dip to around 
+50 degrees.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Some light, scattered showers remain possible behind the cold 
+front as a negatively tilted H5 trough slowly pivots through our
+fa. This pattern will create a cloudy, wet and breezy day on 
+Wednesday. Temperatures will be non-diurnal on Wednesday, 
+decreasing through the morning hours and eventually remaining 
+gridlocked in the lower to middle 50s the remainder of the day. 
+
+Showers will first exit the Tristate area (likely by the early
+afternoon), lingering across portions of central and west-
+central OH through the mid to late afternoon hours based on 
+latest hi-res model trends. 
+
+H5 trough pivots east of our CWA Wednesday evening, with
+westerly flow aloft pulling in some drier air. Deep moisture
+with the trough is shunted eastward, allowing for clouds to
+dissolve Wednesday night. Pressure gradient loosens as high
+pressure builds in from the Central Plains, allowing winds to
+lighten overnight, but still remain around 5-10 mph out of the
+north. Overnight lows will dip into the 30s for the majority of
+locations.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+Surface high pressure will extend across our region Thursday into 
+Friday. It will be dry with seasonly cool temperatures on Thursday 
+with highs in the mid 50s to the lower 60s. Temperatures will modify 
+into the 60s by Friday. Lows will be in the 30s and 40s. 
+
+There remains some uncertainty with the timing and placement of a 
+southern stream upper level low as it ejects northeast toward the 
+Ohio Valley and opens up this weekend into early next week. The 
+latest operational runs continue to be just a bit slower than some 
+of the ensemble blends, so have maintained a slower trend for pcpn 
+chances Saturday into Saturday night. Have also capped PoPs at 
+chance for Sunday until confidence increases to perhaps bump them up 
+to the likely category. Pcpn exits during the Monday/Tuesday time 
+frame as high pressure moves back into the region. Highs will remain 
+in the 60s and lows mainly in the 40s, a little bit above
+normal.
+
+&&
+
+.AVIATION /02Z WEDNESDAY THROUGH SUNDAY/...
+Showers will increase across the terminals from west to east
+this evening, reaching Columbus shortly after midnight. Based on
+upstream trends, expect these showers will drop visibility to
+the 3-5 mile range at times before exiting to the northeast.
+Ceilings below 3,000 feet appear patchy with this initial
+precipitation, so have kept cloud bases in the VFR range through
+most of the night.
+
+A trailing cold front will usher in cool and damp air which 
+will provide MVFR to borderline IFR ceilings Wednesday morning.
+Westerly to northwesterly wind gusts in the 20-25 knot range 
+are likely in cold air advection during the afternoon. Drier 
+air eventually arrives near the end of the TAF period as high 
+pressure builds in from the northwest.
+
+OUTLOOK...No significant weather expected.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+KY...None.
+IN...None.
+
+&&
+
+$$
+SYNOPSIS...Clark
+NEAR TERM...
+SHORT TERM...Clark
+LONG TERM...Hickman
+AVIATION...
+

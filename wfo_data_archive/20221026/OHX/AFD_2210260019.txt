@@ -1,0 +1,113 @@
+223 
+FXUS64 KOHX 260019
+AFDOHX
+
+Area Forecast Discussion
+National Weather Service Nashville TN
+719 PM CDT Tue Oct 25 2022
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 712 PM CDT Tue Oct 25 2022
+
+Rain is making its way through the forecast area. By midnight or
+slightly before it will be all gone. Updated the grids to remove
+the tornado watch /a couple of hours ago/ and to remove the wind
+advisory that just expired. Most places across the CWA got rain
+today and some place even got an inch plus. Not sure how much of
+an effect this will have on drought conditions...but it at least 
+helped the dry fire concerns. The remainder of tonight once the 
+rain moves out will leave cloudy skies and lows in the 40s. Made a
+few tweaks to overnight lows across the south. Will have to 
+update the forecast again later for removing the rain as it moves 
+out of the CWA.
+
+&&
+
+.SHORT TERM...
+(This afternoon through Thursday Night) 
+Issued at 224 PM CDT Tue Oct 25 2022
+
+Band of convection now moving across the TN river. Instability has 
+been very limited but forcing and shear is lining up. No history of 
+any wind damage as of yet but we could still get a couple strong or 
+even severe storms in our southwest in the next couple of hours. Mid 
+level weak rotation has been indicated to our west so perhaps a 
+spinup or two in our southwest as well. The tornado watch does 
+include Wayne Lawrence and Giles counties and is in effect until 7 
+pm. Otw, one half to three quarters of an inch can be expected in 
+terms of rainfall. The activity will spread eastward reaching the i-
+65 corridor between 4 pm and 6 pm, and then the Plateau after 7 pm. 
+By 9 pm or 10 pm, the consequential convection will be exiting our 
+cwa.  
+
+In the post frontal sector, the upper low will lift northeast and 
+along the OH River. NVA is the dominating mode in the potential dry 
+sector area. Thus, we will undergo a dry slot which means pops will 
+drop off quickly this evening. We could still hang on to some 
+isolated showers in our north and northwest into and perhaps 
+through mid evening. 
+
+Moving on, surface high to build in on Wednesday. Temperatures will 
+cool to more seasonal levels. 
+
+&&
+
+.LONG TERM...
+(Friday through next Tuesday)
+Issued at 224 PM CDT Tue Oct 25 2022
+
+In the extended forecast, upper low over the southern rockies will 
+move eastward and bring some active weather to the deep and perhaps 
+mid south. Associated surface low will strengthen over the 
+northwestern gulf. This feature will weaken as it moves our way but 
+will still bring a slug of shower activity across the area this 
+weekend. Rainfall amounts look like a third to one half of an inch. 
+The aforementioned upper low will weaken as well but as an open wave 
+will take its time exiting the area. Thus, some light shower 
+activity could persist into Monday. 
+
+For the extended temps, values will run close to normal although 
+diurnal spreads will be on the low side given the clouds and 
+showers. Its looking slightly warmer into mid week. 
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 625 PM CDT Tue Oct 25 2022
+
+Periods of VFR/MVFR expected over the next 5 hours before all
+terminals drop to MVFR overnight and into tomorrow as a low cloud
+deck moves into the area. Scattered showers continue, mainly 
+impacting CSV until 04Z. Southwesterly winds will become westerly 
+around 12Z, before becoming northerly near the end of the current 
+TAF period.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Nashville      48  63  45  69 /  30   0   0   0 
+Clarksville    47  63  40  68 /  10   0   0   0 
+Crossville     43  54  43  63 / 100   0   0   0 
+Columbia       45  65  45  69 /  10   0   0   0 
+Cookeville     45  58  44  65 /  90   0   0   0 
+Jamestown      44  55  43  62 / 100  10   0   0 
+Lawrenceburg   45  63  46  69 /  20   0   0   0 
+Murfreesboro   45  63  44  69 /  40   0   0   0 
+Waverly        45  64  41  68 /  10   0   0   0 
+
+&&
+
+.OHX WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+UPDATE.......12
+SHORT TERM...21
+LONG TERM....21
+AVIATION.....12
+

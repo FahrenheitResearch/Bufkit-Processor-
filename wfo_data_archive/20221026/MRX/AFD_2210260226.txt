@@ -1,0 +1,177 @@
+862 
+FXUS64 KMRX 260226
+AFDMRX
+
+Area Forecast Discussion
+National Weather Service Morristown TN
+1026 PM EDT Tue Oct 25 2022
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 1022 PM EDT Tue Oct 25 2022
+
+The line of showers ahead of an approaching front continues to
+move eastward and weaken this evening with no lightning strikes
+observed in the past hour. This is very much in line with the
+strong lack in instability. The speed of this line has been a bit
+faster than previously expected, which led to a reduction in PoPs
+during the second half of the night. Also, many places have 
+remained milder due to downsloping winds, which led to a slight 
+increase in temperatures through the rest of the night. As winds 
+continue to be gusty in the mountains, no changes to the Wind 
+Advisory will be done, but the HWO wording will be updated to take
+out severe wording. 
+
+&&
+
+.SHORT TERM...
+(This evening through Wednesday)
+Issued at 319 PM EDT Tue Oct 25 2022
+
+Key Messages:
+
+1. Rain and thunderstorms move through tonight from the west ahead 
+of cold frontal passage-instability looks limited.
+
+2. Wind advisory in effect through Wednesday morning across the 
+mountain zones/higher elevations of the TN mountains.
+
+3. Elevated fire risk through this evening due to recent dry streak, 
+low RH values, and gusty winds. 
+
+As an upper level closed low moves across OK/AR and up through the 
+Ohio River Valley, strong 850 mb southerly flow of 50 to 60 kts will 
+support strong and gusty winds with potential mountain wave activity 
+this evening and overnight in the East TN Mountains and foothills. 
+Latest HREF guidance show sustained winds could reach as high as 30 
+to 40 mph across the higher elevations of the TN Mountains with 
+gusts from 40 to 50 mph. Localized areas, such as Cove Mountain and 
+other high peaks, may see gusts as high as 65 mph. Yesterday's 12Z 
+HREF run had a 30% probability of the wind speeds mentioned above 
+occurring and today's 12Z run has up to 50% chance probability with a 
+very small area of up to 70%. This increase in probabilities also 
+aligns well with what other high RES models are showing in terms of 
+wind speed outputs. 
+
+While the highest winds will be contained to the TN mountains and 
+immediate foothills, the TN valley (particularly the southern 
+valley) can expect gusty winds from 15-20 mph as well. The higher 
+elevations of the Cumberland Plateau, southwest VA, and southwest NC 
+can expect 15-20 mph as well with some areas nearing advisory 
+level wind gusts. While a wind advisory is in effect through 8 AM 
+Wednesday, the highest winds are expected between 6pm Tuesday and 
+8am Wednesday.
+
+The SPS that was issued earlier this morning for elevated fire risk 
+remains in effect through midnight due to the combination of gusty 
+southerly winds, the recent stretch of dry weather, and low RH 
+values. All of these conditions compound into a scenario that could 
+allow for existing fires, or new fires, to get out of hand or become 
+uncontrolled.
+
+As the cold front pushes across Tennessee from the west, rain and 
+embedded thunderstorms move into the area late this afternoon and 
+evening, possibly lingering into the overnight hours. Instability is 
+still limited with only 100 to 200 J/kg CAPE available at best, 
+mainly across our southwestern most areas (Marion/Hamilton 
+Counties). With the limited instability guidance shows the squall 
+weakening as it enters our area. However, due to the strong 850mb 
+flow aloft, some showers/storms may be able to bring down these 
+higher winds to the surface which could result in damage to-
+- trees/powerlines down or possibly losing some spooky halloween 
+decorations from your yard. 
+
+Highest QPF values remain in our southwestern counties, ranging from 
+0.15 to 0.50. Due to the storms weakening as they move east, and 
+downsloping winds across the foothills, areas along and east of the 
+I-81 corridor will see little to no rainfall. 
+
+For Wednesday: Winds will shift to come out of the west behind 
+the front, and rain chances dwindle by early to mid morning. High
+temps generally in the mid 50s to low 60s on Wednesday afternoon.
+
+&&
+
+.LONG TERM...
+(Wednesday night through next Tuesday)
+Issued at 319 PM EDT Tue Oct 25 2022
+
+Key Messages:
+
+1. Light showers expected over the weekend on Sunday before tapering 
+off into Halloween.
+
+2. Temperatures slightly above normal through the period.
+
+Discussion:
+
+Zonal flow aloft begins the long term period Wednesday night. Our 
+main feature of interest, an upper low, begins its quest in the 
+western Rockies before dropping into Texas by Friday and moving east 
+from there. Both Euro Ensembles and deterministic are slower and 
+stronger than their GFS counterparts for the location and strength 
+of the upper trough as we go through the weekend. However both sets 
+(the Euro and the GFS) hold off on rain chances until the overnight 
+period into Sunday, whereas the NBM begins to increase rain chances 
+across the southern portion of our area Saturday afternoon. Adjusted 
+POPs downward Saturday afternoon-evening to account for the lower 
+probabilities from the two global models. Total precipitation for 
+this weekend is expected to be light, on the order of a few tenths 
+of an inch. Not exactly a drought buster, but we will take it.
+
+Our rain producing upper low will slide onwards to the Great Lakes, 
+pulling light showers out of the area from southwest to northeast on 
+Monday. GFS manages to hold onto some lingering precip Monday 
+evening, especially north of I-40, but like the overall system any 
+rain is expected to be light.
+
+Temperatures for the remainder of this week should remain a couple 
+of degrees above normal this time of year, with the nicest day on 
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 704 PM EDT Tue Oct 25 2022
+
+A line of showers, with possibly a few embedded lightning flashes,
+will continue to move into the region and gradually weaken. CHA is
+most likely to see impacts from this line, which would include
+brief gusty winds and ceiling/visibility reductions to MVFR or
+lower. Also, LLWS is still a possibility at the terminals early 
+in the night as winds near 2,000 feet AGL are around 35 kts with 
+values above 40 kts around 4,000 feet. Some reductions are 
+possible at TYS and TRI due to the showers, but the main impacts 
+will be at CHA. Towards the morning hours, persistent MVFR 
+ceilings are anticipated at TYS and TRI, in addition to a gradual 
+shift towards more westerly winds area-wide. Most places will 
+remain MVFR through much of the day on Wednesday with a more 
+persistent westerly to northwesterly wind. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Chattanooga Airport, TN             51  62  49  70 /  70   0   0   0 
+Knoxville McGhee Tyson Airport, TN  52  62  48  69 /  90   0   0   0 
+Oak Ridge, TN                       50  60  46  67 /  80   0   0   0 
+Tri Cities Airport, TN              53  60  46  66 /  60  10   0   0 
+
+&&
+
+.MRX WATCHES/WARNINGS/ADVISORIES...
+NC...NONE.
+TN...Wind Advisory until 8 AM EDT Wednesday for Blount Smoky 
+     Mountains-Cocke Smoky Mountains-Johnson-Sevier Smoky 
+     Mountains-Southeast Carter-Southeast Greene-Southeast 
+     Monroe-Unicoi.
+
+VA...NONE.
+&&
+
+$$
+
+SHORT TERM...Williams
+LONG TERM....Wellington
+AVIATION...BW
+

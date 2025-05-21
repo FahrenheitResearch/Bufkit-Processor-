@@ -1,0 +1,96 @@
+780 
+FXUS66 KSGX 260256
+AFDSGX
+
+Area Forecast Discussion
+National Weather Service San Diego CA
+800 PM PDT Tue Oct 25 2022
+
+.SYNOPSIS...
+Onshore flow will lead to cooling, and a return of coastal low 
+clouds and patchy fog through Thursday morning over coastal areas. 
+Meantime, a weak offshore flow will develop on Thursday and continue 
+into Friday, scaling back the marine clouds and leading to modest 
+warming over the coastal basin into the weekend. For the rest of the 
+week, the weather will remain dry over Southern California, with 
+below average temperatures.
+
+.DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+Skies are clear over SoCal and the California Bight this evening. 
+Coastal observations do indicate increasing dewpoints though, so the 
+marine air is attempting a comeback. The sfc pressure gradient is 
+weak across the Southland as of 7 PM PDT, but the weak onshore trend 
+seems to be sufficient to generate S-SW winds of 10-15 MPH with some 
+gusts around 20 MPH over and near the mountains. There was no sign 
+of the eddy yet, but if it develops overnight as forecast, any low 
+clouds should be lifted off the surface, minimizing the dense fog 
+threat. Our 00Z Miramar sounding did not indicate much of a marine 
+inversion, and showed weak W-NW winds from the sfc, up to about 5K 
+FT MSL. No forecast updates are planned this evening.
+
+From previous discussion...
+
+A shortwave diving in from the Pacific Northwest will move
+southeast across the Intermountain West through Wednesday. The
+axis of this trough will pass SoCal by Wednesday night. Winds
+ahead of this feature will be onshore. This will return the marine
+layer tonight, and with a coastal eddy spinning up overnight,
+likely deepen it modestly to mitigate dense fog concerns. Still,
+patchy fog is possible over the coastal mesas by Wednesday
+morning.
+
+Surface high pressure will build into the Great Basin Wednesday
+night-Thursday, resulting in off shore surface pressure gradients
+over SoCal. Hi-res models point to weak Santa Ana wind conditions
+late Wednesday night through Thursday. Northeast winds are
+forecast to gust to 35-45 mph, strongest below the Cajon Pass and
+immediately below the Santa Ana Mountains. 
+
+Weak upper level ridging takes hold Thursday through Friday and
+may hold through the weekend or transition to weak upper
+troughing. The global model trends since yesterday are slightly
+warmer for the weekend with a less amplified upper trough. 
+
+A more significant trough is forecast over the western U.S. for 
+the first week of November. How amplified the trough gets and 
+whether there is enough of an oceanic trajectory will dictate 
+whether or not precipitation arrives to SoCal. GEFS leans wetter 
+than the EC ensemble. CPC hows cooler than normal conditions 
+favored with slightly higher probabilities of wetter than normal 
+conditions during the first week of November. 
+
+&&
+
+.AVIATION... 
+260300Z...Coast/Valleys...Areas of mainly BKN low clouds with bases 
+1200-2200 ft MSL and tops to 2500 ft MSL will gradually develop 10Z-
+16Z Wed and continue through 18Z-21Z Wed, mainly San Diego County 
+coast/valleys including VCNTY KSAN/KCRQ. Timing of CIGs at airports 
+is low confidence. Patchy low clouds could occur again Wed evening. 
+Most VIS should remain 6+ miles through Wed evening.
+
+Mountains/Deserts...Clear skies with unrestricted VIS will continue 
+through Wed evening.
+
+&&
+
+.MARINE...
+No hazardous marine weather or sea conditions are expected through 
+Sunday.
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...None.
+PZ...None.
+
+&&
+
+$$
+
+PUBLIC...10/Gregoria
+AVIATION/MARINE...Maxwell
+

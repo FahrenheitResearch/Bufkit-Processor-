@@ -1,0 +1,113 @@
+789 
+FXUS64 KLZK 261122
+AFDLZK
+
+Area Forecast Discussion
+National Weather Service Little Rock AR
+622 AM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(Today through Thursday Night)
+Issued at 252 AM CDT Wed Oct 26 2022
+
+To begin the period, high pressure is parked over the Natural State 
+giving way to clear skies and drier conditions. This will be short 
+lived as another system will affect the state moving into the long 
+term period. Until then, expect cooler, more seasonable temperatures 
+as high pressure controls the weather pattern through at least 
+Thursday. Winds are also expected to remain gusty through this 
+afternoon as the low pressure system, located in the Ohio Valley, 
+continues to push further away from the state...decreasing the 
+pressure gradient. 
+
+Forecast high temperatures are expected to be in the mid 60s to 
+lower 70s with overnight lows in the upper 30s to upper 40s through 
+the period.
+
+&&
+
+.LONG TERM...
+(Friday through Wednesday)
+Issued at 252 AM CDT Wed Oct 26 2022
+
+The long term fcst remains relatively unchanged, w/ another 
+prolonged bout of widespread rainfall possible through a majority of 
+the coming weekend. The PD begins w/ strong sfc high pressure in 
+place over N/Ern US. Aloft, a positively tilted trof is expected to 
+be moving across the Srn Cntrl US.   
+
+Through the day Fri, the aforementioned upper trof is progged to 
+translate E/wrd, approaching the Natural State,  pivoting to become 
+more neutrally tilted, and in the process becoming somewhat detached 
+from the mean flow. As the upper wave transitions into a semi-cutoff 
+low, guidance continues to suggest the wave's phase speed slowing 
+down dramatically, w/ the upper low/vorticity maximum slowly 
+traversing across the FA over the course of the weekend. 
+
+At the sfc, lee cyclonic flow should be in place over Ern TX, and wl 
+become juxtapositioned w/ the upper wave as it approaches the FA. 
+Fcst guidance continues to suggest this low wl arc S/wrd of the 
+state, moving through the ARKLATEX region, keeping the Nrn portion 
+of the low positioned over the FA. 
+
+Sat and thru the remainder of the weekend, this pattern wl be 
+conducive for another bout of widespread rain to the region, w/ 
+abundant synoptic forcing for ascent invof the potent upper 
+vorticity maxima, and low-lvl forcing from ascent invof the sfc low. 
+Given the positions of features and the fcst airmasses, the severe 
+threat remains relatively low w/ this system. Overall rainfall 
+amounts through the weekend wl lkly see the greater 
+accumulations...totals near one to two inches, and locally greater 
+amounts...over the S/Ern half of the state, w/ lesser totals, one 
+half to three quarters of an inch, or less, over the N/Wrn half of 
+the state.
+
+By Sun night, the semi-detached upper low looks to pivot N/wrd, 
+allowing for the closed circulation/vorticity maxima to be re-
+ingested into the mean flow. As the stacked sfc and upper lows 
+depart to the N/E, PoPs should taper off from the west to northeast 
+Sun afternoon and evening. Dry condns should prevail thru the 
+remainder of the PD, w/ warming daily temps heading into the new 
+work week as low-lvl flow becomes Srly once more.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 557 AM CDT Wed Oct 26 2022
+
+Mostly VFR conditions are expected through the period. Winds are 
+expected to be light and variable early this morning before 
+becoming out of the NE/NW during the day on Wednesday.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Batesville AR     68  41  67  43 /   0   0   0   0 
+Camden AR         70  40  71  45 /   0   0   0  10 
+Harrison AR       64  38  63  41 /   0   0   0  10 
+Hot Springs AR    69  42  69  46 /   0   0   0  10 
+Little Rock   AR  71  43  70  47 /   0   0   0   0 
+Monticello AR     70  43  72  48 /   0   0   0   0 
+Mount Ida AR      69  40  69  44 /   0   0   0  20 
+Mountain Home AR  65  40  64  42 /   0   0   0   0 
+Newport AR        67  41  65  44 /   0   0   0   0 
+Pine Bluff AR     69  42  71  46 /   0   0   0   0 
+Russellville AR   69  41  68  45 /   0   0   0  10 
+Searcy AR         69  39  69  43 /   0   0   0   0 
+Stuttgart AR      68  42  69  46 /   0   0   0   0 
+
+&&
+
+.LZK WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...233
+LONG TERM....72
+AVIATION...233
+

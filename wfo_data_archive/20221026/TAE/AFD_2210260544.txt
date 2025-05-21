@@ -1,0 +1,155 @@
+636 
+FXUS62 KTAE 260544
+AFDTAE
+
+Area Forecast Discussion
+National Weather Service Tallahassee FL
+144 AM EDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.NEAR TERM...
+(Through Wednesday)
+Issued at 957 PM EDT Tue Oct 25 2022
+
+A broken line of low-topped showers and thunderstorms is making
+its way across southeast Alabama and the FL Panhandle. The 00z TAE
+sounding showed a strong inversion around 9,000 feet and some
+low-level convective inhibition. This highlights the narrowness of
+the axis of moisture and instability feeding the convection. 
+Incoming convection will encounter an increasingly hostile 
+environment and should at least not strengthen beyond what it is,
+if not weaken.
+
+The front will follow the convective line by a few hours, with a
+shift to northwest and northerly winds spreading across the
+forecast area late tonight and Wed morning. Skies will clear
+rapidly, and the air mass will dry out again. Cooler air will
+arrive over SE Alabama before sunrise, with temperatures dropping
+from the muggy lower 70s into the cooler 50s overnight once the
+front passes.
+
+&&
+
+.SHORT TERM & LONG TERM...
+(Wednesday night through Next Monday) 
+Issued at 242 PM EDT Tue 
+Oct 25 2022
+
+By Wednesday evening, surface high pressure will be propagating
+across the upper midwest into Michigan. This will primarily lead
+to dry conditions returning to the region for a couple of days
+ahead of the next upper level trough. Across the mid levels, a
+vorticity maxima is forecast to eject equatorward into Texas by
+Friday night, and will become cut-off from the main mid to upper
+level jet stream. This will allow for the developing surface low
+to slowly progress eastward across the northern Gulf states on
+Saturday and Sunday. The biggest uncertainty at this time will be
+is if the aforementioned surface high pressure, which is forecast
+to settle across the northeast will be able to maintain its
+influence across the region on Saturday to keep rainfall mainly
+west of the area. This all hinges on the development and northward
+propagation of the NHC outlooked tropical features that are 
+forecast to progress northward in between the east coast of 
+Florida and Bermuda. This tropical feature effectively stalls the
+eastward propagation of the surface high pressure system, which in
+turn stalls the mid level vorticity maxima and subsequent surface
+low pressure system. This will greatly determine whether the
+rainfall falls mostly on Saturday evening or on Sunday and Monday across
+the area. Beyond Monday, surface high pressure is forecast to
+settle back into the southeast. Temperatures will remain near
+normal for this time of the year with highs in the upper 70s to
+low 80s and lows in the mid to upper 50s and low 60s as the
+airmass re-modifies. 
+
+&&
+
+.LONG TERM...
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 137 AM EDT Wed Oct 26 2022
+
+Tracking a line of showers and isolated thunderstorms moving
+through the Florida panhandle north into southwest Georgia
+associated with a cold front. As the line moves through, expect
+1-2 hours of convection followed by a brief reduction in cigs to
+mostly MVFR. Flight conditions become VFR from west to east
+through the morning hours.
+
+&&
+
+.MARINE...
+Issued at 957 PM EDT Tue Oct 25 2022
+
+There should be enough push of northerly winds overnight over the
+western Panhandle waters behind the incoming cold front to support
+a Small Craft Advisory.
+
+From CWF synopsis...A cold front will pass across the waters 
+overnight and on Wednesday morning, followed by a shift to fresh 
+and strong northerly breezes. A broken line of thunderstorms will 
+precede the front. Calmer winds and seas return by Thursday as 
+high pressure settles over the Mid- Atlantic states. Another cold 
+front will push into the region by the weekend, which may lead to 
+cautionary conditions returning to all marine zones once again. 
+
+&&
+
+.FIRE WEATHER...
+Issued at 242 PM EDT Tue Oct 25 2022
+
+An influx of moisture off the Gulf from southerly winds and 
+increasing rain chances for late tonight into early Wednesday 
+precludes fire concerns. The Tri-state area should be post-frontal 
+by Wednesday afternoon with north to northwest winds in place. Drier 
+conditions are expected by then, but minimum relative humidity 
+values healthily remain above critical levels. Low dispersions are 
+forecast, especially areawide on Thursday from light winds.
+
+&&
+
+.HYDROLOGY...
+Issued at 242 PM EDT Tue Oct 25 2022
+
+Rain chances across the area will increase later this evening and
+overnight. Unfortunately for any fire weather concerns, rainfall
+totals areawide will generally remain under a quarter inch
+areawide. With much of the rainfall remaining convective, there
+could be locally higher totals throughout the area. Given that
+these totals are rather low, there are no flooding concerns at
+this time. The next rainfall chance won't be until this weekend. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Tallahassee   77  52  80  58 /  10   0   0   0 
+Panama City   74  52  76  57 /   0   0   0   0 
+Dothan        71  46  77  54 /   0   0   0   0 
+Albany        74  48  78  56 /   0   0   0   0 
+Valdosta      79  51  81  58 /  50   0   0   0 
+Cross City    80  56  83  58 /  40   0   0   0 
+Apalachicola  75  55  75  59 /  10   0   0   0 
+
+&&
+
+.TAE WATCHES/WARNINGS/ADVISORIES...
+FL...None.
+GA...None.
+AL...None.
+GM...Small Craft Advisory until 11 AM EDT this morning for GMZ750-770.
+
+&&
+
+$$
+
+NEAR TERM...Haner
+SHORT TERM...Bunker
+LONG TERM....Bunker
+AVIATION...Scholl
+MARINE...Haner
+FIRE WEATHER...Bunker
+HYDROLOGY...Bunker
+

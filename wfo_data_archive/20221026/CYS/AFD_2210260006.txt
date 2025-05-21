@@ -1,0 +1,160 @@
+072 
+FXUS65 KCYS 260006
+AFDCYS
+
+Area Forecast Discussion
+National Weather Service Cheyenne WY
+606 PM MDT Tue Oct 25 2022
+
+.UPDATE...
+Issued at 606 PM MDT Tue Oct 25 2022
+
+Winds have continued to decrease from Laramie to Rawlins, with
+wind gusts observed around 30 to 38 knots. Should continue to see
+these speeds decrease as pressure gradients ease. As a result,
+went ahead and cancelled high wind warning.
+
+&&
+
+.SHORT TERM...(This evening through Thursday night)
+Issued at 230 PM MDT Tue Oct 25 2022
+
+Gusty winds continue to plague the forecast area this afternoon as
+mountain wave activity coupled with subsidence has resulted in
+elevated wind gusts longer than originally forecast. Water vapor 
+and visible satellite imagery show mountain waves present across 
+southeast Wyoming, particularly along the wind prone corridor of
+I-80. Wind gusts in excess of 50-55mph have been present through
+21Z, with one site at Cooper Cove gusting up to 58mph on multiple
+occasions. The weather disturbance responsible for the winds is
+spread over the northern Rockies into the northern Plains. As the
+disturbance moves to the east, it will create a weaker pressure
+gradient for our area, and reduce wind gusts across the cwa.
+
+The remainder of today will see partly cloudy skies with the
+westerly flow creating a few light snow showers across the higher
+terrain. There is a slight chance for a rain to rain/snow mix east
+of I-25 across southeast Wyoming and the northern NE Panhandle.
+Wind gusts will be slightly elevated in the wind prone corridors,
+so have gone with a blowing snow component for the highest
+elevations of the Snowy/Sierra Madres this evening into the early
+Wednesday morning hours. There is only a remote chance for this to
+occur based off the low amounts of snowfall that are present on
+webcams for the I-80 corridor, but wanted to introduce it
+nonetheless. This will be due to overnight lows remaining in the
+teens to lower 20s for a majority of the cwa west of the Laramie
+Range, especially the aforementioned mountains in Carbon and
+Albany County.
+
+Wednesday will usher in a shortwave disturbance from the Pacific
+Northwest coastline, and be accompanied by a cold front. Mostly
+cloudy conditions are favored for the majority of the cwa on
+Wednesday, limiting temperatures from the low 40s to middle 50s. A
+few breaks in the clouds during the afternoon will assist with an
+overall gloomy and chilly day. Diffluent flow aloft ahead of the
+approaching shortwave disturbance will assist in terms of
+dynamics, with surface forcing over the mountains creating the
+potential for light snowfall accumulations. Have decided to not
+proceed with any winter headlines for the mountain terrain at this
+time. The moisture will take some time to arrive from the south 
+and southwest. As it does so, we will see a much higher chance for
+snow shower activity to increase from west to east as better 
+atmospheric energy also arrives. Hi- resolution model guidance 
+shows a decent band of snow showers slowly advancing from west to 
+east Wednesday evening into early Thursday.
+
+The best window for snow shower activity on Thursday to occur 
+east of the Laramie Range is trending towards after 12Z Thursday
+through 18Z Thursday. However, due to this window occurring 
+during daylight hours with a higher sun angle despite cloud cover 
+being present, have drawn back the forecast for snowfall 
+accumulation. Several considerations played into this factor 
+including warm ground and surface temperatures limiting the 
+potential for snow showers to accumulate on grassy surfaces at 
+best for areas east of the Laramie Range. We will need to pay 
+attention to the evolution of this shortwave in the event that 
+colder air lingers long enough for the light snow showers to 
+accumulate more than a dusting for locations east of the Laramie 
+Range. Conditions should begin to clear out by late Thursday as
+surface high pressure becomes dominant across the region. Overnight
+lows will decrease to below average seasonal readings on the order
+of the teens to middle 20s across the lower terrain. Valley regions
+and the higher mountain terrain west of the Laramie Range could
+see readings in the single digits for overnight lows under mostly
+clear conditions. 
+
+.LONG TERM...(Friday through Tuesday)
+Issued at 230 PM MDT Tue Oct 25 2022
+
+Rather benign conditions to start the long term across southeast
+Wyoming and Nebraska Panhandle. Some signs of a pattern change to
+start next week.
+
+Upper ridge axis building into our western cwa Friday morning with
+pretty warm 700mb temperatures of +3 to +4C. Expected to equate to
+upper 50s to near 60 for highs eat of the Laramie Range to mid 40s
+west for highs. Ridge axis shifts east into the Panhandle Friday
+afternoon. 1044 AM MDT Tue Oct 25 2022
+
+Weekend fairly nice with dry conditions and possible breezy winds
+as upper shortwave approaches from the west. Did go higher than
+NBM output on wind speeds for Sunday as GFS 700mb winds are
+20-25kts. Nothing headline worthy...but still higher than NBM
+output.
+
+As for Halloween...dry conditions expected with fairly warm
+conditions Sunday evening. Winds will be on the increase Sunday
+evening into Monday as 700 and 750mb winds increase to 35kts
+across Carbon and Albany Counties.
+
+Some guidance difference on what is going to happen Monday and 
+Tuesday. GFS dry and windy both Monday and Tuesday as Craig to 
+Casper height gradients climb to low 50mtrs. ECMWF...on the other 
+hand still dry for Monday and Tuesday...but is bringing a fairly
+strong cold front into the area from the northwest. Cold front
+near the Colorado/Wyoming stateline by Tuesday afternoon with
+pretty hefty QPF across our western mountains into Wednesday.
+Still a ways out...but bears monitoring.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through Wednesday evening)
+Issued at 535 PM MDT Tue Oct 25 2022
+
+A series of shortwave upper level troughs will push through the area 
+this evening and again starting late Wednesday.  Some snowfall or 
+rain/snow mix is possible for KRWL, KLAR, and KCYS Wednesday 
+afternoon through Wednesday evening as the second upper level trough 
+rapidly digs southeast across the region. 
+
+HAZARDS/WEATHER TRENDS: VFR conditions tonight with gusty winds 
+quickly diminishing between 00z and 02z. Clouds will increase 
+towards sunrise along the Interstate 80 corridor with snow showers 
+possible after 18z Wednesday. Did not include precipitation in the 
+TAF due to low confidence with timing. 
+
+
+&&
+
+.FIRE WEATHER...
+Issued at 230 PM MDT Tue Oct 25 2022
+
+Fire weather concerns will remain low the next several days due to 
+below normal temperatures and the chance for light snow accumulation
+across southeast Wyoming FWZs, especially the higher terrain.
+
+&&
+
+.CYS WATCHES/WARNINGS/ADVISORIES...
+WY...None.
+NE...None.
+&&
+
+$$
+
+UPDATE...MRD
+SHORT TERM...BW
+LONG TERM...GCC
+AVIATION...TJT 
+FIRE WEATHER...BW
+

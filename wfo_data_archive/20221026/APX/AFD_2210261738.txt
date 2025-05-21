@@ -1,0 +1,175 @@
+112 
+FXUS63 KAPX 261738
+AFDAPX
+
+Area Forecast Discussion
+National Weather Service Gaylord MI
+138 PM EDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 1158 AM EDT Wed Oct 26 2022
+
+Widespread rainfall steadily coming to an end from west to east 
+across the forecast area as the system begins to pull away. Some 
+light lake effect rain showers/sprinkles have developed in the 
+northwest flow behind the departing system. Lake-850 mb delta Ts 
+are about 10-15C in the post system air mass, but the inversion 
+heights are not much higher that 850 mb (3500 feet or a little 
+lower).
+
+Forecast has been updated for the latest hourly trends, primarily
+to speed the departure of the main rain shield. Have not added low
+PoPs yet for lake effect potential, but this will likely need to
+be done over the next few hours.
+
+&&
+
+.NEAR TERM...(Today through Tonight)
+Issued at 316 AM EDT Wed Oct 26 2022
+
+...Rain ending; Breezy and cooler...
+
+High Impact Weather Potential: Minimal.
+
+Pattern Synopsis/Forecast: Deep troughing exists across the western 
+Great Lakes early this morning with ridging downstream off the east 
+coast. Upstream, zonal flow dominates the nation's midsection 
+with lowered heights/weak troughing returning across the west 
+coast. Surface low pressure continues to spin over Hudson Bay with
+well-advertised slow-moving cold front draped across northern 
+Michigan. Secondary area of low pressure riding along the front to
+our south, now situated across southern MI and the Ohio Valley. 
+Slow, but steady eastward progress is expected with these surface 
+features today followed by surface high pressure settling overhead
+this evening into tonight. 
+
+Primary Forecast Concerns: Rain exits west to east today. Northwest 
+gustiness and cooler temperatures.
+
+Aforementioned cold front that's currently bisecting northern 
+Michigan from north to south will make slow eastward progress over 
+the next 6-8 hours, clearing the entirety of the forecast area by 
+late morning. Ongoing widespread rain across much of northern 
+Michigan will follow suite, exiting stage right from west to east 
+today. Initially drying out across western areas this morning and 
+eventually over far northeast lower by early-mid afternoon. 
+
+Northwest winds ramp up behind this system in a solid cold air 
+advection regime. Gusts 25-30 mph likely for many areas today, 
+perhaps a touch stronger nearest the lakeshores. This will also 
+continue to usher in much cooler air than has been experienced 
+over the last several days. High temperatures today struggle to 
+rise much above the mid-40s for many, but made to feel more like 
+the 30s once you factor in the winds. The arrival of this cooler 
+air may also promote just enough over-lake instability to garner a
+few isolated lake induced sprinkles/showers later this afternoon 
+and evening. While chances for this are low given incoming high 
+pressure and much drier deep layer air, northwest flow areas of 
+eastern upper have the "best" shot at seeing a few additional 
+showers...and to am even lesser extent the higher terrain of 
+northwest lower.
+
+Higher pressure settles squarely atop the region tonight with partly 
+clear skies and diminishing winds. Periods a bit of patchy fog in 
+spots with low temperatures falling into the 30s area-wide with a few 
+20s not out of the question in the typically cooler/interior locales.
+
+&&
+
+.SHORT TERM...(Thursday through Friday)
+Issued at 316 AM EDT Wed Oct 26 2022
+
+...High Pressure Thursday and Friday... 
+
+High Impact Weather Potential...Minimal. 
+
+Pattern Synopsis/Forecast and Possible Impacts...Thursday, shortwave 
+ridging at 500 mb, in response to a deepening trough in New Mexico, 
+looks to keep the region dry during the day. Thursday night, the 
+drying from the sfc high over the region continues, but there is a 
+500 mb shortwave trough that moves into the region after 06z/Fri. 
+While precipitation isn't expected, there will be could over the 
+region overnight. Friday will start out cloudy to partly sunny as 
+high/mid level clouds move through with the 500 mb shortwave trough. 
+Still think that there could be a sneaky shower or sprinkle during 
+the afternoon, especially with the ECMWF having a little qpf along 
+the trough north and south of the forecast, but not here. Friday 
+night will be dry as the 500 mb ridge quickly builds back into the 
+region. 
+
+.LONG TERM...(Friday night through Tuesday)
+Issued at 316 AM EDT Wed Oct 26 2022
+
+High Impact Weather Potential...Minimal.
+
+Extended (Saturday through Tuesday)...Saturday, the day and night 
+continue to stay dry. However, the cut off low in the southern 
+Mississippi valley begins to fill and move. The models have the 
+center of the low in about the same place, but the GFS has filled 
+much more than the ECMWF. In either case the rain remains well south 
+and west of our region. Sunday, both models have a deep, but open 
+wave that begins to lift toward the Upper Great Lakes. The day will 
+remain dry, but high clouds will move in. It's not until Sunday 
+night, when rain begins to threaten the SW counties. The ECMWF has 
+rain moving into the N Lower between 06z/Mon and 12z/Mon. The GFS 
+keeps it just south of M-55, and gets it into the SE counties by 
+12z/Mon. Current NBM is for chance pops south and east of line from 
+APN to CAD. Monday, There will be a chance for rain showers as the 
+system moves toward the region, but also east as well. This looks to 
+take the rain out of the region by Monday evening. Monday night ends 
+up dry. Tuesday, Looks like it will turn out dry for now. However, 
+the models are developing a system to the south and west of the 
+region, which could cause some issues, as the models develop this 
+scenario. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 124 PM EDT Wed Oct 26 2022
+
+Aviation weather conditions will continue to gradually improve
+across northern Michigan during the 18Z TAF valid time. Most
+locations are MVFR at this point as steady rains moved out of the
+area (except at KAPN). Trapped moisture beneath a 3500 foot 
+inversion, and lake effect contributions, will likely keep CIGs 
+MVFR or low-end VFR well into tonight. Expect skies to scatter out
+by late in the period as high pressure and associated dry low- 
+level air move in. Gusty northwest winds will linger into this 
+evening before diminishing and trending variable tonight/early 
+Thursday as high pressure builds in.
+
+&&
+
+.MARINE...
+Issued at 316 AM EDT Wed Oct 26 2022
+
+A slow moving cold front will continue to cross the area with 
+widespread rainfall exiting from west to east throughout the day. 
+Winds will continue to ramp up out of the northwest behind this 
+system with solid Small Craft Advisory conditions area-wide into 
+this evening. Perhaps a few gale gusts not out of the question in 
+the Lake Huron nearshore waters south of Presque Isle Light, 
+although better chances for more frequent gale gusts remain over the 
+open waters. Winds diminish tonight with headline free conditions 
+
+
+&&
+
+.APX WATCHES/WARNINGS/ADVISORIES...
+MI...NONE.
+LH...Small Craft Advisory until 2 AM EDT Thursday for LHZ345-346-349.
+     Small Craft Advisory until 5 AM EDT Thursday for LHZ347-348.
+LM...Small Craft Advisory until 2 AM EDT Thursday for LMZ323-341-342-
+     344>346.
+LS...Small Craft Advisory until 2 AM EDT Thursday for LSZ321-322.
+&&
+
+$$
+
+UPDATE...PBB
+NEAR TERM...MJG
+SHORT TERM...JSL
+LONG TERM...JSL
+AVIATION...PBB
+MARINE...MJG
+

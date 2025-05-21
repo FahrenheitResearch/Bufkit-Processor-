@@ -1,0 +1,165 @@
+167 
+FXUS61 KBUF 262201
+AFDBUF
+
+Area Forecast Discussion
+National Weather Service Buffalo NY
+601 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure near the Ottawa Valley will track across Quebec 
+tonight, with its trailing cold front crossing our area this 
+evening. Showers will change to light rain/drizzle by late evening 
+especially across higher terrain of WNY and the eastern Lake Ontario 
+region. Rain will end by Thursday morning with clouds slowly 
+clearing through the day. A cooler and more seasonable airmass will 
+build into the region behind this front, resulting in another 
+extended period of dry weather which will last through the weekend.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+A trough at the surface and aloft will cross through this evening. 
+Showers have become less organized and less widespread than earlier 
+this afternoon. Next few hours will see showers mostly from northern 
+Finger Lakes toward eastern Lake Ontario region. Expect the 
+showers to continue to diminish though as sfc trough and mid-
+upper trough lift across Quebec into the evening. Cold front is 
+close by though with surge of southwest winds occurring just 
+ahead of it. Gusty winds will sweep across western NY this 
+evening with a few showers then winds turn west-northwest by 
+late evening. Expect wind gusts of 30 - 40 mph along and just 
+behind the cold front, and 20 - 30 mph elsewhere.
+
+Most of the showers will end quickly from west to east this evening 
+with the passage of the cold front. There will be a brief window of 
+upslope/lake effect showers tonight as cold air deepens and marginal 
+wrap around moisture remains in place. Inversions very low though as 
+evidenced by widespread, yet minimally developed stratus and 
+stratocu upstream over central Great Lakes. Expect mainly light 
+rain/sprinkles/drizzle where the stratus intersects the higher 
+terrain east of Lake Erie (Chautauqua Ridge/Boston Hills) and 
+the Tug Hill region east of Lake Ontario. The airmass quickly 
+dries out, so expect the lake response and any associated 
+upslope rain/drizzle southeast of the lakes to quickly weaken 
+later tonight. 
+
+Lake effect/upslope clouds will persist Thursday morning in a 
+northwest flow regime. There may still be a few light lake effect 
+showers near Rochester early from a Georgian Bay connection, but 
+this will quickly end as the very dry synoptic scale airmass becomes 
+too hostile for lake effect. Otherwise, the lake effect clouds will 
+give way to clearing in the afternoon. A much cooler airmass will 
+keep highs in the low 50s in most areas, upper 40s higher terrain.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH SATURDAY NIGHT/...
+An expansive surface high pressure system averaging 1034mb will pass 
+by to our north Thursday night before settling across New England 
+through Saturday night. This will provide high confidence in an 
+extended period with fair weather which will last through the 
+weekend. There will be some areas of clouds Thursday night and 
+Friday followed by mostly clear skies Friday night through Saturday 
+night.
+
+The main forecast challenge for this period will be overnight lows. 
+In general the close proximity of the surface high will provide 
+light winds resulting in good radiational cooling each night. The 
+coolest air aloft will be Thursday night, but there will be some 
+cloud cover and a modest 5 to 10 mph flow in spots which will limit 
+radiational cooling some. In general, hedged forecast below model 
+consensus for low temperatures, closer to the cooler MOS temperature 
+guidance. Lows will range from the upper 20s to lower 30s Thursday 
+and Friday nights, and then in the 30s Saturday night. High 
+temperatures will be in the 50s Friday and in the upper 50s to lower 
+60s on Saturday.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Mid-level ridging and surface high pressure will slide off the 
+Northeast coast Sunday, supporting one additional day of dry weather 
+albeit with increasing cloud cover. Looking upstream, a progressive 
+shortwave moving across the Northern Plains will interact with a 
+closed low over the southern Mississippi River Valley, ultimately 
+forming a broader open wave system. Northward moisture transport 
+combined with height falls associated with this approaching trough 
+will bring wet weather to wrap up the month of October. Shower 
+chances will increase from southwest to northeast Sunday night, with 
+precip then overspreading the region through the day Monday before 
+slowly tapering off in coverage late Monday night through Tuesday. 
+Broad high pressure will then build across the eastern CONUS, 
+providing a return to dry weather through Wednesday.
+
+Temperatures through the much of the forecast period area are 
+expected run a few degrees above normal. Daytime temps will 
+generally top out in the upper 50s and low 60s, with overnight lows 
+in the mid and upper 40s.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+Sfc trough and upper level trough lift across southern Quebec 
+tonight. Cold front sweeps across western NY this evening and east 
+of Lake Ontario late evening. Showers around early on, then these 
+will change to lighter rain/sprinkles/drizzle late evening through 
+the rest of the night, especially for higher terrain of WNY and east 
+of Lake Ontario (eg. Tug Hill). Cigs mainly MVFR early this evening 
+with local IFR (JHW) in wake of the front. Later tonight, lower 
+elevations will trend toward low-end VFR while higher terrain 
+remains MVFR.
+
+Other issue will be gusty winds. Sfc winds may gust over 25 kts this 
+evening WNY as the cold front crosses. Strongest winds at ROC and 
+ART will be late evening through the overnight as winds shift to the 
+northwest. Gusts then could also exceed 25 kts. Winds at all 
+terminals diminish by daybreak on Thursday. Rest of Thursday will 
+feature slow clearing of MVFR to low VFR stratus/strato cu. This 
+cloud deck will mix out, but it may take until mid to late afternoon 
+at JHW. Widespread VFR flight conditions late afternoon into 
+Thursday night.
+
+Outlook... 
+ 
+Friday through Sunday...VFR.
+Monday...Mainly MVFR.  Showers likely.
+
+&&
+
+.MARINE...
+A cold front will cross the eastern Great Lakes this evening. Strong 
+pressure rises behind the front as high pressure builds across the 
+western Great Lakes will bring rapidly increasing winds this evening 
+through the overnight as winds shift to the west-northwest, with 
+high end Small Craft Advisory conditions on both lakes. Sustained 
+winds on Lake Ontario may briefly reach or exceed 30 knots for a few 
+hours overnight. Winds will become northwest and gradually diminish 
+Thursday, though it will still remain quite choppy through the 
+afternoon on Lake Ontario between Hamlin Beach and Mexico Bay.
+
+&&
+
+.BUF WATCHES/WARNINGS/ADVISORIES...
+NY...None.
+MARINE...Small Craft Advisory until 2 AM EDT Thursday for LEZ020.
+         Small Craft Advisory until 8 AM EDT Thursday for LEZ040-
+         041.
+         Small Craft Advisory until 8 AM EDT Thursday for 
+         LOZ042.
+         Small Craft Advisory from 9 PM this evening to 2 PM EDT 
+         Thursday for LOZ043-044.
+         Small Craft Advisory from 9 PM this evening to 11 AM EDT 
+         Thursday for LOZ045.
+
+&&
+
+$$
+
+SYNOPSIS...Apffel/Hitchcock/JLA
+NEAR TERM...Apffel/JLA
+SHORT TERM...AR/Apffel
+LONG TERM...AR
+AVIATION...JLA
+MARINE...Apffel/Hitchcock/JLA
+

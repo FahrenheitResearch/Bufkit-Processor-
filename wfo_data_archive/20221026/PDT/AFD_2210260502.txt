@@ -1,0 +1,180 @@
+958 
+FXUS66 KPDT 260502
+AFDPDT
+
+Area Forecast Discussion...Updated
+National Weather Service Pendleton OR
+1002 PM PDT Tue Oct 25 2022
+
+Updated aviation discussion
+
+.EVENING UPDATE...Water vapor imagery showing the upper trough
+axis coming onshore the PacNW this late evening, with light rain
+spreading east and north across the interior PacNW. Radar imagery
+does show light rain echoes across the forecast area, however,
+most of this is likely virga and not reaching the ground. That
+said, some surface observations directly east of the Cascades have
+reported some light precipitation occurring.
+
+The upper trough will continue to push southeast across the PacNw
+tonight, producing lower elevation rain and mountain snow across
+eastern WA/OR. Snow levels tonight will be between 3kft to 4kft,
+with a rain/snow mix possible within these elevations, while
+the best snow ratios are anticipated in elevations 4.5kft and
+higher. Snow accumulations tonight in elevations above 4kft in 
+the Blues and Cascades are expected to be between 5 to 10 inches,
+warranting Winter Weather Advisories in these areas tonight
+through tomorrow afternoon. Otherwise, westerly winds are also 
+expected to increase overnight and persist into tomorrow evening 
+as the upper trough passes over the region. Updated PoPs to
+account for current trends, and have increased winds slightly
+across the forecast area, with rest of afternoon forecast package
+on track. Lawhorn/82
+
+&&
+
+.AVIATION...06Z TAFS...VFR conditions will prevail through the 
+period. However, a weather system moving through the area this 
+morning will produce light rain across the region.  Brief 
+MVFR conditions could occur in areas of rainfall, especially 
+KRDM and KBDN. Winds will be 10-20 kts with higher gusts.  Winds 
+will decrease by early evening.  Earle
+
+&&
+
+.PREV DISCUSSION... /issued 450 PM PDT Tue Oct 25 2022/ 
+
+.SHORT TERM...Tonight through Thursday night...Radar and 
+satellite imagery are showing increasing clouds, with a 
+precipitation shield moving to the east-southeast west of the 
+Cascades. This is in association with another upper trough that 
+will dig southeast into the PacNW. This upper trough's axis will 
+be over central OR by 09Z (2 AM PDT) tonight. Snow levels will 
+drop to around 3500-4000 feet MSL by late tonight, resulting in 
+the precipitation being mainly snow above these levels. QPF and 
+snow amounts are now showing that enough snow will fall above 4000
+feet MSL to reach Winter Weather Advisory criteria. As such a 
+Winter Weather Advisory will be issued for the OR and WA Cascades 
+above 4000 feet MSL from 5 PM PDT late this afternoon until 5 PM 
+PDT late Wednesday afternoon. An advisory will also be issued for 
+the Northern Blue Mountains of OR and WA for this same time frame 
+above 4000 feet MSL. The heaviest accumulations will be along the 
+Cascade crest, with lesser amounts below to 4000 feet MSL, and 
+then mainly rain below 4000 feet MSL. In the Northern Blue 
+Mountains, the snow will fall down to pass levels. The HREF QPF 
+totals for 24 hours are in agreement with this scenario. Also, the
+ECMWF and GEFS ensembles are in very good agreement with each 
+other and the deterministic models with the timing and amplitude 
+of this next upper trough. Elsewhere, snow levels will lower to 
+4000 feet in the Ochoco Mountains, the John Day Highlands, 
+Strawberry Mountains and the Elkhorn Mountains. However, snowfall 
+in these areas are not expected to reach advisory amounts, and 
+will be light. Rain will fall elsewhere, but rainfall amounts are 
+expected to be light and mostly a tenth of an inch or less. 
+
+This upper trough will exit the region with a northerly flow
+behind it Wednesday night, followed by a transitory upper ridge on
+Thursday, with dry conditions. The exception will be over the
+central WA Cascades in northwest Kittitas and Yakima Counties
+where more precipitation will develop in a southwest flow aloft 
+west of the upper ridge axis on Thursday and Thursday night. This 
+southwest flow will persist going into the extended forecast 
+period. 
+
+Temperatures will be a few degrees cooler on Wednesday than today.
+Maximum readings will be in the mid to upper 50s in the lower
+elevations and in the 30s and 40s in the mountains. After that,
+warmer air is expected in the southwest flow that is expected to 
+develop over the CWA on the back side of the upper ridge,
+resulting in warmer temperatures. Highs on Thursday will rise to 
+the upper 50s to mid 60s in the lower elevations and mostly 40s 
+and 50s in the mountains, which will be slightly above normal. 
+These warmer temperatures will continue into the extended forecast
+period. 
+
+Winds will be locally breezy to windy in the Lower Columbia Basin
+and adjacent lower elevation areas, and also on the ridge tops in
+the mountains. These winds are expected to persist through 
+Wednesday evening and then they will diminish and become light 
+later Wednesday night. Winds will then increase again in the 
+Lower Columbia Basin by Thursday afternoon and evening. 88
+
+.LONG TERM......Friday through Tuesday...The extended period is 
+characterized by a marginally progressive pattern that incurs a 
+couple systems that pass through the Pacific Northwest, keeping 
+rain chances, breezy winds, and near normal temperatures in the 
+forecast into next week. The main sensible weather concern is 
+associated with gusty winds, as the ECMWF EFI highlights 
+unclimatologically high values along the east slopes of the 
+Washington Cascades and through the Lower Columbia Basin Sunday 
+and Monday. Wind gusts look to peak overnight Sunday into early 
+Monday morning with values between 30-35 mph before subsiding to 
+20-27 mph through Monday afternoon. 
+
+An upper level low pressure system, located in the Gulf of Alaska, 
+and its attendant front, extending south through the northern 
+Pacific, will dig and shift east on Friday. This will provide breezy 
+winds and rain chances throughout the area. A cut-off low looks to 
+develop off the coast of California in the wake of the passing 
+system. This will cause more zonal flow to occur through the Pacific 
+Northwest, keeping flow aloft mainly westerly and temperatures near 
+normal for this time of year. Another upper level low pressure 
+system quickly replaces Friday's system over the Gulf of Alaska, 
+which digs slightly more south into British Columbia on Monday. 
+Breezy winds and rain chances again increase as isobars tighten in 
+response to the gradient between the dropping trough and transient 
+ridging over the Four Corners region. The trough continues to drop 
+along the coast Monday and begins to propagate onshore and east 
+Tuesday. This will provide another chance for showers, breezy winds, 
+and cooler temperatures as flow aloft becomes more northwesterly on 
+Monday. The late period system looks much more robust than the 
+earlier system, with snow levels dropping to the 3000-4000 foot 
+range to allow for mountain snowfall to occur over the Cascades, 
+Blues, and Wallowas beginning early Monday.
+
+Guidance is in good agreement with the overall progressive pattern 
+through the extended period, however, large discrepancies arise 
+regarding ridge/trough strength, timing, and track. The ECMWF incurs 
+a stronger initial shortwave on Friday, and a weaker, faster 
+dropping trough Monday into Tuesday than the GFS. This would allow 
+for earlier showers and winds Monday morning, and slightly warmer 
+temperatures on Monday and Tuesday with the ECMWF scenario. The 500 
+mb EOF patterns highlight this variability within ensembles, showing 
+trough strength as being the main differences Saturday and Sunday 
+with timing being the primary issue Monday and Tuesday. The cluster 
+phase space shows the GFS deterministic and ensemble means being 
+slightly better represented, but the ECMWF has a much tighter 
+overall ensemble spread. Thus, a slight lean toward the ECMWF 
+outcome was conducted through the extended period, which is 
+represented well by the NBM. 75 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+PDT  39  53  34  60 /  70  30   0   0 
+ALW  41  55  37  60 /  80  40   0   0 
+PSC  46  60  42  62 /  40  10   0   0 
+YKM  35  57  32  59 /  60   0  10  10 
+HRI  44  58  38  63 /  40  20   0   0 
+ELN  36  52  34  58 /  60  10  20  20 
+RDM  32  49  24  58 /  80  30  10   0 
+LGD  34  44  27  50 /  90  70   0   0 
+GCD  32  45  24  55 /  80  50   0   0 
+DLS  45  57  39  63 /  90  30  10  10 
+
+&&
+
+.PDT WATCHES/WARNINGS/ADVISORIES...
+OR...Winter Weather Advisory until 5 PM PDT Wednesday for ORZ502-509.
+
+WA...Winter Weather Advisory until 5 PM PDT Wednesday for WAZ030-520.
+
+&&
+
+$$
+
+EVENING UPDATE...82
+SHORT TERM...88
+LONG TERM....75
+AVIATION...82
+

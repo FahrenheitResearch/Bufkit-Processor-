@@ -1,0 +1,125 @@
+557 
+FXUS63 KGRB 261950
+AFDGRB
+
+Area Forecast Discussion
+National Weather Service Green Bay WI
+250 PM CDT Wed Oct 26 2022
+
+Forecast discussion for routine afternoon forecast issuance
+
+.SHORT TERM...Tonight and Thursday
+Issued at 249 PM CDT Wed Oct 26 2022
+
+Stratocumulus clouds over the Northwoods should dissipate around 
+sunset as a surface high moves into Wisconsin. Clear skies and 
+light winds should allow for temperatures a few degrees below normal.
+
+Skies should start out sunny Thursday, with some high clouds
+arriving in the afternoon as the high moves off into Michigan. 
+South winds will make for high temperatures near normal.
+
+.LONG TERM...Thursday Night Through Wednesday
+Issued at 249 PM CDT Wed Oct 26 2022
+
+Split flow across the CONUS to persist through the weekend before
+a southern stream closed upper low lifts northeast through the
+TN/OH Valleys and the flow consolidates. A new potent longwave
+trough is forecast to hit the western CONUS next week, however
+models disagree on the depth of this trough as well as whether the
+trough will begin to move east or not. For northeast WI, a
+southwest flow will develop and bring mild conditions to the area.
+Precipitation chances looks minimal at best which does not help
+the drought conditions over northern WI.
+
+Thursday night and Friday...
+The sprawling area of high pressure to extend from the Midwest to
+the New England states Thursday night. A return flow already
+underway across WI with enough isentropic lift to bring middle and
+high clouds to northeast WI. Under partly to mostly cloudy skies,
+min temperatures to be in the lower to middle 30s north, middle
+30s to around 40 degrees south. Not much changes going into Friday
+with little movement of the high pressure and a prevailing
+southerly wind. The only change of note will be for less clouds,
+thus a mostly sunny sky is anticipated. Temperatures will continue
+to slowly warm with readings topping out in the middle 50s north-
+central WI/near Lake MI, middle 50s to around 60 degrees
+elsewhere.
+
+Friday night and Saturday...
+Mostly clear skies and a light south-southwest wind can be
+expected Friday night with the high pressure in full control of
+northeast WI weather. Almost perfect radiational cooling
+conditions will allow for temperatures to fall into the lower to
+middle 30s north, middle 30s to around 40 degrees south. The high
+pressure will finally begin to lose its grip on the western Great
+Lakes region on Saturday, but with no significant weather system
+in the vicinity, expect another mostly sunny day over the forecast
+area with max temperatures to range from the middle 50s near Lake
+MI, upper 50s to lower 60s inland.
+
+Saturday night and Sunday...
+Attention turns to a southern stream closed upper low that is
+progged to lift northeast into the Ozarks Saturday night, then
+weaken into a shortwave trough over western sections of the TN/OH
+Valleys on Sunday. There is also a weak northern stream cold front
+that is forecast to reach northwest WI by 00Z Monday. There
+continues to be some minor timing differences among the models as
+to how fast the upper low/trough lifts northeast, however any
+precipitation will remain well to our south through Sunday. Other
+than some increase in clouds on Sunday, look for max temperatures
+to be in the middle 50s lakeside, mainly upper 50s to lower 60s
+inland.
+
+Sunday night and Monday...
+Even with the model timing issues, the track of the shortwave
+trough toward the eastern Great Lakes would keep the brunt (if not
+all) of the precipitation to our south and east Sunday night into
+Monday. Only the ECMWF continues to be more aggressive with the
+western fringe of the precipitation shield glancing southeast WI.
+For all intensive purposes, northeast WI will stay dry Sunday
+night with sunshine returning for Monday. The aforementioned cold
+front is forecast to dissipate and not be a factor in our weather.
+Little change in temperatures aloft should translate to another
+mild day on Monday with max temperatures again in the middle 50s
+near Lake MI, middle 50s to around 60 degrees inland.
+
+Monday night through Wednesday...
+Forecast confidence takes a major dip starting on Tuesday as a new
+trough hits the western CONUS and the location of a downstream
+surface boundary remains in flux among the models. Both the GFS
+and CMC show a cold front to drop into the Great Lakes on Tuesday,
+while the ECMWF still has the front over the northern Plains/
+northern MN. The GFS ensemble actually favors the ECWMF, so plenty
+of questions exist for Tuesday. Have leaned the forecast toward
+the ECMWF which keeps a southwest wind and mild temperatures over
+northeast WI. Max temperatures to be in the upper 50s to lower
+60s. Besides the issue with the cold front, models are having
+problems with the depth and movement of the upper trough. Does
+this trough dig southward along the West Coast or move inland into
+the Rockies on Wednesday? Too much spread with the models, so have
+gone with the consensus solution which does bring a chance of rain
+to northeast WI on Wednesday, mainly due to the frontal boundary
+in our vicinity. Max temperatures Wednesday to be in the middle
+50s north/near Lake MI, upper 50s to lower 60s south.
+&&
+
+.AVIATION...for 18Z TAF Issuance
+Issued at 1247 PM CDT Wed Oct 26 2022
+
+MVFR clouds will dissipate from southeast to northwest during the
+afternoon hours, with mostly clear skies tonight through midday 
+Thursday. High clouds will arrive Thursday afternoon and evening. 
+Visibility will be good and surface winds light.
+&&
+
+.GRB WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM.....RDM
+LONG TERM......Kallas
+AVIATION.......RDM
+

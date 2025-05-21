@@ -1,0 +1,174 @@
+457 
+FXUS61 KBTV 261047
+AFDBTV
+
+Area Forecast Discussion
+National Weather Service Burlington VT
+647 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Mild and humid conditions will persist until Thursday morning when a 
+cold front will push eastward across the North Country. Scattered 
+showers are expected today and tonight, then sharply drier 
+conditions arrive on Thursday behind the cold front. Broad high 
+pressure will keep the drier and cooler conditions around through 
+the weekend.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+As of 642 AM EDT Wednesday...Have made some fairly substantial
+changes to PoPs this morning. Current radar imagery shows a
+batch of showers lifting northward along the CT River
+Valley/eastern VT at this hour, running from roughly from White
+River Junction southward through central MA/eastern CT. This
+activity will continue to push northward this morning, the
+question is just how far west the precipitation will spread.
+Consensus of the latest hi-res CAM guidance indicates that areas
+from the Champlain Valley westward will remain dry, other than
+perhaps some light sprinkles or drizzle, through this morning
+before showers start to develop afternoon ahead of incoming
+frontal boundary to to the west. Have tightened up the PoP
+gradient across VT to match the above thinking, with 20-30% in
+the Champlain Valley and 60-70% in the east. Otherwise the
+forecast is in good shape and no other changes were needed. 
+
+Previous discussion...Another mild and showery day expected
+today as low pressure slowly meanders northward off the East Coast.
+We're already seeing maritime moisture wrap around this low and up
+into our area early this morning, as evidenced by light showers and
+areas of drizzle and fog from the central Greens south and 
+eastward. More robust shower activity can be seen lifting up 
+into southern New England, and expect this to spread into our 
+region from north to south through the morning hours. Showers 
+should become fairly widespread, particularly across 
+southern/central VT, as the low eventually skirts by Cape Cod 
+and then starts to push eastward toward Nova Scotia. It should 
+be noted that while the best moisture will remain shunted to our
+east, still expect PWATs to approach 1.50 inches which is 
+pretty respectable for late October. THerefore wouldn't be 
+surprised for some showers to produce some briefly heavy 
+rainfall rates this morning into the early afternoon. Meanwhile,
+another low pressure system will shift from IN/IL and push 
+northeast across the the Great Lakes and into Ontario, remaining
+west of the St Lawrence Valley, dragging its attendant cold 
+frontal boundaries in its wake. Expect much of northern NY will 
+stay relatively dry today as they'll remain between these two 
+low pressure systems, but as the first cold front approaches the
+St Lawrence Valley late today into this evening, showers will 
+shift eastward out of Ontario and across the St Lawrence. With 
+continuing south/southeast flow, today will once again be mild, 
+especially along the north slopes of the Adirondacks and into 
+the St Lawrence Valley, as well as portions of the northern 
+Champlain Valley. Downsloping winds and more sunshine in these 
+areas will allow highs to warm into the lower to mid 70s, which 
+is near record for some locations (see Climate section below for
+additional details). Meanwhile, more clouds will keep 
+temperatures a little cooler but still above normal; highs away 
+from the aforementioned zones will be in the mid 60s to around 
+70, with areas east of the central/southern Greens remaining 
+coolest as clouds and showers will be most persistent there.
+
+Showers will wind down over VT this evening as the coastal low pulls
+away to the east, but showers will continue to spread eastward from
+the St Lawrence Valley this evening/overnight as the inland low
+moves eastward north of the international border. The frontal
+boundary will cross the region this evening, turning winds to the
+west/southwest. A secondary cold front will follow late tonight into
+early Thursday, with gusty northwest winds expected thereafter.
+THerefore, widespread showers across NY this evening will become
+more focused on the western upslope sides of the Adirondacks and
+northern Greens before winding down early Thursday. Rainfall
+totals will be fairly variable for this event, ranging from a 
+quarter to half an inch in eastern/central VT, to a tenth of an 
+inch or less for most areas from the Champlain Valley westward.
+
+Thursday will feel sharply colder behind the secondary front, with
+cold air rushing in on brisk northwest winds. Any lingering upslope
+showers will quickly come to an end as drier air spreads over the
+region. Clouds will be a little slower to dissipate, but expect
+everyone will see sunshine by mid afternoon. Highs will range from
+the upper 40s in the Adirondacks to the upper 50s in the southern
+Champlain and CT River Valleys.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY/...
+As of 419 AM EDT Wednesday...A dramatic change in temperatures is
+expected Thursday night in the wake of a departing cold front.
+During this time, a much cooler and drier airmass will advect into
+the North Country from the northwest as high pressure becomes
+established across the region. With that said, overnight low
+temperatures are expected in the 20s to low 30s. High pressure will
+remain situated over the North Country on Friday resulting in clear
+skies and high temperatures in the low 50s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+As of 419 AM EDT Wednesday...Dry weather continues for the weekend as
+high pressure slowly begins to shift eastward. A slight warming
+trend will take place as the flow aloft becomes southwesterly. High
+temperatures will be in the mid to upper 50s on Saturday and in the
+upper 50s to low 60s on Sunday. The next low pressure system
+approaches early next week, but there remains significant
+differences among global deterministic guidance regarding the onset
+time of precipitation. At this time, the best chances for rain look
+to be Monday night through Tuesday.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+Through 06Z Thursday...Currently a mix of MVFR/VFR across the
+region, but with maritime moisture streaming into the area,
+expect ceilings to gradually lower to MVFR from southeast to
+northwest at all terminals by 15z Wednesday. These ceilings,
+with local IFR in patchy fog/drizzle, will persist through much
+of the rest of the day, with some improvement late in the TAF 
+period as a frontal boundary crosses the region. Scattered
+showers will affect all terminals through the period as well,
+and briefly reduced visibility to 4-6SM will be possible in
+heavier precipitation. Winds generally S/SW around 5 kt through
+14z, then increasing to 5-10 kt during the day. These will
+transition to W and eventually NW as the front moves through
+late Wednesday evening. 
+
+Outlook...
+
+Thursday: Mainly VFR, with local MVFR possible. NO SIG WX.
+Thursday Night: VFR. NO SIG WX.
+Friday: VFR. NO SIG WX.
+Friday Night: VFR. NO SIG WX.
+Saturday: VFR. NO SIG WX.
+Saturday Night: VFR. NO SIG WX.
+Sunday: VFR. NO SIG WX.
+
+&&
+
+.CLIMATE...
+Record warm minimum temperatures were set yesterday, October 
+25th, at BTV and MPV (see RERBTV for details). Additional 
+temperature records may be set as well; the record high for MSS 
+for today is 74, and we currently have 76 in the forecast. As 
+far as warm low temperatures for today, that will depend upon 
+the timing of a cold frontal passage overnight tonight and how 
+quickly temperatures fall before midnight. At this time, BTV
+and PBG both look to have a chance to break their records, which
+are 58 and 53, respectively.
+
+&&
+
+.BTV WATCHES/WARNINGS/ADVISORIES...
+VT...None.
+NY...None.
+
+&&
+
+$$
+SYNOPSIS...Hastings
+NEAR TERM...Hastings
+SHORT TERM...Hammond
+LONG TERM...Hammond
+AVIATION...Hastings
+CLIMATE...WFO BTV
+

@@ -1,0 +1,153 @@
+943 
+FXUS66 KOTX 261020
+AFDOTX
+
+Area Forecast Discussion
+National Weather Service Spokane WA
+313 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS....
+An active weather pattern will deliver several opportunities for
+precipitation through the weekend into early next week. Gusty
+winds are also expected on Thursday and again Sunday into Monday.
+Seasonably cool temperatures are expected through the weekend with
+cooler than average temperatures possible by the middle of next
+week including a good chance of widespread freezing temperatures.
+
+&&
+
+.DISCUSSION...
+
+Today and tomorrow:
+Synoptic & mesoscale forced rain and mountain snow are ongoing in 
+the Inland Northwest from a compact 500 mb shortwave moving through 
+the central cascades. SPC mesoanalysis data shows DGZ depth over the 
+region ranging from 700 to 900 meters. Current and recent estimates 
+of DGZ omega over the Cascades ranging from -8 to -12 
+microbars/second and DGZ RH have yielded 1"+ snowfall rates at 
+Stevens Pass for a few hours. Stevens Pass webcams show a wet-
+looking snow covering US-2 around 9 PM. Latest guidance shows an 
+additional 1-3 inches of snow for Stevens Pass and 0.5-2 inches of 
+snow for Washington Pass through 11 AM PDT. Amounts are higher at 
+Stevens Pass due to the Puget Sound convergence zone (PSCZ) 
+currently developing along US-2 through 10 AM PDT. Hi-res guidance 
+shows lingering uncertainty where the PSCZ generates the highest 
+snow totals. HRRR has the band between Snoqualmie Pass and Stevens 
+Pass while the FV3 and ARW have the band in a more favored position 
+for Stevens Pass. NAM-3km with a weak and disorganized PSCZ is an 
+outlier given the current radar trends. The PSCZ will quickly fizzle 
+and migrate northward and fizzle out by 12-2 PM PDT. A Winter 
+Weather Advisory is valid for this area through 5 AM PDT and may be 
+extended a few more hours depending on the evolution of the PSCZ. 
+Snow levels appear to be above 4000 feet MSL at this time. 
+
+Lee cyclogenesis has occurred with a broad surface low between Omak 
+and east of Ephrata with pressures around 1008 mb. Radar shows light 
+rain occurring north and east of the surface low. Elevations above 
+4000 feet will see 2-5 inches of snow with this round of 
+precipitation. Radar bright banding ongoing indicates mixed phase 
+precipitation around 3000 ft MSL, so higher lowland elevations will 
+see some snowflakes mixing in with the rain but no accumulation is 
+expected below 4000 ft MSL. The cold front will traverse through 
+Spokane County in the next few hours and exit north Idaho Wednesday 
+later this morning and shower activity should linger in the 
+orographic favored areas of extreme eastern WA into the Idaho 
+Panhandle through the afternoon hours. Shortwave ridging will dry 
+out most of the region tonight and tomorrow ahead of the next 
+impulse. Drier westerly winds increase Wednesday afternoon and 
+evening across the Columbia Basin into the Palouse and southeast 
+Washington with gusts to 25 mph.
+
+The next system is expected tomorrow afternoon into Friday morning. 
+There is not a lot of moisture associated with the wave. The 
+Northern Cascade Crests will see an additional few inches from this 
+system. The lower elevations can expect breezy winds up to 30-35 mph 
+with the passage of the system. DB
+
+Friday and Saturday: There is good model agreement that the 
+active Polar Jet over central and southern British Columbia on
+Thursday will weaken and translate into central Canada by Friday
+evening. A broad shield of light to moderate precipitation over
+B.C. on Thursday will become less organized Friday into Saturday
+as the plume of moisture moves south across Washington and Idaho.
+Ensemble based guidance continues to forecast chances for
+precipitation Friday and Saturday across the Inland Northwest, but
+amounts look to be light as our jet dynamics and Integrated Water
+Vapor Transport (IVT) weakens. What forcing that remains will be
+largely orographic over the west slopes of the Cascades up to the
+crest. Snow levels Friday and Saturday are expected to be in the 
+5000-6000ft range. Washington Pass on Highway 20 in the north 
+Cascades has an elevation of 5476 feet, and could receive some wet
+accumulations Friday morning and again Friday night into Saturday
+morning. Snow levels will likely be too high for meaningful 
+accumulations at Stevens Pass. Friday and Saturday should be 
+mainly cloudy region-wide with high temperatures mainly in the 
+50s.
+
+Sunday and Monday: A broad trough translating across the Gulf of
+Alaska will re-energize the Polar Jet Sunday into Monday and focus
+a plume of moisture into the Pacific Northwest. The west to east
+orientation of the mid and upper level flow will deliver the most
+significant precipitation over the mountainous terrain. Snow
+levels on Sunday will generally be above pass levels in the
+Cascades and Idaho Panhandle (5500 to 6500 feet). Look for snow
+levels to fall Monday and Tuesday as the Gulf of Alaska trough
+migrates inland leading to a good chance of accumulating snow
+Monday night into Tuesday. Sunday and Monday has the potential to
+become windy. At this time, the surface pressure gradient favors
+gusty southwest winds Sunday afternoon, Sunday night, and most of
+Monday. This direction favors the strongest gusts across the West
+Plains, Spokane area, and the exposed ridges of northeast
+Washington and far north Idaho. ECMWF ensemble guidance suggests
+sustained winds of 20 to 25 mph with gusts up to 40 mph for these
+areas. Winds of this magnitude occur several times per year and 
+have the potential to produce minor tree damage.
+
+Tuesday and Wednesday: There is a good deal of ensemble spread
+during the early to middle part of next week. A significant
+percentage of ensembles forecast the arrival of cooler Canadian
+air. The National Blend of Models advertises widespread high
+temperatures in the 40s by Wednesday with widepsread freezing
+temperatures Tuesday night with much of eastern Washington and
+north Idaho dipping into the mid to upper 20s...a hard freeze for
+Spokane, Pullman, Colville, Sandpoint, and the Silver Valley.
+/GKoch
+
+&&
+
+.AVIATION... 
+06Z TAFS: Valley rain and mountain snow will spread across 
+eastern Washington and into the Idaho Panhandle into early 
+Wednesday morning. Ceilings will lower across all airports with 
+marginal VFR and localized IFR conditions expected over extreme 
+eastern Washington and the Idaho Panhandle by midnight tonight. 
+Precipitaiton will transition to showers over the Idaho Panhandle 
+Wednesday afternoon with ceilings slowly lifting. Confidence is 
+lower for VFR conditions to develop by the afternoon in the 
+Panhandle becoming high over the Columbia Basin. /SVH
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Spokane        46  36  51  39  53  40 /  60  10   0  20  20  20 
+Coeur d'Alene  44  38  49  37  52  40 /  80  10  10  20  20  20 
+Pullman        44  35  50  33  53  38 /  50   0   0  10  10  10 
+Lewiston       51  38  57  40  58  41 /  40   0   0   0  10  10 
+Colville       47  31  50  28  51  35 /  50  10  10  30  30  30 
+Sandpoint      45  37  48  35  48  38 /  80  10  20  30  30  30 
+Kellogg        41  38  46  37  49  39 /  80  10  10  10  20  20 
+Moses Lake     54  39  58  39  58  38 /  10  10   0  10  20  20 
+Wenatchee      54  41  59  41  56  41 /  10  20  10  30  30  30 
+Omak           53  37  55  38  56  38 /   0  10  10  30  20  20 
+
+&&
+
+.OTX WATCHES/WARNINGS/ADVISORIES...
+ID...None.
+WA...Winter Weather Advisory until 5 AM PDT early this morning for 
+     Western Chelan County-Western Okanogan County.
+
+&&
+
+$$
+

@@ -1,0 +1,160 @@
+173 
+FXUS61 KAKQ 261931
+AFDAKQ
+
+AREA FORECAST DISCUSSION
+National Weather Service Wakefield VA
+331 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A few showers are possible ahead of a cold front this
+afternoon and evening. High pressure north of the area builds 
+southward from Friday through Saturday. Another low pressure 
+system impacts the local area early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+As of 330 PM EDT Wednesday...
+
+Afternoon observations show extensive clouds remain across central 
+and western portions of the area with some clearing noted across the 
+far SE. Surface low pressure has moved well north of the area into 
+southern Canada as the associated cold front remains west of the 
+area but will swing through the region this evening and tonight. A 
+few spotty showers are possible ahead of the front but with limited 
+deep moisture and better forcing well north of the region not 
+expecting much QPF. Clouds finally decrease from NW to SE late 
+tonight in the wake of the front. Overnight lows range from the mid 
+40s NW to the mid 50s SE.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH SATURDAY/...
+As of 330 PM EDT Wednesday...
+
+Cool high pressure builds across the Midwest and into the Great 
+Lakes on Thursday. Expecting a much nicer day Thursday than we've 
+have seen of late with mostly sunny skies central and N but thicker 
+clouds hang on across the southeast into early afternoon. High temps 
+generally in the mid 60s. A bit cooler overnight with lows in the 
+low 40s N to low 50s. 
+
+High pressure moves to New England Friday into Saturday which will 
+allow winds to become NNE then NE, bringing a return of low level 
+moisture and stratus clouds. With limited heating, will continue to 
+undercut blended guidance with high temps in the upper 50s NW to the 
+mid 60s SE. Did not go quite as low as the 12 NAM guidance which 
+holds high temps in the 40s across the Piedmont on Friday. Lows 
+Friday night will be similar with temps in the low 40s to mid 50s NW-
+SE. Continued dry on Saturday with highs upper 50s to low/mid
+60s.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+As of 330 PM EDT Wednesday...
+
+High pressure moves off the New England coast on Sunday but 
+continues to ridge SW to the east of the mountains. Will maintain a 
+dry forecast until Sunday afternoon as moisture spreads into the 
+region from low pressure approaching from the SW. 12z guidance keeps 
+the deeper moisture mostly to our west and north into early next 
+week so will feature the highest PoPs along the western and northern 
+portions of the area with relative lower chances east and southeast. 
+QPF looks to be limited once again with this system. Moisture 
+lingers into Tuesday but PoPs decrease back into slight chance range 
+as moisture/forcing depart to the NE.
+
+High temps Sunday range from around 60 NW to around 70 SE. A few 
+degrees warmer on Monday with temps in the 60s NW to the low/mid 70s 
+SE. Similar temps can be expected on Tuesday and Wednesday. 
+Overnight lows generally in the 50s to low 60s into early next week.
+
+&&
+
+.AVIATION /20Z WEDNESDAY THROUGH MONDAY/...
+As of 130 PM EDT Wednesday...
+
+Winds have finally become SW 5-10 kt which is helping to scour
+out the stubborn low level moisture. Most observations are now
+showing MVFR CIGs but SBY will have another few hours of IFR
+CIGs before lifting to MVFR later this afternoon. Expect
+improvement to VFR at all terminals by late afternoon. A few 
+spotty showers are likely this afternoon and evening but low
+confidence in timing and location continue to preclude mention 
+in the TAFs. Brief MVFR CIGs are possible as the showers move
+through the region. A cold front swings through tonight with 
+winds turning NNW 5-10 kt inland and 10-15 kt near the coast.
+Guidance shows a few hours of MVFR conditions Thursday morning
+but confidence is low so will leave out of the forecast for now.
+
+Otherwise, VFR conditions are expected on Thursday. Low stratus
+may result in flight restrictions Thu night into Friday.
+
+&&
+
+.MARINE...
+As of 325 AM EDT Wednesday...
+
+Early this morning, weak high pressure remains centered over the 
+local waters leading to generally light and variable winds. 
+Widespread fog has set in over the waters early this morning with 
+visibilities as low as 1/4 to 1/2 NM at times. As a result, a Marine 
+Dense Fog Advisory remains in effect through 10 AM this morning. It 
+is possible the DFA may need to be extended for a few more hours, 
+especially over the northern coastal waters. 
+
+High pressure gradually shifts to the east today, allowing for winds 
+to become SSE and increase to around 10 knots by this afternoon. 
+Meanwhile, a cold front will be approaching the region from the west 
+today and eventually cross the waters later this evening into 
+tonight. Behind the front, winds become N to NW and increase to 15 
+to 20 knots with gusts to 25 knots. As a result, a Small Craft 
+Advisory is now in effect for all waters outside of the upper rivers 
+starting late tonight. It remains breezy through much of the day 
+Thursday before winds take on a NE component and a secondary surge 
+develops Thursday night. Strong high pressure builds from the 
+Eastern Great Lakes into New England through the weekend allowing 
+for an extended period of NE flow over the waters. SCAs will likely 
+need to be extended through Saturday (longer for the coastal waters 
+due to seas of 5+ ft). Seas will range from 2 to 4 feet today, 
+before building to 4 to 5 feet later tonight through Thursday. Seas 
+build further to 5 to 8 feet Friday into the weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+As of 400 AM EDT Wednesday...
+
+An increasing S to SSE wind later this morning and afternoon
+will allow for tidal anomalies in the upper Chesapeake Bay to
+increase to ~1.0 ft. As a result, Bishops Head, MD will likely 
+approach minor flood stage with the afternoon high tide cycle. 
+Additional instances of at least minor tidal flooding will be 
+possible area-wide later this week into this weekend due to
+persistent onshore/NE flow, allowing for water levels to
+increase.
+
+&&
+
+.AKQ WATCHES/WARNINGS/ADVISORIES...
+MD...Coastal Flood Advisory until 6 PM EDT this evening for MDZ021.
+NC...None.
+VA...None.
+MARINE...Small Craft Advisory from 1 AM Thursday to 7 PM EDT Friday for 
+     ANZ630>632-634.
+     Small Craft Advisory from 4 AM Thursday to 7 PM EDT Friday for 
+     ANZ633-638-650-652-654-656-658.
+
+&&
+
+$$
+SYNOPSIS...ERI
+NEAR TERM...RHR
+SHORT TERM...RHR
+LONG TERM...RHR
+AVIATION...RHR
+MARINE...AJB
+TIDES/COASTAL FLOODING...
+

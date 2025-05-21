@@ -1,0 +1,144 @@
+626 
+FXUS63 KFGF 261732
+AFDFGF
+
+Area Forecast Discussion
+National Weather Service Grand Forks ND
+1232 PM CDT Wed Oct 26 2022
+
+.UPDATE...
+Issued at 1232 PM CDT Wed Oct 26 2022
+
+Still seeing stratus as expected over far northern Red river
+Valley and northwestern MN, as well as some random clouds
+extending from near Harvey to Fargo and Wahpeton. Think that cloud
+cover should gradually dissipate along the southern and western
+edges of the deck, but more mid level clouds will come in later
+tonight across our southern counties as a weak shortwave
+approaches. Continued to keep some low POPs across our south as
+that wave passes through. Further north, skies will be clear
+longer and SREF has some low probabilities of low visibility
+in our northwestern counties. Included patchy fog mention to match
+up with neighbors. 
+
+UPDATE Issued at 940 AM CDT Wed Oct 26 2022
+
+Adjusted cloud cover for current trends, with some clearing around
+Devils Lake down to Fargo. Think there should be a slow decrease
+in clouds on the western edges of the current cloud deck, but the
+northern Red River Valley and northwestern MN will still stay
+socked in for much of the day. 
+
+UPDATE Issued at 658 AM CDT Wed Oct 26 2022
+
+Thicker cloud area slowly moving east with back edge of clearing
+Rolla to just east of Devils Lake to Hillsboro to Wadena. Patchy
+clouds behind this main cloud area. So will need to continue to
+update sky trends thru the morning and adjust aviation forecasts.
+Otherwise will maintain the flurries in north central MN but I 
+haven't seen any reports of late. 
+
+&&
+
+.SHORT TERM...(Today through Thursday)
+Issued at 328 AM CDT Wed Oct 26 2022
+
+Water vapor shows a 500 mb short wave moving east thru far SE
+Manitoba and far NW MN early this morning. This short wave is
+subtle but has been enough to produce a few flurries in NW MN.
+Will maintain a few flurries this morning in the northeast fcst
+area along the track of the short wave (Bemidji-Roseau-Baudette). 
+
+Clouds today will be the main forecast challenge. Otherwise from
+weather impacts will be minimal, outside of aviation. Thick deck
+of stratocu covers parts of eastern Saskatchewan thru southern
+Manitoba and into NE ND and northern MN. Trends have been for a
+slow east progression of clearing from Bottineau to Devils Lake to
+Cooperstown and Wahpeton overnight. But there are also scattered
+clouds within the clearer region. With cool 500 mb temps still
+present in northern RRV and NW MN today feel like chances for sun
+are limited and upped sky cover over what short term model
+guidance suggests. Devils Lake to Fargo and into west central MN
+on the edge of the thicker clouds should see a bit more clearing
+today. Highs today will be low 40s in thicker cloud area to low
+50s in mix cloud/sun areas. Winds today light as high pressure
+moves overhead. 
+
+Tonight should see clearing or at least partial clearing work east
+as the 500 mb trough begins to exit. 850 mb RH values also
+diminish in NE ND/NW MN.  
+
+Meanwhile clouds will move northeast into SE ND and WC MN
+Wednesday night and into Thursday morning associated with a weak
+500 mb short wave moving east along the SD/ND border. This short
+wave will produce some rain showers that will sneak into far SE ND
+and WC MN late tonight into Thursday but as we go into Thursday
+aftn the short wave weakens as the main 500 mb energy is shifting
+southwest to an upper low moving into Texas. Overall rain amounts
+with this look very light (a few hundredths) and compared to past
+days the chances for rain is more limited to our far south fcst
+area.  
+
+.LONG TERM...(Thursday night through Tuesday)
+Issued at 328 AM CDT Wed Oct 26 2022
+
+Widespread hazardous weather is unlikely (less than 10%) through at 
+least next Tuesday. A pattern change toward more active weather is 
+possible near mid to late next week (between next Wed - Fri), 
+possibly bringing some level of impacts to the Northern Plains and 
+Upper Midwest.
+
+Friday - Tuesday:
+
+There is strong consensus between ensemble guidance of generally 
+split zonal flow across much of the CONUS. Within the northern 
+branch jet, moisture conveyors/rivers point into the PacNW with much 
+of its moisture precipitating over the higher elevations. This only 
+leaves some high altitude moisture into the Northern Plains after 
+traversing the Intermountain West/Northern Rockies. Thus chances for 
+precip are very low (less than 10%) Friday through Monday. Subtle 
+ridging aloft and sfc high pressure/weak pressure gradient should 
+also help keep conditions calm and more or less clear (save high 
+level clouds from aforementioned high altitude moisture). This 
+regime will also promote average to above average temps, with 
+daytime temps generally in the 50s and 60s.
+
+Wednesday and beyond:
+
+Most guidance amplifies the pattern getting into mid to late next 
+week, with various degrees of amplitude and timing of Rossby wave 
+packets traversing continental NoAM. To an extent, all cluster 
+analyses offer a longwave trough passage across the central tier of 
+the CONUS between Wednesday and Friday. This would not only promote 
+forcing for lift and precipitation production, but also help advect 
+moisture poleward east of the Rockies. While further details on 
+precip amounts, type, and location are unclear, this type of signal 
+within the long term points toward a more active pattern within the 
+Northern Plains and Upper Midwest, including the potential some 
+degree of impacts.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1232 PM CDT Wed Oct 26 2022
+
+Some MVFR ceilings continuing across the MN airports, with lower
+VFR stratus also at KDVL and KFAR. The cloud cover will continue
+to dissipate this afternoon, and all sites should be VFR before
+sunset. Light and variable winds will steady out of the south at
+10 to 15 kts by the end of the period. 
+
+&&
+
+.FGF WATCHES/WARNINGS/ADVISORIES...
+ND...None.
+MN...None.
+&&
+
+$$
+
+UPDATE...JR
+SHORT TERM...Riddle
+LONG TERM...CJ
+AVIATION...JR
+

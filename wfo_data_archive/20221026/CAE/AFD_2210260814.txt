@@ -1,0 +1,129 @@
+190 
+FXUS62 KCAE 260814
+AFDCAE
+
+Area Forecast Discussion
+National Weather Service Columbia SC
+414 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A weak front will cross into the region this morning, with scattered 
+light showers possible. Dry weather is expected behind the front 
+through Friday. Chances of rain increase again late in the weekend 
+when another upper disturbance approaches from the west.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The upper level cutoff low centered over southeastern Missouri 
+will continue lifting off to the northeast overnight. The trough
+axis south of the cutoff will help to push a prefrontal trough 
+into our region late tonight. Moisture increases ahead of this
+surface trough after midnight, helping to push some showers towards
+the cwa. Best dynamics remain well north, and mainly expecting 
+a line of scattered showers with an isolated thunderstorm possible.
+QPF amounts still look to remain light. The best timing for the
+line entering the western cwa still appears to be centered around
+09z, with the bulk of the weakening activity then exiting off 
+to the east by 12z. With an increase in clouds cover and winds 
+later tonight, temperatures will drop into the lower to mid 50s.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Quiet weather expected during this time period. Synoptic pattern is 
+expected to remain fairly straight forward, with this period setting 
+the stage for more active weather over the weekend. Shortwave from 
+today will quickly depart northeastward, with rising heights and 
+ridging following across the region. Area of strong confluence in 
+the mid-levels will pass over the northeastern US and will help to 
+establish a strong surface high pressure. This will begin to extend 
+southward towards our region on Thursday and Friday, with easterly 
+and northeasterly flow leading to afternoon highs dropping slightly 
+both days. Expect mid 70s on Thursday and low 70s on Friday. Dry 
+weather is expected, though, as PWs will still be below 1" on both 
+days. Overnight lows will end up in the low and mid 50s. 
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+More active weather is expected to unfold over the weekend as a 
+closed 500 hPa low approaches from the west. This will be a deep 
+closed-low across the mid-south, and will open up into a negatively 
+tilted trough pushing into the OH Valley through Monday of next 
+week. This will push broad southwesterly flow across our region, 
+allowing for PWs to rise into the 1.3"-1.5" range on Sunday. In 
+conjunction with this will be a strong (1028-1030mb) across the 
+northeastern US beneath convergent mid and upper level flow. This 
+will continue surface ridging that will be established on Thursday 
+and Friday, with in-situ wedging expected at least on Saturday and 
+Sunday. This will be aided by a slow moving subtropical low across 
+the western Atlantic which will help maintain northeasterly surface 
+flow across the Carolinas. The combination of southwesterly flow 
+aloft, strong surface ridging, and increasing moisture will lead to 
+a fairly cloudy and potentially wet weekend. Temps are expected to 
+be below normal, with highs only in the upper 60s and low 70s on 
+Saturday. Sunday looks to be the most wedge-like day, with 
+northeasterly flow and rainfall expected. I think higher QPF will be 
+to our west, with ensembles shifting the higher probabilities of 
+>0.5" of QPF to the west. Even still, the synoptic set up is 
+favorable for rainfall on Sunday as the trough axis approaches from 
+the west. PoPs are high chance to likely across the region on 
+Sunday, and I have temps only getting to the mid 60s on Sunday given 
+the wedge flow. Lows will be fairly elevated given the widespread 
+cloud cover both days. By Monday, another shortwave will dig into 
+the base of the trough and keep the trough axis to our west. Despite 
+this, best moisture will shift to our north and east and keep precip 
+chances a bit lower. Even still, we should see some showers as the 
+larger scale trough axis approaches. I would guess that we will 
+start to scour out the wedge, but guidance is usually a bit too 
+quick scouring wedges. So tended towards the NBM 25th percentiles 
+for temps (as I did on Sat/Sun as well; keeping in line with the 
+previous forecast's mentality). We should be clear of this by 
+Tuesday, with dry air and rising heights approaching on Wednesday. 
+Temps will get back towards seasonal norms by that point. 
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+Occasional MVFR conditions this morning as a front passes through 
+the region.
+
+Winds have been light and variable to calm tonight, and should 
+continue as such early this morning. Approaching front will increase 
+low level cloud cover from west to east through sunrise with some 
+MVFR cigs expected mainly after 26/12z. Some brief fog is possible 
+mainly in the coastal plain through about 29/12Z, with impacts 
+likeliest at the OGB terminal. Surface winds gradually increase as 
+the front approaches, limiting overall fog impacts through much of 
+the Midlands and CSRA.
+
+A broken line of SHRA is expected to push across the region in the 
+26/11Z to 26/17Z time frame. Behind the front, WLY/SWLY surface wind 
+increases to 8-12 kts with gusts to 20 kts possible this afternoon. 
+from the west-southwest and become gusty into the afternoon. Quick 
+improvements expected this afternoon with cloud decks lifting to SKC 
+this evening and continuing overnight. Wind speeds decrease to less 
+than 5 kts as well.
+
+
+EXTENDED AVIATION OUTLOOK...No significant impacts to aviation 
+expected through Thursday. Chances for ceiling restrictions could 
+increase starting Thursday night into Friday and continue this 
+weekend.
+
+&&
+
+.CAE WATCHES/WARNINGS/ADVISORIES...
+GA...None.
+SC...None.
+
+&&
+
+$$
+SYNOPSIS...
+NEAR TERM...
+SHORT TERM...
+LONG TERM...
+AVIATION...
+

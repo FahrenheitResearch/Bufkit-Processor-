@@ -1,0 +1,135 @@
+572 
+FXUS63 KDTX 261941
+AFDDTX
+
+Area Forecast Discussion
+National Weather Service Detroit/Pontiac MI
+341 PM EDT Wed Oct 26 2022
+
+.DISCUSSION...
+
+Departing upper low merges with the northern stream troughing 
+pattern over Ontario this evening, driving the surface low 
+responsible for earlier shower activity northeast of the Great 
+Lakes. This initiates a period of height rises and large scale 
+subsidence across the cwa, stripping away the majority of upper 
+level moisture above 4 kft agl per forecast soundings. Low level 
+moisture trends offer less clarity, with decreasing confidence in a 
+clearing trend overnight. Upstream cloud field over northern MN/WI 
+is a bit more extensive than modeled RH fields would suggest, along 
+with a notable moisture flux off of Lake Michigan per GOES-16 
+visible satellite imagery. Even in the wake of isentropic downglide, 
+thinking there will be a deep enough moist layer for the subsidence 
+inversion to trap the stratocu field overhead equating to partly to 
+mostly cloudy coverage overnight. Higher confidence in clearing 
+trend exists tomorrow morning, especially as daytime mixing ramps 
+up. 
+
+Thermal trough axis shifts right overhead tomorrow morning, and 
+given preceding cold advection and at least pockets of clearing 
+overnight, lows settle into the mid 30s (in comparison to lows in 
+the 50s the past few days). High pressure building in from the west 
+keeps conditions dry Thursday, with limited available moisture (30-
+40 percent RH in the 1000-500 MB layer) equating to a mostly sunny 
+forecast. Veering wind field with only modest warm advection lends 
+to highs in the 50s.
+
+Dry and gradual warming trend persists into the weekend as southerly 
+low to mid level flow ensues, keeping temperatures within seasonable 
+range for late October standards (upper 50s/low 60s) and dry/sunny 
+weather. The next chance for rain does not arrive until early next 
+week, although the responsible disturbance has already moved onshore 
+the Pacific Northwest. This system cuts off from the mean flow and 
+dives southeast into the ArkLaTex region over the next several days 
+toward a region of broad mid level height falls. Deep layer 
+isentropic ascent formulates a robust precipitation shield as the 
+cyclone matures and stalls near the Gulf. Aside from propelling a 
+plume of high cloud into southeast MI Friday, main impacts remain 
+well south through the weekend. By the time the system projects 
+north into the Great Lakes, model guidance consistently suggests a 
+weakening trend after becoming vertically stacked. That said, 
+expectation is for associated cloud cover to increase on Sunday, 
+followed by at least a disorganized region of precipitation heading 
+into Monday.
+
+&&
+
+.MARINE...
+
+Widespread showers will continue into the evening over the central 
+and eastern Great Lakes as low pressure moves eastward away from the 
+region.  Stronger northwest winds due to the tighter pressure 
+gradient will also continue into early tonight before beginning to 
+diminish.  Gale Warnings remain in effect overnight with Small Craft 
+advisories up for all other nearshore waters. Winds rapidly diminish 
+going into Thursday as strengthening high pressure tracks directly 
+over the region. High pressure will continue to bring quieter marine 
+conditions across the central lakes through the remainder of the 
+week and into the upcoming weekend.
+
+&&
+
+.PREV DISCUSSION...
+Issued at 154 PM EDT Wed Oct 26 2022
+
+AVIATION...
+
+Ceiling variability persists early this afternoon as a mature low 
+pressure system exits Southeast Michigan. Not all sites settled into 
+IFR territory in a pre-frontal sense, so now that the front has 
+already cleared DET to the east, expect cold advection and tail-end 
+deformation forcing to keep showers around until the aggressive push 
+of drier air arrives infiltrates the low-levels. This eventually 
+leads to prevailing MVFR ceiling (and visibility) until showers 
+conclude by 20Z (closer to 21Z for DET). Northwest gusts in the 25-
+30 knot range likely continue until closer to sunset due to favorable 
+mixing profile within the unstable boundary layer. As for overnight 
+clouds, some models have shifted toward a prolonged MVFR 
+stratocumulus deck that carries into midday Thursday while a second 
+camp suggest SKC-FEW. Given the binary nature of these solutions, 
+will go with a SCT 2.5 kft AGL deck and allow later TAF cycles to 
+adjust the ceiling forecast as necessary given pronounced top-down 
+drying and stable high pressure that becomes firmly established 
+across the region through the remainder of the week.
+
+For DTW... Ceiling lingers at MVFR levels this afternoon with 
+improving visibility after showers conclude around 20Z. Questions 
+persist with regard to scattering out of MVFR ceiling tonight under 
+strong cold advection in the lowest 3 kft AGL.
+
+ DTW THRESHOLD PROBABILITIES...
+
+* High for ceiling 5000 feet or less through this evening, then 
+  low overnight and Thursday morning.
+
+* High for exceedence of crosswind thresholds this afternoon.
+
+
+&&
+
+.DTX WATCHES/WARNINGS/ADVISORIES...
+MI...None.
+Lake Huron...Small Craft Advisory until 10 PM EDT this evening for LHZ422.
+
+     Gale Warning until 10 PM EDT this evening for LHZ361-362.
+
+     Gale Warning until 4 AM EDT Thursday for LHZ363-441-442-462-463.
+
+     Small Craft Advisory until 4 AM EDT Thursday for LHZ421-443.
+
+Lake St Clair...Small Craft Advisory until 10 PM EDT this evening for LCZ460.
+
+Michigan waters of Lake Erie...Small Craft Advisory until 10 PM EDT this evening for LEZ444.
+
+&&
+
+$$
+
+DISCUSSION...MV
+MARINE.......SS
+AVIATION.....KK
+
+
+You can obtain your latest National Weather Service forecasts online
+at www.weather.gov/detroit.
+

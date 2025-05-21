@@ -1,0 +1,131 @@
+808 
+FXUS65 KCYS 261008
+AFDCYS
+
+Area Forecast Discussion
+National Weather Service Cheyenne WY
+408 AM MDT Wed Oct 26 2022
+
+.SHORT TERM...(Today and tonight)
+Issued at 407 AM MDT Wed Oct 26 2022
+
+Hi-Res models continue to advertise light scattered showers across 
+the CWA today ahead of a cold front expected to traverse through the 
+region tonight. Current radar returns are lighting up light showers 
+in northern Colorado, which will eventually make their way into the 
+CWA later this morning. Mainly rain showers are expected for areas 
+east of the Laramie Range, and snow showers to the west. The 
+mountains will be the main recipient for any accumulation during the 
+day, with the Sierra Madre and Snowy Ranges picking up an inch or 
+two.
+
+The cold front looks to move through the CWA tonight which will 
+likely enhance precipitation across the area. Hi-Res models show a 
+band of snow moving across the area roughly around the same time as 
+the front. Again, the mountains will see the bulk of the snow, with 
+periods of moderate, to even heavy snow. New snow accumulations 
+overnight will be between 2 and 4 inches, with a total of 6 inches 
+possible between Wednesday and Wednesday night. 
+
+Some lingering flurries and snow showers are possible during the 
+morning Thursday, but overall the trend for the day will be cold 
+temperatures and decreasing clouds. High temperatures Thursday will 
+max out in the 30s and low 40s for areas west of the Laramie Range, 
+and 40s and low 50s for areas to the east. Thursday night also looks 
+to be one of the coldest, if not the coldest, night of the season so 
+far. Calm winds and clear skies will lead to effective radiational 
+cooling, especially for valley locations. Lows will get down into 
+the teens for valley locations, and low 20s for most other places.
+
+Although Friday will start off cold, temperatures should warm up 
+fairly quickly as an upper-level ridge builds in. 700 mb 
+temperatures will warm back up into the positive digits, leading to 
+near to slightly above average temperatures for most! High 
+temperatures Friday will be in the 50s and low 60s for areas east of 
+the Laramie Range, and 40s and 50s for areas to the west.
+
+.LONG TERM...(Thursday through Tuesday)
+Issued at 407 AM MDT Wed Oct 26 2022
+
+Weather Highlights:
+
+1) Quiet weather, with seasonable temperatures expected through the 
+majority of the long term forecast.
+
+2) Elevated to strong winds may develop Monday across much of SE 
+Wyoming. Low confidence at this time of this turning into a high 
+wind event.
+
+3) Next chance for precipitation may arrive next week, mainly for 
+areas west of the Laramie Range and the high elevations.
+
+Overview: Long term forecast remains on track from the previous 
+forecast package. The region will be dominated by sharp amplitude 
+ridge over the weekend that will transition into a zonal flow toward 
+the beginning of next week. Embedded in this zonal flow, a weak 
+shortwave trough will move through the region, with the only 
+noticeable weather being an increase in cloud cover, as little to no 
+moisture and wind energy will accompany this shortwave. By Monday a 
+strengthening trough across the Pacific Northwest will tighten the 
+gradient across the region and the second shortwave will move 
+rapidly through the region on Monday. This shortwave will have a bit 
+more wind as noted by H7 winds with this shortwave averaging out to 
+around 45 knots from both the GFS and ECMWF model outputs. This may 
+allow for some elevated to high winds to develop Monday night and 
+into Tuesday morning. In house models are beginning to hint at this 
+as well. The next chance for precipitation may occur with the 
+aforementioned trough over the Pacific Northwest as it moves east 
+toward SE Wyoming. Confidence for high winds is low at this time by 
+may begin to increase if trends continue in subsequent forecast 
+updates.
+
+Outside of that, expect mostly quiet weather days with seasonal 
+temperatures continuing through the weekend and into next week with 
+chilly mornings.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through Wednesday evening)
+Issued at 535 PM MDT Tue Oct 25 2022
+
+A series of shortwave upper level troughs will push through the area 
+this evening and again starting late Wednesday.  Some snowfall or 
+rain/snow mix is possible for KRWL, KLAR, and KCYS Wednesday 
+afternoon through Wednesday evening as the second upper level trough 
+rapidly digs southeast across the region. 
+
+HAZARDS/WEATHER TRENDS: VFR conditions tonight with gusty winds 
+quickly diminishing between 00z and 02z. Clouds will increase 
+towards sunrise along the Interstate 80 corridor with snow showers 
+possible after 18z Wednesday. Did not include precipitation in the 
+TAF due to low confidence with timing. 
+
+
+&&
+
+.FIRE WEATHER...
+Issued at 407 AM MDT Wed Oct 26 2022
+
+Minimal fire weather concerns expected through Thursday. Cooler 
+temperatures and another chance of precipitation should keep fire 
+weather conditions at a minimal. Wednesday into Thursday, 
+accumulating snow is expected in the mountains, with rain and snow 
+showers possible for the lower elevations. Friday through the 
+weekend, temperatures warm up and conditions dry out. Minimum 
+relative humidities east of the Laramie Range could fall into the 
+upper teens. 
+
+&&
+
+.CYS WATCHES/WARNINGS/ADVISORIES...
+WY...None.
+NE...None.
+&&
+
+$$
+
+SHORT TERM...SF
+LONG TERM...AW
+AVIATION...TJT 
+FIRE WEATHER...SF
+

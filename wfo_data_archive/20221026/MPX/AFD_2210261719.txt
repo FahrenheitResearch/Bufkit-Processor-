@@ -1,0 +1,75 @@
+558 
+FXUS63 KMPX 261719
+AFDMPX
+
+Area Forecast Discussion
+National Weather Service Twin Cities/Chanhassen MN
+1219 PM CDT Wed Oct 26 2022
+
+.DISCUSSION...(Today through Tuesday)
+Issued at 343 AM CDT Wed Oct 26 2022
+
+KEY MESSAGES: 
+
+- Aside from a chance of showers Thursday across western Minnesota,
+  dry weather and above normal temperatures are expected through 
+  early next week. 
+
+Clear skies are in place early this morning across much of the
+region, with extensive stratus across northern MN and extending as 
+far south as Morrison, Mille Lacs, and Kanabec counties. A 
+negatively-tilted trough over the Ohio Valley will lift northeast 
+today while another trough digs into the Rockies. This will build 
+ridging across the Upper Midwest and should erode the cloud cover to
+the north by this afternoon. High temperatures will reach near 
+normal levels in the lower 50s today, with some mid 50s south of the 
+MN River.
+
+The trough over the Rockies will translate eastward to the southern
+Plains Thursday and Thursday night with a ribbon of vorticity
+extending northeastward into MN. Southerly flow and moisture return
+should bring some showers to western portions of the state Thursday,
+before dissipating Thursday evening as the system well to the south
+begins to close off. 
+
+The rest of the period will be dominated by largely zonal flow
+trending more southwest early next week as a trough begins to dive
+down the West Coast or into Rockies. Mild air will prevail with highs
+in the upper 50s to mid 60s each day. By the middle of next week,
+there are signs of the long wave trough to the west developing a 
+surface system over the central U.S. That could bring even warmer 
+air in ahead of the next cold front. 
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 1213 PM CDT Wed Oct 26 2022
+
+Another mostly quiet TAF period coming up as low clouds over western
+WI will continue to scatter out as we head into the afternoon. Winds
+fairly light at 300-330 right now will slowly shift towards 240-270
+by this evening, with speeds weakening at or below 3kts. A final
+shift to 140-170 will arrive early in the morning on Thursday, with
+speeds remaining light. CIGS return by the last 8 hours of the
+period, remaining VFR and generally above 060.
+
+KMSP...No additional concerns. The gradual wind shift tonight is the
+only minor concern.
+
+/OUTLOOK FOR KMSP/
+THU...VFR. Wind SE 5-10kts.
+FRI...VFR. Wind SW 10kts.
+SAT...VFR. Wind S 5-10kts.
+
+&&
+
+.MPX WATCHES/WARNINGS/ADVISORIES...
+MN...None.
+WI...None.
+&&
+
+$$
+
+DISCUSSION...Borghoff
+AVIATION...TDH
+

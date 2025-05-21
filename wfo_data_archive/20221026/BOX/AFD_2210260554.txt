@@ -1,0 +1,231 @@
+970 
+FXUS61 KBOX 260554
+AFDBOX
+
+Area Forecast Discussion
+National Weather Service Boston/Norton MA
+154 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+
+Showers will increase in coverage overnight into Wednesday, as 
+low pressure backs in from the ocean with tropical moisture 
+surging into New England. Mild conditions Thursday are replaced 
+by brisk and cooler weather Thursday night into Friday, behind a
+backdoor cold front. Large sprawling high pressure provides 
+very pleasant weather this weekend, with seasonable afternoons 
+and chilly nights, along with light winds. Mild and somewhat 
+humid weather returns early next week, along with a risk for 
+scattered showers.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+1035 PM Update...
+
+* Bands of showers become more numerous overnight with areas of
+  fog and unusual muggy conditions for late October
+
+Previous forecast is on track. Surface low well southeast the 
+region was allowing tropical moisture to stream northward into 
+southern New England. Pwats climbing to between 1.5 and 2 inches
+coupled with a modest forcing will result in bands of showers 
+becoming more numerous overnight. Given the tropical 
+environment in place some of these showers may contain brief 
+downpours too with perhaps a rumble or two of thunder by
+daybreak.
+
+The other concern will continue to be areas of fog and drizzle.
+Some of the fog will be dense at times especially towards the 
+coast. Visibility will fluctuate at times and briefly improve in
+any of the heavier showers. However, outside of the showers 
+visibility may drop to near zero and that is evident especially 
+along the eastern MA coast right now. Dense Fog Advisory 
+continues across this region through 7 am and will continue to 
+monitor trends in case it needs to be expanded further 
+northwest. 
+
+It will also remain quite mild and muggy overnight especially
+for late October standards. Most locations will see their 
+temperatures and dewpoints remain 60+ right through daybreak.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+Wednesday...
+
+Anomalous PWAT plume increases further with 2" PWATs approaching the 
+outer Cape and 1.5" back to western MA. Shortwave within the 
+southerly flow aloft lifts across the region which will bring more 
+showers and isolated t-storms with locally heavy rainfall possible.
+It's tough to pin down exactly where axis of heavier showers will 
+set up. It could be anywhere in SNE but favored across eastern MA 
+closest to the high PWATs to the east. Another mild and humid day 
+with highs mid 60s to near 70 with dewpoints in the 60s again. 
+
+Wednesday night...
+
+Low pres east of Cape Cod lifts to the north and de-amplifying 
+shortwave lifting to north and west will send a cold front across 
+SNE. Any lingering showers will end in the evening with partial 
+clearing developing overnight as much drier air moves in from the 
+west. Lows will range through the 50s.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Highlights...
+
+* Beautiful, warm weather Thursday with sunshine and temps about 10 
+  degs above than normal!
+
+* Large sprawling high pressure for Fri & the weekend, supporting 
+  dry weather and seasonable temperatures
+
+* Mild & somewhat humid conditions return early next week, along 
+  with scattered showers
+
+Thursday...
+
+Beautiful weather ahead of an approaching backdoor cold front. Not 
+expecting any precip, as models show rapid column drying as PWATs 
+crash from west to east thru the day. NW boundary layer flow ahead 
+of the front, combined with warm 925 mb temps of +8C west to +12C 
+southeast, will support highs in the upper 60s to lower 70s, with 
+warmest readings in the downslope regions of RI and eastern MA.
+Given warm temps aloft and NW blyr winds, derived max temps from
+NBM 75 percentile dataset.  NW blyr winds will also dry out 
+surface dew pts into the upper 40s to mid 50s in the afternoon. 
+Just absolutely a beautiful late Oct day, enjoy! 
+
+Thursday night/Friday...
+
+Post frontal behind backdoor cold front. Shallow cool airmass 
+overspreads the entire region on NE flow, resulting in temps much 
+cooler than Thu, but only at or slightly cooler than normal, with 
+highs mid to upper 50s, possibly 60 in the CT river valley. It will 
+feel cooler across the Cape and Islands, given breezy conditions 
+from NE winds 15-25 mph, possibly gusts up to 30 mph at times. 
+Morning lows Fri in the 40s, except mid to upper 30s northern CT 
+into western-central MA. Probably just enough wind here to preclude 
+much if any frost. 
+
+Weekend...
+
+Gorgeous weather with large sprawling 1030 mb high pressure cresting 
+over the region, providing sunshine, light winds and seasonable 
+temps. Ideal weather, especially the light winds for those 
+raking leaves this weekend. Sunday will be the milder of the 
+two days, as airmass slowly modifies, with highs Saturday in the
+upper 50s to low 60s (normal for late Oct) and then warming to 
+60-65 Sunday. Afternoon seabreezes likely each day, but not a 
+dramatic cool down given SSTs on eastern MA waters in the upper 
+50s, and low 60s south coast. 850 mb temps a bit misleading this
+weekend, which are much warmer than normal. But subsidence 
+inversion associated with 1030 mb high along with low sun angle,
+will limit blyr mixing well below 850 mb. Chilly nights this 
+weekend given dry airmass and light winds. Thus, derived mins 
+from the cooler MOS guidance, yielding lows in the 30s for many 
+areas. Hence, could have some frosty mornings. 
+
+Early Next Week...
+
+Ensembles indicate long wave trough sets up across the MS Valley 
+along with subtropical ridge building over near the Bahamas. This 
+yields deep southwest flow along the eastern seaboard. This supports 
+temps likely warmer than normal and may be accompanied by a risk for 
+scattered showers Sun night/Mon with the change in airmass.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+
+Forecaster Confidence Levels:
+
+Low - less than 30 percent. 
+Medium - 30 to 60 percent. 
+High - greater than 60 percent.
+
+06z TAF Update...
+
+Today...High Confidence.
+
+Widespread IFR-LIFR conditions in low clouds, fog and periods of
+showers persist today with perhaps even a rumble of thunder. 
+The fog will be dense at times this morning especially near the
+coast; but there should be some improvement in visibility as 
+more showers impact the region later this morning. Very light 
+ENE winds becoming variable but remaining quite light through 
+the day.
+
+Tonight...High Confidence in trends but timing more uncertain. 
+
+IFR/LIFR conditions in low clouds and fog will gradually 
+improve tonight from northwest to southeast. Most locations will
+see VFR conditions by daybreak; except across far southeast New
+England where some lower clouds/fog patches may linger. Light 
+SW winds becoming W.
+
+Thursday...High Confidence.
+
+VFR with winds becoming NW at 10 to 15 knots and gusts between
+20 and 25 knots by afternoon.
+
+KBOS Terminal...High confidence in TAF. 
+
+KBDL Terminal...High confidence in TAF. 
+ 
+Outlook /Thursday Night through Sunday/...
+
+Thursday through Friday Night: VFR. Breezy. 
+
+Saturday through Sunday: VFR.
+
+&&
+
+.MARINE...
+Forecaster Confidence Levels:
+
+Low - less than 30 percent. 
+Medium - 30 to 60 percent. 
+High - greater than 60 percent.
+
+Tonight through Wednesday night...Moderate Confidence.
+
+Light easterly winds tonight and Wed will eventually shift to SW/W 
+Wed night. Seas may build to 5 ft by Wed night from building SE 
+swell. Widespread dense fog expected tonight into Wed morning with 
+near zero vsbys at times. 
+
+Outlook /Thursday Night through Sunday/...
+
+Thursday: Winds less than 25 kt. Seas up to 5 ft. 
+
+Thursday Night: Moderate risk for Small Craft Advisory winds
+with gusts up to 25 kt. Seas up to 5 ft. 
+
+Friday: Moderate risk for Small Craft Advisory winds with gusts
+up to 25 kt. Rough seas up to 7 ft. 
+
+Friday Night through Sunday: Winds less than 25 kt. Seas up to
+5 ft.
+
+&&
+
+.BOX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+MA...Dense Fog Advisory until 7 AM EDT this morning for MAZ005>007-
+     012>024.
+RI...Dense Fog Advisory until 7 AM EDT this morning for RIZ001>008.
+MARINE...None.
+
+&&
+
+$$
+SYNOPSIS...KJC/Nocera
+NEAR TERM...Frank
+SHORT TERM...KJC
+LONG TERM...Nocera
+AVIATION...Frank/Nocera
+MARINE...KJC/Nocera
+

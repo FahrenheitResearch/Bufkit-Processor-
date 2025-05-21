@@ -1,0 +1,126 @@
+296 
+FXUS65 KVEF 260354
+AFDVEF
+
+Area Forecast Discussion
+National Weather Service Las Vegas NV
+855 PM PDT Tue Oct 25 2022
+
+.SYNOPSIS...Increasing temperatures expected until a weather system 
+passes through the Desert Southwest Wednesday night into Thursday 
+morning, reducing temperatures slightly and increasing northerly 
+winds along the Colorado River Valley. Warming trend picks back up 
+going into the weekend, bringing us back toward seasonal normals.
+&&
+
+.UPDATE...A swath of mid and high clouds was enhancing over central 
+Nevada ahead of a shortwave trough currently digging into the 
+Pacific Northwest. These clouds will brush over southern Nevada late 
+tonight then clear out for Wednesday morning before another batch of 
+clouds enhances Wednesday afternoon across our region before the 
+trough dives across northern Nevada and Utah Wednesday night. This 
+will bring increasing north breezes down through southern Nevada 
+mainly after 10 PM PDT Wednesday evening through the day 
+Thursday...with the strongest speeds down the Colorado River Valley 
+where a Lake Wind Advisory is in effect from 3 AM to 5 PM PDT 
+Thursday. The latest model guidance supports trends detailed in the 
+previous discussion and no immediate changes are needed. -Adair &&
+
+.PREV DISCUSSION...
+156 PM PDT Tue Oct 25 2022
+
+
+.SHORT TERM...Today through Thursday.
+
+With a northwesterly-to-zonal flow aloft, temperatures have been 
+allowed to increase somewhat today compared to yesterday. 
+Temperatures will increase yet again Wednesday afternoon, but will 
+still remain below seasonal averages. Quiet weather with mostly 
+clear skies expected both today and Wednesday.
+
+That said, a shortwave trough will drop through the western CONUS 
+Wednesday night into Thursday morning. The trough axis is not 
+expected to push into our forecast area, but an additional shortwave 
+trough embedded in the flow aloft will sink into the Desert 
+Southwest, which will assist in tightening gradients overhead. In 
+general, precipitation chances will remain north of our forecast 
+area where the center of the low pressure passes through the 
+southern Great Basin. That said, snow levels in the panhandle of 
+Lincoln County will drop below 3000 feet. Both the ECMWF ensemble 
+mean and GEFS mean continue to hint at light snow accumulations 
+across the northern fringes of our forecast area Thursday morning, 
+so cannot rule out flurries or light snow in the higher elevations 
+of northern Lincoln or central Nye counties as the system passes to 
+our north.  
+
+Otherwise, the primary impact will be enhanced northerly winds along 
+the Colorado River Valley. As mentioned in the previous forecast 
+discussion, the NBMv4.1 continues to indicate stronger wind gusts 
+than the NBMv4.0. Confidence has increased in sustained wind speeds 
+in excess of 25 mph this afternoon, which has resulted in our 
+issuance of the Lake Wind Advisory. This advisory is in effect for 
+zones NV 021, AZ 002, 036, and CA 527 due to the constricting shape 
+of our zones, but primary impacts will be seen along the Colorado 
+River Valley from Laughlin/Bullhead City south to Lake Havasu City. 
+Though breezy winds are expected at Lake Mead, the primary concerns 
+are for Lake Mohave and Lake Havasu, where gusty winds could result 
+in wave heights between 1 and 2 feet, which would be dangerous for 
+small craft. The Lake Wind Advisory starts early - at 3 AM PDT due 
+to the timing of the frontal passage and continues through the 
+afternoon. 
+
+As we get closer to the event, more high-resolution model data will 
+be available, possibly increasing forecast wind speeds. Chose to 
+hold off on a Wind Advisory issuance for the area and opt for a Lake 
+Wind Advisory instead due to the small spatial and temporal area of 
+our current thinking of wind gusts over 40 mph. In general, wind 
+gusts will range from 25 to 35 mph, but cannot rule out an isolated 
+gust in excess of 40 mph, particularly in and just south of 
+Laughlin/Bullhead City.
+
+
+.LONG TERM...Friday through Monday.
+
+Fair weather looks to be in store at least early this weekend as 
+model ensembles indicate a ridge of high pressure holding over our 
+region Friday into Saturday resulting in temperatures climbing 
+slightly each day with highs in the 70s across most of the desert 
+zones. There is good agreement that the ridge will break down Sunday 
+and Monday in response to a mean trough developing over the western 
+states. Ensemble means and the majority of clusters indicate a 
+rather benign positive tilt or neutral trough with only a slight 
+decrease in temperatures by Halloween. This trend is reflected in
+the latest NBM forecast grids with no significant weather or 
+winds across the region except a slight chance of precipitation in
+the high Sierra.
+&&
+
+.AVIATION...For Harry Reid...No operationally significant winds, 
+clouds, or weather expected through Wednesday. A cold front will 
+bring northerly winds Wednesday night into Thursday.
+
+For the rest of southern Nevada, northwest Arizona and southeast
+California...A cold front will traverse the southern Great Basin 
+Wednesday and the Mojave Desert Wednesday night, bringing northerly 
+winds gusting 20 to 30 knots in the favorably oriented terrain of 
+the southern Great Basin Wednesday afternoon and evening and to the 
+Colorado River Valley Wednesday night and Thursday. Lesser gusts are 
+expected elsewhere. No operationally significant clouds or weather 
+expected.
+&&
+
+
+.SPOTTER INFORMATION STATEMENT...Spotters are encouraged to report
+any significant weather or impacts according to standard operating
+procedures.
+&&
+
+$$
+
+SHORT TERM...Varian
+LONG TERM...Adair
+AVIATION...Morgan
+
+For more forecast information...see us on our webpage:
+https://weather.gov/lasvegas or follow us on Facebook and Twitter
+

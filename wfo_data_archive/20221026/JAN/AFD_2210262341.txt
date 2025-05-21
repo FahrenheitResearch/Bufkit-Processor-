@@ -1,0 +1,87 @@
+247 
+FXUS64 KJAN 262341
+AFDJAN
+
+Area Forecast Discussion
+National Weather Service Jackson MS
+641 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.DISCUSSION...
+Issued at 218 PM CDT Wed Oct 26 2022
+
+Tonight and tomorrow: A brief period of quasi-zonal flow aloft 
+will quickly transition to southwesterlies ahead of a closed upper
+low diving through the Four Corners and towards the Southern 
+Plains. At the surface, a sprawling high will migrate from the 
+Midwest into the Great Lakes region with low-level flow veering in
+response. This will bring a quick end to any lingering cold 
+advection this evening into tomorrow. Conditions tonight will be 
+ideal for efficient radiational cooling with clear skies and light
+to calm winds and an entrenched cool/dry airmass. Temperatures 
+will quickly fall after sunset as the boundary layer decouples 
+with overnight lows bottoming out in the low 40s across much of 
+the area. A few readings in the upper 30s will also be possible in
+traditional cool drainage locations. Temperatures will quickly 
+rebound after sunrise tomorrow with afternoon highs topping out in
+the low to mid 70s as warm advection begins to return ahead of 
+the upstream wave. /TW/
+
+Thursday night through Tuesday: Come Thursday evening a closed 
+low will be shifting southeast of the Four Corners region while a 
+>1028mb surface high becomes centered over the eastern Great Lakes
+region while ridging south across our CWA. This will keep the 
+Gulf closed for our region but a southern branch jet streak within
+our southwest flow aloft downstream of the closed low will bring 
+some mid and high level clouds across our CWA. These clouds should
+help hold temperatures up a few degrees but another night of 
+cooler than normal temperatures is expected with most sites 
+bottoming out in the upper 40s. Temperatures will moderate going 
+into the weekend. The surface high will gradually shift east 
+Friday while the closed low moves over the Southern Plains. Friday
+morning looks dry but by afternoon the closed low is expected to 
+be close enough to our CWA to start moving rain back into our 
+southwest zones. The closed low is expected to track east 
+northeast to the ArkLaTex region by noon Saturday and become 
+nearly stacked with its attendant surface low as it lifts over 
+northeast Arkansas Saturday evening. Rain is expected to become 
+widespread across our CWA Saturday before tapering off from the 
+southwest Saturday night. This system is expected to lift far 
+enough to the north Sunday morning and bring an end to the 
+measurable rain chances by afternoon. Storm total amounts of one 
+to two inches are possible between Friday afternoon and Sunday 
+morning. Models still show a shortwave trough swinging through the
+region Monday but consensus is still dry for Monday through 
+Tuesday. /22/
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 641 PM CDT Wed Oct 26 2022
+
+VFR conditions and light north to northeast surface wind will
+prevail through the forecast period. /EC/
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Jackson       43  74  49  75 /   0   0   0  10 
+Meridian      42  73  48  75 /   0   0   0   0 
+Vicksburg     42  75  48  76 /   0   0   0  20 
+Hattiesburg   44  76  48  78 /   0   0   0  10 
+Natchez       44  76  49  75 /   0   0   0  30 
+Greenville    42  74  47  75 /   0   0   0  20 
+Greenwood     42  73  48  75 /   0   0   0  10 
+
+&&
+
+.JAN WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+JAN/JAN/JAN
+

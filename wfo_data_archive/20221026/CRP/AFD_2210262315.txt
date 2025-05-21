@@ -1,0 +1,148 @@
+854 
+FXUS64 KCRP 262315
+AFDCRP
+
+Area Forecast Discussion
+National Weather Service Corpus Christi TX
+615 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(Tonight through Thursday night)
+Issued at 331 PM CDT Wed Oct 26 2022
+
+Key Messages:
+
+  - Dry & pleasant tonight through early Thursday morning
+
+  - Moisture increases in advance of a cold front, leading to slight 
+rain chances returning as early as Thursday afternoon, increasing 
+overnight.
+
+Tonight and early Thursday morning will be relatively quiet with 
+quasi-zonal flow aloft and winds weak out of the northeast. However, 
+surface winds will shift onshore and lead to a significant increase 
+in moisture. PWATs will quickly climb from around an inch in the 
+morning to around 1.5" (75th percentile) in the afternoon. CAM 
+guidance is showing showers developing across the southern CWA 
+Thursday afternoon with this enhanced moisture. Have included a 
+slight mention of showers for this area. 
+
+Coverage with the addition of thunderstorms will increase to 
+scattered overnight as the 925mb LLJ strengthens, enhancing lift 
+support ahead of an approaching cold front, and bands of positive 
+vorticity (500-850mb) advects across the area. Greatest coverage is 
+most favorable around the Coastal Bend, Victoria Crossroads and the 
+waters where PWATs are even projected to be greater, near 1.75" 
+(greater than 75th percentile). 
+
+The NBM 24-hr Probability of QPF ending 7AM Friday greater than 0.1" 
+is showing 30-50% across most of the area with greater than 0.5" at 
+15% or less. Therefore, not expecting significant rain accumulation 
+through Thursday night. It is worth mentioning that NBM ProbQPF of 
+measurable rain amounts (>0.01") is 40-75% with greatest chances 
+along the coast and Victoria Crossroads (area previously mentioned). 
+
+Tonight's lows will be in the mid 60s near the coast to the mid 50s 
+inland. Highs on Thursday will generally be in the low 80s across 
+the region. The increase in cloud and rain cover Thursday night will 
+prohibit radiational cooling and lead to warmer lows, ranging from 
+the mid 60s to lower 70s.
+
+&&
+
+.LONG TERM...
+(Friday through next Tuesday)
+Issued at 331 PM CDT Wed Oct 26 2022
+
+The aforementioned surface cold front is forecast to progress 
+southeastward through the CWA Friday morning. While the timing of 
+the frontal passage will limit destabilization, model guidance is 
+indicating that 1000-1500 J/kg of CAPE will develop ahead of the 
+cold front. Therefore, there will be the potential for thunderstorms 
+to accompany the frontal passage. Forecast cloud layer winds and 
+vertical wind shear vectors will be oriented around 45 degrees with 
+respect to the orientation of cold front will support the potential 
+for some cellular convective modes. Therefore, there is a Marginal 
+Risk of severe weather on Friday (5%-14% chance of occurring within 
+25 miles of a point) with the main hazard being damaging wind gusts. 
+
+Northwest winds of 15-20 MPH with gusts to around 30 MPH are 
+forecast to develop behind the front Friday afternoon. These 
+stronger winds could briefly overlap with relative humidity around 
+30% across the Rio Grande Plains later Friday afternoon. However, 
+near to above normal moisture in grass and brush across that area 
+will limit a large concern for fires before winds decrease Friday 
+evening.
+
+Quiet weather is then expected through the rest of long term period 
+with high pressure gradually building eastward.
+
+&&
+
+.AVIATION...
+(00Z TAFS)
+Issued at 608 PM CDT Wed Oct 26 2022
+
+Generally VFR conditions are expected to persist across area
+terminals through the cycle. However, increased moisture over the
+region on Thursday may bring lower ceilings that could potentially
+lead to MVFR conditions and patchy showers across the sites. For
+now though, have withheld from adding these into the TAFs owing 
+to lower confidence on timing, but could see them added in later 
+packages. Winds will be light out of the east tonight, shifting to
+the southeast and becoming gusty at times on Thursday ahead of an
+approaching boundary. 
+
+&&
+
+.MARINE...
+Issued at 331 PM CDT Wed Oct 26 2022
+
+Weak to moderate northeasterly flow this afternoon will shift
+southeasterly and become weak tonight. Weak to moderate onshore
+flow Thursday morning will strengthen to moderate Thursday
+afternoon into early Friday morning. Showers and thunderstorms 
+will accompany a cold front that will move through the coastal 
+waters late Friday morning through Friday afternoon. Winds will 
+increase Friday evening behind the front with a 70-90% chance of 
+sustained winds greater than 22 knots over the coastal waters 
+between Friday and Saturday evening. Gale conditions are not 
+expected with a less than a 15% probability of wind gusts 
+exceeding 34 knots. Therefore, expect Small Craft Advisories will 
+be needed for all of the coastal waters a period between Friday 
+afternoon and Saturday evening.
+
+Winds and seas are forecast to decrease Saturday evening as high 
+pressure builds into the region. High pressure will result in winds 
+generally 10 knots or less and seas of 2 feet or less through 
+Monday. Winds are expected to become southeasterly and increase to 
+around 15 knots during the middle of next week in response to a area 
+of low pressure developing in the Central to Northern Plains.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Corpus Christi    61  82  70  82 /   0  30  70  80 
+Victoria          51  82  65  78 /   0  20  80  80 
+Laredo            62  82  69  80 /   0  10  30  30 
+Alice             56  83  67  81 /   0  30  70  70 
+Rockport          64  82  71  83 /   0  20  80  90 
+Cotulla           56  84  67  80 /   0  10  50  40 
+Kingsville        58  83  69  82 /   0  30  70  80 
+Navy Corpus       68  81  75  80 /   0  30  80  90 
+
+&&
+
+.CRP WATCHES/WARNINGS/ADVISORIES...
+TX...None.
+GM...None.
+&&
+
+$$
+
+SHORT TERM...EMF
+LONG TERM....TWH
+AVIATION...ANM/88
+

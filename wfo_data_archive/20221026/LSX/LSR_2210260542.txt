@@ -1,0 +1,32 @@
+127 
+NWUS53 KLSX 260542
+LSRLSX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE ST LOUIS MO
+1242 AM CDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0531 PM     HEAVY RAIN       1 W BLACK JACK          38.81N 90.28W
+10/25/2022  M2.21 INCH       ST. LOUIS          MO   PUBLIC           
+
+             
+
+0140 PM     HEAVY RAIN       2 E EDWARDSVILLE        38.79N 89.93W
+10/25/2022  M3.10 INCH       MADISON            IL   PUBLIC           
+
+             
+
+1107 PM     HEAVY RAIN       3 E HIGHLAND            38.73N 89.63W
+10/25/2022  M1.55 INCH       MADISON            IL   PUBLIC           
+
+             
+
+
+&&
+
+$$
+

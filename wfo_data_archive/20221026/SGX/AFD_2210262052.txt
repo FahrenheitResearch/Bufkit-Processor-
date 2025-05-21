@@ -1,0 +1,105 @@
+911 
+FXUS66 KSGX 262052
+AFDSGX
+
+Area Forecast Discussion
+National Weather Service San Diego CA
+152 PM PDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A trough over the western U.S. will progress southward into
+portions of the eastern Great Basin, bringing dry offshore flow
+for our region over the next couple of days. This will keep the
+marine layer shallower with more patchy clouds nights and
+mornings with near to slightly below average temperatures. The
+middle of next week has the potential for a changing weather
+pattern, where a trough from the north may bring in cooler weather
+and light showers across the region.
+ 
+
+.DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+.SHORT TERM (Today through Saturday)... 
+Onshore flow has taken over this afternoon across the region, 
+with scattered high clouds along with low clouds offshore. An area
+of low pressure in eastern Idaho will continue to dip southward 
+through the Intermountain West today into tomorrow. This trough 
+will generate dry northerly flow across the Great Basin, leading 
+to a weak Santa Ana wind event across our region by Thursday 
+morning. HRRR/WRF model solutions are quite weak with these winds.
+Noting this and the far proximity of the trough, I agree that the
+winds for this event will be mainly be focused on and below 
+mountain passes near coastal slope locations, including the Cajon 
+Pass and parts of the IE. Most areas will see winds 25-35 MPH 
+(locally 40-45 MPH). 
+
+The offshore flow pattern will continue into Friday into Saturday,
+though very weak across the mountains and foothills. This pattern
+will bring temperatures near to slightly below average each day
+with lovely fall-like crisp temperatures each night and early
+morning. The marine layer is expected to be shallow, keeping
+clouds west of the mountains patchy each night.
+
+&&
+
+.LONG TERM (Early to Mid-Next Week)...
+A change in the weather pattern can be expected by next week. 
+A weak area of high pressure will build into the by Sunday into
+Monday, leading to warmer temperatures and dry weather. Forecast
+ensemble guidance depicts this to be short-lived, showing a
+deepening trough developing somewhere across the western part of
+the country. We are still highly uncertain on where exactly this
+trough will be placed and how deep it goes. If this trough is on
+the stronger and deeper end, there is a chance it could lead to
+much cooler weather with areas of rain and high elevation snow
+showers. I agree with NBM solutions, putting in a chance for
+precipiation across all areas starting early Wednesday morning. 
+This will change over the coming days, so please keep an eye on 
+the forecast as we get closer to the event!
+
+&&
+
+.AVIATION... 
+261900Z...Coast/Valleys...FEW-SCT patchy low clouds along the coast 
+and over the coastal waters. Patchy areas of low clouds redeveloping 
+after 00Z Thu with bases near 1800-2500 ft MSL and tops to 3000 ft 
+MSL, spreading into portions of the inland valleys overnight, 
+obscuring lower coastal mountain slopes. Local vis restrictions of 2-
+4SM on the edge of the cloud deck and near terrain. Low clouds 
+should scatter and vis should improve 16-18Z Thu. 
+
+Mountains/Deserts...West winds with surface gusts 25-35 kt 
+developing over the ridges, desert slopes, and below the passes 
+around 00Z Thu, weakening and shifting to northerly after 10Z. MOD 
+up/downdrafts and pockets of LLWS over/east of the mountains during 
+this time. Otherwise a few high clouds at/above 20,000 ft MSL and 
+unrestricted vis through Thursday morning.
+
+&&
+
+.MARINE...
+No hazardous marine weather or sea conditions are expected through 
+Monday.
+
+&&
+
+.SKYWARN... 
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...None.
+PZ...None.
+
+&&
+
+$$
+
+PUBLIC...APR
+AVIATION/MARINE...CO
+

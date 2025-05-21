@@ -1,0 +1,146 @@
+686 
+FXUS63 KAPX 260345
+AFDAPX
+
+Area Forecast Discussion
+National Weather Service Gaylord MI
+1145 PM EDT Tue Oct 25 2022
+
+.UPDATE...
+Issued at 944 PM EDT Tue Oct 25 2022
+
+Cold front is slowly moving across northern MI, held up by a
+1001mb surface low nearing HUF/Terre Haute. The low will move 
+quickly ne toward Lk Huron into Wed morning. Rain band is 
+occurring near and behind the front, bringing solid rain to most 
+of northern MI (precip has just started along the ne lower MI 
+coast). Widespread precip expected thru the night; perhaps western
+Chip/Mack Cos see rain start to diminish by daybreak. Just minor 
+tweaks needed to the ongoing damp and cooler forecast.
+
+&&
+
+.NEAR TERM...(Through Tonight)
+Issued at 258 PM EDT Tue Oct 25 2022
+
+...Turning Wet and Cooler Tonight...
+
+High Impact Weather Potential...Low.
+
+Pattern Synopsis/Forecast...A slow moving cold front will cross
+northern Michigan tonight. This front is trailing from low
+pressure over Hudson Bay, with its movement slowed by another low
+traveling up the front from the mid-Mississippi Valley. 
+Scattered, mainly light, showers have been impacting eastern Upper
+and the coastal area of northwest Lower for much of the day. The 
+rainfall will become more widespread tonight as the southern low 
+and associated upper-level wave draw closer, even though these 
+features will pass to our south and east.
+
+The forcing currently in place over the forecast area is not
+terribly strong, which is why the rainfall is rather spotty
+despite impressively high precipitable water values approaching
+1.5" in the vicinity of the front. In addition, the pre frontal
+air mass was quite dry per 12Z KAPX sounding. Better forcing will
+arrive tonight with the approach of the wave to the south which
+should result in widespread rainfall for much of the area.
+
+The rainfall and colder air moving in behind the front will see
+most areas seeing overnight lows at least 10 degrees cooler than
+last night, but this is still about 10 degrees warmer that normal.
+Look for readings mainly in the 40s, with some 50s near Saginaw
+Bay.
+
+&&
+
+.SHORT TERM...(Wednesday through Friday)
+Issued at 258 PM EDT Tue Oct 25 2022
+
+High Impact Weather Potential: Minimal.
+
+A cold front associated with an area of low pressure over Hudson Bay 
+will continue to drag slowly through northern Michigan through 
+Wednesday morning/early afternoon. This front and associated 
+moisture should move out of the forecast area by Wednesday 
+evening...diminishing from west to east throughout the day as high 
+pressure and much drier air begins to build over the Great Lakes. 
+The Grand Traverse Bay region will be the first to see the rain come 
+to an end during the morning hours, while the coastline communities 
+of Lake Huron will be the last, into the afternoon hours. QPF 
+amounts in addition to whatever falls later today through the 
+overnight hours should be around 0.25-0.50". Northwest winds pick up 
+in intensity with gusts of around 25-35 mph behind the front 
+Wednesday and Wednesday night. This high pressure will dominate 
+northern Michigan's weather through the end of this forecast period 
+and beyond. Winds will be fairly light Thursday and Friday...with 
+Friday having a southwesterly component.
+
+Temperatures behind the aforementioned cold front will be much 
+cooler than the past several days...only reaching into the mid 40s 
+to low 50s Wednesday. Temperatures are forecast to be in the upper 
+40s to mid 50s both Thursday and Friday.
+
+.LONG TERM...(Friday night through Tuesday)
+Issued at 258 PM EDT Tue Oct 25 2022
+
+High Impact Weather Potential...Minimal at this time.
+
+High pressure and drier air continues to dominate the Great 
+Lakes area and provide quiet and warmer than normal temperatures 
+through the weekend and possibly into the beginning of the next work 
+week. Temperatures will be mostly in the 50s throughout all of 
+northern Michigan.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1145 PM EDT Tue Oct 25 2022
+
+Mostly IFR overnight and Wed morning, then slow improvement.
+
+A cold front is slowly working across ne lower MI, with an area 
+of low pressure in w central IN. SHRA will move across northern 
+MI overnight. Cigs have generally been drifting lower, and that 
+trend will continue. All sites but APN will see IFR cigs for the 
+bulk of the night; APN will become IFR by Wed morning. Vsbys may
+occasional drop to IFR territory as well, but MVFR to VFR vsbys 
+will be much more common. Conditions will slowly improve to MVFR 
+and VFR Wednesday afternoon and evening.
+
+Gusty nw/nnw winds develop late tonight and Wednesday.
+
+&&
+
+.MARINE...
+Issued at 258 PM EDT Tue Oct 25 2022
+
+A slow moving cold front will cross the area tonight into early
+Wednesday, accompanied by widespread rainfall. Winds will become 
+gusty out of the northwest late tonight into Wednesday morning, 
+with the gusty winds lingering into Wednesday night. Winds/waves 
+will reach Small Craft Advisory criteria behind the front, with a 
+few gusts near gale strength over the northern Lake Huron 
+nearshore area on Wednesday.
+
+
+&&
+
+.APX WATCHES/WARNINGS/ADVISORIES...
+MI...NONE.
+LH...Small Craft Advisory from 8 AM Wednesday to 2 AM EDT Thursday 
+     for LHZ345>349.
+LM...Small Craft Advisory until 2 AM EDT Thursday for LMZ323-341-342-
+     344>346.
+LS...Small Craft Advisory from 8 AM Wednesday to 2 AM EDT Thursday 
+     for LSZ321-322.
+&&
+
+$$
+
+UPDATE...JZ
+NEAR TERM...PBB
+SHORT TERM...TJL
+LONG TERM...TJL
+AVIATION...JZ
+MARINE...PBB
+

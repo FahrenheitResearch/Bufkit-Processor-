@@ -1,0 +1,250 @@
+714 
+FXUS61 KBOX 261035
+AFDBOX
+
+Area Forecast Discussion
+National Weather Service Boston/Norton MA
+635 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Bands of showers with brief downpours will impact the region today 
+along with rather humid conditions for late October standards. Any 
+left over showers diminish this evening with dry weather for the 
+remainder of tonight. Plenty of sunshine returns on Thursday with 
+pleasant temperatures. This is replaced by brisk and cooler weather 
+Thursday night into Friday, behind a backdoor cold front. Large 
+sprawling high pressure provides very pleasant weather this weekend, 
+with seasonable afternoons and chilly nights, along with light 
+winds. Mild and somewhat humid weather returns early next week, 
+along with a risk for scattered showers.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+
+0645 AM Update...
+
+No changes made to the forecast this morning. Dense fog advisory
+remains in effect until 10AM. KBOX radar revealing moderate to
+heavy rain showers moving over ACK. We'll see additional 
+moderate to heavy rain move over the south coast and into 
+eastern MA later this morning.
+
+355 AM Update...
+
+* Areas Dense Fog this morning especially towards the coast
+* Mild/Muggy today with periods of showers with brief heavy rainfall
+
+An unseasonably mild & muggy airmass was in place across the region 
+very early this morning. Light onshore flow coupled with 60+ 
+dewpoints was resulting in areas of fog that was dense in spots 
+especially towards the coast. We have opted to extend the Dense Fog 
+Advisory for eastern MA/RI until 10 am. While fog will continue to 
+impact parts of this region into the afternoon; it probably should 
+improve somewhat especially as more showers impact the region.
+
+Otherwise...the main forecast concern today will be for bands of 
+showers that will continue lifting up from the south today. This 
+activity is being driven by a low pressure system just east of the 
+Benchmark with access to tropical moisture. As this system lifts 
+northward; modest lift along with SSE flow just off the deck will 
+tap Pwats between 1.5 and 2 inches. The result will be bands of 
+showers with brief heavy rainfall and perhaps a rumble or two of 
+thunder. It is still tough to pinpoint exactly where the heavier 
+bands of showers setup. While they are possible across the entire 
+region; appears there might be somewhat of a higher risk across 
+eastern MA later this morning into early afternoon. This is where a 
+plume of stronger forcing/deeper moisture may scrape eastern MA or 
+remain just off the coast. It will be a close call...but this is one 
+area to watch for a period of heavier showers and perhaps a rumble 
+of thunder or two. This may also result in some brief nuisance poor 
+drainage street flooding, but do not think duration will be long 
+enough to cause any significant issues.
+
+Despite cloudy skies and periods of showers today; it will be quite 
+mild and muggy for this time of year. High temperatures will 
+generally be in the 65 to 70 degree range, but with light winds and 
+dewpoints in the 60s it will feel quite sticky today.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM THURSDAY/...
+Highlights...
+
+* Any lingering showers end this evening but remaining mild tonight
+* Sunshine returns Thu with much drier air with pleasant temperatures
+
+Details...
+
+Tonight...
+
+Shortwave energy lifts to our northwest early this evening allowing 
+a pre-frontal trough to cross the region. This brings drier mid 
+level air into the region and any lingering showers should end this 
+evening. Low clouds along with some fog will linger a bit longer; 
+but do expect improvement from west to east particularly after 
+midnight. West to southwest low level flow will allow the cool 
+advection aloft to only gradually work into the region. This should 
+keep overnight low temps in the 50s.
+
+Thursday...
+
+The actual surface cold front will cross the region Thursday morning 
+into early afternoon. While no precipitation will be associated with 
+this cold front it will usher in a much drier airmass. Plenty of 
+sunshine will return and attempt to offset the cool advection slowly 
+working in from the northwest. Given the mild start though expect 
+high temps to still recover well into the 60s and perhaps near 70 
+across parts of RI/SE MA. However, do expect it to feel cooler than 
+recent days with a northwest breeze developing and dewpoints falling 
+through the 40s and eventually into the 30s in some locations.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Highlights
+
+* High pressure dominates the region Friday through Sunday with 
+  seasonable temperatures during the day and below normal 
+  temperatures at night.
+
+* Warmer but unsettled weather returns early next week with a chance 
+  for rain on Monday and Tuesday.
+
+
+Thursday night through Sunday
+
+High pressure system firmly establishes itself over the Northeast by 
+the end of the week. Chilly temps expected Thursday night as clear 
+skies should support some radiational cooling. However, the gradient 
+wind will support some mixing and thus limit maximum cooling. By 
+Friday the column will have dried out drastically with PWATs 
+dropping below 0.25 inches. Therefore expect mostly clear skies to 
+persist through the weekend. 
+
+Temperatures will be close to normal through the weekend with 
+afternoon highs ranging from the mid 50s to low 60s through Sunday 
+afternoon. Maximum radiational cooling is expected Friday night and 
+Saturday night as winds become lighter. Lows on Saturday morning 
+will likely be in the mid 20s across portions of the interior. As 
+always, the coastal areas will be a bit more mild. Freezing 
+temperatures expected across the interior again on Saturday night, 
+but not as cold as Friday night. 
+
+Monday and Tuesday
+
+High pressure shifts east during the Sunday night/Monday time frame. 
+This will result in winds shifting to the south. Southerly flow will 
+support increasing temperatures, moisture, and cloud cover across 
+southern New England for the first half of next week. As a mid-level 
+trough makes its way across the Midwest early next week, an area of 
+low-pressure will develop and bring unsettled weather to the 
+northeast. Details are vague at this time, but ensemble model 
+guidance is in strong agreement for at least some precipitation for 
+most of southern New England early next week. The first opportunity 
+will be on Monday as a surface warm front lifts through the region. 
+We'll see additional chances on Tuesday and perhaps Wednesday as an 
+area of low-pressure and an associated cold front push through the 
+Northeast.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+Forecaster Confidence Levels:
+
+Low - less than 30 percent. 
+Medium - 30 to 60 percent. 
+High - greater than 60 percent.
+
+06z TAF Update...
+
+Today...High Confidence.
+
+Widespread IFR-LIFR conditions in low clouds, fog and periods of
+showers persist today with perhaps even a rumble of thunder. 
+The fog will be dense at times this morning especially near the
+coast; but there should be some improvement in visibility as 
+more showers impact the region later this morning. Very light 
+ENE winds becoming variable but remaining quite light through 
+the day.
+
+Tonight...High Confidence in trends but timing more uncertain. 
+
+IFR/LIFR conditions in low clouds and fog will gradually 
+improve tonight from northwest to southeast. Most locations will
+see VFR conditions by daybreak; except across far southeast New
+England where some lower clouds/fog patches may linger. Light 
+SW winds becoming W.
+
+Thursday...High Confidence.
+
+VFR with winds becoming NW at 10 to 15 knots and gusts between
+20 and 25 knots by afternoon.
+
+KBOS Terminal...High confidence in TAF. 
+
+KBDL Terminal...High confidence in TAF. 
+ 
+Outlook /Thursday Night through Sunday/...
+
+Thursday Night through Friday Night: VFR. Breezy. 
+
+Saturday through Sunday: VFR.
+
+&&
+
+.MARINE...
+Forecaster Confidence Levels:
+
+Low - less than 30 percent. 
+Medium - 30 to 60 percent. 
+High - greater than 60 percent.
+
+Today through Thursday...Moderate Confidence.
+
+The main concern for mariners into this evening will be for areas of 
+fog that will be dense at times; particularly this morning. 
+Visibility will improve later tonight and especially toward daybreak 
+Thu as much drier air begins to work into the region from the west. 
+
+Light winds today will shift to the SW tonight at 10-15 knots and 
+then shift to the NW on Thu. Gusts will increase to between 20 and 
+25 knots by late Thu as cool air advection increases mixing. In 
+addition...east to southeast swell in the wake of low pressure 
+system passing to our east later today will generate some 5 foot 
+seas across our eastern waters late tonight and Thu. Therefore...we 
+have hoisted small craft headlines for our eastern outer-waters.
+
+Outlook /Thursday Night through Sunday/...
+
+Thursday Night: Moderate risk for Small Craft Advisory winds
+with gusts up to 25 kt. Seas up to 5 ft. 
+
+Friday: Moderate risk for Small Craft Advisory winds with gusts
+up to 25 kt. Rough seas up to 8 ft. 
+
+Friday Night through Saturday Night: Winds less than 25 kt.
+Seas up to 5 ft. 
+
+Sunday: Winds less than 25 kt. Areas of seas approaching 5 ft.
+
+&&
+
+.BOX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+MA...Dense Fog Advisory until 10 AM EDT this morning for MAZ005>007-
+     012>024.
+RI...Dense Fog Advisory until 10 AM EDT this morning for RIZ001>008.
+MARINE...Small Craft Advisory from midnight tonight to 8 PM EDT 
+     Thursday for ANZ250-254.
+
+&&
+
+$$
+SYNOPSIS...Frank/RM
+NEAR TERM...Frank/RM
+SHORT TERM...Frank
+LONG TERM...RM
+AVIATION...Frank/RM
+MARINE...Frank/RM
+

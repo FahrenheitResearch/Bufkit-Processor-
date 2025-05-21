@@ -1,0 +1,22 @@
+935 
+NWUS53 KLSX 261153
+LSRLSX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE ST LOUIS MO
+653 AM CDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+1200 AM     HEAVY RAIN       DELLWOOD                38.76N 90.28W
+10/26/2022  E2.53 INCH       ST. LOUIS          MO   AMATEUR RADIO    
+
+             
+
+
+&&
+
+$$
+

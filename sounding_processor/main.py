@@ -239,6 +239,10 @@ def main_cli():
         "run_date",
         help="The specific run date subfolder (YYYYMMDD) within the archive base directory to process."
     )
+    parser.add_argument(
+        "--wfo",
+        help="Process only this specific WFO ID (e.g., ABQ). If not specified, process all WFOs in the date directory."
+    )
     # Removed single input/output file args, verification args might be less useful here
 
     args = parser.parse_args()
@@ -256,8 +260,16 @@ def main_cli():
          module_logger.error(f"Error constructing target path: {e_path}")
          sys.exit(1)
 
-
-    process_directory(target_date_dir_path)
+    # Handle single WFO processing
+    if args.wfo:
+        single_wfo_dir = target_date_dir_path / args.wfo
+        if not single_wfo_dir.exists():
+            module_logger.error(f"WFO directory not found: {single_wfo_dir}")
+            sys.exit(1)
+        module_logger.info(f"Processing single WFO: {args.wfo}")
+        process_directory(single_wfo_dir)
+    else:
+        process_directory(target_date_dir_path)
 
     module_logger.info("--- Sounding Processor Batch Run End ---")
 

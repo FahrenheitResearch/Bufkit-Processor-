@@ -1,0 +1,135 @@
+512 
+FXUS62 KRAH 261742
+AFDRAH
+
+Area Forecast Discussion
+National Weather Service Raleigh NC
+120 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+A cold front will move through the region tonight. Cool high 
+pressure extending into the region from the Great Lakes on Thursday 
+will strengthen as it shifts into the northeast United States into 
+the weekend.
+
+&&
+
+.NEAR TERM /TODAY AND TONIGHT/...
+As of 1000 AM Wednesday...
+
+At 13Z the surface cold front was pushing into Upstate SC but was 
+hung up in the NC mountains.  Ahead of the front, a narrow band of 
+diminishing warm advection showers is shifting east through the 
+Piedmont, producing on a hundredth or two of rain in a few areas. 
+Visibility has been slow improving areawide, but some fog still 
+persists in the coastal plain.  Satellite imagery and the slow 
+progression of the cold front, whose parent low is well off to the 
+north in the Great lakes region, suggest the copious amount of low 
+level moisture over the area will be slow to erode.  Adjustments to 
+the forecast have been to maintains a little more cloud cover 
+and slow the warming into the mid-afternoon hours, with highs still 
+ranging from mid 60s north to upper 70s south.  Will assess the 
+potential for some fog early tonight with the afternoon update. -BLS
+
+As the front moves through tonight, any widely isolated showers will 
+exit the southern Coastal Plain. A 1026mb surface high pressure is 
+forecast to settle into the lower Great Lakes to upper Ohio Valley 
+by early Thu, resulting in northerly flow and temperatures from the 
+middle 40s in the north/northwest to lower 50s in the SE. Drier air 
+and stirring behind the front should prevent another night of fog. -
+AK
+
+&&
+
+.SHORT TERM /THURSDAY AND THURSDAY NIGHT/...
+As of 350 AM Wednesday...
+
+West-southwest flow at mid-levels will exist over the area early 
+Thu. A mid-level ridge will settle off the SE US during the 
+afternoon and into early Fri. The chilly 1030mb surface high 
+pressure over the Great Lakes will strengthen and move into the 
+northeast US by early Fri. CAA and low-level thicknesses behind the 
+front are forecast to be around 1360m, about 25m lower than Wed. 
+Although it will be sunny, lowered highs to account for the cooler 
+airmass. Temperatures will be near to slightly below seasonal 
+normals in the mid to upper 60s in the north and lower 70s in the 
+south. Forecast soundings indicate continued stirring of the surface 
+wind Thu night tied to the pressure gradient from the surface high. 
+This should temper overnight lows, which would otherwise support 
+upper 30s to lower 40s under optimal radiational cooling (1000-925 
+mb thicknesses near 642m). Expect lows in the middle 40s to around 
+50, except lower 40s in outlying areas.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+As of 300 AM Wednesday...
+
+The mid/upper level shortwave ridge over the SE US will hang on over 
+the region through late Saturday as a southern stream closed low 
+briefly cuts off over the Southern Plains and Lower MS Valley.
+While central NC is likely to see ample cloudiness Friday and 
+Saturday, it should remain mostly dry across the area with 
+seasonably cool daytime highs owing to the cloud cover and NELY low-
+level associated with the strong ~1035mb surface high extending down 
+the Eastern Seaboard. Conversely, the cloud cover will result in 
+mild, above-normal overnight low temperatures. 
+
+The upper level ridge will shift offshore early Sunday with moisture 
+transport/advection strengthening over the region throughout the day 
+and into the night as the closed low opens up and ejects NEWD into 
+the Ohio Valley. Model spread remains high WRT the timing of the 
+arrival and the eastern extent of the steadier precip into the area. 
+With that said, expect to see increasing rain chances area-wide late 
+Sunday and into Sunday night.
+
+Furthermore, it's looking increasingly likely that high rain chances 
+will linger through Monday night, as additional trailing shortwave 
+energy ejecting east through the southern Plains extends the 
+duration of southerly upglide and lift over the Carolinas until it's 
+passage Tuesday, which would negatively impact Trick-or Treat 
+activities across central NC. 
+
+Temperatures will ultimately depend on the onset timing of the 
+deeper cloud cover and rain, with the likely development of cold air 
+damming conditions over the Carolina Piedmont Sunday and Monday, 
+featuring a climatologically sharper NW to SE temperatures gradient. 
+In terms of potential rainfall amounts, while uncertainty remains 
+high, some beneficial heavy rainfall is possible, especially across 
+western NC where 2-day rain totals of 1-1.5" are possible.  
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH SATURDAY/...
+As of 120 PM Wednesday... 
+
+24-hour TAF period: Aviation conditions have been improving very 
+slowly today and remain sub-VFR at GSO/INT/RDU, where IFR and MVFR 
+have only very recently developed.  Abundant low-level moisture and 
+cold front that is only now starting to emerge east of the 
+mountains will keep some low clouds across the Piedmont for a few 
+more hours before drier air finally starts to filter into the area. 
+Expect VFR everywhere by 00Z, though there may be a brief period of 
+lower vsbys invof RDU/FAY/RWI between 00Z and 06Z before the nwrly 
+winds and drier air take over.
+
+Winds will then shift to nerly during the day tomorrow, with some 
+gusts to 20kt possibly across the east.
+
+Outlook: A prolonged period of moist low-level easterly flow will 
+favor periods of IFR/MVFR ceilings Friday into Sunday.
+
+&&
+
+.RAH WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+SYNOPSIS...Kren
+NEAR TERM...BLS/Kren
+SHORT TERM...Kren
+LONG TERM...CBL
+AVIATION...BLS/Kren
+

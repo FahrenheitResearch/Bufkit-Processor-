@@ -1,0 +1,22 @@
+435 
+NWUS51 KGYX 262124
+LSRGYX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE GRAY ME
+524 PM EDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0523 PM     HEAVY RAIN       1 NW NEW LONDON         43.43N 72.00W
+10/26/2022  M2.90 INCH       MERRIMACK          NH   PUBLIC           
+
+             
+
+
+&&
+
+$$
+

@@ -1,0 +1,92 @@
+540 
+FXUS65 KPSR 260945
+AFDPSR
+
+Area Forecast Discussion
+National Weather Service Phoenix AZ
+245 AM MST Wed Oct 26 2022
+
+.SYNOPSIS...
+A quiet weather pattern will persist through at least the weekend
+with a slow warming trend eventually bringing temperatures close
+to normal. After seeing high temperatures in the upper 70s to 
+around 80 degrees through Friday, highs will peak over the weekend
+in the lower 80s to as warm as 85 degrees. Generally clear skies 
+are forecast over the next few days before an increase in higher 
+level clouds are expected this weekend.
+
+&&
+
+.DISCUSSION...
+An overall zonal upper level flow pattern will dominate across our
+region through at least the weekend with little change to sensible
+weather conditions. For today, a very weak shortwave trough will
+quickly pass by to our north with only a brief period of high
+clouds later in the day. Temperatures will also continue to 
+recover with highs warming into the upper 70s in the Phoenix area to
+the lower 80s across the western deserts. On Thursday, a stronger
+and more organized weather system will move out of the Great 
+Basin into Colorado and New Mexico, still largely bypassing our 
+area. Again with this second system, little is expected to change 
+for our weather with the exception of some breezy northerly winds 
+mainly impacting the high terrain and the Lower CO River Valley.
+
+From Friday into the weekend, weak upper level ridging moving over
+our region will lead to a slight boost in temperatures with highs
+climbing into a 80-85 degree range, or just shy of normal for late
+October. Models also show a bit more upper level moisture working
+its way off the Pacific into our region over the weekend, so some
+high clouds are likely, possibly becoming somewhat thick on
+Sunday. Looking into next week, model ensembles continue to show a
+weak shortwave trough either passing through or just south of our
+region on Monday, but with essentially no support for any
+precipitation. Temperatures are also not likely to change much at
+all early next week with NBM guidance still showing highs
+generally in the lower 80s. Another weather system looks likely to
+move off of the Pacific at some point during the middle part of 
+next week, but there is still high ensemble spread in the depth of
+the system. A deeper system which was supported by 30% of the 12Z
+ensemble members would suggest at least a somewhat impactful 
+weather system across our region, while a shallower/weaker system 
+would probably lead to it again mostly bypassing our region to 
+the north. 
+
+&&
+
+.AVIATION...Updated 0544Z.
+
+South-Central Arizona including KPHX, KIWA, KSDL, and KDVT, and 
+Southeast California/Southwest Arizona including KIPL and KBLH: No 
+aviation weather concerns anticipated through Wednesday night. 
+Light, diurnal winds and mostly clear skies will prevail at all TAF 
+sites.
+
+&&
+
+.FIRE WEATHER...
+Dry conditions and near to below normal temperatures will remain 
+across the region through at least the weekend. Winds will be 
+light today with minRHs in a 10-15% range across the lower 
+deserts. On Thursday, a passing dry weather system to the north 
+will lead to some northerly breezes during the day with the 
+strongest winds up to 25 mph across the Lower CO River Valley. 
+Overall weak high pressure late this week through the weekend will
+lead to some modest warming with temperatures warming to near
+normal over the weekend. Moisture levels are also expected to 
+remain low through the weekend with min RHs generally staying in a
+10-20% range across the lower deserts to 15-30% across the higher
+terrain.
+
+&&
+
+.PSR WATCHES/WARNINGS/ADVISORIES...
+AZ...None.
+CA...None.
+&&
+
+$$
+
+DISCUSSION...Kuhlman
+AVIATION...Percha/Hirsch
+FIRE WEATHER...Kuhlman
+

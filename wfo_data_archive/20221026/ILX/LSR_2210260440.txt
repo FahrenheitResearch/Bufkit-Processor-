@@ -1,0 +1,22 @@
+097 
+NWUS53 KILX 260440
+LSRILX
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE LINCOLN IL
+1140 PM CDT TUE OCT 25 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0337 PM     HEAVY RAIN       1 NW TAYLORVILLE        39.56N 89.31W
+10/25/2022  M2.20 INCH       CHRISTIAN          IL   PUBLIC           
+
+             
+
+
+&&
+
+$$
+

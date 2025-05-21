@@ -1,0 +1,55 @@
+652 
+WWUS82 KTAE 260358
+SPSTAE
+
+Special Weather Statement
+National Weather Service Tallahassee FL
+1058 PM CDT Tue Oct 25 2022
+ 
+FLZ008>011-260445-
+Central Walton FL-Holmes FL-Jackson FL-Washington FL-
+1058 PM CDT Tue Oct 25 2022
+
+...A strong thunderstorm will impact portions of west central
+Jackson, eastern Walton, central Holmes and northern Washington
+Counties through 1145 PM CDT...
+
+At 1057 PM CDT, Doppler radar was tracking a strong thunderstorm 8
+miles west of Bonifay, moving east at 30 mph.
+
+HAZARD...Winds in excess of 40 mph.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around 
+         unsecured objects.
+
+Locations impacted include...
+Chipley, Bonifay, Caryville, Westville, Hinsons Crossroads, Richter
+Crossroads, Chipley Municipal Airport, Holmes County Airport,
+Whitehead Crossroads, Cerrogordo, Bethlehem, Gritney, Five Points,
+Hulaw, Hickory Hill, Bahoma, Baker Settlement, Poplar Head and
+Johnson Crossroads.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If outdoors, consider seeking shelter inside a building. 
+
+This storm may intensify, so be certain to monitor local radio
+stations and available television stations for additional information
+and possible warnings from the National Weather Service.
+
+&&
+
+LAT...LON 3087 8594 3093 8575 3094 8553 3078 8548
+      3078 8543 3070 8564 3063 8591 3066 8588
+      3068 8587 3070 8585 3070 8591
+TIME...MOT...LOC 0357Z 257DEG 26KT 3077 8583 
+
+MAX HAIL SIZE...0.00 IN
+MAX WIND GUST...40 MPH
+
+$$
+
+99-OLIVER
+

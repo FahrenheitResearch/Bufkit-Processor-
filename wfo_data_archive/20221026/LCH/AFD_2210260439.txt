@@ -1,0 +1,126 @@
+329 
+FXUS64 KLCH 260439
+AFDLCH
+
+Area Forecast Discussion
+National Weather Service Lake Charles LA
+1139 PM CDT Tue Oct 25 2022
+
+...New AVIATION...
+
+.UPDATE...
+
+Wx map shows surface high pressure building across Texas/Louisiana
+this evening, with northerly winds diminishing. Radar & satellite
+imagery clear of any clouds and precipitation. Temperatures range
+in the 50s this evening. Expecting to fall to the mid to upper 40s
+by daybreak Wednesday. Ongoing forecast looks good with no updates
+needed at this time.
+
+08/DML
+
+&&
+
+.SHORT TERM...
+(This evening through Thursday night) 
+Issued at 403 PM CDT Tue Oct 25 2022
+
+Dry weather will prevail through much of the short term period as
+high pressure transits the region beneath a zonal flow aloft.
+PWATs will be near seasonal minimums, between 0.3-0.4 inches,
+resulting in clear nights and sunny days. The dry airmass will
+also allow for an approximately 30 degree diurnal temperature
+difference tonight through Thursday. Overnight lows the next 
+couple of nights are expected to fall into the middle 40s across 
+most of the area, with lower 40s possible in the typical cooler 
+spots across central LA. Meanwhile, highs will generally be in the
+middle 70s. 
+
+Thursday will be a transition day as the next system to affect the
+area digs across the western states while the surface high begins
+to shift east. Highs on Thursday are not expected to be much
+warmer than Wednesday, but a slight uptick in low level moisture
+can be expected as winds begin veering east to southeast during 
+the day. Moisture will increase and deepen Thursday night as winds
+aloft become southwesterly in advance of the shortwave trough 
+digging southeast toward the southern plains. Increasing ascent
+and diffluence aloft will prompt an increase in rain chances west
+to east Thursday night.
+
+24
+
+&&
+
+.LONG TERM...
+(Friday through next Monday) 
+Issued at 403 PM CDT Tue Oct 25 2022
+
+Rain chances will increase early Friday as a short wave and surface 
+low approaches the region. Moisture will be increasing with PWATs 
+climbing into the 75% to 90% above the climo average range and 
+dewpoints into the 60s ahead of the surface low. Conditions do not 
+appear overly impressive for severe weather at this time, however 
+sufficient enough to produce at least isolated severe or strong 
+storms Friday with some also producing heavy rain. 'Tis the severe 
+weather season in SETX and LA.
+
+The upper disturbance is anticipated to lift northeast Saturday with 
+rain chances gradually decreasing, however wrap around moisture may 
+still affect the area into Sunday.
+
+Dry with near climo average temperatures (70s/50s) are anticipated 
+early next week.
+
+05
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1137 PM CDT Tue Oct 25 2022
+
+Clear skies will prevail through the taf period. High pressure
+over southeast Texas will maintain nearly calm winds early this
+morning becoming light out of the north by mid morning through the
+evening.
+
+Jones
+
+&&
+
+.MARINE...
+Issued at 403 PM CDT Tue Oct 25 2022
+
+High pressure building into the region will maintain elevated
+northwesterly winds tonight, with winds becoming northerly and
+diminishing on Wednesday. Light to moderate offshore flow will
+continue through Wednesday night as the high slides east across
+the region. Winds will veer east to southeast on Thursday into
+Thursday night, with an area of low pressure expected to bring
+increased rain chances on Friday. Offshore flow will develop
+Friday night into Saturday with the passage of the surface low. 
+
+24
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+AEX  72  44  75  43 /  50   0   0   0 
+LCH  71  46  75  46 /  30   0   0   0 
+LFT  72  49  76  47 /  80   0   0   0 
+BPT  72  45  77  47 /  10   0   0   0 
+
+&&
+
+.LCH WATCHES/WARNINGS/ADVISORIES...
+LA...None.
+TX...None.
+GM...None.
+&&
+
+$$
+
+SHORT TERM...08
+LONG TERM....17
+AVIATION...66
+

@@ -1,0 +1,94 @@
+290 
+FXUS63 KDDC 260516
+AFDDDC
+
+Area Forecast Discussion
+National Weather Service Dodge City KS
+1216 AM CDT Wed Oct 26 2022
+
+...Updated Aviation Discussion...
+
+.SHORT TERM...(This evening through Wednesday)
+Issued at 1205 PM CDT Tue Oct 25 2022
+
+Tranquil conditions will continue tonight into Wednesday despite an 
+intensifying zonal flow aloft. Surface high pressure shifting out of 
+the Northern High Plains into the Dakotas and Nebraska will reinforce
+a cooler/drier air mass across the Western High Plains, limiting any
+instability. This will keep any precip chances out of western Kansas
+through late Wednesday afternoon. Under mostly clear skies, the drier
+air mass combined with light and variable winds will allow lows to
+drop well into the 30s(F) tonight. Despite departing surface high
+pressure giving way to southeasterly upslope winds by early Wednesday
+afternoon, this will do very little to erode the cooler air mass across
+the region. Look for highs back up into the mid/upper 60s(F) as a
+result.
+
+.LONG TERM...(Wednesday night through Tuesday)
+Issued at 137 PM CDT Tue Oct 25 2022
+
+Medium range models continue to indicate an upper level trough of 
+low pressure dropping southeast out of the Pacific Northwest into 
+the Four Corners Region early Thursday, setting up an increasingly 
+difluent southwest flow aloft across the Western High Plains. In 
+response, lee side cyclogenesis is projected across southeast 
+Colorado and northeast New Mexico ahead of an approaching cold front.
+Meanwhile, a prevailing southeasterly upslope flow will help draw 
+modest moisture up into central and portions of southwest Kansas, 
+though introducing very minimal instability at best. Still, showers 
+will be possible Thursday afternoon through Thursday evening as H5 
+vort maxima begin to eject northeast out of the trough axis dipping 
+into New Mexico, interacting with the cold front pushing into 
+western Kansas. An isolated thunderstorm or two cannot be ruled out 
+closer to south central Kansas where a small amount of instability
+may be present. Drier conditions take hold Friday into the weekend
+as the aforementioned upper low shifts east through Texas before 
+lifting northeast into the Central Plains.
+
+Increased cloud cover and cooler air filtering into western Kansas 
+behind an advancing cold front will result in lower temperatures 
+Thursday. Expect highs only up into the 50s(F) in west central 
+Kansas to the 60s(F) farther southeast into south central Kansas. A 
+gradual warming trend is then expected by the weekend as low level 
+southerlies return to western Kansas.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1200 AM CDT Wed Oct 26 2022
+
+A trough of low pressure at the surface will develop across
+eastern Colorado Today as an upper level trough approaches from 
+the west. This will result in the light/variable winds overnight 
+becoming southeast at 10 to 15 knots early Wednesday morning. 
+These southeast winds will continue to increase during the day 
+with sustained winds of 20 to near 25 knots becoming possible 
+between 18z and 21z Today. These gusty southwest winds will 
+decrease into the 15 to 20 knots range between 00z and 03z 
+Thursday. BUFR soundings indicating VFR conditions over the next 
+24 hours. This does include some increase cloud cover in the 8000
+to 12000ft AGL after 00z Thursday. 
+
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+DDC  35  67  43  59 /   0   0  10  20 
+GCK  32  67  40  58 /   0   0  10  20 
+EHA  35  67  39  58 /   0   0  10  10 
+LBL  33  68  42  61 /   0   0  10  10 
+HYS  33  66  43  57 /   0   0  10  40 
+P28  37  67  43  63 /   0   0   0  20 
+
+&&
+
+.DDC WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+SHORT TERM...JJohnson
+LONG TERM...JJohnson
+AVIATION...Burgert
+

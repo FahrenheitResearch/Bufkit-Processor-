@@ -1,0 +1,149 @@
+654 
+FXUS63 KGRB 260349
+AFDGRB
+
+Area Forecast Discussion
+National Weather Service Green Bay WI
+1049 PM CDT Tue Oct 25 2022
+
+Updated aviation portion for 06Z TAF issuance
+
+.SHORT TERM...Tonight and Wednesday
+Issued at 243 PM CDT Tue Oct 25 2022
+
+No significant changes to the short-term portion of the forecast.
+
+Cold front that pushed east across the area early this morning has
+become quasistationary over Lake Michigan as developing surface
+wave moves northward toward NW Indiana this afternoon. Latest
+short-term model guidance seems to be a bit less robust in terms
+of forecast QPF for this evening and overnight compared to
+previous model runs. Satellite and radar trends over the past few
+hours also suggest a bit less organization in the precipitation 
+shield over southeast Wisconsin into northern Illinois. In 
+addition, CAMS seem to be a bit more progressive with this system
+showing the western edge of the rain shield just offshore by 7 am
+Wednesday. It appears that the primary bulk of the rainfall will 
+fall east of I41, sometime in the 00Z to 08Z time frame with a 
+sharp western gradient in the precipitation amounts. Looking at 
+maximum rainfall amounts around a half inch or so over Manitowoc 
+County. 
+
+After 15Z on Wednesday, should see a gradually decrease in the
+clouds with skies becoming mostly sunny from west to east during
+the afternoon. Winds will are expected to also be gusty from the
+Northwest for much of the day, particularly over the eastern half
+of the forecast area. Stayed close to blended guidance for highs
+on Wednesday with readings in the upper 40s north to the middle
+50s over the southern Fox Valley, which is not far from late
+October normals.
+
+.LONG TERM...Wednesday Night Through Tuesday
+Issued at 243 PM CDT Tue Oct 25 2022
+
+Split flow regime to exist through the weekend with a northern
+stream running north of WI and a southern stream closed upper low.
+This upper low is forecast to lift northeast from the southern
+Plains and weaken into an upper trough over the east-central CONUS
+by the start of the new work week. Models differ on the timing of
+this trough, which would impact when (or if) to bring chance pops
+back into the forecast. Temperatures look to run above normal
+through the extended period.
+
+Wednesday night and Thursday...
+High pressure drifts across WI Wednesday night and will keep skies
+mostly clear with light/variable winds. Some high clouds may push
+toward central WI toward daybreak as warmer air aloft begins to
+push northeast from the central Plains. May need to lower
+temperatures a bit based on favorable radiational cooling
+conditions. This would bring min temperatures down into the lower
+to middle 20s north-central WI, lower to middle 30s near Lake MI.
+The high pressure shifts east-northeast into southeast Ontario/
+eastern Great Lakes region on Thursday, bringing the onset of a
+return flow into WI. Anticipate more middle/high clouds to move
+into central WI during the day, while eastern WI to remain mostly
+sunny. Max temperatures to range from around 50 degrees north/near
+Lake MI, lower to middle 50s elsewhere.
+
+Thursday night and Friday...
+Even with the center of the high pressure well to our east,
+northeast WI to reside on the western fringes of the high
+pressure, thus dry conditions to persist Thursday night. Modest
+WAA to continue over the western Great Lakes, so more middle/high
+clouds to pass overhead. More clouds and a south-southeast wind
+will prevent temperatures from falling too far with readings in
+the lower to middle 30s north, middle 30s to around 40 degrees
+south. Not much changes synoptically going into Friday with the
+high pressure to stretch from the Midwest to the New England
+states. A continuation of the south-southeast winds and more sun
+advertised by the models should bring temperatures back above
+normal. Look for max temperatures to range from the lower to
+middle 50s near Lake MI, middle 50s north and middle 50s to around
+60 degrees south.
+
+Friday night and Saturday...
+This high pressure to remain the primary weather feature through
+Saturday, therefore pleasant autumn conditions to persist with
+above normal temperatures and relatively light southerly winds.
+Max temperatures on Saturday to be in the middle 50s lakeside,
+upper 50s to lower 60s inland.
+
+Saturday night and Sunday...
+After a quiet Saturday night, attention turns to the southern
+stream closed upper low that is progged to lift northeast and
+begin to weaken on Sunday. Models differ on exactly how fast to
+move this upper low with the ECMWF suggesting the mid-MS Valley,
+while the GFS is keeping the low over the Ozarks by 00z Monday.
+Meanwhile, the CMC takes the low toward the OH/TN Valleys. Prefer
+to keep Sunday dry for now until a better consensus is reached.
+Potential for more clouds may know a degree or two off of
+temperatures for Sunday with readings in the lower to middle 50s
+near Lake MI, middle 50s north, middle to upper 50s south.
+
+Sunday night and Monday...
+If there is a rain chance, it would be Sunday afternoon into
+Sunday night if the ECMWF turns out to be correct. Otherwise, dry
+conditions would return on Monday as the bulk of any forcing from
+the now-upper trough heads toward the eastern Great Lakes. We
+should have more clouds than sun on Monday, however a lack of
+change in temperatures aloft should bring max temperatures
+comparable to Sunday.
+
+Monday night and Tuesday...
+The next forecast issue arises on Tuesday with the eastward
+movement of a cold front. Once again, models are in disagreement
+with how fast this front will push eastward, thus confidence is
+low with respect to precipitation chances. For the time being,
+have only mentioned a slight chance of rain showers. Max 
+temperatures on Tuesday to generally be in the middle 50s to 
+around 60 degrees.
+&&
+
+.AVIATION...for 06Z TAF Issuance
+Issued at 1047 PM CDT Tue Oct 25 2022
+
+Showers will continue to end across far eastern Wisconsin
+overnight, mainly affecting MTW, as a low pressure system lifts
+northeast. Radar returns show mainly isolated activity as the main
+shield of precipitation has lifted northeast. Cigs should
+generally be VFR, with MVFR cigs still possible at times across
+central and north-central and along the lakeshore through early
+Wednesday morning.
+
+High pressure advecting in from the west will bring drier air and
+VFR conditions to the entire area Wednesday morning, lasting 
+through the end of the week. Northwest winds will become gusty on
+Wednesday, gusting to around 20 knots at times, before dissipating
+Wednesday afternoon and evening.
+&&
+
+.GRB WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM.....ESB
+LONG TERM......Kallas
+AVIATION.......Kurimski
+

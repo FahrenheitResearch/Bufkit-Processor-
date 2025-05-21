@@ -1,0 +1,71 @@
+641 
+FXUS63 KDMX 261740
+AFDDMX
+
+Area Forecast Discussion
+National Weather Service Des Moines IA
+1240 PM CDT Wed Oct 26 2022
+
+...Updated for the 18z Aviation Discussion...
+
+.DISCUSSION.../Today through Tuesday/
+Issued at 312 AM CDT Wed Oct 26 2022
+
+Key Messages:
+
+-Minor chances for sprinkles west Thursday
+-Largely quiet forecast with some upcoming mild days
+
+High pressure continued to move in from the west overnight, setting 
+up for an uneventful Wednesday for our area. Winds today will 
+largely be variable, skies will be clear, and temperatures will 
+remain cool under the CAA scheme. Midlevel moisture will pull in 
+from the southwest overnight tonight ahead of a descending low, 
+bringing in a blanket of midlevel clouds. The main axis of low-
+level theta-e advection will be barred from extending too far into 
+Iowa due to dry air undercutting on the backside of the departing 
+high. A short window for a few sprinkles will be possible for far 
+western counties early Thursday, but would be reduced to minimum 
+accumulations due to this dry air. 
+
+The low will sink into the Deep South on Friday and take the 
+cloud cover with it. Some ridging will amplify immediately behind
+the cutoff low and allow for high temperatures to climb back into 
+the 60s Friday and Saturday. The cutoff low in the south will 
+effectively block moisture transport northward and 
+eventually get absorbed by the overarching midlevel pattern. A cold 
+front will move in late Sunday but will likely be a dry 
+passage.
+
+For next week, the general flow will be out of the southwest, 
+allowing for high temperatures to climb into the mid and upper 60s 
+by Tuesday. A trough will form in the western CONUS during the week, 
+but continues to show signs of a delayed eastward progression, 
+stalling an eventual cooldown.
+
+&&
+
+.AVIATION.../For the 18Z TAFS through 18Z Thursday afternoon/
+Issued at 1239 PM CDT Wed Oct 26 2022
+
+VFR conditions are expected through the TAF period across all
+terminals. Clouds are expected to move in from west to east
+through this afternoon to evening, though are not expected to
+cause any major impacts as they will largely reside to the mid
+levels at the lowest into Thursday. Winds will remain on the 
+light side, turning southeasterly by this evening before 
+increasing slightly after sunrise Thursday. Gusts around 15 to 20
+knots are expected towards the end of the TAF period, especially 
+north.
+
+&&
+
+.DMX WATCHES/WARNINGS/ADVISORIES...
+NONE.
+&&
+
+$$
+
+DISCUSSION...Ansorge/Jimenez
+AVIATION...Bury
+

@@ -1,0 +1,42 @@
+860 
+NWUS55 KABQ 261148
+LSRABQ
+
+PRELIMINARY LOCAL STORM REPORT...SUMMARY
+NATIONAL WEATHER SERVICE ALBUQUERQUE NM
+548 AM MDT WED OCT 26 2022
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0700 AM     SNOW             1 NW OCATE              36.18N 105.06W
+10/25/2022  E2.5 INCH        MORA               NM   CO-OP OBSERVER   
+
+             
+
+0555 PM     SNOW             11 NNW CANON PLAZA      36.70N 106.25W
+10/23/2022  E2.0 INCH        RIO ARRIBA         NM   OTHER FEDERAL    
+
+             
+
+0700 AM     SNOW             GALLUP                  35.53N 108.73W
+10/24/2022  M2.0 INCH        MCKINLEY           NM   COCORAHS         
+
+            COCORAHS STATION NM-MK-28 GALLUP 0.4 NNE. 
+
+0700 AM     SNOW             2 W DATIL               34.14N 107.88W
+10/24/2022  M1.8 INCH        CATRON             NM   COCORAHS         
+
+            COCORAHS STATION NM-CT-7 DATIL 2.0 W. 
+
+0700 AM     SNOW             3 SSE MAGDALENA         34.08N 107.22W
+10/24/2022  M1.3 INCH        SOCORRO            NM   COCORAHS         
+
+            COCORAHS STATION NM-SC-63 MAGDALENA 2.4 SSE. 
+
+
+&&
+
+$$
+

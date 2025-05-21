@@ -1,0 +1,47 @@
+288 
+WWUS84 KMOB 260101
+SPSMOB
+
+Special Weather Statement
+National Weather Service Mobile AL
+801 PM CDT Tue Oct 25 2022
+ 
+FLZ203>206-260145-
+Okaloosa Inland FL-Okaloosa Coastal FL-Santa Rosa Coastal FL-
+Santa Rosa Inland FL-
+801 PM CDT Tue Oct 25 2022
+
+...A strong thunderstorm will impact portions of western Okaloosa and
+southeastern Santa Rosa Counties through 845 PM CDT...
+
+At 800 PM CDT, National Weather Service doppler radar indicated a
+strong thunderstorm 5 miles east of Bagdad, moving east at 30 mph.
+
+HAZARD...Winds in excess of 40 mph.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around 
+         unsecured objects.
+
+Locations impacted include...
+Bagdad and Baker. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If outdoors, consider seeking shelter inside a building. 
+
+&&
+
+LAT...LON 3042 8699 3045 8694 3044 8688 3051 8702
+      3052 8699 3058 8698 3060 8702 3060 8703
+      3057 8700 3054 8704 3050 8705 3062 8705
+      3063 8700 3064 8701 3087 8665 3049 8652
+      3041 8698
+TIME...MOT...LOC 0100Z 255DEG 26KT 3058 8694 
+
+MAX HAIL SIZE...0.00 IN
+MAX WIND GUST...40 MPH
+
+$$
+

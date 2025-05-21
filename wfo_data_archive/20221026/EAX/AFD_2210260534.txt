@@ -1,0 +1,68 @@
+148 
+FXUS63 KEAX 260534
+AFDEAX
+
+AREA FORECAST DISCUSSION
+National Weather Service Kansas City/Pleasant Hill MO
+1234 AM CDT Wed Oct 26 2022
+
+.Discussion...
+Issued at 300 PM CDT TUE OCT 25 2022
+
+Key Messages: 
+
+- Rain moves east of the area this evening/overnight.
+
+- Generally quiet weather expected through the end of the week.
+
+Water vapor imagery shows a strong shortwave trough moving across
+southern MO currently. The northern extent of the rain is mainly 
+just in the southeastern quadrant of our forecast area, roughly 
+south of I-70 and east of I-49. As that shortwave trough continues
+to track to the east-northeast and away from the area, the 
+rainfall will shift into central and eastern MO with it. The cloud
+area associated with the shortwave will also shift east with time
+this evening and overnight with clear skies prevailing across the
+area by later tonight. High pressure will settle over the region 
+Wednesday with near normal temperatures in the low to mid 60s 
+expected. 
+
+The next upper-level short wave will begin to move out of the Four-
+Corners area and into the Southern Plains Thursday. Models show that 
+wave getting cutoff from the upper-level flow and closing off to our 
+south, likely across the TX/OK/LA/AR area. This will likely lead 
+to most, if not all, areas staying dry as that system stays well 
+to our south and any moisture associated with upper low stays 
+with it. If any precipitation does affect the area associated with
+this wave, it would be confined to our far western and southern 
+zones. But at this time, I just can't see more than just a slight 
+chance mention. 
+
+With the forecast area nestled between the sub-tropical jet and 
+the polar jet for much of the forecast, generally quiet weather is
+expected. This will also result in temperatures being close to or
+slightly above normal as there is pretty much just neutral 
+temperature/moisture advection. Early next week, as another 
+stronger trough begins to move over the western CONUS and induces 
+southerly flow ahead of it, temperatures should warm into the 70s,
+which by that time would be about 8-10 degrees above normal.
+
+&&
+
+.Aviation...(For the 06Z TAFS through 06Z Wednesday Night)
+Issued at 1233 AM CDT WED OCT 26 2022
+
+VFR conditions with light and variable winds.
+
+&&
+
+.EAX WATCHES/WARNINGS/ADVISORIES...
+KS...NONE.
+MO...NONE.
+&&
+
+$$
+
+Discussion...CDB
+Aviation...BT
+

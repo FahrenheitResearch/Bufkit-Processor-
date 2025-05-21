@@ -1,0 +1,109 @@
+798 
+FXUS64 KHUN 261701
+AFDHUN
+
+Area Forecast Discussion
+National Weather Service Huntsville AL
+1201 PM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.NEAR TERM...
+(Rest of Today)
+Issued at 945 AM CDT Wed Oct 26 2022
+
+The cold front is now well to the south and east of the forecast
+area with northwesterly winds as a surface high builds in from the
+northwest. Current visible satellite imagery indicates a broad 
+area of post-frontal stratus that extends from N AL northwards 
+into the Great Lakes. The trajectory of the stratus deck should 
+keep clouds in the area through early afternoon with clearing from
+southwest to northeast later this afternoon into this evening. 
+Due to the lingering cloud cover and weak cold air advection, high
+temperatures will only be in the upper 50s to low 60s. 
+
+&&
+
+.SHORT TERM...
+(Tonight through Friday night)
+Issued at 353 AM CDT Wed Oct 26 2022
+
+Westerly flow in the mid-levels will back to the WSW overnight, 
+as another, slightly stronger mid-level trough digs southeastward 
+through the central Rockies. Although this may lead to a few high-
+clouds at times, the lower stratus deck should continue to erode 
+from the southwest, leaving mostly clear skies and conditions 
+favorable for radiational cooling/fog development if northeasterly
+winds diminish sufficiently. Lows will drop into the lower 40s, 
+with highs returning to the u60s-l70s Thursday under mostly sunny 
+skies. Short term model consensus suggests that aforementioned 
+trough will weaken as it drops southeastward into the high plains 
+of west TX by 12Z Friday, and should evolve into a cutoff low that
+will drift slowly eastward across central TX Friday and Friday 
+night. Although increasingly diffluent flow to the east of the low
+will promote saturation aloft and an increase in the coverage of 
+mid/high-level clouds by Saturday morning, the lower troposphere 
+will remain dry given persistent advection from a surface ridge 
+centered across New England. Thus, we will only introduce a slight
+chance POP for light rain returning to the southwestern half of 
+the CWFA prior to 12Z Saturday.
+
+&&
+
+.LONG TERM...
+(Saturday through Tuesday)
+Issued at 353 AM CDT Wed Oct 26 2022
+
+This weekend, our next system will take a similar route as the 
+one that just went through yesterday. On Saturday, it will lift NE
+out of the ArkLaTex, and the upper level and sfc low will slide 
+just NW of the TN Valley. The sfc low seems to occlude and has 
+another sfc low that scoots just south of the forecast area, 
+keeping us out of the true warm sector. We will still manage to 
+see an increase in temps and moisture, but forecast soundings are 
+showing another high shear/low cape set up. With these soundings, 
+kept thunder out for this forecast package.
+
+The divergence between models is not nearly as vast as it has 
+been for this event in previous runs, and overall seems to have 
+slowed it down. The NBM is still pushing precip into the TN Valley
+too fast so pulled back on Saturday POPs. Otherwise, expecting 
+showers to become numerous by Saturday night and slowly coming to 
+an end by Sunday night from west to east as a dry slot arrives. 
+This will provide us a break in the rain before the trough axis 
+slides through and a few wrap around showers return on Monday. 
+High pressure will take over for Tuesday's forecast and help 
+decrease the cloud cover in place. Daytime highs will hover in the
+upper 60s during the extended forecast with a dip into the lower 
+60s on Sunday. Overnight lows will be stagnate in the 50s with the
+coolest night of the period occurring on Tuesday night when they 
+fall into the 40s.
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1201 PM CDT Wed Oct 26 2022
+
+MVFR conditions at both terminals with stubborn post-frontal 
+stratus in place. Went a little more pessimistic with slower 
+improvements to VFR. For now, have ceilings improving to VFR 
+around 20z at MSL and 21z at HSV. This later clearing could also 
+set the stage for fog tonight but winds may stay up just enough to
+prevent widespread fog formation. Due to this uncertainty, did 
+not include fog in the forecast at this time.
+
+&&
+
+.HUN WATCHES/WARNINGS/ADVISORIES...
+AL...None.
+TN...None.
+&&
+
+$$
+
+NEAR TERM...MA
+SHORT TERM....70/DD
+LONG TERM....JMS
+AVIATION...MA
+

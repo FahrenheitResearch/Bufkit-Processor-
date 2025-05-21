@@ -1,0 +1,80 @@
+392 
+FXUS63 KGRR 261150
+AFDGRR
+
+Area Forecast Discussion
+National Weather Service Grand Rapids MI
+750 AM EDT Wed Oct 26 2022
+
+LATEST UPDATE...
+Aviation
+
+.DISCUSSION...(Today through next Tuesday)
+Issued at 330 AM EDT Wed Oct 26 2022
+
+-- Rain through the first half of the day, clearing Tonight --
+
+The biggest forecast concern will be the position and track of a
+TROWAL moving in conjunction with a deformation band moving 
+across lower Michigan between 09Z to 12Z. A period of heavy rain 
+will move northward with an additional 0.5 inch to an inch 
+possible with the heaviest rain rates before sunrise. 
+
+The upper level trough that is driving this system and will 
+quickly move eastward this afternoon and continue east this 
+evening. Expect strong downsloping flow to follow in the wake of 
+this exiting system bringing strong gusty northerly winds. Cold 
+air will return to the region with Max temperatures today much 
+closer to normal, in the low 50. 
+
+--Drier and cooler weather ahead --
+
+Baroclinic, zonal flow will dominate the upper pattern, with high
+pressure through the mid to low levels. This will keep drier air
+over the region through the weekend. Temperatures will rebound
+into the weekend, with highs in the low 60s this weekend. The next
+chance for precipitation will be early next week.
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Thursday morning)
+Issued at 749 AM EDT Wed Oct 26 2022
+
+A cold front stretches from near Saginaw to Jackson at 12Z.
+Widespread MVFR and IFR ceilings are in place near the front
+covering almost all of the southern half of Lower Michigan.
+Ceilings are already trending up at western TAF sites like MKG,
+but a varied IFR / MVFR mix can be expected at points to the east
+of there for a few more hours. By midday/16Z, the IFR should have
+lifted/moved east. A further improvement is expected this
+afternoon with conditions trending to VFR bases and eventually
+clearing. VFR weather is expected to prevail tonight. Winds today
+will be from the northwest at 15-25 knots.
+
+&&
+
+.MARINE...
+Issued at 330 AM EDT Wed Oct 26 2022
+
+Strong northerly flow with a lot of fetch across the lake will
+allow for winds and waves to ramp up behind the cold front. This
+will spark gale conditions with the cold air advection mixing 25 
+to 40 knot gales down to the lake through today. The burst of 
+strongest winds are expected this morning then conditions will 
+gradually improve as winds and waves will slowly diminish this evening.
+
+
+&&
+
+.GRR WATCHES/WARNINGS/ADVISORIES...
+MI...None.
+LM...Gale Warning until 8 PM EDT this evening for LMZ844>849.
+
+&&
+
+$$
+
+DISCUSSION...Ceru
+AVIATION...Duke
+MARINE...Ceru
+

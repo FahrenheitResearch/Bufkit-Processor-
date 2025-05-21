@@ -1,0 +1,56 @@
+601 
+WWUS82 KTAE 260536
+SPSTAE
+
+Special Weather Statement
+National Weather Service Tallahassee FL
+136 AM EDT Wed Oct 26 2022
+ 
+FLZ010>013-112-260615-
+Coastal Bay FL-Inland Bay FL-Calhoun FL-Jackson FL-Washington FL-
+136 AM EDT Wed Oct 26 2022
+
+...Strong thunderstorms will impact portions of southeastern Jackson,
+eastern Bay, northwestern Calhoun and southeastern Washington
+Counties in the Panhandle of Florida through 215 AM EDT/115 AM
+CDT/...
+
+At 136 AM EDT/1236 AM CDT/, Doppler radar was tracking strong
+thunderstorms along a line extending from near Marianna to near
+Panama City Beach. Movement was east at 20 mph.
+
+HAZARD...Winds in excess of 40 mph.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around 
+         unsecured objects.
+
+Locations impacted include...
+Panama City, Lynn Haven, Panama City Beach, Callaway, Marianna,
+Springfield, Hiland Park, Tyndall Air Force Base, Parker, Grand
+Ridge, Altha, Alford, Moose Pond, Dirego Park, College Station, West
+Panama City, Camps Head, Bahama Beach, Bennett and Porter Lake.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If outdoors, consider seeking shelter inside a building. 
+
+These storms may intensify, so be certain to monitor local radio
+stations and available television stations for additional information
+and possible warnings from the National Weather Service.
+
+&&
+
+LAT...LON 3078 8532 3079 8500 3077 8497 3076 8498
+      3073 8499 3057 8510 3029 8534 3006 8563
+      3019 8585
+TIME...MOT...LOC 0536Z 274DEG 17KT 3073 8530 3014 8584 
+
+MAX HAIL SIZE...0.00 IN
+MAX WIND GUST...40 MPH
+
+$$
+
+99-OLIVER
+

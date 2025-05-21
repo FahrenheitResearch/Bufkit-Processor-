@@ -1,0 +1,81 @@
+548 
+FXUS63 KGRR 261755
+AFDGRR
+
+Area Forecast Discussion
+National Weather Service Grand Rapids MI
+155 PM EDT Wed Oct 26 2022
+
+LATEST UPDATE...
+Aviation
+
+.DISCUSSION...(Today through next Tuesday)
+Issued at 330 AM EDT Wed Oct 26 2022
+
+-- Rain through the first half of the day, clearing Tonight --
+
+The biggest forecast concern will be the position and track of a
+TROWAL moving in conjunction with a deformation band moving 
+across lower Michigan between 09Z to 12Z. A period of heavy rain 
+will move northward with an additional 0.5 inch to an inch 
+possible with the heaviest rain rates before sunrise. 
+
+The upper level trough that is driving this system and will 
+quickly move eastward this afternoon and continue east this 
+evening. Expect strong downsloping flow to follow in the wake of 
+this exiting system bringing strong gusty northerly winds. Cold 
+air will return to the region with Max temperatures today much 
+closer to normal, in the low 50. 
+
+--Drier and cooler weather ahead --
+
+Baroclinic, zonal flow will dominate the upper pattern, with high
+pressure through the mid to low levels. This will keep drier air
+over the region through the weekend. Temperatures will rebound
+into the weekend, with highs in the low 60s this weekend. The next
+chance for precipitation will be early next week.
+
+&&
+
+.AVIATION...(For the 18Z TAFS through 18Z Thursday afternoon)
+Issued at 155 PM EDT Wed Oct 26 2022
+
+The rain is moving east this afternoon but low stratus clouds will
+remain into this evening. The stratus is fairly shallow with bases
+around 2000 feet AGL and tops AOB 4000 feet. This stratus deck
+should continue to thin this evening and scatter out by around
+06Z. Then VFR is expected into Thursday afternoon.
+
+North winds will gust to 20 knots at times through the afternoon
+then winds will go northwest and decrease to less than 10 knots 
+after 00Z.
+
+&&
+
+.MARINE...
+Issued at 330 AM EDT Wed Oct 26 2022
+
+Strong northerly flow with a lot of fetch across the lake will
+allow for winds and waves to ramp up behind the cold front. This
+will spark gale conditions with the cold air advection mixing 25 
+to 40 knot gales down to the lake through today. The burst of 
+strongest winds are expected this morning then conditions will 
+gradually improve as winds and waves will slowly diminish this evening.
+
+
+&&
+
+.GRR WATCHES/WARNINGS/ADVISORIES...
+MI...None.
+LM...Small Craft Advisory until 4 AM EDT Thursday for LMZ844-845.
+
+     Small Craft Advisory until 11 PM EDT this evening for LMZ846>849.
+
+&&
+
+$$
+
+DISCUSSION...Ceru
+AVIATION...Ostuno
+MARINE...Ceru
+

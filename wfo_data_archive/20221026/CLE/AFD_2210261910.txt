@@ -1,0 +1,126 @@
+766 
+FXUS61 KCLE 261910
+AFDCLE
+
+Area Forecast Discussion
+National Weather Service Cleveland OH
+310 PM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Low pressure will move from Central Lower Michigan into Canada 
+today, pulling a cold front east across the area this afternoon. 
+Strong high pressure will build overhead on Thursday and continue to 
+influence the region through the weekend as it moves east into New 
+England.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY NIGHT/...
+The cold front is making its way east across the region this 
+afternoon, bringing periods of gusty west to northwest winds of 25 
+to 30 mph. The best rain shower coverage remains confined to 
+portions of NE OH and NW PA and that will remain to be the case 
+through the remainder of today, though there does appear to be a 
+decent area of drizzle immediately following the cold front. 
+Precipitation chances will begin to diminish by late this evening 
+and overnight as the surface low and associated low-level moisture 
+pull away from the region. Lows tonight will be slightly below 
+average in the mid to upper 30s. 
+
+For Thursday, surface high pressure will build across the Great 
+Lakes, though a pesky low-level inversion may result in general 
+cloudiness persisting for much of the morning and perhaps into the 
+afternoon, especially for areas east of the I-75 corridor. For this 
+reason, went slightly below temperature guidance,resulting in highs 
+in the low to mid 50s.  Chilly temperatures will continue for 
+Thursday night with lows in the low to mid 30s.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Closed upper level low ejects northeastward out of the lower 
+Mississippi Valley towards the lower Ohio Valley during the duration 
+of the short term. This filling/weakening upper level low pressure 
+system and surface low will follow retreating high pressure off the 
+New England coast into the lower Great Lakes. The influences of high 
+pressure will dominate the short term forecast period despite the 
+exit of the surface high, leading to a dry forecast. Temperatures 
+begin near normal, finish the short term slightly above normal 
+Saturday under abundant sun, and cloud up Saturday night with the 
+approach of the aforementioned low pressure system. No significant 
+weather impacts in the short term.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+The Sunday through Monday period will be the next chance for rain 
+for the CWA despite the weakening characteristics of the low 
+pressure system heading into our area. Will still have some defined 
+forcing in the form of low-mid level frontogenesis which will 
+probably peak Sunday night. The characteristics of the surface 
+system are difficult to decipher. The system will move in as a 
+weakening occluded frontal system Sunday that will probably get 
+harder to identify into Sunday night. The first open upper wave 
+passes around 03Z Monday, but will be followed by a second moving in 
+from the west Monday with a the occluded front lingering, oriented 
+southwest to northeast along the lower Great Lakes. In the end, the 
+result is going to be a relatively high POP event over roughly 24 
+hours with low QPF. Monday evening looks damp at this point in time 
+with 6hr QPF amounts 18Z Monday-00Z Tuesday only a couple/few 
+hundredths or so, highest in NE OH/NW PA during that 6hr period.
+
+&&
+
+.AVIATION /18Z Wednesday THROUGH Monday/...
+Mixed-bag of MVFR and IFR conditions across the TAF sites early
+this afternoon, associated with both lower ceilings and vsbys.
+Vsbys should improve through the rest of the day as rain chances
+decrease, although ceilings in the MVFR to perhaps IFR range may
+persist through much of the TAF period with the exception of
+TOL/FDY where more substantial cloud breaks are possible 
+beginning as early as this evening. Fog is certainly a
+possibility at some of the southern TAF sites tonight, though 
+uncertainty on cloud cover precludes any mention in the TAFs for
+this update.
+
+Winds are generally in the 10 to 15 knot range early this
+afternoon, out of the south and southwest ahead of the cold
+front, shifting towards the west to northwest behind the cold
+front. Periodic wind gusts of 20 to 25 knots can be expected
+with the front. Winds will weaken to less than 10 knots tonight
+into tomorrow, shifting more towards the northwest and north. 
+
+Outlook...Non-VFR possible late Sunday into Monday in rain showers.
+
+&&
+
+.MARINE...
+Winds shift this afternoon behind an occluded front to the northwest 
+15-25kts with gusts to 30kts, gradually decreasing tonight to 10-
+20kts. Small Craft Advisory in effect for the afternoon and tonight 
+as wave heights increase accordingly through that period. Winds 
+become northeasterly late Friday through Saturday decreasing from 10-
+15kts to 5-10kts during that stretch as weakening low pressure 
+approaches from the southwest. Winds variable, ultimately coming 
+around to the south Monday as weak low pressure passes. By Tuesday, 
+winds become southwesterly 5-15kts under the influence of high 
+pressure to our south.
+
+&&
+
+.CLE WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+PA...None.
+MARINE...Small Craft Advisory until 4 AM EDT Thursday for LEZ142>145.
+     Small Craft Advisory until 10 AM EDT Thursday for LEZ146>149.
+
+&&
+
+$$
+SYNOPSIS...Kahn
+NEAR TERM...Kahn
+SHORT TERM...26
+LONG TERM...26
+AVIATION...Kahn
+MARINE...26
+

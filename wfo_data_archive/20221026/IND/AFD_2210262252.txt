@@ -1,0 +1,155 @@
+214 
+FXUS63 KIND 262252
+AFDIND
+
+Area Forecast Discussion
+National Weather Service Indianapolis IN
+652 PM EDT Wed Oct 26 2022
+
+...Updated Aviation Discussion...
+
+.Short Term...(This evening through Thursday)
+Issued at 258 PM EDT Wed Oct 26 2022
+
+Highlights: 
+
+* Gradually clearing skies over the next few hours 
+
+* Patchy fog possible tonight; Lows in the mid 30s
+
+Today...
+
+The surface low that provided needed rain over the past 24 hours has 
+exited the region. Current satellite imagery shows the western half 
+of central IN has cleared out with partly cloudy skies over most of 
+the area. This is due to dry air filtering in from the northwest 
+which is helping to mix out cloud cover. However, extensive cloud 
+cover remains across the eastern half as NW winds continue to advect 
+lake enhanced clouds into the area. This has limited daytime heating 
+with current temperatures in the upper 40s to low 50s. Look for 
+gradual improvement in cloud cover through the evening as dry air 
+advection continues.
+
+Tonight...
+
+A surface high will build in tonight and Thursday with quiet weather 
+expected. As the surface high moves across Michigan overnight, 
+surface winds will shift from northwest to northeast. This will help 
+advect low level clouds over western Ohio back into the area 
+overnight. Western and southern counties should see the least cloud 
+cover overnight with the potnetial for mostly clear skies at times. 
+Relatively light winds, damp grounds, and the potential for clear 
+skies in spots could lead to patchy fog. Expect most areas to bottom 
+out around 34-37 degrees. High surface moisture in the presence of 
+mid 30 degree temps could lead to some patchy frost on elevated 
+surfaces, but the ground should avoid any deposition.
+
+Thursday and Thursday night...
+
+Surface high pressure continues to dominate the region with quiet 
+weather expected. Aloft, southwesterly flow ahead of a deepening 
+trough over the southern plains will help to increase cloud cover in 
+central IN late Thursday. No precipitation is expected, but cloud 
+cover could limit overnight temperatures. Look for highs in the mid 
+to upper 50s on Thursday. A relaxing pressure gradient should result 
+in lighter winds compared to the previous week. Expect 10-15mph 
+winds out of the E/NE.
+
+&&
+
+.Long Term...(Thursday night through Wednesday)
+Issued at 258 PM EDT Wed Oct 26 2022
+
+- Thursday - Saturday:  dry, seasonable/slight moderation
+- Saturday night - Monday:  chances of showers return
+- Tuesday - Wednesday:  fair, mild
+
+The long term will trend from a dry late-week...to rain chances 
+Sunday-Monday...before drier conditions likely return into the 
+middle of next week.  Some uncertainty surrounds timing and scale of 
+the rain opportunities given the main jet pulled well north into 
+southern Canada...with the remaining weaker flow across the central 
+CONUS attempting to steer the early week's waves out of central 
+Indiana by Monday night.
+
+Friday-Saturday...broad, strong surface high pressure centered over 
+New England will be ridged back towards the Quad Cities area... 
+while another stacked, cut-off trough slowly swings across Texas and 
+Arkansas.  A dry column sporting precipitable water values under 
+0.60 inches, and modest easterly breezes should keep Indiana dry 
+through Saturday.
+
+Saturday night-Monday will encapsulate several periods with 
+potential rain, with more southeasterly flow boosting precipitable 
+water to near/above 1.00 inches.  Although with guidance agreeing 
+better over the latest couple runs, there is moderate confidence 
+most locations would only see more-organized precipitation within a 
+24-hr period around the Sunday-Sunday night timeframe.  The main 
+actor here will be the southern circulation, lifting/filling and 
+weakening as it advances from Arkansas into Indiana...similar to 
+yesterday's rainmaker.  Additional rainfall is possible as a weak 
+mid-level wave ejects from the Four Corners area and across the 
+Middle Mississippi Valley into Monday, helping to wring-out some of 
+the moist flow brought in by the southern trough...although lower 
+confidence here with timing and therefore spatial coverage of any 
+further substantiative rainfall.  Conditions should improve going 
+into Tuesday, yet lower certainty in timing of clearing...as modest 
+troughiness swinging in from the central Plains could hold the damp 
+pattern across the region through the early Tuesday timeframe.
+
+Tuesday-Wednesday should feature fair weather, and without any surge 
+of Canadian chill as stacked high pressure slides from the Deep 
+South across the Ohio Valley in wake of the departing troughs.  The 
+bigger story through the mid-week will strengthening southwesterly 
+flow entering Indiana as a broad, strong trough is expected to 
+plunge across the western CONUS.
+
+Temperatures will be consistently near to slightly above normal 
+through the long term with afternoon highs expected in the 60s 
+across the region.  Ample cloud cover early next week...and then 
+southwesterly breezes towards the end of the period will promote 
+somewhat mild overnights in the 40s to around 50F.
+
+&&
+
+.Aviation...(00Z TAF Issuance)
+Issued at 652 PM EDT Wed Oct 26 2022
+
+Impacts:
+
+* None.
+
+Discussion: 
+
+VFR conditions are expected throughout the period as high pressure 
+builds into the area - with the caveats to follow.
+
+Some guidance hints at the potential for a small area of low stratus 
+to build back westward into eastern portions of central Indiana late 
+tonight to near daybreak Thursday, but these probabilities are 
+fairly low and LAMP guidance is not supportive - and has been 
+backing off of this steadily. In any case, if this were to occur, it 
+may stay just east of all TAF sites anyways. Will make no mention 
+and monitor evolution of cloud deck to our east through the evening.
+
+Winds will be light and variable much of the night as high pressure 
+builds in, but generally veering from northwesterly to easterly 
+through the night into Thursday morning. Speeds should be 10KT or 
+less throughout.
+
+Light patchy fog cannot entirely be ruled out with damp ground and 
+mostly clear skies, but winds should stay up just enough to limit 
+this.
+
+&&
+
+.IND WATCHES/WARNINGS/ADVISORIES...None.
+
+&&
+
+$$
+
+Short Term...Melo
+Long Term...AGM
+Aviation...Nield
+

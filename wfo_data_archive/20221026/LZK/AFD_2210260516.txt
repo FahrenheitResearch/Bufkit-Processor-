@@ -1,0 +1,90 @@
+291 
+FXUS64 KLZK 260516
+AFDLZK
+
+Area Forecast Discussion
+National Weather Service Little Rock AR
+1216 AM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(This evening through Thursday)
+Issued at 159 PM CDT Tue Oct 25 2022
+
+H500 low will continue to work its way northeastward, away from
+the state through the overnight hours. Associated cloud cover and
+lingering precip will begin to clear and strong winds will 
+subside as it departs. 
+
+Drier and cooler air will be in place across the state through 
+the short term period as sfc ridging builds across the Lower/Mid
+MS Valley. Mostly clear sky conditions and below average
+temperatures are expected through the period. 
+
+&&
+
+.LONG TERM...
+(Thursday Night through next Tuesday)
+Issued at 159 PM CDT Tue Oct 25 2022
+
+The long term period begins with an upper level cyclone moving 
+into the southern Plains region. The storm system will move 
+eastward across TX towards the end of the week, and begin to move 
+northeastward Sat, tracking across the state and exiting into MO 
+and IL by late Sun. The system will bring another round of 
+rainfall, beginning across western AR late Thurs/early Fri morning
+and expanding across the state through Sun morning. Total 
+forecast rainfall amounts look to be higher across southern AR 
+with up to 1 inch for much of the southern half of the state, and 
+less than one half inch across the northern half. 
+
+The upper cyclone will weaken as it tracks NEward early next week, 
+becoming an open SWT Sun as it moves into the Midwest region. Long 
+term model solutions become less agreeable by next Mon, but the 
+general pattern looks to bring SWerly flow across the region as we 
+move into the middle of next week. This will increase temperatures 
+to above normal by midweek. Increased moisture expected as well, 
+ahead of the next approaching system, which could mean another round 
+of rainfall towards the end of next week, though this will be beyond 
+the current forecast period.
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1123 PM CDT Tue Oct 25 2022
+
+VFR conditions are expected through the period. Winds are expected
+to be mostly light and variable overnight. Then out of the NW/NE
+during the day on Wednesday and could be gusty at times.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Batesville AR     68  43  68  42 /  90   0   0   0 
+Camden AR         63  40  71  41 /  40   0   0   0 
+Harrison AR       55  40  63  38 /  90   0   0   0 
+Hot Springs AR    59  43  70  42 /  50   0   0   0 
+Little Rock   AR  64  45  70  44 /  80   0   0   0 
+Monticello AR     64  45  71  44 /  80   0   0   0 
+Mount Ida AR      57  41  70  40 /  50   0   0   0 
+Mountain Home AR  60  41  65  40 /  90   0   0   0 
+Newport AR        67  43  66  41 /  80   0   0   0 
+Pine Bluff AR     64  44  70  42 /  80   0   0   0 
+Russellville AR   60  41  69  41 /  70   0   0   0 
+Searcy AR         64  41  69  39 /  90   0   0   0 
+Stuttgart AR      65  43  68  42 /  90   0   0   0 
+
+&&
+
+.LZK WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...67
+LONG TERM....71
+AVIATION...233
+

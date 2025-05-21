@@ -1,0 +1,178 @@
+788 
+FXUS64 KEPZ 261120
+AFDEPZ
+
+Area Forecast Discussion
+National Weather Service El Paso Tx/Santa Teresa NM
+520 AM MDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SYNOPSIS...
+Issued at 202 AM MDT Wed Oct 26 2022
+
+Quiet weather will continue on Wednesday before our next storm
+system rolls in Thursday bringing cooler weather, windy
+conditions, and a chance for light rain and snow showers in the
+Sacramento Mtns. Quiet conditions resume yet again for the weekend
+and into early next week.
+
+&&
+
+.SHORT TERM...
+(Today and tonight)
+Issued at 202 AM MDT Wed Oct 26 2022
+
+Currently, we are expecting another cold morning in the Borderland. 
+We have clear skies, dry conditions, and light winds which should 
+help generate strong low level inversions in the valleys, and 
+lowland deserts of southern NM and far west TX. 
+
+Today, we continue under the influence of zonal flow aloft, which 
+will induce westerly winds at the surface. We may have a few breezes 
+during the afternoon hours, but nothing of significant impact. 
+Temperatures will warm up as warm and dry air is advected towards 
+us. Afternoon highs will be around 5 to 7 degrees warmer than 
+yesterday. 
+
+Tonight, generally fair weather continues. However, an upper level 
+shortwave trough coming from the Pac NW will be approaching the area 
+towards the very early morning hours. Actually, this system 
+intensifies and becomes a closed low near the WY/UT/CO area while it 
+tracks to the southeast. Meanwhile, lee cyclogenesis occurs over 
+northeastern NM as this system approaches. Therefore, wind will 
+start increasing in the higher elevations of the Black Range and the 
+Sacramento Mountains in the early morning hours. Winds over the 
+aforementioned mountain areas will be around 10 to 20 mph with gusts 
+up to 30 mph. The strongest gusts will be in the eastern slopes, 
+ridges, and passes of mountain areas. Otherwise, winds in the 
+lowlands will be around 5 to 15 mph. Morning lows will be warmer as 
+there will be more mixing of the lower atmosphere.
+
+&&
+
+.LONG TERM...
+(Thursday through Tuesday)
+Issued at 202 AM MDT Wed Oct 26 2022
+
+Our next storm system will dive south over the Four Corners
+Thursday bringing windy conditions, a chance for light rain and 
+snow showers in the Sacramento Mtns, and cooler temperatures on 
+Friday. As the trough approaches the area, lee-troughing will set 
+up on Thursday tightening the pressure gradient allowing for a 
+windy day on Thursday. West winds of around 20-30mph look probable
+during the mid-afternoon time frame. This does not appear to be a
+slam dunk case where we may need a wind advisory as winds appear
+to be near or just reaching advisory criteria. It is still too
+early to tell exactly how strong the winds will be at this time. 
+East slopes definitely have a better chance of reaching advisory 
+criteria. Either way, anchor or bring in your Halloween 
+decorations because it's going to be a windy day!
+
+As far as the precipitation goes, the GFS, EC, and NAM still are 
+hinting at some light precipitation in the Sacramento Mtns, 
+perhaps with some light snow showers possible. Rain showers look 
+to begin in the afternoon hours and after sunset, rain will
+transition to snow. Accumulations are expected to stay very light,
+and may only be a dusting of snow if anything.
+
+Light ridging will take control over the area on Friday bringing
+calm and dry conditions, but will still be a chilly day thanks to
+the cold front. Temperatures gradually warm through the weekend
+and into early next week, along with dry conditions with calm 
+winds.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 501 AM MDT Wed Oct 26 2022
+
+VFR conditions continue through the period. Generally light and
+variable winds early this morning, then winds become from the west
+between 7-12 kts after 18Z. The approach of an upper level system
+tonight brings slightly stronger winds overnight for the mountain
+areas. Also LLWS will be possible in the eastern slopes of the
+Sacs and the Black Range after 6Z.
+
+&&
+
+.FIRE WEATHER...
+Issued at 202 AM MDT Wed Oct 26 2022
+
+Generally fair weather is expected today. Then a quick storm system 
+glances through the northeastern fire zone NM-113. This system will 
+bring some rain and snow showers. Snow levels are around 6000 ft. 
+However, accumulations should be minimal, as this system passes 
+quickly through the area. The main concern on Thursday will be wind. 
+We are expecting west to southwest winds between 25 to 35 mph in the 
+mountains, and 15 to 30 mph in the lowlands. Gusts will be up to 50 
+mph and 45 mph, respectively. A cold front will push from the north 
+on Thursday evening which will shift the wind direction to the north 
+in the late afternoon and evening. Wind speeds will be slightly 
+lower with the passage. However, the Tularosa Basin and the Sierra 
+Lakes area may see some stronger gusts with the front. 
+
+This weekend, we will have fair and benign weather behind this 
+system as an area of high pressure develops. Warm and dry air will 
+be advected towards us, leading to a slow warming trend. No 
+significant fire weather hazards are expected through this period. 
+
+Minimum relative humidity will be generally above 20% in the 
+lowlands, and above 30% in the mountains. Ventilation rates will be 
+fair to good today, then improve on Thursday due to the stronger 
+winds. However, rates become mostly poor through the rest of the 
+period.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+El Paso                  74  48  73  43 /   0   0   0   0 
+Sierra Blanca            69  44  69  37 /   0   0   0   0 
+Las Cruces               70  40  69  36 /   0   0   0   0 
+Alamogordo               68  43  67  35 /   0   0   0   0 
+Cloudcroft               46  30  44  22 /   0   0  10  10 
+Truth or Consequences    69  40  64  35 /   0   0   0   0 
+Silver City              61  38  59  33 /   0   0   0   0 
+Deming                   71  38  69  34 /   0   0   0   0 
+Lordsburg                69  40  67  34 /   0   0   0   0 
+West El Paso Metro       72  46  72  40 /   0   0   0   0 
+Dell City                72  39  72  38 /   0   0   0   0 
+Fort Hancock             74  44  75  38 /   0   0   0   0 
+Loma Linda               65  42  65  35 /   0   0   0   0 
+Fabens                   73  44  74  39 /   0   0   0   0 
+Santa Teresa             70  42  70  37 /   0   0   0   0 
+White Sands HQ           69  46  69  39 /   0   0   0   0 
+Jornada Range            68  36  67  38 /   0   0   0   0 
+Hatch                    71  41  69  36 /   0   0   0   0 
+Columbus                 71  43  70  38 /   0   0   0   0 
+Orogrande                69  41  69  35 /   0   0   0   0 
+Mayhill                  60  37  55  29 /   0   0  10  10 
+Mescalero                56  34  54  27 /   0   0  10  10 
+Timberon                 56  34  54  26 /   0   0   0  10 
+Winston                  63  34  57  30 /   0   0  10   0 
+Hillsboro                69  36  64  35 /   0   0   0   0 
+Spaceport                69  35  67  35 /   0   0   0   0 
+Lake Roberts             61  28  57  26 /   0   0   0   0 
+Hurley                   68  38  64  33 /   0   0   0   0 
+Cliff                    69  31  67  28 /   0   0   0   0 
+Mule Creek               61  33  60  29 /   0   0   0   0 
+Faywood                  66  40  63  35 /   0   0   0   0 
+Animas                   71  36  70  35 /   0   0   0   0 
+Hachita                  71  35  69  35 /   0   0   0   0 
+Antelope Wells           71  42  70  35 /   0   0   0   0 
+Cloverdale               66  39  65  35 /   0   0   0   0 
+
+&&
+
+.EPZ WATCHES/WARNINGS/ADVISORIES...
+TX...None.
+NM...None.
+&&
+
+$$
+
+SHORT TERM...29-Crespo
+LONG TERM....37-Slusher 
+AVIATION...29-Crespo
+

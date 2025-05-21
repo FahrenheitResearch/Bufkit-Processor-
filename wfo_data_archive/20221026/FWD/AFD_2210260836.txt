@@ -1,0 +1,152 @@
+315 
+FXUS64 KFWD 260836
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+336 AM CDT Wed Oct 26 2022
+
+...New Long Term... 
+
+.SHORT TERM... /Issued 1243 AM CDT Wed Oct 26 2022/
+/Rest of Tonight through Thursday/
+
+Surface high pressure overhead North and Central Texas will allow
+for light, northerly winds to continue into the overnight hours.
+Light winds, a dry airmass with dewpoints in the mid 30s to mid
+40s, and clear skies will allow for efficient radiational cooling.
+Temperatures outside of the DFW Metroplex are already dropping 
+well into the 40s, and we could see several rural locations fall 
+into the mid to upper 30s by sunrise. 
+
+Pleasant fall weather will persist through today and into Thursday
+as zonal flow aloft prevails as the dominant upper-level pattern.
+Southeasterly winds will return to the forecast area by Wednesday
+afternoon as surface high pressure shifts to the northeast.
+Slightly warmer afternoon highs in the 70s areawide are expected 
+both Wednesday and Thursday afternoons. A few locations across 
+Central Texas could approach 80 degrees by Thursday afternoon. 
+
+By Thursday an upper-level trough will dig southward into New
+Mexico. Increasing southerly surface flow will act in response to
+cyclogenesis near the Texas Panhandle, Oklahoma Panhandle,
+southeastern Colorado juncture. However, behind the previous cold
+front, moisture return will struggle to transport dewpoints in 
+the low to mid 50s northward into West Texas and the Texas 
+Panhandle by the latter half of Thursday. Isolated convection will
+be possible Thursday afternoon into Thursday evening, primarily 
+west of the CWA. Widespread convective inhibition may hinder 
+thunderstorm development and the degree of moisture return will be
+important in determining if the cap can be eroded and how much 
+instability will be in place. Additionally, the placement of the 
+better quality moisture return will determine where the greatest 
+potential for isolated convection will reside. The latest RAP 
+places the nose of greater theta-e advection well west of the CWA,
+whereas the GFS nudges the plume of moisture into our far western
+counties over the Big Country. To account for this uncertainty, 
+15-20% PoPs have been placed in our far western zones. With steep 
+mid-level lapse rates >7.5 C/km and favorable shear profiles, any 
+isolated storms that are able to develop would be capable of 
+producing severe hail and damaging wind gusts. 
+
+Stronger large-scale forcing for ascent and increased potential 
+for widespread rainfall will arrive later Thursday night into 
+Friday as this system shifts eastward. 
+
+Langfeld
+
+&&
+
+.LONG TERM... /NEW/
+/Thursday Night through Tuesday/
+
+As the upper low gets progressively closer to North Texas on 
+Thursday night, increasing low and mid level isentropic ascent and
+moisture advection will lead to a blossoming of convection during
+the overnight hours. A fairly narrow axis of high PW air (1.2 to 
+1.5", ~90th percentile for this time of year) will become co-
+located with the strongest forcing for ascent west of I-35 around 
+midnight Thursday night. Showers and a few thunderstorms should 
+already be ongoing during this time across West Texas, but as the 
+forcing for ascent becomes maximized within the plume of moisture,
+convection should really increase in areal coverage during the 
+overnight hours. This should mainly be in the form of convective 
+rain showers, however, as the core of the upper low impinges on 
+our western counties, a compact area of steep mid level lapse 
+rates associated with the cold core will allow for elevated 
+thunderstorms and an associated small hail risk through the late 
+overnight hours into early Friday morning.
+
+Meanwhile, a developing surface low will likely take shape and
+deepen somewhere in Central Texas in the vicinity of our southern
+counties (Lampasas/Bell) by early Friday morning. As it does, a 
+well defined warm sector will become established with mid/upper 
+50s dewpoints likely nosing into our southeastern counties through
+midday. Most of the surface based instability will remain to the
+southeast of our area and will thus limit the severe potential in
+our area, but we'll have to watch the northward advancement of this
+warm sector as low level wind fields will be highly sheared and
+supportive of low level rotation and perhaps a few tornadoes.
+Farther north, widespread rainfall will continue through much of
+the day Friday in the form of elevated showers and a few
+thunderstorms. With the upper low progged to track right over the
+heart of our CWA on Friday, we'll maintain a steady supply of low
+and mid level warm moist advection which will likely result in a
+healthy dose of wrap around precipitation as the low moves
+eastward. This will keep rain chances in the forecast through late
+Friday night with precipitation finally ending across our eastern
+counties Saturday morning. Widespread rainfall totals of 1 to 2
+inches appear likely across a good portion of North and Central
+Texas, although there will likely be narrow bands of heavier
+amounts (3+"), especially just north of where the center of the 
+mid level low tracks. This area will remain embedded within 
+strong east-southeast low level flow and will have a tap to the 
+best moisture with sustained ascent through the event. Right now, 
+that favored area appears to be somewhere just south of the 
+Metroplex (Hillsboro/Corsicana/Athens). Given that rainfall rates 
+should be modest through the event and the system will remain 
+progressive, the overall threat for flash flooding appears low at 
+this time.
+
+Rain will taper off early Saturday and skies will gradually clear
+through the day with a cool day expected. Highs will remain in the
+60s and steadily warm into early next week. 
+
+Dunn
+
+&&
+
+.AVIATION... /Issued 1243 AM CDT Wed Oct 26 2022/
+/06Z TAFs/
+
+VFR will prevail through the TAF period. Light, northerly winds 
+will persist through the overnight hours and into Wednesday 
+morning before gradually veering to the southeast during the day 
+Wednesday. Wind speeds are expected to generally remain below 10 
+knots.
+
+Langfeld
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    72  50  73  54  61 /   0   0   5  80  90 
+Waco                76  45  78  55  65 /   0   0   5  70  70 
+Paris               70  45  69  51  61 /   0   0   0  50  80 
+Denton              72  44  73  50  60 /   0   0  10  80  90 
+McKinney            71  44  72  50  60 /   0   0   5  70  90 
+Dallas              72  49  73  54  60 /   0   0   5  70  90 
+Terrell             71  44  73  52  61 /   0   0   0  60  90 
+Corsicana           73  47  75  54  62 /   0   0   0  60  80 
+Temple              76  46  78  55  66 /   0   0   5  80  70 
+Mineral Wells       75  45  76  52  61 /   0   0  10  90  80 
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+

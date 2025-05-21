@@ -1,0 +1,75 @@
+857 
+FXUS64 KTSA 260514
+AFDTSA
+
+Area Forecast Discussion
+National Weather Service Tulsa OK
+1214 AM CDT Wed Oct 26 2022
+
+...New AVIATION...
+
+.SHORT TERM...
+(The rest of tonight)
+Issued at 815 PM CDT Tue Oct 25 2022
+
+Overall, it looks like a quiet night across eastern Oklahoma and
+northwest Arkansas, with cooler and drier in place in the wake of
+the upper low now in the mid-Mississippi Valley region. Expect
+clear skies and much lighter winds overnight, along with below
+normal low temperatures. The only notable change to the going
+forecast has been to lower wind speeds and gusts overnight across
+parts of northwest Arkansas. Otherwise, things look on track. Have
+a good evening.
+
+&&
+
+.LONG TERM...
+(Tomorrow through Tuesday)
+Issued at 218 PM CDT Tue Oct 25 2022
+
+Ensemble data suggests that the next upper-low that is to head into the 
+southern U.S. may trend a little slower and a little stronger than 
+some model data.  Rain chances will start late Thursday in Osage and 
+Pawnee Counties and from there expand into the rest of eastern Oklahoma
+Thursday night.  If the upper-low does trend a little slower, then
+the rain chances may delayed a bit.  This system will likely take
+a more southern track as compared to the system today.  That would place
+the higher rain potential in southeast Oklahoma and western Arkansas from
+Friday into Saturday.
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1212 AM CDT Wed Oct 26 2022
+
+VFR conditions will prevail through the period with light winds.
+Valley fog potential will be limited by intrusion of drier air.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TUL   45  68  47  64 /   0  10  50  20 
+FSM   44  69  48  66 /   0   0  40  40 
+MLC   43  68  48  62 /   0   0  70  50 
+BVO   42  65  45  63 /   0  10  50  20 
+FYV   39  66  41  64 /   0   0  30  20 
+BYV   41  63  44  61 /   0   0  20  20 
+MKO   43  66  47  63 /   0   0  50  30 
+MIO   41  65  44  62 /   0   0  30  10 
+F10   42  69  47  63 /   0  10  60  40 
+HHW   44  67  49  59 /   0   0  60  60 
+
+&&
+
+.TSA WATCHES/WARNINGS/ADVISORIES...
+OK...None.
+AR...None.
+&&
+
+$$
+
+SHORT TERM...22
+LONG TERM....08
+AVIATION...14
+

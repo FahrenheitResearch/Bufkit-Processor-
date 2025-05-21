@@ -1,0 +1,150 @@
+054 
+FXUS66 KMFR 262128
+AFDMFR
+
+Area Forecast Discussion
+National Weather Service Medford OR
+228 PM PDT Wed Oct 26 2022
+
+.SYNOPSIS...Southern Oregon and Northern California will remain in a 
+relatively progressive pattern with a series of disturbances moving 
+across the area over the next week with breaks in between.
+A weak ridge of high pressure briefly returns tonight through 
+Thursday night. As a result, expect wide-spread frosts and possibly 
+a freeze for portions of the West Side Valleys tonight. Another 
+front will approach the coast Friday.
+
+&&
+
+.SHORT TERM...Through Saturday morning, 10/29/2022...Mainly 
+benign weather is expected during the next 36 hours and the clear 
+skies from building high pressure will allow temperatures to be 
+pretty cold. Cold enough for a widespread freeze for much of the 
+West Side California Valleys tonight, including the Klamath River 
+Valley, the Shasta Valley, and the area south of Mt. Shasta in 
+Siskiyou County. This should be at least the second heavy freeze of 
+this autumn and we are expecting it to put an end to the growing 
+season and thus we anticipate ending freeze warnings for that area 
+until next spring.  In addition, for areas of Oregon, including the 
+Rogue, Illinois, and Applegate Valleys expect a widespread frost 
+tonight. There will likely be an isolated area at the southern 
+portion of the Illinois Valley near O'brien and Takilma where 
+freezing temperatures are likely in an area too isolated for its own 
+freeze warning. Please see the NPWMFR for more details.
+
+Temperatures will warm back into the 60s during the afternoon on 
+Thursday for most areas west of the Cascades and into the mid-50s
+for the East Side. This is somewhat dependent upon where fog and 
+frost forms tonight. If the frost is heavy enough it may prevent 
+fog from forming and for that reason we expect fog to be more 
+patchy in nature. While east of the Cascades freezing fog may form
+before a frost is able to develop. Areas of fog are anticipated 
+for the Umpqua and Coquille Valley tonight too.
+
+The pattern returns to a more progressive one on Friday as the large 
+scale flow turns westerly in response to a split flow pattern 
+between a broad area of low pressure over British Columbia and a 
+pocket of low pressure forming offshore of the Bay Area. This will 
+cause the front to stall offshore on Friday. Clouds will stream into 
+the area, but the chance for rain is contained west of the Coast 
+Range at a 30-50% chance for light (0.01"-0.10") rain. For th rest 
+of the area, increased high clouds will be the main observable trait 
+for the front. 
+
+The front stalling on Friday will also allow temperatures to warm 
+further. For the West Side temperatures are forecast into the mid-
+and-upper 60s, even the 70s for the lower Klamath River Valley. And 
+for the East Side temperatures near 60 are expected. This will also 
+keep winds calmer across the region. 
+
+Friday night a reinforcing wave will approach the backside of the
+front a nudging it closer to our area into Saturday morning. 
+However, it will largely remain stationary. This will increase the
+chance for light rains west of the Cascades, but a true wetting 
+rain will remain contained to the coast.
+-Miles 
+
+.LONG TERM...Saturday night into Thursday.
+
+A cold front turned stationary front is expected to cover sections 
+of our coastline.  This should result in precipitation along 
+sections of the coast and the Umpqua Basing.  The probabilities for 
+rain decrease the farther south and east one travels. Impacts should 
+remain minor here, although some trick or treaters along the coast 
+will likely have to brave some light rain Saturday evening into 
+Saturday night.
+
+The cooler northwest flow persists behind the stationary front.  The 
+front begins to move south eastward and dissipates into Sunday.  It 
+seems we should dry out for a period of Sunday, although the NBM and 
+ensembles suggest the chance of rain persisting for most of Sunday 
+ahead of the next upper level wave and cold front.  The probability 
+of precipitation maximizes after 0z Sunday and is generally around 
+50 to 70 percent west of the Cascades when the next front moves in 
+around mid day Monday.  People in Modoc County will eventually have 
+a 20% - 30% chance of rain around Monday morning and afternoon.
+
+Heading into Tuesday, an upper level low will likely be overhead, 
+although the depth of the trough is still uncertain.  In any case, 
+temperatures will trend cooler with high temperatures roughly 10 
+degrees cooler than normal for the region.  Snow levels will drop 
+down to the 4000 - 5000 foot level with some light snow over the 
+Cascades and other higher terrain.
+
+Heading into the Wednesday to Thursday timeframe,  the synoptic 
+details are pretty hard to parse out. However, the ensembles are 
+favoring some more precipitation across the region.  The 48 hour QPF 
+we have right now ending at 12Z Thursday is showing about 0.5 inches 
+of rain west of the Cascades with up to an additional 1 inch of rain 
+along the coast.  Rain totals should around 0.25 inches east of the 
+Cascades.  There are a small set of ensemble members showing drier 
+conditions from Tuesday into Thursday, although that forecast is 
+definitely in the minority.
+
+-Smith
+
+&&
+
+.AVIATION...26/18Z TAFs...Mostly VFR this afternoon, except 
+local MVFR and higher terrain obscurations. Tonight into Thursday 
+morning, expect areas of coastal and valley IFR in fog/low clouds. 
+Conditions improve to VFR Thursday afternoon. -Spilde
+
+&&
+
+.MARINE...Updated 200 PM PDT Wednesday 26 October 2022...Swell 
+dominated seas of 10 to 14 feet at 12 seconds will persist through 
+late this evening. Conditions improve overnight into Thursday with 
+seas dropping below advisory levels -- generally down to around 6 to 
+8 feet at 10 seconds. Another high and steep long period northwest 
+swell will arrive Thursday and persist Friday. Guidance continues to 
+show this swell peaking between 12 and 14 ft at 14 to 15 seconds. A 
+cold front moves in over the waters Friday with rain likely, 
+especially in the north, then the front weakens into Saturday. Seas 
+gradually subside this weekend, but will remain hazardous to small 
+craft. 
+
+The next high and steep long period swell is possible Sunday 
+night into Monday. EC/GEFS wave ensemble guidance are indicating 
+this could be an even higher swell train than the one Thursday into 
+Friday. Mean wave heights are indicated in the 13 to 17 foot range 
+with a small probability of wave heights exceeding 20 ft. This one 
+could also have a long enough period for beach hazard concerns. 
+There is still quite a bit of spread in the members, so stay tuned 
+for updates. -Spilde
+
+&&
+
+.MFR WATCHES/WARNINGS/ADVISORIES...
+OR...Frost Advisory from 3 AM to 10 AM PDT Thursday for ORZ023-024-
+     026.
+
+CA...Freeze Warning from 3 AM to 10 AM PDT Thursday for CAZ080>082.
+
+Pacific Coastal Waters...Small Craft Advisory until 11 PM PDT this evening for PZZ350-356-
+     370-376.
+
+&&
+
+$$
+

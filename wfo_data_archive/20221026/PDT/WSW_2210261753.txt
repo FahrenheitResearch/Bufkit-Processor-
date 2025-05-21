@@ -1,0 +1,64 @@
+634 
+WWUS46 KPDT 261753
+WSWPDT
+
+URGENT - WINTER WEATHER MESSAGE
+National Weather Service Pendleton OR
+1053 AM PDT Wed Oct 26 2022
+
+ORZ509-WAZ520-261900-
+/O.EXP.KPDT.WW.Y.0021.000000T0000Z-221026T1800Z/
+East Slopes of the Oregon Cascades-
+East Slopes of the Washington Cascades-
+Including the cities of La Pine and Sunriver
+1053 AM PDT Wed Oct 26 2022
+
+...WINTER WEATHER ADVISORY WILL EXPIRE AT 11 AM PDT THIS MORNING
+ABOVE 4000 FEET...
+
+Showers have largely ended over the Cascades this morning. Where a
+few showers linger over the Oregon Cascades, temperatures have
+risen to the mid to upper 30s, so mainly rain showers are 
+occurring. Therefore, the Winter Weather Advisory will be allowed
+to expire.
+
+$$
+
+ORZ502-WAZ030-270000-
+/O.CON.KPDT.WW.Y.0021.000000T0000Z-221027T0000Z/
+Northern Blue Mountains of Oregon-Northwest Blue Mountains-
+Including the cities of Meacham, Tollgate, 
+and Ski Bluewood Resort
+1053 AM PDT Wed Oct 26 2022
+
+...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 5 PM PDT THIS
+AFTERNOON ABOVE 4000 FEET...
+
+* WHAT...Snow above 4000 feet. Additional snow accumulations of up
+  to 2 inches.
+
+* WHERE...In Oregon, Northern Blue Mountains of Oregon. In 
+  Washington, Northwest Blue Mountains.
+
+* WHEN...Until 5 PM PDT this afternoon.
+
+* IMPACTS...Travel could be very difficult. The hazardous 
+  conditions could impact the morning or evening commute, 
+  especially over Highway 204 and Interstate 84 over the crest 
+  of the Blue Mountains.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Slow down and use caution while traveling. 
+
+The latest road conditions can be obtained by calling 5 1 1, or
+by visiting online at https://tripcheck.com for Oregon or
+https://wsdot.com/travel for Washington.
+
+&&
+
+$$
+
+For more information from the National Weather Service visit
+http://weather.gov/PDT
+

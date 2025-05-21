@@ -1,0 +1,165 @@
+684 
+FXUS61 KCAR 260350
+AFDCAR
+
+Area Forecast Discussion
+National Weather Service Caribou ME
+1150 PM EDT Tue Oct 25 2022
+
+.SYNOPSIS...
+High pressure will prevail over the region late tonight then 
+move east on Wednesday. Low pressure will approach from the 
+south later Wednesday, then lift across the region Wednesday 
+night. A cold front will cross the region Thursday. High 
+pressure will build across the region Friday through the 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH WEDNESDAY/...
+1150 PM Update: No sig chgs made to going fcst this update with
+little chg in obsvd temps ovr the last few hrs and with fog
+currently more dense ovr Downeast areas where we already have a
+dense fog adv in place.
+
+Prev Disc: Surface and upper ridging from the Canadian 
+Maritimes will remain in place across the region this evening 
+and overnight. This will keep plenty of low level moisture 
+beneath the subsidence inversion. Low stratus and fog will be 
+the rule once again tonight with the abundant low level moisture
+locked in place and a light onshore flow. Some breaks in the 
+clouds were evident on satellite imagery across the North Maine 
+Woods late this afternoon but expect this area to fill back in 
+later this evening, with mainly cloudy skies expected 
+regionwide. Abundant low level moisture and cloud cover will 
+keep tonight's lows from falling all that much, with lows only 
+in the upper 50s to around 60 degrees.
+
+A deep layered southerly flow develops on Wednesday in advance
+of an upper level trof approaching from the west and surface 
+low advancing northward toward the region from the Western 
+Atlantic. This low will tap into abundant sub tropical moisture 
+as it moves north toward the area Wednesday afternoon. Locally 
+heavy rainfall will once again be a concern for portions of the 
+area later Wednesday afternoon, as deeper moisture gets drawn 
+into region in the moist southerly flow. Forecast soundings are 
+showing deep warm cloud layers developing and precipitable 
+water values increasing to 1.75" to 2.0". Considered a Flood 
+Watch for portions of Downeast, as locally heavy rainfall will 
+once again be possible, in addition to the locally heavy rain 
+the area experienced last week. Also, localized convection last
+night deposited in excess of 2.0'" of rain in a few spots in 
+Washington County, with Robbinston reporting 2.44" and Cooper 
+2.50". The one positive is that the system is forecast to be 
+rather progressive. Nonetheless, will have to monitor the hydro 
+situation closely on Wednesday. Highs Wednesday afternoon will 
+once again be well above normal for the date, with temperatures 
+Wednesday afternoon climbing into the low to mid 60s.
+
+&&
+
+.SHORT TERM /WEDNESDAY NIGHT THROUGH FRIDAY/...
+Surface low pressure/upper level disturbance will lift north across 
+the region Wednesday night. The system will draw abundant moisture 
+north, with precipitable water values increasing to 1.50 to 
+2.00 inches. Rain, possibly heavy at times, will lift north 
+across the region Wednesday night. Could also have enough 
+elevated instability to support the slight chance of a 
+thunderstorm. The rain will then taper to showers, from south to
+north, overnight. The low will exit north toward Labrador 
+Thursday, drawing a cold front across the region. Could have a 
+chance of showers with the cold front across mostly 
+northern/central areas Thursday. Clouds should then begin to 
+decrease in the wake of the cold front later Thursday. High 
+pressure then builds across the region Thursday night into 
+Friday with mostly clear skies. Temperatures will be at above 
+normal levels in advance of the cold front Thursday. Near normal
+level temperatures are expected in the wake of the cold front 
+Friday.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+High pressure will remain across the region Friday night through 
+early Sunday, then begin to exit to the east later Sunday. 
+Generally expect mostly clear skies Friday night into Sunday. 
+High pressure exits across the Maritimes Monday, with low 
+pressure starting to approach late. Clouds will increase Monday,
+with a chance of rain or showers late in advance of the 
+approaching low. Low pressure should then begin to cross the 
+region Tuesday, though timing differences still exist, with a 
+chance of rain or showers. Temperatures will be at above normal 
+levels Saturday through Tuesday.
+
+&&
+
+.AVIATION /04Z WEDNESDAY THROUGH SUNDAY/...
+NEAR TERM: High confidence in widespread IFR/LIFR tonight in low
+clouds and fog. Widespread IFR/LIFR can be expected Wednesday 
+morning in continued low clouds and fog. There could be some 
+improvement toward high end IFR or low end MVFR early Wednesday
+afternoon northern terminals, otherwise expect rain to develop 
+at the Downeast terminals (KBGR/KBHB) early Wednesday afternoon 
+and spread north toward the Aroostook county terminals later in
+the afternoon. Rain could be locally heavy Wednesday afternoon 
+and there could be an isolated thunderstorm as well. South to 
+Southeast wind around 5 kts tonight and then 5 to 10 kt on 
+Wednesday.
+
+SHORT TERM: 
+Wednesday night...IFR/LIFR with rain, possibly heavy at times,
+then MVFR/IFR with rain tapering to showers late. Slight chance
+of a thunderstorm. Areas of fog. Variable winds around 10 
+knots, becoming southwest. Low level wind shear possible.
+
+Thursday...VFR/MVFR with a chance of showers north. VFR/MVFR early, 
+then VFR, Downeast with a slight chance of showers. Southwest winds 
+10 to 15 knots, becoming northwest 15 to 20 knots with gusts up
+to 25 knots.
+
+Thursday night...VFR. Northwest winds 10 to 20 knots, diminishing to 
+around 10 knots.
+
+Friday...VFR. North/northwest winds 10 to 15 knots.
+
+Friday night. Variable conditions with any patchy fog. Otherwise, 
+VFR. Variable winds 5 to 10 knots. 
+
+Saturday through Sunday...VFR. Southwest winds 10 to 20 knots 
+Saturday. Variable winds 5 to 10 knots Saturday night/Sunday.
+
+&&
+
+.MARINE...
+NEAR TERM: Winds/seas will remain below SCA levels through Wednesday
+afternoon. Visibility will be reduced to 1 NM or less tonight 
+and Wednesday morning in areas of fog, and then 1 to 3 NM in rain
+and areas of fog Wednesday afternoon. An isolated thunderstorm 
+will also, be possible on the waters as well. 
+
+SHORT TERM: Winds/seas below small craft advisory levels Wednesday 
+night through much of Thursday, though conditions could begin to
+approach small craft advisory levels late Thursday. Small craft
+advisory conditions likely Thursday night/Friday. Rain tapering
+to showers Wednesday night. Slight chance of a thunderstorm 
+early. Areas of fog Wednesday night.
+
+&&
+
+.CAR WATCHES/WARNINGS/ADVISORIES...
+ME...Dense Fog Advisory until 9 AM EDT Wednesday for MEZ015>017-029-
+     030.
+     Flood Watch from Wednesday afternoon through late Wednesday 
+     night for MEZ016-017-029-030-032.
+MARINE...None.
+
+&&
+
+$$
+
+Near Term...VJN
+Short Term...Norcross
+Long Term...Norcross
+Aviation...VJN/Norcross
+Marine...VJN/Norcross
+

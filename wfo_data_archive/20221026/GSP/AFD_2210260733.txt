@@ -1,0 +1,127 @@
+526 
+FXUS62 KGSP 260733
+AFDGSP
+
+Area Forecast Discussion
+National Weather Service Greenville-Spartanburg SC
+333 AM EDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Lingering shower chances will be in store through daybreak before 
+dry conditions and more seasonal temperatures return through the end 
+fo the work week following a frontal passage today. Expect rain 
+chances to increase again this weekend and into early next week as a 
+low pressure system approaches from the Gulf states. High 
+temperatures will be a few degrees cooler this weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As of 315 am EDT Wednesday: Increasingly ragged frontal band of 
+showers will continue to move across the eastern half of the 
+forecast area early this morning. The downward trend in coverage and 
+intensity is expected to continue such that only token small-to- 
+middlin chance PoPs appear to be necessary along and east of I-77, 
+with negligible precip amounts expected. Skies will steadily clear 
+from west to east through the morning, although some clouds will 
+linger near the TN/NC border as veering/increasingly NW upslope flow 
+lifts lingering moisture up the western slopes of the Appalachians. 
+The main air mass change in the wake of the front today will be a 
+steady lowering of dewpoints. However, there will be enough cold 
+advection to allow max temps across the mountains to top out several 
+degrees below yesterday's readings, or right around normal. 
+Meanwhile, deep mixing along with an increasing downslope component 
+to the low level flow will offset the effects of any cold advection 
+outside the mountains, and max temps are expected to warm to levels 
+very similar to the past couple of days. Mostly clear skies tonight 
+(with the exception of a narrow band of lingering upslope clouds 
+along the TN border) along with weakening surface flow and lower 
+dewpoints should allow temps to cool to or slightly below normal in 
+most areas.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+As of 200 AM EDT Wednesday: Expect the sensible weather to remain
+quiet through the forecast period. Model guidance continue to push a
+closed upper from the Four Corners region into the Southern Plains
+through the end of the work week. In response to the closed low
+moving into the Southern Plains, moist south to southwesterly flow
+aloft will gradually pull into the southeastern CONUS Friday. At
+the same time, surface high pressure will slide from the Great
+Lakes region Thursday and set up over the northeastern CONUS by
+Friday as it noses down the Appalachians. Expect mostly clear
+skies until sometime Friday as mid-level clouds push in from the
+southwest. With the position of the surface high, CAD will be in
+the works, but good insolation will help temperatures Thursday
+remain at or slightly above normal. Recent trends have come in
+a little slower with the overall cloud cover on Friday, which
+could give way to decent insolation during the daytime period,
+which would ultimately keep temperatures near normal. Overnight
+lows Thursday and Friday will be at or a few ticks above normal.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+As of 300 AM EDT Wednesday: The closed low will begin to track
+towards the mid-MS Valley Saturday into Sunday before becoming
+an open wave and eventually phasing into the northern jet stream
+by Monday. Stout high pressure will remain over the northeastern
+CONUS through much of the weekend to allow for a strengthening
+CAD event to unfold. Moisture flux from the Atlantic will begin
+to take shape across the CFWA Saturday as 850mb winds veer to an
+east to southeasterly component while the mid-level flow out of the
+southwest pulls in moisture from the Gulf. Profiles become saturated
+by Sunday as a low pressure system lifts west of the CFWA with good
+QPF response on its east-side. This will work into the southwestern
+zones sometime Sunday, but model discrepancy still exists with the
+exact onset timing. Expect most of the rain to lift north and east
+of the CFWA by Monday afternoon/evening. Temperatures will be below
+normal for highs and above normal for lows through the early part
+of next week. Upper troughiness will linger over the area through
+D7 as any CAD feature should erode after Monday. Temperatures will
+return to near normal values as a result.
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+At KCLT and elsewhere: A band of pre-frontal showers is moving 
+across the Terminal Forecast Area at this time. The band is steadily 
+becoming increasingly disorganized, and this trend is expected to 
+continue through the early morning. Tempos for SHRA and reduced 
+visby are carried at all sites except at KHKY and KCLT through 
+around 09Z. With the expectation that showers will become 
+increasingly less concentrated as the band moves farther east, only 
+VCSH is carried AT KHKY/KCLT. Otherwise, cigs within the frontal 
+band are expected to lower to MVFR at all sites through daybreak. 
+Some potential exists for IFR cigs, but this is far from a 
+certainty, so we've hedged with ample use of SCT IFR layers. 
+
+Skies should steadily clear from around sunrise through the morning. 
+Winds will generally be light early this morning, primarily favoring 
+a southerly component. Winds during the daylight hours are generally 
+expected to favor SW at 5-10 kts, although a steady shift toward 
+W/NW is expected during the afternoon. An exception will be at KAVL, 
+where NW winds of 10-15 kts with higher gusts are expected to 
+develop early in the day.  
+
+Outlook: Dry, VFR conditions return for Thursday and Friday. Precip
+and restrictions could return at some point over the weekend,
+but low confidence remains on timing and impacts.
+
+&&
+
+.GSP WATCHES/WARNINGS/ADVISORIES...
+GA...None.
+NC...None.
+SC...None.
+
+&&
+
+$$
+SYNOPSIS...CAC
+NEAR TERM...JDL
+SHORT TERM...CAC
+LONG TERM...CAC
+AVIATION...JDL
+

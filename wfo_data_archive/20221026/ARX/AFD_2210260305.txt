@@ -1,0 +1,100 @@
+058 
+FXUS63 KARX 260305
+AFDARX
+
+Area Forecast Discussion
+National Weather Service La Crosse WI
+1000 PM CDT Tue Oct 25 2022 
+
+.DISCUSSION...(This evening through Tuesday)
+Issued at 215 PM CDT Tue Oct 25 2022
+
+Key Messages:
+
+ - A few showers possible through early tonight in far eastern 
+   counties
+
+ - Remaining dry and seasonable through the end of October
+
+Tonight: Slight chance of showers across far eastern counties
+
+GOES water vapor imagery shows another wave of energy across 
+southern Missouri this afternoon that is transporting moisture 
+northward. This moisture transport is bringing showers along the 
+Iowa/Illinois border this afternoon, but as this wave of energy 
+continues to lift towards the Great Lakes along a remnant frontal 
+axis, it may bring another shower or two across the far eastern 
+service area - however, most of the activity should remain well to 
+the east along Lake Michigan and into Illinois. Clearing from west 
+to east is expected this evening into tonight which will allow temps 
+to fall into the low 30s for most, a few locations across west-
+central Wisconsin may dip into the upper 20s. Enough wind and high 
+cirrus clouds moving into the region tonight should keep temps from 
+falling off too much.
+
+Wednesday into Thursday: Slightly below normal temperatures and dry
+
+High pressure, northwest flow, and drier air move into the area 
+behind the cold front that will last through Wednesday night. As the 
+surface high pressure shifts east to the Great Lakes, weak southerly 
+flow will return on Thursday, but there won't be much warming 
+expected with it. Meanwhile a wave begins to dig south from Idaho 
+into the Rockies Wednesday night. This wave is expected close off 
+and become a separated southern stream as it slowly moves into the 
+Four Corners region Thursday afternoon. As this trough settles into 
+the SW US, a strengthening northern stream jet will bring upper-
+level divergence and mid-level confluent flow across southwestern 
+Minnesota on Thursday - leading to some light rain shower potential 
+that looks to remain mainly west of I-35 and our service area.
+
+Friday through the Weekend: Remaining dry with temps near normal
+
+The northern stream trough will move through the Upper Midwest on 
+Friday as ridging builds in behind it. At the same time, the 
+southern stream upper-level closed low will slowly move east across 
+Texas and Oklahoma. This pattern will favor a persistence-based 
+forecast where temperatures remain in the mid 50s to near 60 and 
+lows in the mid 30s to near 40. Clustered guidance through this 
+weekend suggests a lower spread among the models as the cutoff low 
+begins to lift into the Tennessee and Ohio River Valleys. While it 
+is possible the southern extent of our area is clipped with light 
+rain, the majority of ensemble guidance keeps the area of 
+precipitation well to our south and east. Around a 5 degree 
+Fahrenheit temperature spread between the 25th and 75th percentiles 
+is present by Halloween, with the mean temps in the mid to upper 50s.
+
+&&
+
+.AVIATION...(For the 06Z TAFS through 06Z Wednesday night)
+Issued at 1000 PM CDT Tue Oct 25 2022
+
+CIGS:a few high clouds will continue to linger overnight, with SKC 
+favored for the better part of the Wed. HOWEVER - there is an 
+expansive cloud deck of low VFR (4-5kft) across northern MN pushing 
+southeast. Most model trends keep these north of the TAF sites, but 
+could threaten KLSE for a few hours after 18z. For now, will stick 
+with a SKC/SCT forecast and monitor. 
+
+Next, looking for an increase in high/mid level VFR clouds overnight 
+Wed as a shortwave trough lifts northeast out of the southern 
+plains. 
+
+WX/vsby: no impacts expected.
+
+WINDS: northwest generally holding under 10 kts through Wed 
+afternoon, becoming light south/southeast with some decoupling Wed 
+night. 
+
+&&
+
+.ARX WATCHES/WARNINGS/ADVISORIES...
+WI...NONE.
+MN...NONE.
+IA...NONE.
+&&
+
+$$
+
+DISCUSSION...JAW
+AVIATION...Rieck
+

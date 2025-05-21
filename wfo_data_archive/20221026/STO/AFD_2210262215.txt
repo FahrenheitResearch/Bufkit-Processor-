@@ -1,0 +1,72 @@
+151 
+FXUS66 KSTO 262215
+AFDSTO
+
+Area Forecast Discussion
+National Weather Service Sacramento CA
+315 PM PDT Wed Oct 26 2022
+
+.SYNOPSIS...
+Dry weather through the weekend. Breezy north wind in the Valley 
+and adjacent foothills today through early tomorrow. Temperatures
+remaining near to a little below average. Precipitation chances 
+may return next week, but confidence is low.
+
+&&
+
+.DISCUSSION...
+Visible satellite imagery shows mostly clear skies with only a 
+few high clouds over Northern California this afternoon. Breezy
+winds are being observed through the Valley today as a trough
+deepens to our east, tightening surface pressure gradients. The
+MFR-SAC gradient has been around +6 mb over the past few hours, 
+resulting in northerly wind gusts around 20-30 mph. The east-west
+gradient will tighten tonight into the early morning hours
+tomorrow, and downslope winds in the Sierra foothills will 
+increase with similar gusts, locally up to 40 mph in wind prone 
+gaps and canyons.
+
+Winds will decrease tomorrow with fairly benign weather expected
+the rest of the week and through the weekend. Ensemble and NBM 
+guidance has completely backed off on any precipitation in
+interior Northern California this weekend, so dry weather will 
+persist into early next week. Although today will be the coolest
+day of the week, daytime temperatures will remain fairly similar
+with only slight warming of a few degrees into the weekend. Expect
+70s across the Valley, mid 60s to low 70s in the foothills, and 
+40s to 60s in the mountains. -HEC
+
+&&
+
+.EXTENDED DISCUSSION (Sunday THROUGH Wednesday)...
+Weak ridging over Northern California will allow temperatures to 
+peak on Sunday with mid to upper 70s in the Valley, upper 60s to 
+low 70s in the foothills, and 50s to 60s in the mountains. 
+Ensemble guidance is indicating a trough could impact the West 
+Coast next Tuesday into Wednesday. Cluster analysis shows good 
+confidence in the formation of a trough, but differences remain in
+the strength, track, and timing. If forecast remains on track 
+with both the GFS and Euro ensemble means, the trough will deepen 
+from the Gulf of Alaska into the Pacific Northwest and California,
+bringing a chance of widespread rain and mountain snow and cooler
+temperatures. Confidence remains low based on cluster differences
+and how ensembles have recently been handling these troughs in 
+the extended forecast, but stay tuned for updates as time 
+progresses. -HEC 
+
+&&
+
+.AVIATION...
+VFR conditions at TAF sites over the next 24 hours. Periods of 
+northerly surface wind gusts up to 15-25 kts in the Valley through
+about 12Z Thursday.
+
+&&
+
+.STO WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+

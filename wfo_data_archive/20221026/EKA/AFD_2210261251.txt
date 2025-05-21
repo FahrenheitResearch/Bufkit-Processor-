@@ -1,0 +1,120 @@
+166 
+FXUS66 KEKA 261251
+AFDEKA
+
+AREA FORECAST DISCUSSION
+National Weather Service Eureka CA
+510 AM PDT Wed Oct 26 2022
+
+.SYNOPSIS...Dry weather with slightly below normal temperatures
+are forecast today through tonight. Frost and freezing
+temperatures are expected again for the interior valleys late
+tonight. Also, gusty north and northeast winds are expected for 
+the exposed terrain today and tonight. Cloud cover will increase 
+on Friday as a front approaches from the NW. This front will most 
+likely stall offshore, however a few light showers will be 
+possible over the weekend, especially for Del Norte and northern 
+Humboldt counties. A stronger front from the NW will emerge early 
+next week. 
+
+&&
+
+.DISCUSSION...A transient shortwave trough clipped the area
+overnight. Some light rain occurred during the evening and
+overnight with amounts mostly under 0.10 of an inch. A few 
+higher elevations sites, primarily in Del Norte county, had close to 
+two tenths. The precipitation has already ended across the area. 
+Some light showers are not completely impossible over the elevated 
+terrain of Del Norte county this afternoon. Otherwise, dry 
+conditions with slightly below normal temperatures and locally gusty 
+north winds are in store for today. The gusty winds will be mostly 
+over the ridges, but daytime heating and mixing should result in 
+gusts up to 25 mph in the valleys, mainly across Lake and Mendocino 
+counties.
+
+Temperatures have been dropping into the lower to mid 30's in the
+interior valleys early this morning. Nearly all of these locations
+have already had freezing temperatures this week. A frost advisory
+remains in effect for these colder valleys. Low temperatures 
+tonight will probably be colder with clearer skies and lighter 
+valley winds. Temperatures will drop to 32F or less in some of 
+the interior valleys again and a freeze warning will need to be 
+issued. All of the locations forecast to freeze again tonight have
+already had multiple occurrences early this week. Also, gusty 
+east and northeasterly winds will likely develop over the higher 
+terrain and ridges tonight, but winds over the valleys will decouple.
+
+Dry weather is forecast for Thu as a broad and flat ridge builds 
+over the area in response to a trough digging southward from the 
+Gulf of AK over the central Pacific. This trough will slowly 
+move toward 130W on Fri and then split. An associated frontal
+boundary will slowly sag southward down the Oregon coast on 
+Friday, but will stall offshore as the trough splits. This 
+stalled front will slowly edge closer to the coast this weekend
+with precipitable water values (PWATS) increasing Sat and Sun.
+Some light rain showers is not completely impossible, especially 
+for Del Norte and northern Humboldt counties. 5 to 7 days ago 
+deterministic models and ensembles were depicting inches of rain.
+We may end up with only a few hundredths, perhaps drizzle once 
+westerlies and northerlies redevelop. At best a tenth seems 
+possible for Del Norte county on Saturday, otherwise the bulk of 
+the forecast area will mostly likely (80% chance) remain dry 
+through the weekend. What looks to be a stronger trough will dig 
+down from the NW early to mid next week. This will not only bring 
+cooling, but we could also have blustery north and/or west winds 
+and perhaps greater amounts of precipitation. The evolution of 
+this cold air surge is not certain at this time. It will depend 
+on the track of the cold core aloft. If farther to our east, 
+windy and not much rain. If farther offshore to our west, wetter 
+and still windy. We could see a combination of the two as well.
+
+&&
+
+.AVIATION...A passing front generated light rainfall with ceilings 
+dropping to the MVFR category. Conditions are improving this morning 
+as the precipitation ends and ceiling heights begin raising to VFR 
+levels. Mid to high level clouds will take hold today between 
+periods of clearing. Widespread stratus development is not 
+anticipated tonight, though lingering surface moisture may create 
+some brief, shallow visibility reductions at the terminals. 
+
+&&
+
+.MARINE...Winds have turned northerly today after the passing of a 
+weak front. A mid period northwest swell is filling in today as 
+well, and this will create Small Craft Advisory level seas of 10 to 
+12 feet into early Thursday morning. These sea heights will have the 
+best coverage in the outer zones, but may briefly pulse into the 
+inners. By this evening, northerlies will increase up to 20 kt in 
+the southern waters through early Thursday morning. A slightly 
+longer period northwest swell will move in on Friday, up to 10 to 12 
+feet at 15 seconds.
+
+&&
+
+.EKA WATCHES/WARNINGS/ADVISORIES...
+CA...
+     Frost Advisory until 9 AM PDT this morning for CAZ106-107-
+     109>111-114-115.
+
+NORTHWEST CALIFORNIA COASTAL WATERS...
+     Small Craft Advisory from 9 AM this morning to 3 AM PDT 
+     Thursday for PZZ470.
+
+     Small Craft Advisory from 3 PM this afternoon to 3 AM PDT 
+     Thursday for PZZ475.
+
+&&
+
+$$
+
+Visit us at https://www.weather.gov/eureka
+
+Follow us on Facebook and Twitter at:
+https://www.facebook.com/NWSEureka
+https://www.twitter.com/NWSEureka
+
+For forecast zone information
+see the forecast zone map online:
+https://www.weather.gov/images/eka/zonemap.png
+

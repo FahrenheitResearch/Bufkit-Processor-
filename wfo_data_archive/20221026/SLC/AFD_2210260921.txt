@@ -1,0 +1,161 @@
+789 
+FXUS65 KSLC 260921
+AFDSLC
+
+Area Forecast Discussion
+National Weather Service Salt Lake City UT
+321 AM MDT Wed Oct 26 2022
+
+.SYNOPSIS...A quick hitting system will cross the region today
+into Thursday morning bringing mountain snow, the potential for
+lake effect and much colder temperatures once again to the area.
+High pressure will build into the region behind this system and
+remain in place into early next week. 
+
+&&
+
+.SHORT TERM (Through 12Z Friday)...Morning upper air and satellite
+analysis indicates a weak shortwave crossing the state early this
+morning with another, stronger shortwave across the PACNW.
+Radar imagery indicates light precipitation is ongoing across
+portions of central and southern Utah, with a few visibility
+sensors reporting visibility down to a mile in locations such as
+Clear Creek Summit, Fremont Junction, Salina Summit and Hogan
+Pass. 
+
+Light precipitation associated with the first shortwave trough
+will gradually shift eastward through the morning. The cold front
+associated with the stronger shortwave will cross into
+northwestern Utah this morning and progress through much of the
+rest of the state through tonight. With a tightening thermal 
+gradient and a period of frontogenesis, expect a period of 
+moderate to heavy mountain snow in particular across the Wasatch 
+Mountains this afternoon into this evening. With accumulations 
+expected to range from 5 to 10 inches with locally higher amounts 
+for the upper Cottonwoods...seasonal roads still open and 
+backcountry use still in more fall than winter mode...issued a 
+winter weather advisory for the northern mountains through 
+Thursday morning.
+
+With this strong cold front and pronounced thermal gradient across
+southern Utah tonight into Thursday morning, expect gusty gap
+winds near north-south running canyons across lower Washington
+County. The bulk of the high resolution guidance (for example 70%+
+of the HREF members) suggest gusts to 50-55 mph near these
+canyons...starting around midnight tonight. Issued a wind advisory
+for gap winds across Washington County with this package. 
+
+Next up for discussion is the lake effect threat across areas
+south and east of the Great Salt Lake tonight into Thursday
+morning. Looking at the latest lake temperature guidance for the 
+Great Salt Lake, the lake is sitting around 57F or so. This will
+make the temperature difference between the lake and 700mb
+somewhere on the order 23-25C. Looking at model soundings with
+lake temperatures near 57F, NAM3KM guidance would indicate lake 
+induced CAPE around 1000 J/kg. 700mb flow looks to shift toward 
+the northwest to north-northwest by midnight tonight. Finally, 
+local forecast guidance based on the GFS has the threat of lake 
+effect at a rarely seen 100%, with the impact across the Oquirrhs 
+and eastern Tooele Valley. 
+
+Lake effect precipitation looks likely across western SLCo and the
+eastern Tooele Valley this evening into Thursday morning. Right
+now, the forecast has up to 2 inches of accumulation for the west
+benches of SLCo and east benches of the Tooele Valley. If 12Z
+guidance continues to be this favorable, the day shift may
+consider increasing snow totals and potentially issuing a winter
+weather advisory for these areas. Lake effect will also be
+possible for areas south and east of Utah Lake and potentially
+Bear Lake. 
+
+Outside of the area expected to be impact by the lake effect cloud
+cover, 700mb temperatures behind this front are around -10C or so,
+which will be more than sufficient for many areas to fall near to
+below 28F. A hard freeze warning is in effect for the Wasatch
+Front tonight into Thursday morning. Those who haven't winterized
+their sprinkler systems, especially with above ground pipes, RVs,
+swamp coolers and still have vulnerable plants should take
+measures to avoid property damage today. 
+
+.LONG TERM (After 12Z Friday)...Weak ridging is expected for the 
+beginning of the long term. This will promote drier conditions 
+across the CWA. A couple of shortwaves are expected to move 
+through the region this coming weekend but the impacts from them 
+will just be an increase in mid to upper level clouds as there is 
+not a whole lot of moisture associated with these shortwaves. High
+temperatures between Friday and Monday are expected to be near or
+slightly above normal for this time of year. This means for most 
+of the CWA high temperatures will range from near 50 degrees to 
+the low 60s. For lower Washington County these high temperatures 
+would be in the low 70s. Ensemble guidance continues to increase 
+the chance for ridging to stick with us through Monday. Something 
+to note is that this ridging begins to weaken as Monday approaches
+due to a trough beginning to enter the frame from the north.
+
+The end of the long term period is when things appear to be more 
+active. A trough is expected to move down from the north and bring
+increased chances for rain and snow to the CWA beginning Tuesday 
+night into Wednesday morning. While ensembles are confident in 
+this trough occurring, there is a decent amount of uncertainty 
+left with this storm. Ensemble members are split in how long this 
+trough will stick around our area for and how strong this trough 
+will be. A scenario with a stronger and slower moving system would
+promote the area to prolonged chances of precipitation compared 
+to the faster and not as strong trough. Both scenarios bring about
+precipitation chances. It is just a matter of how much. 
+Temperatures for the middle of next week will drop below normal. 
+It is just a matter of how much they will drop depending on the 
+strength and positioning of this trough.
+
+&&
+
+.AVIATION....KSLC...Light southeasterly winds expected until ~19Z
+when west to west-northwest winds enter the area for up to a 
+couple of hours potentially. Northwesterly winds begin around 20Z 
+with gusts up to 25kts for the afternoon. These gusts are expected
+to die off between 23Z and 01Z. Northwest winds expected to last 
+through the night. Precipitation chances begin around 16Z with the
+greatest chance at sustained showers between 20Z and 23Z. VFR 
+conditions are expected for the majority of the TAF period. The 
+exception would be if the rain rate increases or lower CIGS occur 
+to have lower flight categories present.
+
+.REST OF UTAH AND SOUTHWEST WYOMING...Light diurnal winds expected 
+for the rest of the early morning hours. A front begins to move 
+through by 17Z in northwestern UT and slides southeasterly across 
+the CWA. Winds will shift from the diurnal winds to northwesterly 
+winds with gusts up to 30kts across the CWA for the afternoon. As 
+front slides south winds will die down in northern UT and for the 
+rest of the CWA by the late evening hours. Winds expected remain 
+northerly for the overnight period. Precipitation chances are 
+greatest for northern UT and southwest WY in the late morning to 
+late afternoon period. VFR conditions expected everywhere unless the 
+rain rate increases and/or the CIGS are reduced. This could bring 
+about lower flight categories. 
+
+&&
+
+.SLC WATCHES/WARNINGS/ADVISORIES...
+UT...Hard Freeze Warning from 9 PM this evening to 9 AM MDT Thursday 
+     for UTZ104>106.
+
+     Winter Weather Advisory from 9 AM this morning to 6 AM MDT 
+     Thursday for UTZ110>112.
+
+     Wind Advisory from 11 PM this evening to noon MDT Thursday for 
+     UTZ123.
+
+WY...None.
+&&
+
+$$
+
+Kruse/Cecava
+
+For more information from NOAA's National Weather Service visit...
+http://weather.gov/saltlakecity
+
+For frequently asked questions about the Area Forecast Discussion
+visit...
+http://weather.gov/saltlakecity/general/afd_faqs.php
+
