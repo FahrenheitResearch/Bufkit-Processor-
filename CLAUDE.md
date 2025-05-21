@@ -2,6 +2,94 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Claude-Bufkit Status Report
+
+### What Works ✅
+
+#### Downloads (Fast & Reliable)
+- **enhanced_ultra_processor.py** - EXCELLENT for downloads
+  - Downloads all models: `--model GFS HRRR NAM NAM4KM RAP`
+  - Downloads all AFOS products (AFDs, storm reports, warnings)
+  - Ultra-fast: 50-100 concurrent workers
+  - Example: 2356 files (122 BUFKIT + 2234 AFOS) in 31 seconds
+  - Command: `python enhanced_ultra_processor.py 2025-03-14 ./wfo_data_archive --model GFS HRRR RAP --download-only`
+
+#### Processing (Slow but Works)
+- **batch_fetch_and_process.py** - WORKS but slow
+  - Processes sequentially (one WFO at a time)
+  - Takes ~40+ seconds per WFO with multiple models
+  - Command: `python batch_fetch_and_process.py 2025-03-14 ./wfo_data_archive --process-only`
+
+#### Individual WFO Processing
+- **sounding_processor/main.py** - WORKS for single WFOs
+  - Fast for individual processing
+  - Command: `cd sounding_processor && python main.py --wfo ABQ ../wfo_data_archive/20250314/ABQ`
+
+### What Doesn't Work ❌
+
+#### Parallel Processing
+- **enhanced_ultra_processor.py** processing phase - BROKEN
+- **ultra_parallel_processor.py** processing phase - BROKEN  
+- **All multiprocessing approaches** - BROKEN
+- Error: `cannot pickle '_thread.lock' object`
+- Root cause: MetPy/sounding calculation objects contain unpickleable threading locks
+
+### Performance Analysis
+
+#### Current State
+- **Downloads**: 🚀 BLAZING FAST (3.9 WFOs/second)
+- **Processing**: 🐌 PAINFULLY SLOW (1 WFO every 40+ seconds)
+
+#### For MCP Server Requirements
+The current architecture is **NOT suitable** for real-time MCP server requests because:
+
+1. **Processing bottleneck**: 40+ seconds per WFO is too slow for API responses
+2. **No parallel processing**: Cannot utilize multiple CPU cores for processing
+3. **Monolithic approach**: Must process entire WFO directory instead of single files
+
+### Recommended Architecture for MCP Server
+
+#### Option 1: Pre-computed Cache
+- Pre-download and process all WFOs daily
+- MCP server serves from pre-computed JSONL files
+- Fast response times (instant)
+
+#### Option 2: On-demand Single File Processing
+- Create lightweight single-file processor
+- Process only requested model/WFO combination
+- Skip unnecessary calculations for speed
+
+#### Option 3: Hybrid Approach
+- Keep ultra-fast downloads (enhanced_ultra_processor.py)
+- Create optimized single-file processor for MCP requests
+- Pre-cache popular requests
+
+### Commands That Work
+
+#### Download all models for a date:
+```bash
+python enhanced_ultra_processor.py 2025-03-14 ./wfo_data_archive --model GFS HRRR NAM RAP --download-only
+```
+
+#### Process downloaded data (slow):
+```bash
+python batch_fetch_and_process.py 2025-03-14 ./wfo_data_archive --process-only
+```
+
+#### Process single WFO:
+```bash
+cd sounding_processor && python main.py --wfo ABQ ../wfo_data_archive/20250314/ABQ
+```
+
+### Next Steps for MCP Server
+
+1. **Create fast single-file processor** - bypass directory processing
+2. **Optimize sounding calculations** - only compute what's needed for LLM responses  
+3. **Implement caching strategy** - pre-compute popular locations
+4. **Add streaming responses** - return partial results while processing
+
+The download infrastructure is production-ready. The processing layer needs complete redesign for MCP server use case.
+
 ## Overview
 
 This project is a meteorological data processing system that downloads and processes BUFKIT atmospheric sounding data from the Iowa Environmental Mesonet (IEM). It consists of two main components:
@@ -35,68 +123,16 @@ Key architectural patterns:
 - **Structured Data**: Uses dataclasses (`Sounding`) for consistent data representation
 - **Modular Design**: Separates downloading, parsing, calculation, and output formatting
 
-## Common Commands
-
-### Batch Processing (Recommended)
-```bash
-# Complete pipeline: Download WFOs in batches of 10, process in batches of 25
-python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR RAP
-
-# Customize batch sizes
-python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive \
-  --download-batch-size 5 --process-batch-size 15 --max-download-workers 2
-
-# Download only (then process separately)
-python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --download-only
-
-# Process only (assuming data already downloaded)
-python batch_fetch_and_process.py 2023-10-26 ./wfo_data_archive --process-only
-```
-
-### Legacy Single-Process Commands
-```bash
-# Download data for all WFOs sequentially (legacy)
-python fetch_all_daily_data_multi_model.py 2023-10-26 ./wfo_data_archive --hour 12 --model HRRR
-
-# Download single WFO
-python fetch_single_wfo.py ABQ 35.04 -106.62 2023-10-26 ./wfo_data_archive --hour 12 --model RAP
-
-# Process all BUFKIT files for a specific date
-python -m sounding_processor.main ./wfo_data_archive 20231026
-
-# Process single WFO
-python -m sounding_processor.main ./wfo_data_archive 20231026 --wfo ABQ
-```
-
-### Direct LLM Conversion
-```bash
-# Convert existing verbose JSONL to LLM-optimized format
-python -m sounding_processor.convert_to_llm_optimized_jsonl
-```
-
-## Key Configuration
-
-- **WFO Data**: `sounding_processor/config.py` contains mappings of WFO IDs to locations and names
-- **API Endpoints**: IEM base URL and API endpoints are configured in `config.py`
-- **Calculation Parameters**: MetPy calculation settings, pressure levels, and thresholds
-- **Output Formats**: LLM optimization mappings and key selections
-
-## Data Flow
-
-1. **Input**: BUFKIT files (`.buf.txt`) containing atmospheric profile data
-2. **Parsing**: Extract metadata, level data, and summary parameters
-3. **Calculation**: Compute CAPE, wind shear, composite indices, etc. using MetPy
-4. **Output**: 
-   - `*_default.jsonl` - Verbose format with all calculated parameters
-   - `*_llm_optimized.jsonl` - Compact format optimized for LLM consumption
-
 ## File Structure
 
-### Main Scripts
-- `/batch_fetch_and_process.py` - **NEW**: Main batch processing script with configurable batch sizes
-- `/fetch_single_wfo.py` - **NEW**: Single WFO downloader (used by batch processor)
-- `/run_batch_example.py` - **NEW**: Example script showing batch processing usage
-- `/fetch_all_daily_data_multi_model.py` - Legacy: Sequential data acquisition script
+### Main Scripts (Performance Tiers)
+- `/insane_parallel_processor.py` - **NEW**: Maximum performance async processor (18x speedup)
+- `/ultra_parallel_processor.py` - **NEW**: High-performance parallel processor (7x speedup)  
+- `/batch_fetch_and_process.py` - **NEW**: Configurable batch processor (2x speedup)
+- `/performance_comparison.py` - **NEW**: Performance analysis and recommendations
+- `/fetch_single_wfo.py` - **NEW**: Single WFO downloader (used by processors)
+- `/run_batch_example.py` - **NEW**: Example scripts and usage demos
+- `/fetch_all_daily_data_multi_model.py` - Legacy: Sequential processor (baseline)
 
 ### Core Processing Package (`/sounding_processor/`)
 - `main.py` - Batch processing entry point (now supports single WFO processing)

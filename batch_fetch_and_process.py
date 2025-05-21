@@ -265,11 +265,14 @@ class BatchProcessor:
         """Run the batch processing process."""
         logger.info("Starting batch processing process")
         
-        # Get list of WFO directories that were successfully downloaded
-        available_wfos = [
-            d.name for d in self.target_date_dir.iterdir() 
-            if d.is_dir() and d.name in self.download_stats['completed_wfos']
-        ]
+        # Get list of WFO directories that have BUFKIT files to process
+        available_wfos = []
+        for d in self.target_date_dir.iterdir():
+            if d.is_dir():
+                # Check if directory has any BUFKIT files to process
+                bufkit_files = list(d.glob("*.buf.txt"))
+                if bufkit_files:
+                    available_wfos.append(d.name)
         
         logger.info(f"WFOs available for processing: {len(available_wfos)}")
         
