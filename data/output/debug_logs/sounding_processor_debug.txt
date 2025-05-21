@@ -1,0 +1,9 @@
+2025-05-21 14:08:37 - sounding_processor.utils - INFO - Logging initialized. Log file: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
+2025-05-21 14:08:37 - sounding_processor.utils - DEBUG - Debug logging enabled for file.
+2025-05-21 14:08:37 - __main__ - INFO - --- Sounding Processor Batch Run Start ---
+2025-05-21 14:08:37 - __main__ - DEBUG - Project Root (derived): /home/ubuntu2/claude-bufkit
+2025-05-21 14:08:37 - __main__ - DEBUG - Log file path: /home/ubuntu2/claude-bufkit/data/output/debug_logs/sounding_processor_debug.txt
+2025-05-21 14:08:37 - __main__ - INFO - --- Starting Batch Processing for Directory: /home/ubuntu2/claude-bufkit/wfo_data_archive/20231026 ---
+2025-05-21 14:08:37 - __main__ - INFO - Searching for files ending with: '.buf.txt'
+2025-05-21 14:08:37 - __main__ - ERROR - Target directory does not exist: /home/ubuntu2/claude-bufkit/wfo_data_archive/20231026
+2025-05-21 14:08:37 - __main__ - INFO - --- Sounding Processor Batch Run End ---
