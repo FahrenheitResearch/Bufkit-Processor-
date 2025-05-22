@@ -17,19 +17,35 @@ This repository processes **BUFKIT atmospheric sounding data** with maximum spee
 
 ### Ultra-Fast Download + Processing Pipeline 🚀
 
-**Primary Tool: `ultra_fast_download.py`** - Maximum speed approach
-- **Downloads ALL 122 WFOs simultaneously** (122 parallel threads)
-- **BUFKIT**: Gets specific model run (e.g., HRRR 12Z for 2025-02-12)
-- **AFOS**: Gets ALL products for the entire day (not just model run hour)
-- **Processing**: Automatically processes with 16 threads after download
-- **Speed**: Completes full pipeline in minimal time
+**Primary Tool: `ultra_fast_download_flexible.py`** - Maximum speed with flexibility
+- **Single WFO Mode**: Download just one WFO location with its BUFKIT + AFOS data
+- **All WFO Mode**: Downloads ALL 122 WFOs simultaneously (122 parallel threads) 
+- **BUFKIT**: Gets specific model run (e.g., HRRR 12Z)
+- **AFOS**: Gets ALL products for the entire day with **duplicate detection**
+  - Checks if AFOS products already exist before downloading
+  - Compares content to avoid duplicate files with different names
+  - Skips identical products, saving time and storage
+- **Processing**: Automatically processes data after download (configurable)
+- **Speed**: Single WFO in seconds, all WFOs in minimal time
 
-**Usage:**
+**Usage Examples:**
 ```bash
-python ultra_fast_download.py
-# Currently hardcoded for HRRR 2025-02-12 12Z
-# Downloads all 122 WFOs + processes with 16 threads
+# Download single WFO (Fort Worth) for specific date/hour
+python3 ultra_fast_download_flexible.py 2025-02-12 --wfo FWD --model HRRR --hour 12
+
+# Download single WFO without processing
+python3 ultra_fast_download_flexible.py 2025-02-12 --wfo OKX --model RAP --hour 00 --no-process
+
+# Download ALL 122 WFOs (original ultra-fast behavior)
+python3 ultra_fast_download_flexible.py 2025-02-12 --model HRRR --hour 12
+
+# See all options
+python3 ultra_fast_download_flexible.py --help
 ```
+
+**Legacy Tool: `ultra_fast_download.py`** - Original hardcoded version
+- Fixed for HRRR 2025-02-12 12Z
+- Downloads all 122 WFOs only
 
 ### Batch Processing System
 
@@ -63,7 +79,8 @@ python batch_fetch_and_process.py 2025-02-12 ./wfo_data_archive --model HRRR --m
 
 ```
 /home/ubuntu2/claude-bufkit/
-├── ultra_fast_download.py              # 🚀 ULTRA-FAST: 122 simultaneous downloads
+├── ultra_fast_download_flexible.py     # 🚀 PRIMARY: Flexible ultra-fast downloader
+├── ultra_fast_download.py              # 🚀 LEGACY: 122 simultaneous downloads (hardcoded)
 ├── batch_fetch_and_process.py          # ⚙️  Configurable batch processing (16 threads)
 ├── fetch_all_daily_data_multi_model.py # 📥 Original stable downloader
 ├── sounding_processor/                 # 🧠 Core processing engine
@@ -109,6 +126,13 @@ python batch_fetch_and_process.py 2025-02-12 ./wfo_data_archive --model HRRR --m
 - **File Structure**: Each AFOS product saved as one complete file
 - **Naming**: Timestamped filenames (e.g., `AFD_2502121435.txt`)
 - **Product Types**: AFD, LSR, SPS, SVR, TOR, FFW, WSW
+
+### Intelligent Duplicate Detection 🔍
+- **Content-Based Checking**: Compares actual file content, not just filenames
+- **Efficient Storage**: Prevents duplicate AFOS products when downloading different model runs
+- **Smart Skipping**: Reports how many products were skipped vs downloaded
+- **Use Case**: Run HRRR 12Z, then HRRR 13Z, then RAP 12Z - AFOS products download only once
+- **Performance**: Subsequent runs for same date are much faster (3s vs 30s+)
 
 ## Future Development Roadmap 🛣️
 
