@@ -1,0 +1,11 @@
+# Core dependencies for ultra-fast BUFKIT processing
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.24.0
+metpy==1.7.0
+xarray>=2023.0.0
+pint>=0.22
+
+# Optional for enhanced features
+aiohttp>=3.9.0  # For async operations (future)
+aiofiles>=23.0.0  # For async file I/O (future)

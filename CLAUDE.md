@@ -43,13 +43,9 @@ python3 ultra_fast_download_flexible.py 2025-02-12 --model HRRR --hour 12
 python3 ultra_fast_download_flexible.py --help
 ```
 
-**Legacy Tool: `ultra_fast_download.py`** - Original hardcoded version
-- Fixed for HRRR 2025-02-12 12Z
-- Downloads all 122 WFOs only
-
 ### Batch Processing System
 
-**Secondary Tool: `batch_fetch_and_process.py`** - Configurable approach
+**Support Tool: `batch_fetch_and_process.py`** - Processing engine
 - **Threading**: Now defaults to 16 processing threads (increased from 4)
 - **Download**: Batched downloads (10 WFOs per batch, 3 concurrent batches)
 - **Processing**: 16-thread parallel processing of BUFKIT files
@@ -75,22 +71,23 @@ python batch_fetch_and_process.py 2025-02-12 ./wfo_data_archive --model HRRR --m
 - **Output**: Dual format - verbose JSONL + LLM-optimized JSONL
 - **Thread-Safe**: Works perfectly with ThreadPoolExecutor
 
-## File Structure
+## File Structure (Cleaned & Focused)
 
 ```
 /home/ubuntu2/claude-bufkit/
-├── ultra_fast_download_flexible.py     # 🚀 PRIMARY: Flexible ultra-fast downloader
-├── ultra_fast_download.py              # 🚀 LEGACY: 122 simultaneous downloads (hardcoded)
-├── batch_fetch_and_process.py          # ⚙️  Configurable batch processing (16 threads)
-├── fetch_all_daily_data_multi_model.py # 📥 Original stable downloader
+├── ultra_fast_download_flexible.py     # 🚀 PRIMARY: Ultra-fast downloader with all features
+├── batch_fetch_and_process.py          # ⚙️  Batch processing engine (16 threads)
 ├── sounding_processor/                 # 🧠 Core processing engine
-│   ├── main.py                         # Entry point for individual processing
+│   ├── main.py                         # Entry point for batch processing
 │   ├── bufkit_parser.py               # BUFKIT format parser
 │   ├── sounding_calculator.py         # MetPy calculations
 │   ├── sounding_data.py               # Data structures
 │   ├── config.py                      # WFO locations & settings
 │   └── convert_to_llm_optimized_jsonl.py # Output formatting
 ├── wfo_data_archive/                   # 📁 Processed data storage
+├── requirements.txt                    # 📦 Python dependencies
+├── README.md                          # 📖 Quick start guide
+├── CLAUDE.md                          # 📚 This detailed documentation
 └── bufkit-env/                        # 🐍 Python virtual environment
 ```
 
@@ -136,13 +133,13 @@ python batch_fetch_and_process.py 2025-02-12 ./wfo_data_archive --model HRRR --m
 
 ## Future Development Roadmap 🛣️
 
-### Primary Goal: Enhanced Ultra-Fast Pipeline
-- **Make `ultra_fast_download.py` configurable** (date, model, hour parameters)
-- **Integrate with main workflow** as primary download method
-- **Add intelligent caching** (skip already downloaded data)
-- **Extend to multiple models** simultaneously
+### MCP Server Integration
+- **Expose as MCP Server** for AI assistant integration
+- **Resources**: Query processed soundings by WFO/date/model
+- **Tools**: Real-time download and processing capabilities
+- **Streaming**: Live updates for new model runs
 
-### Secondary Enhancements
+### Enhanced Features
 - **MCP Server Integration**: Expose processed data via Model Context Protocol
 - **Real-time Processing**: Monitor for new model runs and auto-process
 - **Data Validation**: Enhanced QC checks for downloaded BUFKIT files
