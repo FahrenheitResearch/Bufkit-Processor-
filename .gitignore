@@ -1,4 +1,40 @@
+# Virtual environment
 /bufkit-env
-/sounding_processor/__pycache__
+bufkit-env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
 sounding_processor/__pycache__
-**/.claude/settings.local.json
+
+# Claude-specific files (for public version)
+CLAUDE.md
+**/.claude/
+
+# Data and output directories
+wfo_data_archive/
+data/output/
+
+# Log files
+*.log
+batch_processing.log
+ultra_fast_flexible.log
+
+# Debug files
+debug_logs/
+sounding_processor_debug.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local configuration
+*.local
+*.local.json
