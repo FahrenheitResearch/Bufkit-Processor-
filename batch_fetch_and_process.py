@@ -39,7 +39,8 @@ class BatchProcessor:
     
     def __init__(self, output_base_dir: str, run_date: str, run_hour: str = "12", 
                  models: List[str] = None, download_batch_size: int = 10, 
-                 process_batch_size: int = 25, max_download_workers: int = 3):
+                 process_batch_size: int = 25, max_download_workers: int = 3,
+                 max_process_workers: int = 16):
         self.output_base_dir = Path(output_base_dir)
         self.run_date = run_date
         self.run_hour = run_hour
@@ -47,6 +48,7 @@ class BatchProcessor:
         self.download_batch_size = download_batch_size
         self.process_batch_size = process_batch_size
         self.max_download_workers = max_download_workers
+        self.max_process_workers = max_process_workers
         
         # Create date directory
         self.date_folder = datetime.strptime(run_date, '%Y-%m-%d').strftime('%Y%m%d')
@@ -214,6 +216,14 @@ class BatchProcessor:
             logger.error(f"Processing error for {wfo_id}: {e}")
             return False, 0
     
+    def _process_single_wfo_threaded(self, wfo_id: str, wfo_dir: Path) -> Tuple[bool, int]:
+        """Thread-safe version of single WFO processing."""
+        try:
+            return self._process_single_wfo(wfo_id, wfo_dir)
+        except Exception as e:
+            logger.error(f"Threading error processing {wfo_id}: {e}")
+            return False, 0
+    
     def run_batch_download(self) -> bool:
         """Run the batch download process."""
         logger.info("Starting batch download process")
@@ -288,22 +298,37 @@ class BatchProcessor:
         
         logger.info(f"Created {len(process_batches)} processing batches of size {self.process_batch_size}")
         
-        # Process batches sequentially (to avoid overwhelming the system)
-        for i, batch in enumerate(process_batches):
-            try:
-                batch_stats = self.process_wfo_batch(batch, i+1, len(process_batches))
+        # Process individual WFOs with threading (instead of batch processing)
+        logger.info(f"Starting processing with {self.max_process_workers} threads")
+        
+        with ThreadPoolExecutor(max_workers=self.max_process_workers) as executor:
+            # Submit individual WFO processing tasks
+            future_to_wfo = {}
+            for wfo_id in available_wfos:
+                wfo_dir = self.target_date_dir / wfo_id
+                future = executor.submit(self._process_single_wfo_threaded, wfo_id, wfo_dir)
+                future_to_wfo[future] = wfo_id
                 
-                # Update global stats
-                self.processing_stats['completed_wfos'].update(batch_stats['completed'])
-                self.processing_stats['failed_wfos'].update(batch_stats['failed'])
-                self.processing_stats['total_processed'] += batch_stats['total_processed']
-                
-                # Brief pause between batches
-                if i < len(process_batches) - 1:
-                    time.sleep(2)
+            # Collect results as they complete
+            for future in as_completed(future_to_wfo):
+                wfo_id = future_to_wfo[future]
+                try:
+                    success, processed_count = future.result()
                     
-            except Exception as e:
-                logger.error(f"Processing batch {i + 1} failed: {e}")
+                    # Update global stats thread-safely
+                    with self.stats_lock:
+                        if success:
+                            self.processing_stats['completed_wfos'].add(wfo_id)
+                            self.processing_stats['total_processed'] += processed_count
+                            logger.info(f"✅ {wfo_id}: {processed_count} files processed")
+                        else:
+                            self.processing_stats['failed_wfos'].add(wfo_id)
+                            logger.error(f"❌ {wfo_id}: Processing failed")
+                            
+                except Exception as e:
+                    logger.error(f"❌ {wfo_id}: Exception during processing: {e}")
+                    with self.stats_lock:
+                        self.processing_stats['failed_wfos'].add(wfo_id)
         
         # Log final processing statistics
         logger.info("="*60)
@@ -360,6 +385,8 @@ def main():
                        help="Number of WFOs to process in each batch (default: 25)")
     parser.add_argument("--max-download-workers", type=int, default=3,
                        help="Maximum concurrent download batches (default: 3)")
+    parser.add_argument("--max-process-workers", type=int, default=16,
+                       help="Maximum concurrent processing threads (default: 16)")
     parser.add_argument("--download-only", action="store_true",
                        help="Only download, skip processing")
     parser.add_argument("--process-only", action="store_true",
@@ -382,7 +409,8 @@ def main():
         models=args.model,
         download_batch_size=args.download_batch_size,
         process_batch_size=args.process_batch_size,
-        max_download_workers=args.max_download_workers
+        max_download_workers=args.max_download_workers,
+        max_process_workers=args.max_process_workers
     )
     
     # Run requested operations
